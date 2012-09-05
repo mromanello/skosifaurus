@@ -1,4 +1,3 @@
-
 ## Software
 
 * [the CAA paper](https://www.ocs.soton.ac.uk/index.php/CAA/2012/paper/view/577)
@@ -10,7 +9,7 @@
 
 Data sources:
 
-1. Arch√§ologische Bibliographie:
+1. Arch‰ologische Bibliographie:
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000004309&metadataPrefix=marc21
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000004209&metadataPrefix=marc21
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000004319&metadataPrefix=marc21
@@ -21,40 +20,41 @@ Data sources:
 2. Iberische Halbinsel:
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000000019&metadataPrefix=marc21
 
-3. R√∂misch-Germanische Kommission:
+3. Rˆmisch-Germanische Kommission:
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000007119&metadataPrefix=marc21
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000008119&metadataPrefix=marc21
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000009019&metadataPrefix=marc21
 	* http://opac.dainst.org/OAI?verb=GetRecord&identifier=oai:dai-katalog:DAI14-000014419&metadataPrefix=marc21
 
-You can see our mapping for this bibliographies. But in number 3) (R√∂misch-Germanische Kommission) you don't find information in field 552. 
+You can see our mapping for this bibliographies. But in number 3) (Rˆmisch-Germanische Kommission) you don't find information in field 552. 
 In this case you find the descritors only in field 551, not in 552. other informations you can find in 553, 555, 557, 558.
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Aleph intern fields:	OAI-field:
---------------------	-------------------------------------------------------------------------------------------------------------------------------------------------
+Aleph fields | OAI-field
+-------------|------------------------------------------------------------------------------------------------- 	 
+USE##		 |	551## N = $a Deskriptor $9Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
 
-USE##			551## N = $a Deskriptor $9Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
+IT###		 |	552## N  = $r subject/Schlagwort oder $m Schlagwort oder $e Schlagwort
 
-IT###			552## N  = $r subject/Schlagwort oder $m Schlagwort oder $e Schlagwort
+CN###		 |	553## N = $a Notation des Deskriptors
 
-CN###			553## N = $a Notation des Deskriptors
+BT###		 |	554## N =  $a ‹bergeordneter Deskriptor/broader term $1 Notation des ¸bergeordneten Deskriptors $b 
+				Systemnummer des ¸bergeordneten Deskriptors
 
-BT###			554## N =  $a √úbergeordneter Deskriptor/broader term $1 Notation des √ºbergeordneten Deskriptors $b Systemnummer des √ºbergeordneten Deskriptors
+SC###		 |	555## N =  $a 	 $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
 
-SC###			555## N =  $a 	 $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
+LV###		 |	556## N =  $a Level (Inhalt 0)
 
-LV###			556## N =  $a Level (Inhalt 0)
+RT###		 |	557## N = $aVerwandter Deskriptor/related term $1 Notation des verwandten Datensatzes $b Systemnummer 
+				des verwandten Datensatzes
 
-RT###			557## N = $aVerwandter Deskriptor/related term $1 Notation des verwandten Datensatzes $b Systemnummer des verwandten Datensatzes
+UF###		 |	558## N  = $a Nicht-Deskriptor $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
 
-UF###			558## N  = $a Nicht-Deskriptor $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
-
-SRT##			559## N = $a Sortierschl√ºssel (f√ºr die Deskriptoren des Thesaurus Rom n√∂tig f√ºr die richtige Positionierung der Begriffe im Baum)  
-			-> derzeit noch nicht in den Daten, da die Lieferung der spanischen Bibliographie dieses Feld nicht enth√§lt.
-			
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SRT##		 |	559## N = $a Sortierschl¸ssel (f¸r die Deskriptoren des Thesaurus Rom nˆtig f¸r die richtige 
+				Positionierung der Begriffe im Baum)  
+				-> derzeit noch nicht in den Daten, da die Lieferung der spanischen Bibliographie dieses Feld nicht 	
+				enth‰lt.
+-------------|-------------------------------------------------------------------------------------------------
 
 ## My notes
 
@@ -67,10 +67,10 @@ SRT##			559## N = $a Sortierschl√ºssel (f√ºr die Deskriptoren des Thesaurus Rom 
 
 ## Mapping to STELLAR Console SKOS fields
 
-concept_id <= 001
-broader_id <= 554.1
-related_id <= 557.1
-definition <= 555.a
-hidden_label <= 553.a
+* concept_id <= 001
+* broader_id <= 554.1
+* related_id <= 557.1
+* definition <= 555.a
+* hidden_label <= 553.a
 
 
