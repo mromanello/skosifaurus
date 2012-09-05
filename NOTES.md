@@ -33,28 +33,14 @@ In this case you find the descritors only in field 551, not in 552. other inform
 Aleph fields | OAI-field
 -------------|------------------------------------------------------------------------------------------------- 	 
 USE##		 |	551## N = $a Deskriptor $9Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
-
 IT###		 |	552## N  = $r subject/Schlagwort oder $m Schlagwort oder $e Schlagwort
-
 CN###		 |	553## N = $a Notation des Deskriptors
-
-BT###		 |	554## N =  $a Übergeordneter Deskriptor/broader term $1 Notation des übergeordneten Deskriptors $b 
-				Systemnummer des übergeordneten Deskriptors
-
+BT###		 |	554## N =  $a Übergeordneter Deskriptor/broader term $1 Notation des übergeordneten Deskriptors $b Systemnummer des übergeordneten Deskriptors
 SC###		 |	555## N =  $a 	 $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
-
 LV###		 |	556## N =  $a Level (Inhalt 0)
-
-RT###		 |	557## N = $aVerwandter Deskriptor/related term $1 Notation des verwandten Datensatzes $b Systemnummer 
-				des verwandten Datensatzes
-
+RT###		 |	557## N = $aVerwandter Deskriptor/related term $1 Notation des verwandten Datensatzes $b Systemnummer des verwandten Datensatzes
 UF###		 |	558## N  = $a Nicht-Deskriptor $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
-
-SRT##		 |	559## N = $a Sortierschlüssel (für die Deskriptoren des Thesaurus Rom nötig für die richtige 
-				Positionierung der Begriffe im Baum)  
-				-> derzeit noch nicht in den Daten, da die Lieferung der spanischen Bibliographie dieses Feld nicht 	
-				enthält.
--------------|-------------------------------------------------------------------------------------------------
+SRT##		 |	559## N = $a Sortierschlüssel (für die Deskriptoren des Thesaurus Rom nötig für die richtige Positionierung der Begriffe im Baum) -> derzeit noch nicht in den Daten, da die Lieferung der spanischen Bibliographie dieses Feld nicht enthält.
 
 ## My notes
 
