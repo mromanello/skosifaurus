@@ -119,6 +119,6 @@ for count, rec in enumerate(recs):
 		break
 		
 import codecs
-file = codecs.open("thesaurus_temp.csv","w","utf-8-sig")
+file = codecs.open("thesaurus.csv","w","utf-8-sig")
 file.write("\n".join(output))
 file.close()	
