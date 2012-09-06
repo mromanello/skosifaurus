@@ -27,29 +27,34 @@ def process_pymarc_record(MARC_record):
 	"""
 	dict_obj = {}
 	labels = {}
+	if(MARC_record is not None):
+		try:
+			# get the labels
+			for field in MARC_record.get_fields('551'):
+			    labels[field['9']] = field['a']
+			dict_obj["labels"] = labels
+		except Exception, e:
+			dict_obj["labels"] = []
 	
-	# get the labels
-	for field in MARC_record.get_fields('551'):
-	    labels[field['9']] = field['a']
-	dict_obj["labels"] = labels
+		# get the id
+		dict_obj["id"] = MARC_record.get_fields('001')[0].value()
 	
-	# get the id
-	dict_obj["id"] = MARC_record.get_fields('001')[0].value()
-	
-	# get the id of the broader term/concept
-	try:
-		dict_obj["broader_id"] = MARC_record.get_fields('554')[0]['b']
-	except Exception, e:
-		dict_obj["broader_id"] = ""
+		# get the id of the broader term/concept
+		try:
+			dict_obj["broader_id"] = MARC_record.get_fields('554')[0]['b']
+		except Exception, e:
+			dict_obj["broader_id"] = ""
 	
 	
-	try:
-		dict_obj["related_id"] = MARC_record['557']['1']
-	except Exception, e:
-		dict_obj["related_id"] = ""
-
-	print dict_obj
-	return dict_obj
+		try:
+			dict_obj["related_id"] = MARC_record['557']['1']
+		except Exception, e:
+			dict_obj["related_id"] = ""
+		print dict_obj
+		return dict_obj
+	else:
+		return None
+	
 
 def as_csv(dict_obj,header=False):
 	# depends on how many labels there are
@@ -98,7 +103,7 @@ set_name = "DAI_THS"
 
 recs = oai.listRecords(metadataPrefix='marc21',
                        set=set_name)
-
+complete_harvest = True
 limit = 500
 records = []
 
@@ -106,15 +111,18 @@ print>>sys.stderr, 'beginning harvest'
  
 output = []
 for count, rec in enumerate(recs):
-	if(count < limit):
+	if(count < limit or complete_harvest is True):
 		id = rec[0].identifier()
 		records.append(rec)
 		print>>sys.stderr, "harvested record %i"%(count+1)
 		obj = process_pymarc_record(rec[1])
-		if(count == 0):
-			output += as_csv(obj,True)
+		if(obj is not None):
+			if(count == 0):
+				output += as_csv(obj,True)
+			else:
+				output += as_csv(obj,False)
 		else:
-			output += as_csv(obj,False)
+			print>>sys.stderr, "record %i is empty"%(count+1)
 	else:
 		break
 		
