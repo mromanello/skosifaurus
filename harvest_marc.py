@@ -20,10 +20,26 @@ from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
 import sys
 
+def get_language_codes(filename="lang_codes.data"):
+	"""
+	reads a language code table from an external file and creates
+	a dictionary out of it, for the sake of easy look-ups.
+	The original table file was downloaded from <http://loc.gov/standards/iso639-2/ISO-639-2_utf-8.txt>
+	The returns this dictionary.
+	"""
+	
+	import pickle
+	codes = pickle.load(open(filename,'r'))
+	return codes
 
 def process_pymarc_record(MARC_record):
 	"""
 	MARC_record is of type pymarc.record.Record
+	
+	TODO
+		* add hidden_label (553.a)
+		* 552.r => narrower term (lang unknown, id to be assigned automatically)
+	
 	"""
 	dict_obj = {}
 	labels = {}
@@ -44,9 +60,8 @@ def process_pymarc_record(MARC_record):
 			dict_obj["broader_id"] = MARC_record.get_fields('554')[0]['b']
 		except Exception, e:
 			dict_obj["broader_id"] = ""
-	
-	
 		try:
+			# needs to be subfield 'b'
 			dict_obj["related_id"] = MARC_record['557']['1']
 		except Exception, e:
 			dict_obj["related_id"] = ""
@@ -64,11 +79,16 @@ def as_csv(dict_obj,header=False):
 		lines.append(",".join(["\"%s\""%key for key in columns]))
 	# output labels
 	for label in dict_obj["labels"]:
+		try:
+			# replace the Marc21 lang code with the RDF-compliant one (won't validate otherwise)
+			new_label = lang_codes[label]
+		except Exception, e:
+			new_label = label
 		if(label == "ger"):
-			tmp = "\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\""%(dict_obj["id"],"","",label, dict_obj["labels"][label],"","")
+			tmp = "\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\""%(dict_obj["id"],"","",new_label, dict_obj["labels"][label],"","")
 			lines.append(tmp)
 		else:
-			tmp = "\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\""%(dict_obj["id"],"","",label,"",dict_obj["labels"][label],"")
+			tmp = "\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\""%(dict_obj["id"],"","",new_label,"",dict_obj["labels"][label],"")
 			lines.append(tmp)
 	if(dict_obj["broader_id"] != "" or dict_obj["related_id"] !=""):
 		tmp = "\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\""%(dict_obj["id"],dict_obj["broader_id"],dict_obj["related_id"],"","","","")
@@ -104,10 +124,13 @@ set_name = "DAI_THS"
 recs = oai.listRecords(metadataPrefix='marc21',
                        set=set_name)
 complete_harvest = True
-limit = 500
+limit = 5000
 records = []
 
 print>>sys.stderr, 'beginning harvest'
+
+global lang_codes
+lang_codes = get_language_codes()
  
 output = []
 for count, rec in enumerate(recs):
@@ -127,6 +150,6 @@ for count, rec in enumerate(recs):
 		break
 		
 import codecs
-file = codecs.open("thesaurus.csv","w","utf-8-sig")
+file = codecs.open("thesaurus.csv","w","utf-8-sig") # this is essential otherwise the file won't be read as UTF-8 by the console in Win environment
 file.write("\n".join(output))
 file.close()	

@@ -36,7 +36,7 @@ USE##		 |	551## N = $a Deskriptor $9Sprachbezeichnung (ger, eng, fre, ita, spa, 
 IT###		 |	552## N  = $r subject/Schlagwort oder $m Schlagwort oder $e Schlagwort
 CN###		 |	553## N = $a Notation des Deskriptors
 BT###		 |	554## N =  $a Übergeordneter Deskriptor/broader term $1 Notation des übergeordneten Deskriptors $b Systemnummer des übergeordneten Deskriptors
-SC###		 |	555## N =  $a 	 $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
+SC###		 |	555## N =  $a Definition	 $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
 LV###		 |	556## N =  $a Level (Inhalt 0)
 RT###		 |	557## N = $aVerwandter Deskriptor/related term $1 Notation des verwandten Datensatzes $b Systemnummer des verwandten Datensatzes
 UF###		 |	558## N  = $a Nicht-Deskriptor $9 Sprachbezeichnung (ger, eng, fre, ita, spa, gre)
@@ -54,9 +54,10 @@ SRT##		 |	559## N = $a Sortierschlüssel (für die Deskriptoren des Thesaurus Rom 
 ## Mapping to STELLAR Console SKOS fields
 
 * concept_id <= 001
-* broader_id <= 554.1
-* related_id <= 557.1
+* broader_id <= 554.b
+* related_id <= 557.b
 * definition <= 555.a
+* definition_language <= 555.9
 * hidden_label <= 553.a
 
 
