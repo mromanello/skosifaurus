@@ -2,10 +2,6 @@
 Harvest MARC records via OAI-PMH.
 """
 
-
-#Mostly from - http://code.google.com/p/oldmapsonline/source/browse/trunk/oai-pmh/oaipmh-client-pyoai-pymarc.py
-# MarcXML reader - parsing done by pymarc
-
 #Handle utf-8 strings
 import codecs, sys
 reload(sys)
@@ -20,7 +16,7 @@ from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
 import sys
 
-def get_language_codes(filename="lang_codes.data"):
+def get_language_codes(filename="extra/lang_codes.data"):
 	"""
 	reads a language code table from an external file and creates
 	a dictionary out of it, for the sake of easy look-ups.
@@ -150,6 +146,7 @@ for count, rec in enumerate(recs):
 		break
 		
 import codecs
-file = codecs.open("thesaurus.csv","w","utf-8-sig") # this is essential otherwise the file won't be read as UTF-8 by the console in Win environment
+# utf-8-sig is essential otherwise the file won't be read as UTF-8 by the StellarConsole in Win environment
+file = codecs.open("thesaurus.csv","w","utf-8-sig") 
 file.write("\n".join(output))
 file.close()	
