@@ -16,6 +16,56 @@ from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
 import sys
 
+class MARCXMLReader(object):
+    """Returns the PyMARC record from the OAI structure for MARC XML"""
+    def __call__(self, element):
+        #print element[0][1].text
+        handler = marcxml.XmlHandler()
+        marcxml.parse_xml(StringIO(tostring(element[0], encoding='UTF-8')), handler)
+        return handler.records[0]
+
+def download_records(client=None,dest_dir="./raw/", oai_set=None, oai_metadataprefix=None,limit = 100,complete_harvest = False,save=False):
+	"""
+	TODO
+	"""
+	import pickle
+	records = client.listRecords(metadataPrefix=oai_metadataprefix, set=oai_set)
+	result = {}
+	for count, record in enumerate(records):
+		if(count < limit or complete_harvest is True):
+			print >> sys.stderr,"Downloading and saving record %i"%count
+			result[record[0].identifier()] = record[1]
+			if(save):
+				try:
+					fname = '%s%s.pickle'%(dest_dir,record[0].identifier())
+					pickle.dump(record[1],open(fname,'w'))
+				except Exception, e:
+					#print >> sys.stderr, "there was problem with writing %s"%'%s%s.json'%(dest_dir,record[0].identifier())
+					print e
+		else:
+			break
+	return result
+
+def load_records(dest_dir="./raw/"):
+	"""docstring for load_records"""
+	import os
+	import pickle
+	if(dir is not None):
+		os.chdir(dest_dir)
+		return [pickle.load(open(file,'r')) for file in os.listdir(".") if file.endswith(".pickle")]
+	else:
+		return []
+
+
+def init_client(oai_baseurl="http://opac.dainst.org/OAI"):
+	"""docstring for init_client"""
+	from oaipmh import metadata
+	marcxml_reader = MARCXMLReader()
+	registry = metadata.MetadataRegistry()
+	registry.registerReader('marc21', marcxml_reader)
+	client = Client(oai_baseurl, registry)
+	return client
+
 def get_language_codes(filename="extra/lang_codes.data"):
 	"""
 	reads a language code table from an external file and creates
@@ -39,6 +89,7 @@ def process_pymarc_record(MARC_record):
 	"""
 	dict_obj = {}
 	labels = {}
+	dict_obj["anon_nodes"] = []
 	if(MARC_record is not None):
 		try:
 			# get the labels
@@ -46,7 +97,7 @@ def process_pymarc_record(MARC_record):
 			    labels[field['9']] = field['a']
 			dict_obj["labels"] = labels
 		except Exception, e:
-			dict_obj["labels"] = []
+			dict_obj["labels"] = None
 	
 		# get the id
 		dict_obj["id"] = MARC_record.get_fields('001')[0].value()
@@ -55,13 +106,30 @@ def process_pymarc_record(MARC_record):
 		try:
 			dict_obj["broader_id"] = MARC_record.get_fields('554')[0]['b']
 		except Exception, e:
-			dict_obj["broader_id"] = ""
+			dict_obj["broader_id"] = None
+		try:
+			dict_obj["hidden_label"] = MARC_record.get_fields('553')[0]['a']
+		except Exception, e:
+			dict_obj["hidden_label"] = None
 		try:
 			# needs to be subfield 'b'
 			dict_obj["related_id"] = MARC_record['557']['1']
 		except Exception, e:
-			dict_obj["related_id"] = ""
-		print dict_obj
+			dict_obj["related_id"] = None
+			
+		try:
+			items = MARC_record.get_fields('552')
+			# TODO handle not only 'r' fields, but also 'm' and 'e'
+			for item in items:
+				if(item['r'] is not None):
+					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],item['r'].replace(' ','')),item['r']))
+				elif(item['m'] is not None):
+					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],item['m'].replace(' ','')),item['m']))
+				elif(item['e'] is not None):
+					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],item['e'].replace(' ','')),item['e']))
+		except Exception, e:
+			raise e	
+			
 		return dict_obj
 	else:
 		return None
@@ -92,61 +160,63 @@ def as_csv(dict_obj,header=False):
 	
 	return lines
 
-class MARCXMLReader(object):
-    """Returns the PyMARC record from the OAI structure for MARC XML"""
-    def __call__(self, element):
-        #print element[0][1].text
-        handler = marcxml.XmlHandler()
-        marcxml.parse_xml(StringIO(tostring(element[0], encoding='UTF-8')), handler)
-        return handler.records[0]
-
+def to_RDF(record,base_namespace="http://data.dainst.de/zenon/",lang_codes=None):
+	"""
+	docstring for as_RDF
+	"""
 	
-marcxml_reader = MARCXMLReader()
-
-# Defining of metadata Readers in the Registry
-
-from oaipmh import metadata
-
-registry = metadata.MetadataRegistry()
-registry.registerReader('marc21', marcxml_reader)
-
-#### OAI-PMH Client processing 
-
-URL = "http://opac.dainst.org/OAI"
-oai = Client(URL, registry)
-
-set_name = "DAI_THS"
-
-recs = oai.listRecords(metadataPrefix='marc21',
-                       set=set_name)
-complete_harvest = True
-limit = 5000
-records = []
-
-print>>sys.stderr, 'beginning harvest'
-
-global lang_codes
-lang_codes = get_language_codes()
- 
-output = []
-for count, rec in enumerate(recs):
-	if(count < limit or complete_harvest is True):
-		id = rec[0].identifier()
-		records.append(rec)
-		print>>sys.stderr, "harvested record %i"%(count+1)
-		obj = process_pymarc_record(rec[1])
-		if(obj is not None):
-			if(count == 0):
-				output += as_csv(obj,True)
-			else:
-				output += as_csv(obj,False)
+	from rdflib import Namespace, BNode, Literal, URIRef,RDF,RDFS
+	from rdflib.graph import Graph, ConjunctiveGraph
+	from rdflib.plugins.memory import IOMemory
+	
+	store = IOMemory()
+	g = ConjunctiveGraph(store=store)
+	skos = Namespace('http://www.w3.org/2004/02/skos/core#')
+	base = Namespace(base_namespace)
+	g.bind('skos',skos)
+	g.bind('base',base)
+	thesaurus = URIRef(base["thesaurus"])
+	#g.add((thesaurus,RDF.type, skos["ConceptScheme"]))
+	if(record is not None):
+		uri = URIRef(base[record['id']])
+		g.add((uri, RDF.type, skos['Concept']))
+		g.add((uri,skos["inScheme"],thesaurus))
+		if(record['broader_id'] is not None):
+			g.add((uri,skos['broader'],URIRef(base[record['broader_id']])))
 		else:
-			print>>sys.stderr, "record %i is empty"%(count+1)
-	else:
-		break
-		
-import codecs
-# utf-8-sig is essential otherwise the file won't be read as UTF-8 by the StellarConsole in Win environment
-file = codecs.open("thesaurus.csv","w","utf-8-sig") 
-file.write("\n".join(output))
-file.close()	
+			g.add((uri,skos["topConceptOf"],thesaurus))
+		if(record['hidden_label'] is not None):
+			g.add((uri,skos["hiddenLabel"],Literal(record['hidden_label'])))
+		if(record['labels'] is not None):
+			for lang in record['labels'].keys():
+				if(lang=="ger"):
+					g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
+				else:
+					g.add((uri,skos["altLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
+		for node_id,node in record['anon_nodes']:
+			temp = URIRef(base[node_id])
+			g.add((temp,RDF.type,skos['Concept']))
+			g.add((temp,skos["prefLabel"],Literal(node)))
+			g.add((temp,skos['broader'],uri))
+	return g
+	
+
+def main():
+	"""docstring for main"""
+	client = init_client()
+	records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,limit=1000)
+	global lang_codes
+	lang_codes = get_language_codes()
+	for n,id in enumerate(records.keys()):
+		out_f = codecs.open('%s%s.ttl'%('./turtle/',id),'w','utf-8')
+		temp  = process_pymarc_record(records[id])
+		try:
+			out_f.write(to_RDF(temp,lang_codes=lang_codes).serialize(format='turtle'))
+			print >> sys.stderr, "Serialized to Turtle and saved record %i"%n
+			out_f.close()
+		except Exception, e:
+			print >> sys.stderr, "Error with serializing to Turtle and saving record %i. Error: \"%s\""%(n,e)
+	return
+	
+if __name__ == '__main__':
+	main()
