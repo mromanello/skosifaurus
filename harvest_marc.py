@@ -119,8 +119,8 @@ set_name = "DAI_THS"
 
 recs = oai.listRecords(metadataPrefix='marc21',
                        set=set_name)
-complete_harvest = True
-limit = 5000
+complete_harvest = False
+limit = 50
 records = []
 
 print>>sys.stderr, 'beginning harvest'
