@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042850> a skos:Concept ;
+    skos:altLabel "Mairy"@en,
+        "Mairy"@fr,
+        "Mairy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038744> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacArdenMairy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mairy"@de .
+

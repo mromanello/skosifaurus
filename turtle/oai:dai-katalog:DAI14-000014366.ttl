@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014366> a skos:Concept ;
+    skos:altLabel "Faire de verre"@fr,
+        "Glass working"@en,
+        "Obróbka szkla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014365> ;
+    skos:hiddenLabel "yRGKArch07 - WirtsHandwProduHerstGlasv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glasverarbeitung"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083394> a skos:Concept ;
+    skos:altLabel "Dinas"@en,
+        "Dinas"@fr,
+        "Dinas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078208> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesPembrDinas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dinas"@de .
+

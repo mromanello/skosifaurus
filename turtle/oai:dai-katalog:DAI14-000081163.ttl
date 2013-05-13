@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081163> a skos:Concept ;
+    skos:altLabel "Bonn-Bechlinghofen"@en,
+        "Bonn-Bechlinghofen"@fr,
+        "Bonn-Bechlinghofen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075627> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrBonnBonn-Bech" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonn-Bechlinghofen"@de .
+

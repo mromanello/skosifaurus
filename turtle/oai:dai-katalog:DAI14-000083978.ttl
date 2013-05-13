@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083978> a skos:Concept ;
+    skos:altLabel "Egloffstein-Affalterthal"@en,
+        "Egloffstein-Affalterthal"@fr,
+        "Egloffstein-Affalterthal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075411> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerForchEgloffste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Egloffstein-Affalterthal"@de .
+

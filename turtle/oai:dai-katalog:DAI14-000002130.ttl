@@ -1,0 +1,48 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002130_AtatürkÜniversitesiArkeolojiveSanatTarihiBölümü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Atatürk Üniversitesi Arkeoloji ve Sanat Tarihi Bölümü" .
+
+<http://data.dainst.de/zenon/000002130_BritishInstituteofArchaeologyatAnkara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "British Institute of Archaeology at Ankara" .
+
+<http://data.dainst.de/zenon/000002130_DeutschesArchäologischesInstitutIstanbul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Deutsches Archäologisches Institut Istanbul" .
+
+<http://data.dainst.de/zenon/000002130_InstitutbyzantindesAssomptionnistes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Institut byzantin des Assomptionnistes" .
+
+<http://data.dainst.de/zenon/000002130_Institutfrançaisd'étudesanatoliennesd'Istanbul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Institut français d'études anatoliennes d'Istanbul" .
+
+<http://data.dainst.de/zenon/000002130_KültürVarlıklarıveMüzelerGenelMüdürlüğü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Kültür Varlıkları ve Müzeler Genel Müdürlüğü" .
+
+<http://data.dainst.de/zenon/000002130_TürkTarihKurumu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Türk Tarih Kurumu" .
+
+<http://data.dainst.de/zenon/000002130_UludağÜniversitesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "Uludağ Üniversitesi" .
+
+<http://data.dainst.de/zenon/000002130_İstanbulÜniversitesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002130> ;
+    skos:prefLabel "İstanbul Üniversitesi" .
+
+<http://data.dainst.de/zenon/000002130> a skos:Concept ;
+    skos:altLabel "Turchia"@it,
+        "Turkey"@en,
+        "Turquie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstTk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Türkei"@de .
+

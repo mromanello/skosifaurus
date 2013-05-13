@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027374> a skos:Concept ;
+    skos:altLabel "Tübingen 1966"@en,
+        "Tübingen 1966"@fr,
+        "Tübingen 1966"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstTübingen 1966" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tübingen 1966"@de .
+

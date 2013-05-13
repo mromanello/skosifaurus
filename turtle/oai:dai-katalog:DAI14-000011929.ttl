@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011929> a skos:Concept ;
+    skos:altLabel "Pasqualigo, Vincenzo"@en,
+        "Pasqualigo, Vincenzo"@fr,
+        "Pasqualigo, Vincenzo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPasqualigo, Vincenzo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pasqualigo, Vincenzo"@de .
+

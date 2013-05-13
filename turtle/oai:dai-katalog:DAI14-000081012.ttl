@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081012> a skos:Concept ;
+    skos:altLabel "Valle di Ospitale"@en,
+        "Valle di Ospitale"@fr,
+        "Valle di Ospitale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039194> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliModenValle di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle di Ospitale"@de .
+

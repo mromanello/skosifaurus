@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069934> a skos:Concept ;
+    skos:altLabel "Alice Castello"@en,
+        "Alice Castello"@fr,
+        "Alice Castello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039164> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoVerceAlice Cas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alice Castello"@de .
+

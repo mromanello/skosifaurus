@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027931> a skos:Concept ;
+    skos:altLabel "Constanţa, Muzeul Dunării de Jos"@en,
+        "Constanţa, Muzeul Dunării de Jos"@fr,
+        "Constanţa, Muzeul Dunării de Jos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuConstanţa, Muzeul Dunării de Jos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Constanţa, Muzeul Dunării de Jos"@de .
+

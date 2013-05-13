@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073048> a skos:Concept ;
+    skos:altLabel "Satui-Arrolamendi"@en,
+        "Satui-Arrolamendi"@fr,
+        "Satui-Arrolamendi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039311> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniBaskeGuipúSatui-Arr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Satui-Arrolamendi"@de .
+

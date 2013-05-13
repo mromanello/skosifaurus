@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040829> a skos:Concept ;
+    skos:altLabel "Broa, Gotland"@en,
+        "Broa, Gotland"@fr,
+        "Broa, Gotland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Broa, Got" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Broa, Gotland"@de .
+

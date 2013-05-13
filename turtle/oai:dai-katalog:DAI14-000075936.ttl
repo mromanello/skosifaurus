@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075936> a skos:Concept ;
+    skos:altLabel "Apoldu de Jos, com. Miercurea Sibiului, jud. Sibiu"@en,
+        "Apoldu de Jos, com. Miercurea Sibiului, jud. Sibiu"@fr,
+        "Apoldu de Jos, com. Miercurea Sibiului, jud. Sibiu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatApoldu de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Apoldu de Jos, com. Miercurea Sibiului, jud. Sibiu"@de .
+

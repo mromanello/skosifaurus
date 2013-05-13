@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049899> a skos:Concept ;
+    skos:altLabel "Rhein"@en,
+        "Rhein"@fr,
+        "Rhein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038863> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeZZ--RRhein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rhein"@de .
+

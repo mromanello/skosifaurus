@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027535> a skos:Concept ;
+    skos:altLabel "Alatri, Museo Civico"@en,
+        "Alatri, Museo Civico"@fr,
+        "Alatri, Museo Civico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAlatri, Museo Civico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alatri, Museo Civico"@de .
+

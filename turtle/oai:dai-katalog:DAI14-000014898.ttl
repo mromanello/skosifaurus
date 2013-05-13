@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014898> a skos:Concept ;
+    skos:altLabel "Ordre sociale de la République Romaine"@fr,
+        "Republican society"@en,
+        "Spoleczenstwo Republiki Rzymskiej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014868> ;
+    skos:hiddenLabel "yRGKArch08 - GeselGeselSoziaGesel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gesellschaft der Römischen Republik"@de .
+

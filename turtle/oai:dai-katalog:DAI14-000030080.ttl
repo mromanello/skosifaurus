@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030080> a skos:Concept ;
+    skos:altLabel "Galluzzi, Antonio u. Riguccio"@en,
+        "Galluzzi, Antonio u. Riguccio"@fr,
+        "Galluzzi, Antonio u. Riguccio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGalluzzi, Antonio u. Riguccio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Galluzzi, Antonio u. Riguccio"@de .
+

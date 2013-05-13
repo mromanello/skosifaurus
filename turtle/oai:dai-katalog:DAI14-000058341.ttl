@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058341> a skos:Concept ;
+    skos:altLabel "Unging, Gde. Eugendorf, VB Salzburg-Umgebung"@en,
+        "Unging, Gde. Eugendorf, VB Salzburg-Umgebung"@fr,
+        "Unging, Gde. Eugendorf, VB Salzburg-Umgebung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038999> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSalzbUnging, G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Unging, Gde. Eugendorf, VB Salzburg-Umgebung"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023768> a skos:Concept ;
+    skos:altLabel "Vexillatio Exercitus Moesiae Inferioris"@en,
+        "Vexillatio Exercitus Moesiae Inferioris"@fr,
+        "Vexillatio Exercitus Moesiae Inferioris"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeVexillatio Exercitus Moesiae Inferioris" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vexillatio Exercitus Moesiae Inferioris"@de .
+

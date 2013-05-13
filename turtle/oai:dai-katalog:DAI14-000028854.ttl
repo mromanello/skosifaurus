@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028854> a skos:Concept ;
+    skos:altLabel "Roma, Museo Preistorico Etnol."@en,
+        "Roma, Museo Preistorico Etnol."@fr,
+        "Roma, Museo Preistorico Etnol."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Museo Preistorico Etnol." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Museo Preistorico Etnol."@de .
+

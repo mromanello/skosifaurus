@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080287> a skos:Concept ;
+    skos:altLabel "Gisleham, Bloodmoor Hill"@en,
+        "Gisleham, Bloodmoor Hill"@fr,
+        "Gisleham, Bloodmoor Hill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077708> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSuffoGisleham," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gisleham, Bloodmoor Hill"@de .
+

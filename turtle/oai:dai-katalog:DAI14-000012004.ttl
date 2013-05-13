@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012004> a skos:Concept ;
+    skos:altLabel "Roma, Instituto di corrispondenza archeologica"@en,
+        "Roma, Instituto di corrispondenza archeologica"@fr,
+        "Roma, Instituto di corrispondenza archeologica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRoma, Instituto di corrispondenza archeologica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Instituto di corrispondenza archeologica"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058726> a skos:Concept ;
+    skos:altLabel "Laaer Becken (NÖ)"@en,
+        "Laaer Becken (NÖ)"@fr,
+        "Laaer Becken (NÖ)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039004> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterZZ--RLaaer Bec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Laaer Becken (NÖ)"@de .
+

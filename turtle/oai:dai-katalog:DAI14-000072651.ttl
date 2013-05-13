@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072651> a skos:Concept ;
+    skos:altLabel "Hagar Qim"@en,
+        "Hagar Qim"@fr,
+        "Hagar Qim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039277> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliMaltaHagar Qim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hagar Qim"@de .
+

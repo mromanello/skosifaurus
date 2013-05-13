@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081223> a skos:Concept ;
+    skos:altLabel "Case Vandelli"@en,
+        "Case Vandelli"@fr,
+        "Case Vandelli"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039194> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliModenCase Vand" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Case Vandelli"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057490> a skos:Concept ;
+    skos:altLabel "Repišće kod Jastrebarskog"@en,
+        "Repišće kod Jastrebarskog"@fr,
+        "Repišće kod Jastrebarskog"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatRepišće k" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Repišće kod Jastrebarskog"@de .
+

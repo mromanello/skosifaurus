@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045832> a skos:Concept ;
+    skos:altLabel "Sempesserre"@en,
+        "Sempesserre"@fr,
+        "Sempesserre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038816> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitGersSempesser" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sempesserre"@de .
+

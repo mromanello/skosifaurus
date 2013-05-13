@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047242> a skos:Concept ;
+    skos:altLabel "Great Mongeham"@en,
+        "Great Mongeham"@fr,
+        "Great Mongeham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077694> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaKentGreat Mon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Great Mongeham"@de .
+

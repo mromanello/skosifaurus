@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026921> a skos:Concept ;
+    skos:altLabel "Nieder-Ingelheim 1996"@en,
+        "Nieder-Ingelheim 1996"@fr,
+        "Nieder-Ingelheim 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNieder-Ingelheim 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nieder-Ingelheim 1996"@de .
+

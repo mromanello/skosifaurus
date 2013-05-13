@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022403> a skos:Concept ;
+    skos:altLabel "Sextus Iulius Possessor"@en,
+        "Sextus Iulius Possessor"@fr,
+        "Sextus Iulius Possessor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoSextus Iulius Possessor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sextus Iulius Possessor"@de .
+

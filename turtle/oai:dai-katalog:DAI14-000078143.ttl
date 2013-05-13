@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078143> a skos:Concept ;
+    skos:altLabel "Gross St. Florian, VB Deutschlandsberg"@en,
+        "Gross St. Florian, VB Deutschlandsberg"@fr,
+        "Gross St. Florian, VB Deutschlandsberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieGross St." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gross St. Florian, VB Deutschlandsberg"@de .
+

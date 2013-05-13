@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043385> a skos:Concept ;
+    skos:altLabel "Planguenoual"@en,
+        "Planguenoual"@fr,
+        "Planguenoual"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038757> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaCôtesPlangueno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Planguenoual"@de .
+

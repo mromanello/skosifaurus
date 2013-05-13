@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012040> a skos:Concept ;
+    skos:altLabel "Markovin, Vladimir Ivanovič"@en,
+        "Markovin, Vladimir Ivanovič"@fr,
+        "Markovin, Vladimir Ivanovič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMarkovin, Vladimir Ivanovič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Markovin, Vladimir Ivanovič"@de .
+

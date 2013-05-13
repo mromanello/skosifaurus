@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078414> a skos:Concept ;
+    skos:altLabel "Conwy Castle"@en,
+        "Conwy Castle"@fr,
+        "Conwy Castle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078201> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesConwyConwy Cas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Conwy Castle"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070973> a skos:Concept ;
+    skos:altLabel "Cabriolo di Fidenza"@en,
+        "Cabriolo di Fidenza"@fr,
+        "Cabriolo di Fidenza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039195> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliParmaCabriolo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cabriolo di Fidenza"@de .
+

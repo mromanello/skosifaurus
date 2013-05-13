@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032042> a skos:Concept ;
+    skos:altLabel "Zaharia, Eugenia"@en,
+        "Zaharia, Eugenia"@fr,
+        "Zaharia, Eugenia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliZaharia, Eugenia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zaharia, Eugenia"@de .
+

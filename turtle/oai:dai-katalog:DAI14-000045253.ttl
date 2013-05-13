@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045253> a skos:Concept ;
+    skos:altLabel "Thovey, com. Faverges"@en,
+        "Thovey, com. Faverges"@fr,
+        "Thovey, com. Faverges"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038807> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveHauteThovey, c" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thovey, com. Faverges"@de .
+

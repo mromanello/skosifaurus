@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030423> a skos:Concept ;
+    skos:altLabel "Stockholm, Kungliga Myntkabinettet"@en,
+        "Stockholm, Kungliga Myntkabinettet"@fr,
+        "Stockholm, Kungliga Myntkabinettet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaStockholm, Kungliga Myntkabinettet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockholm, Kungliga Myntkabinettet"@de .
+

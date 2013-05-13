@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045418> a skos:Concept ;
+    skos:altLabel "Lac de Chalain"@en,
+        "Lac de Chalain"@fr,
+        "Lac de Chalain"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RLac de Ch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lac de Chalain"@de .
+

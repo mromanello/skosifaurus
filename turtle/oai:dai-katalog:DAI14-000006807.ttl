@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006807> a skos:Concept ;
+    skos:altLabel "Pflaum, Hans-Georg"@en,
+        "Pflaum, Hans-Georg"@fr,
+        "Pflaum, Hans-Georg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsPflaum, Hans-Georg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pflaum, Hans-Georg"@de .
+

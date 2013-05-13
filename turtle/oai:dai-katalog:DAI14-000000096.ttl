@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000096> a skos:Concept ;
+    skos:altLabel "Temas generales"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000095> ;
+    skos:hiddenLabel "3.02.02.00" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Allgemein"@de .
+

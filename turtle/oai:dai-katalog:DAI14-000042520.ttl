@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042520> a skos:Concept ;
+    skos:altLabel "Villemaréchal"@en,
+        "Villemaréchal"@fr,
+        "Villemaréchal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038733> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineVillemaré" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villemaréchal"@de .
+

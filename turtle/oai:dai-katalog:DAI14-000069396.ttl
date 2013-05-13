@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069396> a skos:Concept ;
+    skos:altLabel "Thermi"@en,
+        "Thermi"@fr,
+        "Thermi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039141> ;
+    skos:hiddenLabel "zTopogEuropSüdeuGriecThermi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thermi"@de .
+

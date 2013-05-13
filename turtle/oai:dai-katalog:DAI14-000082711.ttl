@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082711> a skos:Concept ;
+    skos:altLabel "Ehrenstein"@en,
+        "Ehrenstein"@fr,
+        "Ehrenstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075326> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenAlb-DEhrenstei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ehrenstein"@de .
+

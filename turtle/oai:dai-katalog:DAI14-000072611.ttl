@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072611> a skos:Concept ;
+    skos:altLabel "Padria"@en,
+        "Padria"@fr,
+        "Padria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039274> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeSassaPadria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Padria"@de .
+

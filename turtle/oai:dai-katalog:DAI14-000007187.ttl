@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007187> a skos:Concept ;
+    skos:altLabel "Hägermann, Dieter"@en,
+        "Hägermann, Dieter"@fr,
+        "Hägermann, Dieter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHägermann, Dieter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hägermann, Dieter"@de .
+

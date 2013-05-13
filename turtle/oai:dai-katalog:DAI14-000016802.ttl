@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016802> a skos:Concept ;
+    skos:altLabel "Ceramika"@pl,
+        "Dépots de Céramique"@fr,
+        "Hoards of Ceramics"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016800> ;
+    skos:hiddenLabel "yRGKArch10 - DeponZusamGefäsKeram" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keramikhort"@de .
+

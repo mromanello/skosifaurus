@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030710> a skos:Concept ;
+    skos:altLabel "Schweiz, Nationale Informationsstelle für Kulturgüter-Erhaltung"@en,
+        "Schweiz, Nationale Informationsstelle für Kulturgüter-Erhaltung"@fr,
+        "Schweiz, Nationale Informationsstelle für Kulturgüter-Erhaltung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiSchweiz, Nationale Informationsstelle für Kulturgüter-Erhaltung" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schweiz, Nationale Informationsstelle für Kulturgüter-Erhaltung"@de .
+

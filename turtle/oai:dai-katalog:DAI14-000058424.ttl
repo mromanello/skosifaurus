@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058424> a skos:Concept ;
+    skos:altLabel "Leibnitz-Schloss Seggau, VB Leibnitz"@en,
+        "Leibnitz-Schloss Seggau, VB Leibnitz"@fr,
+        "Leibnitz-Schloss Seggau, VB Leibnitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieLeibnitz-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leibnitz-Schloss Seggau, VB Leibnitz"@de .
+

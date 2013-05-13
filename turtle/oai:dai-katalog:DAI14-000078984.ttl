@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078984> a skos:Concept ;
+    skos:altLabel "Cappel, Gde. Wadersloh-Liesborn"@en,
+        "Cappel, Gde. Wadersloh-Liesborn"@fr,
+        "Cappel, Gde. Wadersloh-Liesborn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038904> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrWarenCappel, G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cappel, Gde. Wadersloh-Liesborn"@de .
+

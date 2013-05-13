@@ -1,0 +1,1324 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002220_Abegg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Abegg" .
+
+<http://data.dainst.de/zenon/000002220_Abela> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Abela" .
+
+<http://data.dainst.de/zenon/000002220_Abis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Abis" .
+
+<http://data.dainst.de/zenon/000002220_Adam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Adam" .
+
+<http://data.dainst.de/zenon/000002220_Agostini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Agostini" .
+
+<http://data.dainst.de/zenon/000002220_Aichmeir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Aichmeir" .
+
+<http://data.dainst.de/zenon/000002220_Airón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Airón" .
+
+<http://data.dainst.de/zenon/000002220_Alba,Ducadi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alba, Duca di" .
+
+<http://data.dainst.de/zenon/000002220_Albani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Albani" .
+
+<http://data.dainst.de/zenon/000002220_Alberici> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alberici" .
+
+<http://data.dainst.de/zenon/000002220_Alcalá> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alcalá" .
+
+<http://data.dainst.de/zenon/000002220_Aldenkirchen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Aldenkirchen" .
+
+<http://data.dainst.de/zenon/000002220_Aldobrandini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Aldobrandini" .
+
+<http://data.dainst.de/zenon/000002220_Alföldi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alföldi" .
+
+<http://data.dainst.de/zenon/000002220_Alhonoz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alhonoz" .
+
+<http://data.dainst.de/zenon/000002220_AllaQuerce> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alla Querce" .
+
+<http://data.dainst.de/zenon/000002220_Allevi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Allevi" .
+
+<http://data.dainst.de/zenon/000002220_Allmers> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Allmers" .
+
+<http://data.dainst.de/zenon/000002220_Alloisio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Alloisio" .
+
+<http://data.dainst.de/zenon/000002220_Altemps> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Altemps" .
+
+<http://data.dainst.de/zenon/000002220_Altieri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Altieri" .
+
+<http://data.dainst.de/zenon/000002220_Ambrosiana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ambrosiana" .
+
+<http://data.dainst.de/zenon/000002220_Anglèsd'Auriac> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Anglès d'Auriac" .
+
+<http://data.dainst.de/zenon/000002220_Anlen-Padiou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Anlen - Padiou" .
+
+<http://data.dainst.de/zenon/000002220_Antinelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Antinelli" .
+
+<http://data.dainst.de/zenon/000002220_Aparu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Aparu" .
+
+<http://data.dainst.de/zenon/000002220_ArcaisdiSerramanna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Arcais di Serramanna" .
+
+<http://data.dainst.de/zenon/000002220_ArezzodiCelano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Arezzo di Celano" .
+
+<http://data.dainst.de/zenon/000002220_Armeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Armeni" .
+
+<http://data.dainst.de/zenon/000002220_Arno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Arno" .
+
+<http://data.dainst.de/zenon/000002220_Arts> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Arts" .
+
+<http://data.dainst.de/zenon/000002220_Arundel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Arundel" .
+
+<http://data.dainst.de/zenon/000002220_Astarita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Astarita" .
+
+<http://data.dainst.de/zenon/000002220_Astuto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Astuto" .
+
+<http://data.dainst.de/zenon/000002220_Aulock> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Aulock" .
+
+<http://data.dainst.de/zenon/000002220_Avellani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Avellani" .
+
+<http://data.dainst.de/zenon/000002220_AvilayZúñiga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Avila y Zúñiga" .
+
+<http://data.dainst.de/zenon/000002220_Awad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Awad" .
+
+<http://data.dainst.de/zenon/000002220_Azara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Azara" .
+
+<http://data.dainst.de/zenon/000002220_Bacci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bacci" .
+
+<http://data.dainst.de/zenon/000002220_Baldassarri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Baldassarri" .
+
+<http://data.dainst.de/zenon/000002220_Baldassini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Baldassini" .
+
+<http://data.dainst.de/zenon/000002220_BallardThruston> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ballard Thruston" .
+
+<http://data.dainst.de/zenon/000002220_BancaIntesa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Banca Intesa" .
+
+<http://data.dainst.de/zenon/000002220_BancodiSicilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Banco di Sicilia" .
+
+<http://data.dainst.de/zenon/000002220_Bankes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bankes" .
+
+<http://data.dainst.de/zenon/000002220_Barakat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Barakat" .
+
+<http://data.dainst.de/zenon/000002220_Barberini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Barberini" .
+
+<http://data.dainst.de/zenon/000002220_Barbier-Mueller> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Barbier-Mueller" .
+
+<http://data.dainst.de/zenon/000002220_Bareiss> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bareiss" .
+
+<http://data.dainst.de/zenon/000002220_Barracco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Barracco" .
+
+<http://data.dainst.de/zenon/000002220_Barry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Barry" .
+
+<http://data.dainst.de/zenon/000002220_Bassano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bassano" .
+
+<http://data.dainst.de/zenon/000002220_Bastis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bastis" .
+
+<http://data.dainst.de/zenon/000002220_Bedford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bedford" .
+
+<http://data.dainst.de/zenon/000002220_Beitz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Beitz" .
+
+<http://data.dainst.de/zenon/000002220_Belck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Belck" .
+
+<http://data.dainst.de/zenon/000002220_Beler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Beler" .
+
+<http://data.dainst.de/zenon/000002220_Bellini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bellini" .
+
+<http://data.dainst.de/zenon/000002220_BellinodiBusca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bellino di Busca" .
+
+<http://data.dainst.de/zenon/000002220_Bellori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bellori" .
+
+<http://data.dainst.de/zenon/000002220_Bellucci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bellucci" .
+
+<http://data.dainst.de/zenon/000002220_Bembo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bembo" .
+
+<http://data.dainst.de/zenon/000002220_Benedetti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Benedetti" .
+
+<http://data.dainst.de/zenon/000002220_Benedetti,Natalizio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Benedetti, Natalizio" .
+
+<http://data.dainst.de/zenon/000002220_Berenson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Berenson" .
+
+<http://data.dainst.de/zenon/000002220_Bergau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bergau" .
+
+<http://data.dainst.de/zenon/000002220_Berman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Berman" .
+
+<http://data.dainst.de/zenon/000002220_Bernardini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bernardini" .
+
+<http://data.dainst.de/zenon/000002220_Bernays> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bernays" .
+
+<http://data.dainst.de/zenon/000002220_Berry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Berry" .
+
+<http://data.dainst.de/zenon/000002220_Bersanetti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bersanetti" .
+
+<http://data.dainst.de/zenon/000002220_Bertrand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bertrand" .
+
+<http://data.dainst.de/zenon/000002220_Bertrand,Ernest> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bertrand, Ernest" .
+
+<http://data.dainst.de/zenon/000002220_Beskow,v.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Beskow, v." .
+
+<http://data.dainst.de/zenon/000002220_Biggio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Biggio" .
+
+<http://data.dainst.de/zenon/000002220_Bignami> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bignami" .
+
+<http://data.dainst.de/zenon/000002220_Biscari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Biscari" .
+
+<http://data.dainst.de/zenon/000002220_Blundell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Blundell" .
+
+<http://data.dainst.de/zenon/000002220_Bobokov> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bobokov" .
+
+<http://data.dainst.de/zenon/000002220_Bodmer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bodmer" .
+
+<http://data.dainst.de/zenon/000002220_Bogaert> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bogaert" .
+
+<http://data.dainst.de/zenon/000002220_Bolles-Rogers> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bolles-Rogers" .
+
+<http://data.dainst.de/zenon/000002220_Bomford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bomford" .
+
+<http://data.dainst.de/zenon/000002220_Bonaparte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bonaparte" .
+
+<http://data.dainst.de/zenon/000002220_BonciCasuccini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bonci Casuccini" .
+
+<http://data.dainst.de/zenon/000002220_BoncompagniLudovisi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Boncompagni Ludovisi" .
+
+<http://data.dainst.de/zenon/000002220_Borghese> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Borghese" .
+
+<http://data.dainst.de/zenon/000002220_Borgia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Borgia" .
+
+<http://data.dainst.de/zenon/000002220_Borowski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Borowski" .
+
+<http://data.dainst.de/zenon/000002220_Bosshard> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bosshard" .
+
+<http://data.dainst.de/zenon/000002220_Bouvier> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bouvier" .
+
+<http://data.dainst.de/zenon/000002220_Boxheimer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Boxheimer" .
+
+<http://data.dainst.de/zenon/000002220_Brandenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brandenburg" .
+
+<http://data.dainst.de/zenon/000002220_Brauchitsch,v.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brauchitsch, v." .
+
+<http://data.dainst.de/zenon/000002220_Braumüller> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Braumüller" .
+
+<http://data.dainst.de/zenon/000002220_Bravo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bravo" .
+
+<http://data.dainst.de/zenon/000002220_BristolUniversityCookCollection> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bristol University Cook Collection" .
+
+<http://data.dainst.de/zenon/000002220_Brommer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brommer" .
+
+<http://data.dainst.de/zenon/000002220_Brown> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brown" .
+
+<http://data.dainst.de/zenon/000002220_Brummer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brummer" .
+
+<http://data.dainst.de/zenon/000002220_Brunelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Brunelli" .
+
+<http://data.dainst.de/zenon/000002220_Bruschi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bruschi" .
+
+<http://data.dainst.de/zenon/000002220_Bröckelschen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bröckelschen" .
+
+<http://data.dainst.de/zenon/000002220_Bucelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bucelli" .
+
+<http://data.dainst.de/zenon/000002220_Buonarroti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Buonarroti" .
+
+<http://data.dainst.de/zenon/000002220_BustorffSilva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bustorff Silva" .
+
+<http://data.dainst.de/zenon/000002220_Bünemann> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Bünemann" .
+
+<http://data.dainst.de/zenon/000002220_C.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "C.A." .
+
+<http://data.dainst.de/zenon/000002220_Caffarelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Caffarelli" .
+
+<http://data.dainst.de/zenon/000002220_Cahn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cahn" .
+
+<http://data.dainst.de/zenon/000002220_Caldarola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Caldarola" .
+
+<http://data.dainst.de/zenon/000002220_Calvert> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Calvert" .
+
+<http://data.dainst.de/zenon/000002220_Calvet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Calvet" .
+
+<http://data.dainst.de/zenon/000002220_Calzadilla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Calzadilla" .
+
+<http://data.dainst.de/zenon/000002220_Cambi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cambi" .
+
+<http://data.dainst.de/zenon/000002220_Camerini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Camerini" .
+
+<http://data.dainst.de/zenon/000002220_Camerini-Frasca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Camerini-Frasca" .
+
+<http://data.dainst.de/zenon/000002220_Cammarata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cammarata" .
+
+<http://data.dainst.de/zenon/000002220_Campana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Campana" .
+
+<http://data.dainst.de/zenon/000002220_Candelori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Candelori" .
+
+<http://data.dainst.de/zenon/000002220_Candida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Candida" .
+
+<http://data.dainst.de/zenon/000002220_Candolle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Candolle" .
+
+<http://data.dainst.de/zenon/000002220_Canino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Canino" .
+
+<http://data.dainst.de/zenon/000002220_Canova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Canova" .
+
+<http://data.dainst.de/zenon/000002220_Capellini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Capellini" .
+
+<http://data.dainst.de/zenon/000002220_Capialbi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Capialbi" .
+
+<http://data.dainst.de/zenon/000002220_Capponi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Capponi" .
+
+<http://data.dainst.de/zenon/000002220_Caputo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Caputo" .
+
+<http://data.dainst.de/zenon/000002220_Carafa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Carafa" .
+
+<http://data.dainst.de/zenon/000002220_Carlv.Preussen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Carl v. Preussen" .
+
+<http://data.dainst.de/zenon/000002220_Carpi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Carpi" .
+
+<http://data.dainst.de/zenon/000002220_Carrand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Carrand" .
+
+<http://data.dainst.de/zenon/000002220_Casali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Casali" .
+
+<http://data.dainst.de/zenon/000002220_Casamarte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Casamarte" .
+
+<http://data.dainst.de/zenon/000002220_Casotti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Casotti" .
+
+<http://data.dainst.de/zenon/000002220_Castellani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Castellani" .
+
+<http://data.dainst.de/zenon/000002220_Castelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Castelli" .
+
+<http://data.dainst.de/zenon/000002220_Casuccini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Casuccini" .
+
+<http://data.dainst.de/zenon/000002220_Casuccio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Casuccio" .
+
+<http://data.dainst.de/zenon/000002220_Català> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Català" .
+
+<http://data.dainst.de/zenon/000002220_Cavaceppi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cavaceppi" .
+
+<http://data.dainst.de/zenon/000002220_Cavendish> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cavendish" .
+
+<http://data.dainst.de/zenon/000002220_Caylus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Caylus" .
+
+<http://data.dainst.de/zenon/000002220_Ceccanti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ceccanti" .
+
+<http://data.dainst.de/zenon/000002220_CeciMacrini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ceci Macrini" .
+
+<http://data.dainst.de/zenon/000002220_Cerralbo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cerralbo" .
+
+<http://data.dainst.de/zenon/000002220_Cesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cesi" .
+
+<http://data.dainst.de/zenon/000002220_Chaix> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chaix" .
+
+<http://data.dainst.de/zenon/000002220_Chantre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chantre" .
+
+<http://data.dainst.de/zenon/000002220_Charlemont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Charlemont" .
+
+<http://data.dainst.de/zenon/000002220_Chavanne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chavanne" .
+
+<http://data.dainst.de/zenon/000002220_CherchiPaba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cherchi Paba" .
+
+<http://data.dainst.de/zenon/000002220_Chesterman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chesterman" .
+
+<http://data.dainst.de/zenon/000002220_Chiellini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chiellini" .
+
+<http://data.dainst.de/zenon/000002220_Chigi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chigi" .
+
+<http://data.dainst.de/zenon/000002220_Chigi-Zondadari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chigi-Zondadari" .
+
+<http://data.dainst.de/zenon/000002220_Chiha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chiha" .
+
+<http://data.dainst.de/zenon/000002220_Chini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chini" .
+
+<http://data.dainst.de/zenon/000002220_Chitrovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Chitrovo" .
+
+<http://data.dainst.de/zenon/000002220_Choynowski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Choynowski" .
+
+<http://data.dainst.de/zenon/000002220_Ciacci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ciacci" .
+
+<http://data.dainst.de/zenon/000002220_Cini-Alliata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cini-Alliata" .
+
+<http://data.dainst.de/zenon/000002220_Cinzano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cinzano" .
+
+<http://data.dainst.de/zenon/000002220_Clark> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Clark" .
+
+<http://data.dainst.de/zenon/000002220_Clarke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Clarke" .
+
+<http://data.dainst.de/zenon/000002220_ClemensXIV> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Clemens XIV" .
+
+<http://data.dainst.de/zenon/000002220_ClosiLlombart> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Clos i Llombart" .
+
+<http://data.dainst.de/zenon/000002220_Cohn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cohn" .
+
+<http://data.dainst.de/zenon/000002220_Coke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Coke" .
+
+<http://data.dainst.de/zenon/000002220_Collisani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Collisani" .
+
+<http://data.dainst.de/zenon/000002220_Colonna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Colonna" .
+
+<http://data.dainst.de/zenon/000002220_Colucci,Riccardo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Colucci, Riccardo" .
+
+<http://data.dainst.de/zenon/000002220_CompagnoniNatali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Compagnoni Natali" .
+
+<http://data.dainst.de/zenon/000002220_Constable-Maxwell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Constable-Maxwell" .
+
+<http://data.dainst.de/zenon/000002220_Content> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Content" .
+
+<http://data.dainst.de/zenon/000002220_ConventoSantaMariadegliAngeli(Roma)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Convento Santa Maria degli Angeli (Roma)" .
+
+<http://data.dainst.de/zenon/000002220_Corazzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Corazzi" .
+
+<http://data.dainst.de/zenon/000002220_CosimoIde'Medici> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cosimo I de' Medici" .
+
+<http://data.dainst.de/zenon/000002220_Costantini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Costantini" .
+
+<http://data.dainst.de/zenon/000002220_Cotecchia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cotecchia" .
+
+<http://data.dainst.de/zenon/000002220_Coulouma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Coulouma" .
+
+<http://data.dainst.de/zenon/000002220_CristinadiSvezia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Cristina di Svezia" .
+
+<http://data.dainst.de/zenon/000002220_Culică> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Culică" .
+
+<http://data.dainst.de/zenon/000002220_Curle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Curle" .
+
+<http://data.dainst.de/zenon/000002220_Czartoryski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Czartoryski" .
+
+<http://data.dainst.de/zenon/000002220_D'Ascenzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "D'Ascenzi" .
+
+<http://data.dainst.de/zenon/000002220_D.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "D.J." .
+
+<http://data.dainst.de/zenon/000002220_DaComo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Da Como" .
+
+<http://data.dainst.de/zenon/000002220_Danieli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Danieli" .
+
+<http://data.dainst.de/zenon/000002220_DanieliTommasoni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Danieli Tommasoni" .
+
+<http://data.dainst.de/zenon/000002220_Danielsson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Danielsson" .
+
+<http://data.dainst.de/zenon/000002220_Danson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Danson" .
+
+<http://data.dainst.de/zenon/000002220_Dattari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dattari" .
+
+<http://data.dainst.de/zenon/000002220_David-Weill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "David-Weill" .
+
+<http://data.dainst.de/zenon/000002220_Dayan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dayan" .
+
+<http://data.dainst.de/zenon/000002220_De'Rossi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De' Rossi" .
+
+<http://data.dainst.de/zenon/000002220_DeBrandis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Brandis" .
+
+<http://data.dainst.de/zenon/000002220_DeClercq> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Clercq" .
+
+<http://data.dainst.de/zenon/000002220_DeGregorio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Gregorio" .
+
+<http://data.dainst.de/zenon/000002220_DeMoschettini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Moschettini" .
+
+<http://data.dainst.de/zenon/000002220_DeSantisMangelli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Santis Mangelli" .
+
+<http://data.dainst.de/zenon/000002220_DeVillacevallos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De Villacevallos" .
+
+<http://data.dainst.de/zenon/000002220_Dechter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dechter" .
+
+<http://data.dainst.de/zenon/000002220_DelBufalo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Del Bufalo" .
+
+<http://data.dainst.de/zenon/000002220_DelDrago> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Del Drago" .
+
+<http://data.dainst.de/zenon/000002220_DelaChica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "De la Chica" .
+
+<http://data.dainst.de/zenon/000002220_DellaRovere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Della Rovere" .
+
+<http://data.dainst.de/zenon/000002220_DellaValle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Della Valle" .
+
+<http://data.dainst.de/zenon/000002220_Despuig> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Despuig" .
+
+<http://data.dainst.de/zenon/000002220_Dessy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dessy" .
+
+<http://data.dainst.de/zenon/000002220_Dexel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dexel" .
+
+<http://data.dainst.de/zenon/000002220_DiToppo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Di Toppo" .
+
+<http://data.dainst.de/zenon/000002220_DiVelo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Di Velo" .
+
+<http://data.dainst.de/zenon/000002220_Diergardt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Diergardt" .
+
+<http://data.dainst.de/zenon/000002220_Dierichs> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dierichs" .
+
+<http://data.dainst.de/zenon/000002220_Diniacopoulos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Diniacopoulos" .
+
+<http://data.dainst.de/zenon/000002220_Dioguardi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dioguardi" .
+
+<http://data.dainst.de/zenon/000002220_Dionigi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dionigi" .
+
+<http://data.dainst.de/zenon/000002220_Dobkin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dobkin" .
+
+<http://data.dainst.de/zenon/000002220_Doetsch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Doetsch" .
+
+<http://data.dainst.de/zenon/000002220_DomLuís> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dom Luís" .
+
+<http://data.dainst.de/zenon/000002220_DoriaPamphilj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Doria Pamphilj" .
+
+<http://data.dainst.de/zenon/000002220_Dossi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dossi" .
+
+<http://data.dainst.de/zenon/000002220_Dressel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dressel" .
+
+<http://data.dainst.de/zenon/000002220_Drewes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Drewes" .
+
+<http://data.dainst.de/zenon/000002220_Drovetti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Drovetti" .
+
+<http://data.dainst.de/zenon/000002220_Dukić> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dukić" .
+
+<http://data.dainst.de/zenon/000002220_Dutuit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Dutuit" .
+
+<http://data.dainst.de/zenon/000002220_Déchelette> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Déchelette" .
+
+<http://data.dainst.de/zenon/000002220_Ebnöther> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ebnöther" .
+
+<http://data.dainst.de/zenon/000002220_Egremont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Egremont" .
+
+<http://data.dainst.de/zenon/000002220_Elliott> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Elliott" .
+
+<http://data.dainst.de/zenon/000002220_Eltester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Eltester" .
+
+<http://data.dainst.de/zenon/000002220_Emmet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Emmet" .
+
+<http://data.dainst.de/zenon/000002220_Engels> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Engels" .
+
+<http://data.dainst.de/zenon/000002220_Ennetwies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ennetwies" .
+
+<http://data.dainst.de/zenon/000002220_Erbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Erbach" .
+
+<http://data.dainst.de/zenon/000002220_Erimtan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Erimtan" .
+
+<http://data.dainst.de/zenon/000002220_Erlenmeyer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Erlenmeyer" .
+
+<http://data.dainst.de/zenon/000002220_Esch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Esch" .
+
+<http://data.dainst.de/zenon/000002220_Este> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Este" .
+
+<http://data.dainst.de/zenon/000002220_Evans> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Evans" .
+
+<http://data.dainst.de/zenon/000002220_F.S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "F.S." .
+
+<http://data.dainst.de/zenon/000002220_Fabbricotti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fabbricotti" .
+
+<http://data.dainst.de/zenon/000002220_Faina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Faina" .
+
+<http://data.dainst.de/zenon/000002220_Falchi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Falchi" .
+
+<http://data.dainst.de/zenon/000002220_Falcioni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Falcioni" .
+
+<http://data.dainst.de/zenon/000002220_Farenheid> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Farenheid" .
+
+<http://data.dainst.de/zenon/000002220_Farnese> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Farnese" .
+
+<http://data.dainst.de/zenon/000002220_Fauvel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fauvel" .
+
+<http://data.dainst.de/zenon/000002220_Fede> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fede" .
+
+<http://data.dainst.de/zenon/000002220_Fejérváry-Pulszky> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fejérváry-Pulszky" .
+
+<http://data.dainst.de/zenon/000002220_Feliciani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Feliciani" .
+
+<http://data.dainst.de/zenon/000002220_Feoli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Feoli" .
+
+<http://data.dainst.de/zenon/000002220_Ferell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ferell" .
+
+<http://data.dainst.de/zenon/000002220_Fesch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fesch" .
+
+<http://data.dainst.de/zenon/000002220_Fleischman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fleischman" .
+
+<http://data.dainst.de/zenon/000002220_Flesche,Christian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Flesche, Christian" .
+
+<http://data.dainst.de/zenon/000002220_Fol,Walther> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fol, Walther" .
+
+<http://data.dainst.de/zenon/000002220_FondationThétis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fondation Thétis" .
+
+<http://data.dainst.de/zenon/000002220_FondazioneBancadiSicilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fondazione Banca di Sicilia" .
+
+<http://data.dainst.de/zenon/000002220_FondazioneSorgenteGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fondazione Sorgente Group" .
+
+<http://data.dainst.de/zenon/000002220_Foroughi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Foroughi" .
+
+<http://data.dainst.de/zenon/000002220_Forrer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Forrer" .
+
+<http://data.dainst.de/zenon/000002220_ForsythMajor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Forsyth Major" .
+
+<http://data.dainst.de/zenon/000002220_FrancescoIde'Medici> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Francesco I de' Medici" .
+
+<http://data.dainst.de/zenon/000002220_Franchetti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Franchetti" .
+
+<http://data.dainst.de/zenon/000002220_Fratini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fratini" .
+
+<http://data.dainst.de/zenon/000002220_Freer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Freer" .
+
+<http://data.dainst.de/zenon/000002220_Fremmersdorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Fremmersdorf" .
+
+<http://data.dainst.de/zenon/000002220_Freud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Freud" .
+
+<http://data.dainst.de/zenon/000002220_FriedrichII.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Friedrich II." .
+
+<http://data.dainst.de/zenon/000002220_FriedrichWilhelmv.Brandenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Friedrich Wilhelm v. Brandenburg" .
+
+<http://data.dainst.de/zenon/000002220_Froehner> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Froehner" .
+
+<http://data.dainst.de/zenon/000002220_Funcke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Funcke" .
+
+<http://data.dainst.de/zenon/000002220_Gabrielli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gabrielli" .
+
+<http://data.dainst.de/zenon/000002220_Gaddi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gaddi" .
+
+<http://data.dainst.de/zenon/000002220_Gale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gale" .
+
+<http://data.dainst.de/zenon/000002220_Galluzzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Galluzzi" .
+
+<http://data.dainst.de/zenon/000002220_GardnerWilkinson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gardner Wilkinson" .
+
+<http://data.dainst.de/zenon/000002220_GareaDelForno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Garea Del Forno" .
+
+<http://data.dainst.de/zenon/000002220_Garimberto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Garimberto" .
+
+<http://data.dainst.de/zenon/000002220_Garovaglio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Garovaglio" .
+
+<http://data.dainst.de/zenon/000002220_Gasparrini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gasparrini" .
+
+<http://data.dainst.de/zenon/000002220_Gaudin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gaudin" .
+
+<http://data.dainst.de/zenon/000002220_Getty> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Getty" .
+
+<http://data.dainst.de/zenon/000002220_Ghalioungui> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ghalioungui" .
+
+<http://data.dainst.de/zenon/000002220_Ghertsos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Ghertsos" .
+
+<http://data.dainst.de/zenon/000002220_GiabraPierides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giabra Pierides" .
+
+<http://data.dainst.de/zenon/000002220_Giamalakes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giamalakes" .
+
+<http://data.dainst.de/zenon/000002220_Girasole,C.G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Girasole, C.G." .
+
+<http://data.dainst.de/zenon/000002220_Giraud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giraud" .
+
+<http://data.dainst.de/zenon/000002220_Giudice> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giudice" .
+
+<http://data.dainst.de/zenon/000002220_Giudice,Antonio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giudice, Antonio" .
+
+<http://data.dainst.de/zenon/000002220_Giustiniani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Giustiniani" .
+
+<http://data.dainst.de/zenon/000002220_Glueck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Glueck" .
+
+<http://data.dainst.de/zenon/000002220_Godard> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Godard" .
+
+<http://data.dainst.de/zenon/000002220_Goethe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Goethe" .
+
+<http://data.dainst.de/zenon/000002220_Golenišev> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Golenišev" .
+
+<http://data.dainst.de/zenon/000002220_Golschmann> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Golschmann" .
+
+<http://data.dainst.de/zenon/000002220_Gonzaga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gonzaga" .
+
+<http://data.dainst.de/zenon/000002220_Gorelick> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gorelick" .
+
+<http://data.dainst.de/zenon/000002220_Gorga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gorga" .
+
+<http://data.dainst.de/zenon/000002220_Gori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gori" .
+
+<http://data.dainst.de/zenon/000002220_Gottet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gottet" .
+
+<http://data.dainst.de/zenon/000002220_Goulandris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Goulandris" .
+
+<http://data.dainst.de/zenon/000002220_Gołuchów> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gołuchów" .
+
+<http://data.dainst.de/zenon/000002220_Graeffe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Graeffe" .
+
+<http://data.dainst.de/zenon/000002220_Graziani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Graziani" .
+
+<http://data.dainst.de/zenon/000002220_Greenwell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Greenwell" .
+
+<http://data.dainst.de/zenon/000002220_Grimani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Grimani" .
+
+<http://data.dainst.de/zenon/000002220_Grossi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Grossi" .
+
+<http://data.dainst.de/zenon/000002220_Grubissich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Grubissich" .
+
+<http://data.dainst.de/zenon/000002220_Gualdi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gualdi" .
+
+<http://data.dainst.de/zenon/000002220_Gualtieri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gualtieri" .
+
+<http://data.dainst.de/zenon/000002220_Guarini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Guarini" .
+
+<http://data.dainst.de/zenon/000002220_Guarnieri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Guarnieri" .
+
+<http://data.dainst.de/zenon/000002220_Guglielmi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Guglielmi" .
+
+<http://data.dainst.de/zenon/000002220_Gulbenkian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gulbenkian" .
+
+<http://data.dainst.de/zenon/000002220_GumáHerrera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gumá Herrera" .
+
+<http://data.dainst.de/zenon/000002220_Gutman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Gutman" .
+
+<http://data.dainst.de/zenon/000002220_Guttmann> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Guttmann" .
+
+<http://data.dainst.de/zenon/000002220_Görtz-Strötgen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "Görtz-Strötgen" .
+
+<http://data.dainst.de/zenon/000002220_anonym> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "anonym" .
+
+<http://data.dainst.de/zenon/000002220_d'Anastasi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "d'Anastasi" .
+
+<http://data.dainst.de/zenon/000002220_d'Arschot> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "d'Arschot" .
+
+<http://data.dainst.de/zenon/000002220_d'Aumale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002220> ;
+    skos:prefLabel "d'Aumale" .
+
+<http://data.dainst.de/zenon/000002220> a skos:Concept ;
+    skos:altLabel "singole A-G"@it,
+        "singular A-G"@en,
+        "singulières A-G"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002217> ;
+    skos:hiddenLabel "xMusSlgPrivSlgEinzA-G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "einzelne A-G"@de .
+

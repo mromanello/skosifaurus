@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063474> a skos:Concept ;
+    skos:altLabel "Česka Lípa"@en,
+        "Česka Lípa"@fr,
+        "Česka Lípa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyČeska Líp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Česka Lípa"@de .
+

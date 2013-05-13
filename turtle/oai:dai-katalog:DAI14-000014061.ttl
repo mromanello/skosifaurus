@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014061> a skos:Concept ;
+    skos:altLabel "Jambières"@fr,
+        "Leg armour"@en,
+        "Nagolenniki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014056> ;
+    skos:hiddenLabel "yRGKArch07 - FundeBewafSchutBeins" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beinschienen"@de .
+

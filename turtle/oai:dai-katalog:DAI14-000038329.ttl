@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038329> a skos:Concept ;
+    skos:altLabel "Beroun 2007"@en,
+        "Beroun 2007"@fr,
+        "Beroun 2007"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBeroun 2007" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beroun 2007"@de .
+

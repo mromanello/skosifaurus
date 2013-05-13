@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069743> a skos:Concept ;
+    skos:altLabel "Santa Caterina Valfurva-Dosso Gavia"@en,
+        "Santa Caterina Valfurva-Dosso Gavia"@fr,
+        "Santa Caterina Valfurva-Dosso Gavia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039154> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaSondrSanta Cat" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Santa Caterina Valfurva-Dosso Gavia"@de .
+

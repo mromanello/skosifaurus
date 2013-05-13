@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010677> a skos:Concept ;
+    skos:altLabel "SAM"@en,
+        "SAM"@fr,
+        "SAM"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiSAM" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "SAM"@de .
+

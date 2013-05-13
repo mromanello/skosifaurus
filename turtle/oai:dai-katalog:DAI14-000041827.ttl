@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041827> a skos:Concept ;
+    skos:altLabel "Fraire"@en,
+        "Fraire"@fr,
+        "Fraire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurFraire" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fraire"@de .
+

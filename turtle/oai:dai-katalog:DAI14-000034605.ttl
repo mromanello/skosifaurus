@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034605> a skos:Concept ;
+    skos:altLabel "Sassari 2003/2004"@en,
+        "Sassari 2003/2004"@fr,
+        "Sassari 2003/2004"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSassari 2003/2004" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sassari 2003/2004"@de .
+

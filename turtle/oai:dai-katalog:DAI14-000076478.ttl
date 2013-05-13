@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076478> a skos:Concept ;
+    skos:altLabel "Stancija Peličeti"@en,
+        "Stancija Peličeti"@fr,
+        "Stancija Peličeti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatStancija" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stancija Peličeti"@de .
+

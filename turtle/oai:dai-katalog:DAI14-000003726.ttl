@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003726> a skos:Concept ;
+    skos:altLabel "raccolte speciali (fino a 1997)"@it,
+        "special collections (untill 1997)"@en,
+        "spéciaux (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003722> ;
+    skos:hiddenLabel "xEpigrSlSpezSlg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Spezialsammlungen (bis 1997)"@de .
+

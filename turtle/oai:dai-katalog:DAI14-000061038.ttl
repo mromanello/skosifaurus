@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061038> a skos:Concept ;
+    skos:altLabel "Boleszyn"@en,
+        "Boleszyn"@fr,
+        "Boleszyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętBoleszyn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boleszyn"@de .
+

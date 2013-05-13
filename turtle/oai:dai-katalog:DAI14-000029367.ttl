@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029367> a skos:Concept ;
+    skos:altLabel "Badenweiler, Römisches Thermenmuseum"@en,
+        "Badenweiler, Römisches Thermenmuseum"@fr,
+        "Badenweiler, Römisches Thermenmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBadenweiler, Römisches Thermenmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Badenweiler, Römisches Thermenmuseum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036099> a skos:Concept ;
+    skos:altLabel "Iżewsk 1995"@en,
+        "Iżewsk 1995"@fr,
+        "Iżewsk 1995"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrIżewsk 1995" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iżewsk 1995"@de .
+

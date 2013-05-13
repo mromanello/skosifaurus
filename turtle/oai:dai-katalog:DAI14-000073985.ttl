@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073985> a skos:Concept ;
+    skos:altLabel "Bahía de Cádiz"@en,
+        "Bahía de Cádiz"@fr,
+        "Bahía de Cádiz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039373> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniZZ--RBahía de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bahía de Cádiz"@de .
+

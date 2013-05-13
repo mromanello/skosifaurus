@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003584> a skos:Concept ;
+    skos:altLabel "customs and habits"@en,
+        "moeurs et coutumes"@fr,
+        "usi e costumi"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003549> ;
+    skos:hiddenLabel "xAntSitten" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sitten und Gebräuche"@de .
+

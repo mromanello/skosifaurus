@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023235> a skos:Concept ;
+    skos:altLabel "Mater Matuta"@en,
+        "Mater Matuta"@fr,
+        "Mater Matuta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014940> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligGötteMater Matuta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mater Matuta"@de .
+

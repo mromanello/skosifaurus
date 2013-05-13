@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010854> a skos:Concept ;
+    skos:altLabel "Norska-Gulkowa, Maria"@en,
+        "Norska-Gulkowa, Maria"@fr,
+        "Norska-Gulkowa, Maria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNorska-Gulkowa, Maria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Norska-Gulkowa, Maria"@de .
+

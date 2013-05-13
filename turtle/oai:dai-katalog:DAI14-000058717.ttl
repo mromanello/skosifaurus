@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058717> a skos:Concept ;
+    skos:altLabel "Karlstein (NÖ)"@en,
+        "Karlstein (NÖ)"@fr,
+        "Karlstein (NÖ)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039004> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterZZ--RKarlstein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karlstein (NÖ)"@de .
+

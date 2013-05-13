@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079420> a skos:Concept ;
+    skos:altLabel "Frayssinet-le-Gélat"@en,
+        "Frayssinet-le-Gélat"@fr,
+        "Frayssinet-le-Gélat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038819> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLotFrayssine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frayssinet-le-Gélat"@de .
+

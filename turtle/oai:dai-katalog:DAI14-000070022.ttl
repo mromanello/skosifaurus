@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070022> a skos:Concept ;
+    skos:altLabel "Arma di Nasino"@en,
+        "Arma di Nasino"@fr,
+        "Arma di Nasino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039170> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLigurSavonArma di N" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arma di Nasino"@de .
+

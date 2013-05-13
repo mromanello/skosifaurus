@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016812> a skos:Concept ;
+    skos:altLabel "Ordre social"@fr,
+        "Social structure"@en,
+        "Struktura spoleczna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016811> ;
+    skos:hiddenLabel "yRGKArch10 - GeselGeselSozia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sozialordnung"@de .
+

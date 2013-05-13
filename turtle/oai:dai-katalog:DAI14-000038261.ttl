@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038261> a skos:Concept ;
+    skos:altLabel "Neuchâtel 2005"@en,
+        "Neuchâtel 2005"@fr,
+        "Neuchâtel 2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNeuchâtel 2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuchâtel 2005"@de .
+

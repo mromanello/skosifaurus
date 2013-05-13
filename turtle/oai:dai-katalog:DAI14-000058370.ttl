@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058370> a skos:Concept ;
+    skos:altLabel "Flavia Solva"@en,
+        "Flavia Solva"@fr,
+        "Flavia Solva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieFlavia So" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Flavia Solva"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076262> a skos:Concept ;
+    skos:altLabel "Manching-Oberstimm"@en,
+        "Manching-Oberstimm"@fr,
+        "Manching-Oberstimm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075449> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerPfaffManching-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Manching-Oberstimm"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008164> a skos:Concept ;
+    skos:altLabel "Eggers, Hans Jürgen"@en,
+        "Eggers, Hans Jürgen"@fr,
+        "Eggers, Hans Jürgen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoEggers, Hans Jürgen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eggers, Hans Jürgen"@de .
+

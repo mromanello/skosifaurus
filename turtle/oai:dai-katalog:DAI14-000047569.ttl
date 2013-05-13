@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047569> a skos:Concept ;
+    skos:altLabel "Little Totham-Chigborough Farm"@en,
+        "Little Totham-Chigborough Farm"@fr,
+        "Little Totham-Chigborough Farm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077688> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssexLittle To" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Little Totham-Chigborough Farm"@de .
+

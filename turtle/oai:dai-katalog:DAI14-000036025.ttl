@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036025> a skos:Concept ;
+    skos:altLabel "Herbeumont o. Jahr"@en,
+        "Herbeumont o. Jahr"@fr,
+        "Herbeumont o. Jahr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrHerbeumont o. Jahr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herbeumont o. Jahr"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029829> a skos:Concept ;
+    skos:altLabel "Wien, Museum der Anthropologischen Gesellschaft"@en,
+        "Wien, Museum der Anthropologischen Gesellschaft"@fr,
+        "Wien, Museum der Anthropologischen Gesellschaft"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuWien, Museum der Anthropologischen Gesellschaft" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wien, Museum der Anthropologischen Gesellschaft"@de .
+

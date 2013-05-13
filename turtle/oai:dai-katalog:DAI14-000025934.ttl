@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025934> a skos:Concept ;
+    skos:altLabel "Annecy 1984"@en,
+        "Annecy 1984"@fr,
+        "Annecy 1984"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstAnnecy 1984" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Annecy 1984"@de .
+

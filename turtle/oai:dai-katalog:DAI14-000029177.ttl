@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029177> a skos:Concept ;
+    skos:altLabel "Vaison-la-Romaine, Musée Archéologique"@en,
+        "Vaison-la-Romaine, Musée Archéologique"@fr,
+        "Vaison-la-Romaine, Musée Archéologique"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVaison-la-Romaine, Musée Archéologique" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vaison-la-Romaine, Musée Archéologique"@de .
+

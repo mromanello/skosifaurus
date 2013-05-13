@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008996> a skos:Concept ;
+    skos:altLabel "Laville, Henri"@en,
+        "Laville, Henri"@fr,
+        "Laville, Henri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLaville, Henri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Laville, Henri"@de .
+

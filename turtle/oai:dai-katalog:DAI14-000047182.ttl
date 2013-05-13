@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047182> a skos:Concept ;
+    skos:altLabel "Frensham"@en,
+        "Frensham"@fr,
+        "Frensham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077709> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSurreFrensham" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frensham"@de .
+

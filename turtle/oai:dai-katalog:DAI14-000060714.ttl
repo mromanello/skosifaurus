@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060714> a skos:Concept ;
+    skos:altLabel "Wróblin"@en,
+        "Wróblin"@fr,
+        "Wróblin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsWróblin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wróblin"@de .
+

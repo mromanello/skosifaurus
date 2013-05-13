@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027034> a skos:Concept ;
+    skos:altLabel "Pas-de-Calais 1991"@en,
+        "Pas-de-Calais 1991"@fr,
+        "Pas-de-Calais 1991"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstPas-de-Calais 1991" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pas-de-Calais 1991"@de .
+

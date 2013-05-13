@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075547> a skos:Concept ;
+    skos:altLabel "Crâmpoia, jud. Olt"@en,
+        "Crâmpoia, jud. Olt"@fr,
+        "Crâmpoia, jud. Olt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenCrâmpoia," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crâmpoia, jud. Olt"@de .
+

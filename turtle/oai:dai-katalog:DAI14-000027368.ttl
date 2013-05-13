@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027368> a skos:Concept ;
+    skos:altLabel "Trieste 1997"@en,
+        "Trieste 1997"@fr,
+        "Trieste 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstTrieste 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trieste 1997"@de .
+

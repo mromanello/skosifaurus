@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039772> a skos:Concept ;
+    skos:altLabel "Bjerringbro"@en,
+        "Bjerringbro"@fr,
+        "Bjerringbro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemBjerringb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bjerringbro"@de .
+

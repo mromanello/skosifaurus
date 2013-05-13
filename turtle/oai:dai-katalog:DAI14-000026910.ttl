@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026910> a skos:Concept ;
+    skos:altLabel "New Haven 1996"@en,
+        "New Haven 1996"@fr,
+        "New Haven 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNew Haven 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "New Haven 1996"@de .
+

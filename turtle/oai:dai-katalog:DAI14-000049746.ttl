@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049746> a skos:Concept ;
+    skos:altLabel "Groetpolder, Zeewijk"@en,
+        "Groetpolder, Zeewijk"@fr,
+        "Groetpolder, Zeewijk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038858> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeNoordGroetpold" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Groetpolder, Zeewijk"@de .
+

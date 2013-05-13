@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011557> a skos:Concept ;
+    skos:altLabel "Kopernicki, Izydor"@en,
+        "Kopernicki, Izydor"@fr,
+        "Kopernicki, Izydor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKopernicki, Izydor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kopernicki, Izydor"@de .
+

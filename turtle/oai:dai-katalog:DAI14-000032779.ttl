@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032779> a skos:Concept ;
+    skos:altLabel "Naczynie na wonnosci"@pl,
+        "Salbgefässe"@en,
+        "Salbgefässe"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013957> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGefäsKeramGefäsSalbg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salbgefässe"@de .
+

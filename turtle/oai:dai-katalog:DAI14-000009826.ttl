@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009826> a skos:Concept ;
+    skos:altLabel "Schmidt, Robert Rudolf"@en,
+        "Schmidt, Robert Rudolf"@fr,
+        "Schmidt, Robert Rudolf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSchmidt, Robert Rudolf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schmidt, Robert Rudolf"@de .
+

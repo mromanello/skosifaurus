@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069155> a skos:Concept ;
+    skos:altLabel "Dnjepr-Doneck"@en,
+        "Dnjepr-Doneck"@fr,
+        "Dnjepr-Doneck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077455> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiDnjepr-Do" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dnjepr-Doneck"@de .
+

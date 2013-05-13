@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015421> a skos:Concept ;
+    skos:altLabel "Balances/poids"@fr,
+        "Balances/weights"@en,
+        "Wagi/ciezarki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015416> ;
+    skos:hiddenLabel "yRGKArch09 - FundeGerätMessgWaage" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Waagen und Gewichte"@de .
+

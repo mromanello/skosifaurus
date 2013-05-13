@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006495> a skos:Concept ;
+    skos:altLabel "Hultgård, Anders"@en,
+        "Hultgård, Anders"@fr,
+        "Hultgård, Anders"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHultgård, Anders" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hultgård, Anders"@de .
+

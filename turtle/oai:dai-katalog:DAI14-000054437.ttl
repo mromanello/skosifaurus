@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054437> a skos:Concept ;
+    skos:altLabel "Reepsholt, Gde. Friedeburg"@en,
+        "Reepsholt, Gde. Friedeburg"@fr,
+        "Reepsholt, Gde. Friedeburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075552> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWittmReepsholt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reepsholt, Gde. Friedeburg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060375> a skos:Concept ;
+    skos:altLabel "Iłża"@en,
+        "Iłża"@fr,
+        "Iłża"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039022> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowZZ--RIłża" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iłża"@de .
+

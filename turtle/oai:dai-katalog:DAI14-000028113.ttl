@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028113> a skos:Concept ;
+    skos:altLabel "Gniezno, Archiwum Archidiecezjalne w Gnieźnie"@en,
+        "Gniezno, Archiwum Archidiecezjalne w Gnieźnie"@fr,
+        "Gniezno, Archiwum Archidiecezjalne w Gnieźnie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGniezno, Archiwum Archidiecezjalne w Gnieźnie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gniezno, Archiwum Archidiecezjalne w Gnieźnie"@de .
+

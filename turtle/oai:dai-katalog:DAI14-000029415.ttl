@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029415> a skos:Concept ;
+    skos:altLabel "Bregenz, Vorarlberger Landesmuseum"@en,
+        "Bregenz, Vorarlberger Landesmuseum"@fr,
+        "Bregenz, Vorarlberger Landesmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBregenz, Vorarlberger Landesmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bregenz, Vorarlberger Landesmuseum"@de .
+

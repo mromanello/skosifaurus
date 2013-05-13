@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080787> a skos:Concept ;
+    skos:altLabel "Buy"@en,
+        "Buy"@fr,
+        "Buy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039056> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweWaadtBuy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buy"@de .
+

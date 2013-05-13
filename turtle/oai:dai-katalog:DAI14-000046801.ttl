@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046801> a skos:Concept ;
+    skos:altLabel "Bulleigh"@en,
+        "Bulleigh"@fr,
+        "Bulleigh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077685> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDevonBulleigh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bulleigh"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055103> a skos:Concept ;
+    skos:altLabel "Brühl, Franziskanerhof"@en,
+        "Brühl, Franziskanerhof"@fr,
+        "Brühl, Franziskanerhof"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038895> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrRheinBrühl, Fr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brühl, Franziskanerhof"@de .
+

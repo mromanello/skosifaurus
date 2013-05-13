@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018546> a skos:Concept ;
+    skos:altLabel "Ecclesiastical organisations"@en,
+        "Organisation de l'église"@fr,
+        "Organizacja koscielna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018543> ;
+    skos:hiddenLabel "yRGKArch12 - GeselReligReligChrisKirch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kirchenorganisation"@de .
+

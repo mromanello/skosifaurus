@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030626> a skos:Concept ;
+    skos:altLabel "Kommission Kommunalarchäologie"@en,
+        "Kommission Kommunalarchäologie"@fr,
+        "Kommission Kommunalarchäologie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiKommission Kommunalarchäologie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kommission Kommunalarchäologie"@de .
+

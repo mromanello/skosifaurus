@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043542> a skos:Concept ;
+    skos:altLabel "Roz-sur-Couesnon"@en,
+        "Roz-sur-Couesnon"@fr,
+        "Roz-sur-Couesnon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038760> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIlle-Roz-sur-C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roz-sur-Couesnon"@de .
+

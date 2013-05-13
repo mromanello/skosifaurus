@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053010> a skos:Concept ;
+    skos:altLabel "Bad Vilbel"@en,
+        "Bad Vilbel"@fr,
+        "Bad Vilbel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075509> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWetteBad Vilbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Vilbel"@de .
+

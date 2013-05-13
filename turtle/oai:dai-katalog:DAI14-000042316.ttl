@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042316> a skos:Concept ;
+    skos:altLabel "Songeons"@en,
+        "Songeons"@fr,
+        "Songeons"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038729> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOiseSongeons" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Songeons"@de .
+

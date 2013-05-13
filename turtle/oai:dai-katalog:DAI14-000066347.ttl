@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066347> a skos:Concept ;
+    skos:altLabel "Butuceni, raj. Orhei"@en,
+        "Butuceni, raj. Orhei"@fr,
+        "Butuceni, raj. Orhei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaButuceni," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Butuceni, raj. Orhei"@de .
+

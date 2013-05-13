@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077259> a skos:Concept ;
+    skos:altLabel "Revel-Tourdan"@en,
+        "Revel-Tourdan"@fr,
+        "Revel-Tourdan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038803> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveIsèreRevel-Tou" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Revel-Tourdan"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028335> a skos:Concept ;
+    skos:altLabel "Krems, Museum"@en,
+        "Krems, Museum"@fr,
+        "Krems, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKrems, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krems, Museum"@de .
+

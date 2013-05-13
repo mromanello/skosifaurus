@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031186> a skos:Concept ;
+    skos:altLabel "Sotheby Parke Bernet Co., London 1983"@en,
+        "Sotheby Parke Bernet Co., London 1983"@fr,
+        "Sotheby Parke Bernet Co., London 1983"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiSotheby Parke Bernet Co., London 1983" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sotheby Parke Bernet Co., London 1983"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042367> a skos:Concept ;
+    skos:altLabel "Étaples, \"Sablins\""@en,
+        "Étaples, \"Sablins\""@fr,
+        "Étaples, \"Sablins\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038731> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dPas-dÉtaples," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Étaples, \"Sablins\""@de .
+

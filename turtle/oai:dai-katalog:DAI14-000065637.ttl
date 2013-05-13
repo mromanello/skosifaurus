@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065637> a skos:Concept ;
+    skos:altLabel "Prorva, obl. Gomel"@en,
+        "Prorva, obl. Gomel"@fr,
+        "Prorva, obl. Gomel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarProrva, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prorva, obl. Gomel"@de .
+

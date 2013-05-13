@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050817> a skos:Concept ;
+    skos:altLabel "Amberg"@en,
+        "Amberg"@fr,
+        "Amberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075371> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAmberAmberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amberg"@de .
+

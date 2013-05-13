@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039624> a skos:Concept ;
+    skos:altLabel "Dubičiai, Varčna raj."@en,
+        "Dubičiai, Varčna raj."@fr,
+        "Dubičiai, Varčna raj."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038702> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiLitauDubičiai," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dubičiai, Varčna raj."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015077> a skos:Concept ;
+    skos:altLabel "Nomadism"@en,
+        "Nomadisme"@fr,
+        "Nomadyzm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015044> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsNomad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nomadentum"@de .
+

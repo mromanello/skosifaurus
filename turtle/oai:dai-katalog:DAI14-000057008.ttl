@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057008> a skos:Concept ;
+    skos:altLabel "Anrode"@en,
+        "Anrode"@fr,
+        "Anrode"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075617> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriUnstrAnrode" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anrode"@de .
+

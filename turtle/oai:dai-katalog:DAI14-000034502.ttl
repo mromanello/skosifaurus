@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034502> a skos:Concept ;
+    skos:altLabel "Herzögin Paul Friedrich von Mecklenburg"@en,
+        "Herzögin Paul Friedrich von Mecklenburg"@fr,
+        "Herzögin Paul Friedrich von Mecklenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaHerzögin Paul Friedrich von Mecklenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herzögin Paul Friedrich von Mecklenburg"@de .
+

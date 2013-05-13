@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047884> a skos:Concept ;
+    skos:altLabel "Pleshey"@en,
+        "Pleshey"@fr,
+        "Pleshey"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077688> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssexPleshey" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pleshey"@de .
+

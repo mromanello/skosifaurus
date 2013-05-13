@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035354> a skos:Concept ;
+    skos:altLabel "Bournemouth 1993"@en,
+        "Bournemouth 1993"@fr,
+        "Bournemouth 1993"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBournemouth 1993" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bournemouth 1993"@de .
+

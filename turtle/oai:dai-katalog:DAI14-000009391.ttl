@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009391> a skos:Concept ;
+    skos:altLabel "Nohejlová-Prátová, Émanuela"@en,
+        "Nohejlová-Prátová, Émanuela"@fr,
+        "Nohejlová-Prátová, Émanuela"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNohejlová-Prátová, Émanuela" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nohejlová-Prátová, Émanuela"@de .
+

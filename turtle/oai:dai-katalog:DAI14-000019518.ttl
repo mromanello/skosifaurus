@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019518> a skos:Concept ;
+    skos:altLabel "Détecteurs de métal"@fr,
+        "Metal detectors"@en,
+        "Wykrywacze metali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019516> ;
+    skos:hiddenLabel "yRGKMethAusgrProspFlurbMetal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Metallsonden"@de .
+

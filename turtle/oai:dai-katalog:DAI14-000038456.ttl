@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038456> a skos:Concept ;
+    skos:altLabel "Yenne-Chambéry 1986"@en,
+        "Yenne-Chambéry 1986"@fr,
+        "Yenne-Chambéry 1986"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrYenne-Chambéry 1986" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Yenne-Chambéry 1986"@de .
+

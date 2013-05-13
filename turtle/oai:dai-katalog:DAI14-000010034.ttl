@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010034> a skos:Concept ;
+    skos:altLabel "Syme, Ronald"@en,
+        "Syme, Ronald"@fr,
+        "Syme, Ronald"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSyme, Ronald" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Syme, Ronald"@de .
+

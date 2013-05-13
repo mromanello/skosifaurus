@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022857> a skos:Concept ;
+    skos:altLabel "Ortenburg, Grafen von"@en,
+        "Ortenburg, Grafen von"@fr,
+        "Ortenburg, Grafen von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschOrtenburg, Grafen von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ortenburg, Grafen von"@de .
+

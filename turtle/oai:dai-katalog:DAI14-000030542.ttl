@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030542> a skos:Concept ;
+    skos:altLabel "Biskupin, Pracownia Konserwacji Drewna"@en,
+        "Biskupin, Pracownia Konserwacji Drewna"@fr,
+        "Biskupin, Pracownia Konserwacji Drewna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiBiskupin, Pracownia Konserwacji Drewna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Biskupin, Pracownia Konserwacji Drewna"@de .
+

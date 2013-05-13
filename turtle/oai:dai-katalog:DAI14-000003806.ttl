@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003806> a skos:Concept ;
+    skos:altLabel "building inscriptions"@en,
+        "inscriptions des bâtiments"@fr,
+        "iscrizioni edilizie"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003785> ;
+    skos:hiddenLabel "xEpigrLatBau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bauinschriften"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067581> a skos:Concept ;
+    skos:altLabel "Poiana Sărată, jud. Bacău"@en,
+        "Poiana Sărată, jud. Bacău"@fr,
+        "Poiana Sărată, jud. Bacău"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoPoiana Să" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poiana Sărată, jud. Bacău"@de .
+

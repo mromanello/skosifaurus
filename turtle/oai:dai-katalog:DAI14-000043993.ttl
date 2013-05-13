@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043993> a skos:Concept ;
+    skos:altLabel "Mor Braz"@en,
+        "Mor Braz"@fr,
+        "Mor Braz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RMor Braz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mor Braz"@de .
+

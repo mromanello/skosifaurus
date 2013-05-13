@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077623> a skos:Concept ;
+    skos:altLabel "Rott am Inn"@en,
+        "Rott am Inn"@fr,
+        "Rott am Inn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075453> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRosenRott am I" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rott am Inn"@de .
+

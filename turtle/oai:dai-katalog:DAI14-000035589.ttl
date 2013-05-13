@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035589> a skos:Concept ;
+    skos:altLabel "Comano Terme-Fiavè 2001"@en,
+        "Comano Terme-Fiavè 2001"@fr,
+        "Comano Terme-Fiavè 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrComano Terme-Fiavè 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Comano Terme-Fiavè 2001"@de .
+

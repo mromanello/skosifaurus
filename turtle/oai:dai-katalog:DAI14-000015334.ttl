@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015334> a skos:Concept ;
+    skos:altLabel "Samian ware/Imitations"@en,
+        "Sigillées/Imitationes"@fr,
+        "Terra sigillata/imitacje"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015333> ;
+    skos:hiddenLabel "yRGKArch09 - FundeGefäsKeramFeinkTerra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Terra Sigillata/Imitationen"@de .
+

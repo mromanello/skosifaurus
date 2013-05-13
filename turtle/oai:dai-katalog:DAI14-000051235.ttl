@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051235> a skos:Concept ;
+    skos:altLabel "Seehausen-Wörth"@en,
+        "Seehausen-Wörth"@fr,
+        "Seehausen-Wörth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075415> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerGarmiSeehausen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seehausen-Wörth"@de .
+

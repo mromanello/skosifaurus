@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074410> a skos:Concept ;
+    skos:altLabel "El Kowm"@en,
+        "El Kowm"@fr,
+        "El Kowm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000074492> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieEl Kowm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "El Kowm"@de .
+

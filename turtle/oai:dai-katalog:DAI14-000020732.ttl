@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020732> a skos:Concept ;
+    skos:altLabel "Sîntana de Mureş-Černjachov"@en,
+        "Sîntana de Mureş-Černjachov"@fr,
+        "Sîntana de Mureş-Černjachov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Sîntana de Mureş-Černjachov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sîntana de Mureş-Černjachov"@de .
+

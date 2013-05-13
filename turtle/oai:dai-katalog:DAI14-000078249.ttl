@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078249> a skos:Concept ;
+    skos:altLabel "Bernières-sur-Mer"@en,
+        "Bernières-sur-Mer"@fr,
+        "Bernières-sur-Mer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038725> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dCalvaBernières" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bernières-sur-Mer"@de .
+

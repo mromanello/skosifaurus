@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015485> a skos:Concept ;
+    skos:altLabel "Cruciform brooches"@en,
+        "Fibule z guzkami cebulastymi"@pl,
+        "Fibules cruciformes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015460> ;
+    skos:hiddenLabel "yRGKArch09 - FundeKleidFibelZwieb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zwiebelknopffibeln"@de .
+

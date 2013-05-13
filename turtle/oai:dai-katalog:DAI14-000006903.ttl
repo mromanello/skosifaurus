@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006903> a skos:Concept ;
+    skos:altLabel "Saxer, Victor"@en,
+        "Saxer, Victor"@fr,
+        "Saxer, Victor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsSaxer, Victor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saxer, Victor"@de .
+

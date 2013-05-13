@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032683> a skos:Concept ;
+    skos:altLabel "Kálmán <Magyarország, Király, I.>"@en,
+        "Kálmán <Magyarország, Király, I.>"@fr,
+        "Kálmán <Magyarország, Király, I.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKálmán <Magyarország, Király, I.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kálmán <Magyarország, Király, I.>"@de .
+

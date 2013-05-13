@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083947> a skos:Concept ;
+    skos:altLabel "Leutenbach"@en,
+        "Leutenbach"@fr,
+        "Leutenbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075443> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNeumaLeutenbac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leutenbach"@de .
+

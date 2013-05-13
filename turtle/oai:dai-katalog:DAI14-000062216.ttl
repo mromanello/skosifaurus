@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062216> a skos:Concept ;
+    skos:altLabel "Nuglar-St. Pantaleon"@en,
+        "Nuglar-St. Pantaleon"@fr,
+        "Nuglar-St. Pantaleon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039051> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweSolotNuglar-St" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nuglar-St. Pantaleon"@de .
+

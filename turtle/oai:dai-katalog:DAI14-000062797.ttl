@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062797> a skos:Concept ;
+    skos:altLabel "Moravany nad Váhom, okr. Piešt'any"@en,
+        "Moravany nad Váhom, okr. Piešt'any"@fr,
+        "Moravany nad Váhom, okr. Piešt'any"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaMoravany" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moravany nad Váhom, okr. Piešt'any"@de .
+

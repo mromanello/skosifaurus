@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071193> a skos:Concept ;
+    skos:altLabel "Pieve Fosciana"@en,
+        "Pieve Fosciana"@fr,
+        "Pieve Fosciana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039207> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaLuccaPieve Fos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pieve Fosciana"@de .
+

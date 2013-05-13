@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015171> a skos:Concept ;
+    skos:altLabel "Przechowywanie zapasów"@pl,
+        "Stockage"@fr,
+        "Storage"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015044> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsVorra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vorratshaltung"@de .
+

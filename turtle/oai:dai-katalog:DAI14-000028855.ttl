@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028855> a skos:Concept ;
+    skos:altLabel "Roma, Palazzo Altemps"@en,
+        "Roma, Palazzo Altemps"@fr,
+        "Roma, Palazzo Altemps"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Palazzo Altemps" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Palazzo Altemps"@de .
+

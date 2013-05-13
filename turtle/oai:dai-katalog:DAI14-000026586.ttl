@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026586> a skos:Concept ;
+    skos:altLabel "Krosno 2002"@en,
+        "Krosno 2002"@fr,
+        "Krosno 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstKrosno 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krosno 2002"@de .
+

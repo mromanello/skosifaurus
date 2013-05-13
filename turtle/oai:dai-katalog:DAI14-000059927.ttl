@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059927> a skos:Concept ;
+    skos:altLabel "Bąkowa Góra"@en,
+        "Bąkowa Góra"@fr,
+        "Bąkowa Góra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkBąkowa Gó" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bąkowa Góra"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032249> a skos:Concept ;
+    skos:altLabel "Ius Civile"@en,
+        "Ius Civile"@fr,
+        "Ius Civile"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012500> ;
+    skos:hiddenLabel "yRGKArch02 - SchriJurisLegesIus Civile" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ius Civile"@de .
+

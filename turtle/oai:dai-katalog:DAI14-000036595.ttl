@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036595> a skos:Concept ;
+    skos:altLabel "Marburg 1988"@en,
+        "Marburg 1988"@fr,
+        "Marburg 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMarburg 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marburg 1988"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050187> a skos:Concept ;
+    skos:altLabel "Neuenstadt am Kocher"@en,
+        "Neuenstadt am Kocher"@fr,
+        "Neuenstadt am Kocher"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075342> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeilbNeuenstad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuenstadt am Kocher"@de .
+

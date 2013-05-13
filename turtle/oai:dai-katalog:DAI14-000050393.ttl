@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050393> a skos:Concept ;
+    skos:altLabel "Achern"@en,
+        "Achern"@fr,
+        "Achern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075351> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenOrtenAchern" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Achern"@de .
+

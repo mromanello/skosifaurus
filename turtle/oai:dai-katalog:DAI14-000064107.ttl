@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064107> a skos:Concept ;
+    skos:altLabel "Zabrušany, okr. Teplice"@en,
+        "Zabrušany, okr. Teplice"@fr,
+        "Zabrušany, okr. Teplice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyZabrušany" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zabrušany, okr. Teplice"@de .
+

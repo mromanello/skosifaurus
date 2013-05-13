@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010342> a skos:Concept ;
+    skos:altLabel "Winkler, Eike-Meinrad"@en,
+        "Winkler, Eike-Meinrad"@fr,
+        "Winkler, Eike-Meinrad"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWinkler, Eike-Meinrad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winkler, Eike-Meinrad"@de .
+

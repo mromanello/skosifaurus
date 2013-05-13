@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068636> a skos:Concept ;
+    skos:altLabel "Dniprovs'ke"@en,
+        "Dniprovs'ke"@fr,
+        "Dniprovs'ke"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiDniprovs'" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dniprovs'ke"@de .
+

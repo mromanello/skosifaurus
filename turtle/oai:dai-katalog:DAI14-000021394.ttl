@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021394> a skos:Concept ;
+    skos:altLabel "Schilling, Diebold <der Ältere>"@en,
+        "Schilling, Diebold <der Ältere>"@fr,
+        "Schilling, Diebold <der Ältere>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoSchilling, Diebold <der Ältere>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schilling, Diebold <der Ältere>"@de .
+

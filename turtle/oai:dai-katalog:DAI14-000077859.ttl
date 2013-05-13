@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077859> a skos:Concept ;
+    skos:altLabel "Północnomazowiecka Nizina"@en,
+        "Północnomazowiecka Nizina"@fr,
+        "Północnomazowiecka Nizina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039013> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazurZZ--RPółnocnom" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Północnomazowiecka Nizina"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063660> a skos:Concept ;
+    skos:altLabel "Kněżívka, okr. Praha-západ"@en,
+        "Kněżívka, okr. Praha-západ"@fr,
+        "Kněżívka, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKněżívka," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kněżívka, okr. Praha-západ"@de .
+

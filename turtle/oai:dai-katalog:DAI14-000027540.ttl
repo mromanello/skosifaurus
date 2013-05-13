@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027540> a skos:Concept ;
+    skos:altLabel "Alberta, University, Department of Classics"@en,
+        "Alberta, University, Department of Classics"@fr,
+        "Alberta, University, Department of Classics"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAlberta, University, Department of Classics" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alberta, University, Department of Classics"@de .
+

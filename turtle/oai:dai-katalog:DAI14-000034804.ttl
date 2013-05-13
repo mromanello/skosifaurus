@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034804> a skos:Concept ;
+    skos:altLabel "Galerius <Römisches Reich, Kaiser>"@en,
+        "Galerius <Römisches Reich, Kaiser>"@fr,
+        "Galerius <Römisches Reich, Kaiser>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGalerius <Römisches Reich, Kaiser>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Galerius <Römisches Reich, Kaiser>"@de .
+

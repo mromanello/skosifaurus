@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011211> a skos:Concept ;
+    skos:altLabel "Vocel, Jan Erazim"@en,
+        "Vocel, Jan Erazim"@fr,
+        "Vocel, Jan Erazim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoVocel, Jan Erazim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vocel, Jan Erazim"@de .
+

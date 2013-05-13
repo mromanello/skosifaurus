@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084453> a skos:Concept ;
+    skos:altLabel "Salemi"@en,
+        "Salemi"@fr,
+        "Salemi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039268> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilTrapaSalemi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salemi"@de .
+

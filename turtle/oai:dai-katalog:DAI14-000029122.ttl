@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029122> a skos:Concept ;
+    skos:altLabel "Tortona, Civico Museo Romano"@en,
+        "Tortona, Civico Museo Romano"@fr,
+        "Tortona, Civico Museo Romano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTortona, Civico Museo Romano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tortona, Civico Museo Romano"@de .
+

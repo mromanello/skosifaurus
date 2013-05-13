@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006540> a skos:Concept ;
+    skos:altLabel "Karyškovski, Piotr Osipovič"@en,
+        "Karyškovski, Piotr Osipovič"@fr,
+        "Karyškovski, Piotr Osipovič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsKaryškovski, Piotr Osipovič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karyškovski, Piotr Osipovič"@de .
+

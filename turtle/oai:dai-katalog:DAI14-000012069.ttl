@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012069> a skos:Concept ;
+    skos:altLabel "Czerny, Marianus"@en,
+        "Czerny, Marianus"@fr,
+        "Czerny, Marianus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCzerny, Marianus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Czerny, Marianus"@de .
+

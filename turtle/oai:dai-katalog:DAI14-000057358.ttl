@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057358> a skos:Concept ;
+    skos:altLabel "Mali Bilač"@en,
+        "Mali Bilač"@fr,
+        "Mali Bilač"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatMali Bila" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mali Bilač"@de .
+

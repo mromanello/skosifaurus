@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057282> a skos:Concept ;
+    skos:altLabel "Kamensko"@en,
+        "Kamensko"@fr,
+        "Kamensko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatKamensko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kamensko"@de .
+

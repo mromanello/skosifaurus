@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050725> a skos:Concept ;
+    skos:altLabel "Haigerloch-Owingen"@en,
+        "Haigerloch-Owingen"@fr,
+        "Haigerloch-Owingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075368> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenZolleHaigerloc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haigerloch-Owingen"@de .
+

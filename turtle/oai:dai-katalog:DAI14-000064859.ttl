@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064859> a skos:Concept ;
+    skos:altLabel "Báta"@en,
+        "Báta"@fr,
+        "Báta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039075> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuTolnaBáta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Báta"@de .
+

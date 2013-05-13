@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061866> a skos:Concept ;
+    skos:altLabel "Moosseedorf-Moosbühl"@en,
+        "Moosseedorf-Moosbühl"@fr,
+        "Moosseedorf-Moosbühl"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernMoosseedo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moosseedorf-Moosbühl"@de .
+

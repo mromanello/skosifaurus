@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079821> a skos:Concept ;
+    skos:altLabel "Mizen Peninsula"@en,
+        "Mizen Peninsula"@fr,
+        "Mizen Peninsula"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077520> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubCorkMizen Pen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mizen Peninsula"@de .
+

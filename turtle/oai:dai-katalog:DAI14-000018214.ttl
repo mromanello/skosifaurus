@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018214> a skos:Concept ;
+    skos:altLabel "Applications of books/books"@en,
+        "Ferrures des livres/livres"@fr,
+        "Okucia/obicia ksiag"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018049> ;
+    skos:hiddenLabel "yRGKArch12 - FundeBuchb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buchbeschläge/Bücher"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078244> a skos:Concept ;
+    skos:altLabel "D'Arcis-sur-Aube"@en,
+        "D'Arcis-sur-Aube"@fr,
+        "D'Arcis-sur-Aube"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038745> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacAubeD'Arcis-s" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "D'Arcis-sur-Aube"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011900> a skos:Concept ;
+    skos:altLabel "Prejawa, Hugo"@en,
+        "Prejawa, Hugo"@fr,
+        "Prejawa, Hugo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPrejawa, Hugo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prejawa, Hugo"@de .
+

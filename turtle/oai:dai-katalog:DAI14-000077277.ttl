@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077277> a skos:Concept ;
+    skos:altLabel "Pomorze Gdańskie"@en,
+        "Pomorze Gdańskie"@fr,
+        "Pomorze Gdańskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039010> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZZ--RPomorze G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pomorze Gdańskie"@de .
+

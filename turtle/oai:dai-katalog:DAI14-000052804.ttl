@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052804> a skos:Concept ;
+    skos:altLabel "Limburg an der Lahn"@en,
+        "Limburg an der Lahn"@fr,
+        "Limburg an der Lahn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075499> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseLimbuLimburg a" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Limburg an der Lahn"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058211> a skos:Concept ;
+    skos:altLabel "Holzleiten, KG Neubau, VB Linz-Land"@en,
+        "Holzleiten, KG Neubau, VB Linz-Land"@fr,
+        "Holzleiten, KG Neubau, VB Linz-Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöHolzleite" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holzleiten, KG Neubau, VB Linz-Land"@de .
+

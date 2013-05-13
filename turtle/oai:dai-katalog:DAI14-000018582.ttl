@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018582> a skos:Concept ;
+    skos:altLabel "Architecture/monuments"@en,
+        "Architecture/monuments"@fr,
+        "Architektura"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018576> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstIkonoProfaArchi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Architektur/Monumente"@de .
+

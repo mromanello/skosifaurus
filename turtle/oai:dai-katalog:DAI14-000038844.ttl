@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038844> a skos:Concept ;
+    skos:altLabel "Irlande du Nord"@fr,
+        "Irlandia Pţlnocna"@pl,
+        "Northern Ireland"@en ;
+    skos:broader <http://data.dainst.de/zenon/000038838> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossNordi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nordirland"@de .
+

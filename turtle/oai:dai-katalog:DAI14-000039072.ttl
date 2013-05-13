@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039072> a skos:Concept ;
+    skos:altLabel "Györ-Moson-Sopron"@en,
+        "Győr-Moson-Sopron"@fr,
+        "Győr-Moson-Sopron"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039069> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuGyőr-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Győr-Moson-Sopron"@de .
+

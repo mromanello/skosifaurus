@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063789> a skos:Concept ;
+    skos:altLabel "Mýto, okr. Rokycany"@en,
+        "Mýto, okr. Rokycany"@fr,
+        "Mýto, okr. Rokycany"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyMýto, okr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mýto, okr. Rokycany"@de .
+

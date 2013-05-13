@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084993> a skos:Concept ;
+    skos:altLabel "Kaisersbach"@en,
+        "Kaisersbach"@fr,
+        "Kaisersbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075356> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRems-Kaisersbach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaisersbach"@de .
+

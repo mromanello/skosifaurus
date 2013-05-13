@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024271> a skos:Concept ;
+    skos:altLabel "Clodius Albinus"@en,
+        "Clodius Albinus"@fr,
+        "Clodius Albinus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015995> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKunstIkonoProfaMenscPortrClodius Albinus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Clodius Albinus"@de .
+

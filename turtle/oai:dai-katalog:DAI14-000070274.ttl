@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070274> a skos:Concept ;
+    skos:altLabel "La Venèra"@en,
+        "La Venèra"@fr,
+        "La Venèra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronLa Venèra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Venèra"@de .
+

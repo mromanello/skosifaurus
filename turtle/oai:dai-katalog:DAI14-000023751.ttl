@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023751> a skos:Concept ;
+    skos:altLabel "Legio VIII Augusta"@en,
+        "Legio VIII Augusta"@fr,
+        "Legio VIII Augusta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeLegio VIII Augusta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legio VIII Augusta"@de .
+

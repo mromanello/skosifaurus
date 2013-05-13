@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021885> a skos:Concept ;
+    skos:altLabel "Kuno <von Münzenberg>"@en,
+        "Kuno <von Münzenberg>"@fr,
+        "Kuno <von Münzenberg>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKuno <von Münzenberg>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kuno <von Münzenberg>"@de .
+

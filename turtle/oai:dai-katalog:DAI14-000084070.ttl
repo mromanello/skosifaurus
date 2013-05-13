@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084070> a skos:Concept ;
+    skos:altLabel "Grossprüfening"@en,
+        "Grossprüfening"@fr,
+        "Grossprüfening"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075451> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRegenGrossprüf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossprüfening"@de .
+

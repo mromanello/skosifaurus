@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071451> a skos:Concept ;
+    skos:altLabel "Bolognano"@en,
+        "Bolognano"@fr,
+        "Bolognano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039224> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaAbruzPescaBolognano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bolognano"@de .
+

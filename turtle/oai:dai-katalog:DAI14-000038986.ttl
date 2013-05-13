@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038986> a skos:Concept ;
+    skos:altLabel "Steinburg"@en,
+        "Steinburg"@fr,
+        "Steinburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038972> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleStein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Steinburg"@de .
+

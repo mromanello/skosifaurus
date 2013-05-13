@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060392> a skos:Concept ;
+    skos:altLabel "Radomska Puszcza"@en,
+        "Radomska Puszcza"@fr,
+        "Radomska Puszcza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039022> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowZZ--RRadomska" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Radomska Puszcza"@de .
+

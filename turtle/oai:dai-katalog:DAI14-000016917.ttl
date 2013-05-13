@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016917> a skos:Concept ;
+    skos:altLabel "Iconographie juive/chrétienne"@fr,
+        "Ikonografia zydowska/chrzescijanska"@pl,
+        "Jewish/christian iconography"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016913> ;
+    skos:hiddenLabel "yRGKArch10 - GeselKunstIkonoSakraJüdis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jüdische/christliche Ikonographie"@de .
+

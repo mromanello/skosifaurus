@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010585> a skos:Concept ;
+    skos:altLabel "Limburgs Geschied- en Oudheidkundig Genootschap"@en,
+        "Limburgs Geschied- en Oudheidkundig Genootschap"@fr,
+        "Limburgs Geschied- en Oudheidkundig Genootschap"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLimburgs Geschied- en Oudheidkundig Genootschap" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Limburgs Geschied- en Oudheidkundig Genootschap"@de .
+

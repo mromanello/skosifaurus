@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054792> a skos:Concept ;
+    skos:altLabel "Hamm"@en,
+        "Hamm"@fr,
+        "Hamm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075641> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHamm Hamm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hamm"@de .
+

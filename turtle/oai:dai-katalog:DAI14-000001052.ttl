@@ -1,0 +1,37 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001052_AliKoš> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Ali Koš" .
+
+<http://data.dainst.de/zenon/000001052_Azerbaidschan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Azerbaidschan" .
+
+<http://data.dainst.de/zenon/000001052_Geoj-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Geoj-Tepe" .
+
+<http://data.dainst.de/zenon/000001052_Hasanlu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Hasanlu" .
+
+<http://data.dainst.de/zenon/000001052_Khorasan(Horassan)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Khorasan (Horassan)" .
+
+<http://data.dainst.de/zenon/000001052_Marlik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Marlik" .
+
+<http://data.dainst.de/zenon/000001052_Seistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001052> ;
+    skos:prefLabel "Seistan" .
+
+<http://data.dainst.de/zenon/000001052> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.06.11" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iran"@de .
+

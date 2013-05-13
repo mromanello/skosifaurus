@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074986> a skos:Concept ;
+    skos:altLabel "Ust'-Kjachta"@en,
+        "Ust'-Kjachta"@fr,
+        "Ust'-Kjachta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiUst'-Kjac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ust'-Kjachta"@de .
+

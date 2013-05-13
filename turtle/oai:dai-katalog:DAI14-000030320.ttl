@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030320> a skos:Concept ;
+    skos:altLabel "Potoran, Eugen"@en,
+        "Potoran, Eugen"@fr,
+        "Potoran, Eugen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPotoran, Eugen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Potoran, Eugen"@de .
+

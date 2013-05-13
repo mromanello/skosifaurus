@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030366> a skos:Concept ;
+    skos:altLabel "Rudin-Lalonde, Kurt"@en,
+        "Rudin-Lalonde, Kurt"@fr,
+        "Rudin-Lalonde, Kurt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaRudin-Lalonde, Kurt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rudin-Lalonde, Kurt"@de .
+

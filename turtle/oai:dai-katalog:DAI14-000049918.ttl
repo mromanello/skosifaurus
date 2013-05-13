@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049918> a skos:Concept ;
+    skos:altLabel "Ehingen-Risstissen"@en,
+        "Ehingen-Risstissen"@fr,
+        "Ehingen-Risstissen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075326> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenAlb-DEhingen-R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ehingen-Risstissen"@de .
+

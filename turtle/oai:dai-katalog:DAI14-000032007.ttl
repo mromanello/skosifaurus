@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032007> a skos:Concept ;
+    skos:altLabel "Wacher, John Stewart"@en,
+        "Wacher, John Stewart"@fr,
+        "Wacher, John Stewart"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliWacher, John Stewart" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wacher, John Stewart"@de .
+

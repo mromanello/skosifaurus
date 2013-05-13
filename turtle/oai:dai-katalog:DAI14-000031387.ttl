@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031387> a skos:Concept ;
+    skos:altLabel "Dannheimer, Hermann"@en,
+        "Dannheimer, Hermann"@fr,
+        "Dannheimer, Hermann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliDannheimer, Hermann" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dannheimer, Hermann"@de .
+

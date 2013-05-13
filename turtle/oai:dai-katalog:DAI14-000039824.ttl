@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039824> a skos:Concept ;
+    skos:altLabel "Eilby, Fyn"@en,
+        "Eilby, Fyn"@fr,
+        "Eilby, Fyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemEilby, Fy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eilby, Fyn"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052081> a skos:Concept ;
+    skos:altLabel "Main-Tauber-Gebiet"@en,
+        "Main-Tauber-Gebiet"@fr,
+        "Main-Tauber-Gebiet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038869> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerZZ--RMain-Taub" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Main-Tauber-Gebiet"@de .
+

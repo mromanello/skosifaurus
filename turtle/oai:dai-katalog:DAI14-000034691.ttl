@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034691> a skos:Concept ;
+    skos:altLabel "Heilbronn 1999/2000"@en,
+        "Heilbronn 1999/2000"@fr,
+        "Heilbronn 1999/2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstHeilbronn 1999/2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heilbronn 1999/2000"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038414> a skos:Concept ;
+    skos:altLabel "Carlino 2009"@en,
+        "Carlino 2009"@fr,
+        "Carlino 2009"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCarlino 2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carlino 2009"@de .
+

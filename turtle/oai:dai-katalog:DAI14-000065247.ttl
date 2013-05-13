@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065247> a skos:Concept ;
+    skos:altLabel "Szentes-Várostanya"@en,
+        "Szentes-Várostanya"@fr,
+        "Szentes-Várostanya"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039084> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunCsongSzentes-V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Szentes-Várostanya"@de .
+

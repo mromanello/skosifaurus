@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043861> a skos:Concept ;
+    skos:altLabel "Groix, com. Saint-Benoist-sur-Mer"@en,
+        "Groix, com. Saint-Benoist-sur-Mer"@fr,
+        "Groix, com. Saint-Benoist-sur-Mer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038770> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaVendéGroix, co" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Groix, com. Saint-Benoist-sur-Mer"@de .
+

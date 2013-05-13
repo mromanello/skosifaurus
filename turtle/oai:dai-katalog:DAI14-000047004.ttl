@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047004> a skos:Concept ;
+    skos:altLabel "Crosby Lodge, Westmorland"@en,
+        "Crosby Lodge, Westmorland"@fr,
+        "Crosby Lodge, Westmorland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrCrosby Lo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crosby Lodge, Westmorland"@de .
+

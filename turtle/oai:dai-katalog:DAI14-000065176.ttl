@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065176> a skos:Concept ;
+    skos:altLabel "Regéc"@en,
+        "Regéc"@fr,
+        "Regéc"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039083> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBorsoRegéc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Regéc"@de .
+

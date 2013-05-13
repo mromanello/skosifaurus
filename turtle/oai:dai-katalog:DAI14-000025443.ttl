@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025443> a skos:Concept ;
+    skos:altLabel "Euphemios"@en,
+        "Euphemios"@fr,
+        "Euphemios"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018030> ;
+    skos:hiddenLabel "yRGKArch11 - HistoProsoEinzeEuphemios" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Euphemios"@de .
+

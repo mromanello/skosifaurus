@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054927> a skos:Concept ;
+    skos:altLabel "Balve"@en,
+        "Balve"@fr,
+        "Balve"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038882> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrMärkiBalve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Balve"@de .
+

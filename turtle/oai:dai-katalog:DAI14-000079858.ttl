@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079858> a skos:Concept ;
+    skos:altLabel "Hasankeyf"@en,
+        "Hasankeyf"@fr,
+        "Hasankeyf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeHasankeyf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hasankeyf"@de .
+

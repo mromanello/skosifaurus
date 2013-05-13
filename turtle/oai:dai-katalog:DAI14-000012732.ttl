@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012732> a skos:Concept ;
+    skos:altLabel "Kopytne"@pl,
+        "Ongulé"@fr,
+        "Ungulates"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012721> ;
+    skos:hiddenLabel "yRGKArch03 - NaturPaläoHufti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Huftiere"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030236> a skos:Concept ;
+    skos:altLabel "Mertens-Schaaffhausen, Sybille"@en,
+        "Mertens-Schaaffhausen, Sybille"@fr,
+        "Mertens-Schaaffhausen, Sybille"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaMertens-Schaaffhausen, Sybille" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mertens-Schaaffhausen, Sybille"@de .
+

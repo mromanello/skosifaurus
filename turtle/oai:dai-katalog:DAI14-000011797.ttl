@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011797> a skos:Concept ;
+    skos:altLabel "Royal Archaeological Institute"@en,
+        "Royal Archaeological Institute"@fr,
+        "Royal Archaeological Institute"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRoyal Archaeological Institute" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Royal Archaeological Institute"@de .
+

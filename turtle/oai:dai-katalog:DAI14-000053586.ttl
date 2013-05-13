@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053586> a skos:Concept ;
+    skos:altLabel "Twietfort"@en,
+        "Twietfort"@fr,
+        "Twietfort"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075534> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklParchTwietfort" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Twietfort"@de .
+

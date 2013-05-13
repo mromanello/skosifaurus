@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070168> a skos:Concept ;
+    skos:altLabel "Badia Polesine"@en,
+        "Badia Polesine"@fr,
+        "Badia Polesine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039176> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetRovigBadia Pol" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Badia Polesine"@de .
+

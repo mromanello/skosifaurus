@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060851> a skos:Concept ;
+    skos:altLabel "Góry Sowie"@en,
+        "Góry Sowie"@fr,
+        "Góry Sowie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039027> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskZZ--RGóry Sowi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Góry Sowie"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076225> a skos:Concept ;
+    skos:altLabel "Nessebar"@en,
+        "Nessebar"@fr,
+        "Nessebar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039126> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaBurgaBurgaNessebar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nessebar"@de .
+

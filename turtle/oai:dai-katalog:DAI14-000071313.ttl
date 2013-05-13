@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071313> a skos:Concept ;
+    skos:altLabel "Cupra Montana"@en,
+        "Cupra Montana"@fr,
+        "Cupra Montana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039217> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchAnconCupra Mon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cupra Montana"@de .
+

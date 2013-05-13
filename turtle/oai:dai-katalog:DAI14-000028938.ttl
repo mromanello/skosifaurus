@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028938> a skos:Concept ;
+    skos:altLabel "Salzburg, Carolino Augusteum"@en,
+        "Salzburg, Carolino Augusteum"@fr,
+        "Salzburg, Carolino Augusteum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSalzburg, Carolino Augusteum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salzburg, Carolino Augusteum"@de .
+

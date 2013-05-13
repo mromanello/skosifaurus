@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015737> a skos:Concept ;
+    skos:altLabel "Frieses/entablements/architraves"@fr,
+        "Friezes/entablatures/architraves"@en,
+        "Fryzy/gzymsy/architrawy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015730> ;
+    skos:hiddenLabel "yRGKArch09 - BefunArchiGebäl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebälkfriese/Gesimse/Architrave"@de .
+

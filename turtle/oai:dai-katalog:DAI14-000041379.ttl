@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041379> a skos:Concept ;
+    skos:altLabel "Forest-lez-Bruxelles"@en,
+        "Forest-lez-Bruxelles"@fr,
+        "Forest-lez-Bruxelles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038713> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiBrabaForest-le" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Forest-lez-Bruxelles"@de .
+

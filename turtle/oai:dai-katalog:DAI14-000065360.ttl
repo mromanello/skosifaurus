@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065360> a skos:Concept ;
+    skos:altLabel "Trás"@en,
+        "Trás"@fr,
+        "Trás"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039088> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunNógráTrás" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trás"@de .
+

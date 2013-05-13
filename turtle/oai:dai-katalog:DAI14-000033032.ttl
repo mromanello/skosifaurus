@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033032> a skos:Concept ;
+    skos:altLabel "Mladá Boleslav, Museum"@en,
+        "Mladá Boleslav, Museum"@fr,
+        "Mladá Boleslav, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMladá Boleslav, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mladá Boleslav, Museum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067068> a skos:Concept ;
+    skos:altLabel "Verespatak/Roşia Montană"@en,
+        "Verespatak/Roşia Montană"@fr,
+        "Verespatak/Roşia Montană"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReVerespata" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verespatak/Roşia Montană"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014041> a skos:Concept ;
+    skos:altLabel "Jambelets/anneaux de cheville"@fr,
+        "Leg/foot-rings"@en,
+        "Nagolenniki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014039> ;
+    skos:hiddenLabel "yRGKArch07 - FundeKleidSchmuRingsBein-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bein-/Fussringe"@de .
+

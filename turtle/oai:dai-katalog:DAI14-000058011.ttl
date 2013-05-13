@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058011> a skos:Concept ;
+    skos:altLabel "Leobersdorf, VB Baden"@en,
+        "Leobersdorf, VB Baden"@fr,
+        "Leobersdorf, VB Baden"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeLeobersdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leobersdorf, VB Baden"@de .
+

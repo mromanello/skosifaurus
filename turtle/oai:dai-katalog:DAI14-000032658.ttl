@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032658> a skos:Concept ;
+    skos:altLabel "Weissenfels, Schloss Neu-Augustusburg"@en,
+        "Weissenfels, Schloss Neu-Augustusburg"@fr,
+        "Weissenfels, Schloss Neu-Augustusburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuWeissenfels, Schloss Neu-Augustusburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Weissenfels, Schloss Neu-Augustusburg"@de .
+

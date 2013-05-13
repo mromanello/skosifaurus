@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010672> a skos:Concept ;
+    skos:altLabel "Rostock, Universität"@en,
+        "Rostock, Universität"@fr,
+        "Rostock, Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRostock, Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rostock, Universität"@de .
+

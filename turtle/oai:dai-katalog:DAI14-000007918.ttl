@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007918> a skos:Concept ;
+    skos:altLabel "Cohen, David"@en,
+        "Cohen, David"@fr,
+        "Cohen, David"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCohen, David" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cohen, David"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067870> a skos:Concept ;
+    skos:altLabel "Niżnaja Strelka"@en,
+        "Niżnaja Strelka"@fr,
+        "Niżnaja Strelka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiNiżnaja S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niżnaja Strelka"@de .
+

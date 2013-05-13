@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065835> a skos:Concept ;
+    skos:altLabel "Krivodol"@en,
+        "Krivodol"@fr,
+        "Krivodol"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039104> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaSofijVracaKrivodol" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krivodol"@de .
+

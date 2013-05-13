@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041520> a skos:Concept ;
+    skos:altLabel "Zele"@en,
+        "Zele"@fr,
+        "Zele"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038715> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiOost-Zele" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zele"@de .
+

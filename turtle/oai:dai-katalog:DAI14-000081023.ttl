@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081023> a skos:Concept ;
+    skos:altLabel "Tomašanci"@en,
+        "Tomašanci"@fr,
+        "Tomašanci"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatTomašanci" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tomašanci"@de .
+

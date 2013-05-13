@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027796> a skos:Concept ;
+    skos:altLabel "Bryn Athyn, Glencairn Museum"@en,
+        "Bryn Athyn, Glencairn Museum"@fr,
+        "Bryn Athyn, Glencairn Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBryn Athyn, Glencairn Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bryn Athyn, Glencairn Museum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078620> a skos:Concept ;
+    skos:altLabel "Kincardine"@en,
+        "Kincardine"@fr,
+        "Kincardine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078509> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotGrampKincardin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kincardine"@de .
+

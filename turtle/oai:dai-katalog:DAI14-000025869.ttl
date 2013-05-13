@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025869> a skos:Concept ;
+    skos:altLabel "Kyburg, Grafen von"@en,
+        "Kyburg, Grafen von"@fr,
+        "Kyburg, Grafen von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018914> ;
+    skos:hiddenLabel "yRGKArch12 - HistoProsoMehreKyburg, Grafen von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kyburg, Grafen von"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032411> a skos:Concept ;
+    skos:altLabel "Buffen, Karl-Heinz"@en,
+        "Buffen, Karl-Heinz"@fr,
+        "Buffen, Karl-Heinz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaBuffen, Karl-Heinz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buffen, Karl-Heinz"@de .
+

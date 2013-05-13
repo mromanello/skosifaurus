@@ -1,0 +1,13 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004761> a skos:Concept ;
+    skos:altLabel "Egitto antico (1956 - 1997)"@it,
+        "Egypte antique (1956 - 1997)"@fr,
+        "ancient Egypt (1956 - 1997)"@en,
+        "Αρχαία Αίγυπτος (1956 - 1997)"@el ;
+    skos:broader <http://data.dainst.de/zenon/000002000> ;
+    skos:hiddenLabel "xÄg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "ägyptische Kultur (1956 - 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076037> a skos:Concept ;
+    skos:altLabel "Bielefeld-Sennestadt"@en,
+        "Bielefeld-Sennestadt"@fr,
+        "Bielefeld-Sennestadt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075625> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrBieleBielefeld" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bielefeld-Sennestadt"@de .
+

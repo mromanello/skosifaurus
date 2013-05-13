@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021039> a skos:Concept ;
+    skos:altLabel "Aemilius Regulus"@en,
+        "Aemilius Regulus"@fr,
+        "Aemilius Regulus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAemilius Regulus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aemilius Regulus"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077120> a skos:Concept ;
+    skos:altLabel "Meerlo, Gde. Meerlo-Wanssum"@en,
+        "Meerlo, Gde. Meerlo-Wanssum"@fr,
+        "Meerlo, Gde. Meerlo-Wanssum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038856> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeLimbuMeerlo, G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meerlo, Gde. Meerlo-Wanssum"@de .
+

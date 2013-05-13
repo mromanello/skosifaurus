@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004130> a skos:Concept ;
+    skos:altLabel "Belgio-Ollanda-Lussemburgo (fino al 1997)"@it,
+        "Belgique, Pays-Bas, Luxembourg (jusqu'à 1997)"@fr,
+        "Benelux countries (untill 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgBenelux" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Benelux-Länder (bis 1997)"@de .
+

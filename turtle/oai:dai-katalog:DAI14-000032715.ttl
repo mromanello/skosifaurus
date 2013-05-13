@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032715> a skos:Concept ;
+    skos:altLabel "Reading, Museum"@en,
+        "Reading, Museum"@fr,
+        "Reading, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuReading, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reading, Museum"@de .
+

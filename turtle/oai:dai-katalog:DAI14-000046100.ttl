@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046100> a skos:Concept ;
+    skos:altLabel "Midi-Pyrénées"@en,
+        "Midi-Pyrénées"@fr,
+        "Midi-Pyrénées"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038825> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitZZ--RMidi-Pyré" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Midi-Pyrénées"@de .
+

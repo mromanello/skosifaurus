@@ -1,0 +1,36 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002119_AllardPiersonStichting> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Allard Pierson Stichting" .
+
+<http://data.dainst.de/zenon/000002119_ArcheologischeWerkgemeenschapvoorNederland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Archeologische Werkgemeenschap voor Nederland" .
+
+<http://data.dainst.de/zenon/000002119_GenootschapterBeoefeningenOphelderingderOudhedenenGeschiedenissenvanDrenthe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Genootschap ter Beoefening en Opheldering der Oudheden en Geschiedenissen van Drenthe" .
+
+<http://data.dainst.de/zenon/000002119_LeidseUniversiteit,ArchaeologischInstitut> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Leidse Universiteit, Archaeologisch Institut" .
+
+<http://data.dainst.de/zenon/000002119_RijksuniversiteitGroningen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Rijksuniversiteit Groningen" .
+
+<http://data.dainst.de/zenon/000002119_VerenigingvanVriendenvanhetAllardPiersonMuseum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002119> ;
+    skos:prefLabel "Vereniging van Vrienden van het Allard Pierson Museum" .
+
+<http://data.dainst.de/zenon/000002119> a skos:Concept ;
+    skos:altLabel "Netherlands"@en,
+        "Paesi Bassi"@it,
+        "Pays-Bas"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstNL" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niederlande"@de .
+

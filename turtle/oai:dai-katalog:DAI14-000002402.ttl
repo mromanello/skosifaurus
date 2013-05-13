@@ -1,0 +1,188 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002402_Berkshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Berkshire" .
+
+<http://data.dainst.de/zenon/000002402_Cambridgeshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Cambridgeshire" .
+
+<http://data.dainst.de/zenon/000002402_ChannelIslands> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Channel Islands" .
+
+<http://data.dainst.de/zenon/000002402_Cheshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Cheshire" .
+
+<http://data.dainst.de/zenon/000002402_Cornwall> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Cornwall" .
+
+<http://data.dainst.de/zenon/000002402_Cumberland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Cumberland" .
+
+<http://data.dainst.de/zenon/000002402_Cumbria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Cumbria" .
+
+<http://data.dainst.de/zenon/000002402_Derbyshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Derbyshire" .
+
+<http://data.dainst.de/zenon/000002402_Devon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Devon" .
+
+<http://data.dainst.de/zenon/000002402_Dorset> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Dorset" .
+
+<http://data.dainst.de/zenon/000002402_Dyfed> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Dyfed" .
+
+<http://data.dainst.de/zenon/000002402_England> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "England" .
+
+<http://data.dainst.de/zenon/000002402_Essex> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Essex" .
+
+<http://data.dainst.de/zenon/000002402_Exmoor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Exmoor" .
+
+<http://data.dainst.de/zenon/000002402_Fenland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Fenland" .
+
+<http://data.dainst.de/zenon/000002402_Gloucestershire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Gloucestershire" .
+
+<http://data.dainst.de/zenon/000002402_GreaterLondon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Greater London" .
+
+<http://data.dainst.de/zenon/000002402_Hampshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Hampshire" .
+
+<http://data.dainst.de/zenon/000002402_Herefordshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Herefordshire" .
+
+<http://data.dainst.de/zenon/000002402_Hertfordshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Hertfordshire" .
+
+<http://data.dainst.de/zenon/000002402_IsleofPurbeck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Isle of Purbeck" .
+
+<http://data.dainst.de/zenon/000002402_IsleofWight> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Isle of Wight" .
+
+<http://data.dainst.de/zenon/000002402_Kent> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Kent" .
+
+<http://data.dainst.de/zenon/000002402_Lanarkshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Lanarkshire" .
+
+<http://data.dainst.de/zenon/000002402_Lancashire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Lancashire" .
+
+<http://data.dainst.de/zenon/000002402_Leicestershire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Leicestershire" .
+
+<http://data.dainst.de/zenon/000002402_Lincolnshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Lincolnshire" .
+
+<http://data.dainst.de/zenon/000002402_Norfolk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Norfolk" .
+
+<http://data.dainst.de/zenon/000002402_Northamptonshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Northamptonshire" .
+
+<http://data.dainst.de/zenon/000002402_Northumberland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Northumberland" .
+
+<http://data.dainst.de/zenon/000002402_Nottinghamshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Nottinghamshire" .
+
+<http://data.dainst.de/zenon/000002402_Orkneys> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Orkneys" .
+
+<http://data.dainst.de/zenon/000002402_Oxfordshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Oxfordshire" .
+
+<http://data.dainst.de/zenon/000002402_Scotland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Scotland" .
+
+<http://data.dainst.de/zenon/000002402_SevernEstuary> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Severn Estuary" .
+
+<http://data.dainst.de/zenon/000002402_Shropshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Shropshire" .
+
+<http://data.dainst.de/zenon/000002402_Somerset> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Somerset" .
+
+<http://data.dainst.de/zenon/000002402_Suffolk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Suffolk" .
+
+<http://data.dainst.de/zenon/000002402_Surrey> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Surrey" .
+
+<http://data.dainst.de/zenon/000002402_Sussex> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Sussex" .
+
+<http://data.dainst.de/zenon/000002402_Wales> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Wales" .
+
+<http://data.dainst.de/zenon/000002402_Wessex> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Wessex" .
+
+<http://data.dainst.de/zenon/000002402_Wiltshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Wiltshire" .
+
+<http://data.dainst.de/zenon/000002402_Yorkshire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002402> ;
+    skos:prefLabel "Yorkshire" .
+
+<http://data.dainst.de/zenon/000002402> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002401> ;
+    skos:hiddenLabel "xTopLandGBGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029247> a skos:Concept ;
+    skos:altLabel "Waren, Müritz-Museum"@en,
+        "Waren, Müritz-Museum"@fr,
+        "Waren, Müritz-Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuWaren, Müritz-Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Waren, Müritz-Museum"@de .
+

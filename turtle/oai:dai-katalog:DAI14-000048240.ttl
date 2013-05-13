@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048240> a skos:Concept ;
+    skos:altLabel "Tenterden-Ebony"@en,
+        "Tenterden-Ebony"@fr,
+        "Tenterden-Ebony"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077694> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaKentTenterden" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tenterden-Ebony"@de .
+

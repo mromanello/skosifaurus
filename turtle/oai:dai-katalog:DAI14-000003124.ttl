@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003124> a skos:Concept ;
+    skos:altLabel "banchetto e pompa funeraria"@it,
+        "banquet et procession funéraires"@fr,
+        "funeral banquet and procession"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003109> ;
+    skos:hiddenLabel "xSarkSteinBthToten" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Totenmahl und Totenprozession"@de .
+

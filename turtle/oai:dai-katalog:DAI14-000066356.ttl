@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066356> a skos:Concept ;
+    skos:altLabel "Chetroşica Veche, raj. Edineţ"@en,
+        "Chetroşica Veche, raj. Edineţ"@fr,
+        "Chetroşica Veche, raj. Edineţ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaChetroşic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chetroşica Veche, raj. Edineţ"@de .
+

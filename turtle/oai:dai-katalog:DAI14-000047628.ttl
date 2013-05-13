@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047628> a skos:Concept ;
+    skos:altLabel "Low Cleughs"@en,
+        "Low Cleughs"@fr,
+        "Low Cleughs"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077701> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthLow Cleug" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Low Cleughs"@de .
+

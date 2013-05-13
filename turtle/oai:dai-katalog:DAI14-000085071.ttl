@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085071> a skos:Concept ;
+    skos:altLabel "Tel Beth-Shean"@en,
+        "Tel Beth-Shean"@fr,
+        "Tel Beth-Shean"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeTel Beth-Shean" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tel Beth-Shean"@de .
+

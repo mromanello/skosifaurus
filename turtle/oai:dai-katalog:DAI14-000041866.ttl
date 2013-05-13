@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041866> a skos:Concept ;
+    skos:altLabel "Namur-Grognon"@en,
+        "Namur-Grognon"@fr,
+        "Namur-Grognon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurNamur-Gro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Namur-Grognon"@de .
+

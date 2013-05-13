@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022466> a skos:Concept ;
+    skos:altLabel "Tarquinius Superbus, Lucius"@en,
+        "Tarquinius Superbus, Lucius"@fr,
+        "Tarquinius Superbus, Lucius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoTarquinius Superbus, Lucius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tarquinius Superbus, Lucius"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074658> a skos:Concept ;
+    skos:altLabel "Kalin Ören"@en,
+        "Kalin Ören"@fr,
+        "Kalin Ören"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeKalin Öre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalin Ören"@de .
+

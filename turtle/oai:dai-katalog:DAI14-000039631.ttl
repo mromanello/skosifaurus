@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039631> a skos:Concept ;
+    skos:altLabel "Gintaru, Kretinga raj."@en,
+        "Gintaru, Kretinga raj."@fr,
+        "Gintaru, Kretinga raj."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038702> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiLitauGintaru," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gintaru, Kretinga raj."@de .
+

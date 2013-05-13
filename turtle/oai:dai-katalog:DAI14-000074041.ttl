@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074041> a skos:Concept ;
+    skos:altLabel "Mittelmeer"@en,
+        "Mittelmeer"@fr,
+        "Mittelmeer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039374> ;
+    skos:hiddenLabel "zTopogEuropZZ--RMittelmee" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mittelmeer"@de .
+

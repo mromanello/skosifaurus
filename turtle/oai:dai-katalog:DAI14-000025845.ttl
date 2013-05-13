@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025845> a skos:Concept ;
+    skos:altLabel "Rather von Verona"@en,
+        "Rather von Verona"@fr,
+        "Rather von Verona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018913> ;
+    skos:hiddenLabel "yRGKArch12 - HistoProsoEinzeRather von Verona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rather von Verona"@de .
+

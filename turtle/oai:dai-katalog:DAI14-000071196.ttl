@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071196> a skos:Concept ;
+    skos:altLabel "Aghinolfi"@en,
+        "Aghinolfi"@fr,
+        "Aghinolfi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039208> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaMassaAghinolfi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aghinolfi"@de .
+

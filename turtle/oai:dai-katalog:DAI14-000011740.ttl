@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011740> a skos:Concept ;
+    skos:altLabel "Doll, Christian"@en,
+        "Doll, Christian"@fr,
+        "Doll, Christian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDoll, Christian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Doll, Christian"@de .
+

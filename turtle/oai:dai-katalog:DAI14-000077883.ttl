@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077883> a skos:Concept ;
+    skos:altLabel "Albinia, com. Orbetello"@en,
+        "Albinia, com. Orbetello"@fr,
+        "Albinia, com. Orbetello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039205> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaGrossAlbinia," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Albinia, com. Orbetello"@de .
+

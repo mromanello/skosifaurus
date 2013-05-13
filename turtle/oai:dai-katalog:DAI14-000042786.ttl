@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042786> a skos:Concept ;
+    skos:altLabel "Creil (Canton)"@en,
+        "Creil (Canton)"@fr,
+        "Creil (Canton)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038742> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dZZ--RCreil (Ca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Creil (Canton)"@de .
+

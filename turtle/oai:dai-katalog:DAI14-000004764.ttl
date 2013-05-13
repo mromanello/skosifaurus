@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004764> a skos:Concept ;
+    skos:altLabel "prehistory (1956 - 1997)"@en,
+        "preistoria (1956 - 1997)"@it,
+        "préhistoire (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004761> ;
+    skos:hiddenLabel "xÄgVg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vorgeschichte (1956 - 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019441> a skos:Concept ;
+    skos:altLabel "Mediomatrici"@en,
+        "Mediomatrici"@fr,
+        "Mediomatrici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019420> ;
+    skos:hiddenLabel "yRGKEthnKelteMedio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mediomatrici"@de .
+

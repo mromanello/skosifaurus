@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024184> a skos:Concept ;
+    skos:altLabel "Parzen"@en,
+        "Parzen"@fr,
+        "Parzen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015985> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKunstIkonoSakraMythoParzen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Parzen"@de .
+

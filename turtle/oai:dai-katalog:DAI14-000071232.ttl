@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071232> a skos:Concept ;
+    skos:altLabel "Casole d'Elsa"@en,
+        "Casole d'Elsa"@fr,
+        "Casole d'Elsa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039212> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaSienaCasole d'" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Casole d'Elsa"@de .
+

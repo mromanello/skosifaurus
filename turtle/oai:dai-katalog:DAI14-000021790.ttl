@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021790> a skos:Concept ;
+    skos:altLabel "Johann <von Avesnes>"@en,
+        "Johann <von Avesnes>"@fr,
+        "Johann <von Avesnes>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoJohann <von Avesnes>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Johann <von Avesnes>"@de .
+

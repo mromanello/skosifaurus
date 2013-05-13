@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073710> a skos:Concept ;
+    skos:altLabel "Almedinilla"@en,
+        "Almedinilla"@fr,
+        "Almedinilla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039353> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalCórdoAlmedinil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Almedinilla"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071061> a skos:Concept ;
+    skos:altLabel "Valle di Taro"@en,
+        "Valle di Taro"@fr,
+        "Valle di Taro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039200> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliZZ--EValle di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle di Taro"@de .
+

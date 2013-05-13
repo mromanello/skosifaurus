@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062518> a skos:Concept ;
+    skos:altLabel "Lac de Neuchâtel"@en,
+        "Lac de Neuchâtel"@fr,
+        "Lac de Neuchâtel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039059> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZZ--RLac de Ne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lac de Neuchâtel"@de .
+

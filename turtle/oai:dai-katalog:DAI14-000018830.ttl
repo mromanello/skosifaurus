@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018830> a skos:Concept ;
+    skos:altLabel "Trinitariens"@fr,
+        "Trinitary Order"@en,
+        "Trynitarze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018815> ;
+    skos:hiddenLabel "yRGKArch12 - GeschKirchTrini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trinitarier"@de .
+

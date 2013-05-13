@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032867> a skos:Concept ;
+    skos:altLabel "Nikolaus von Riesenburg <Bischof>"@en,
+        "Nikolaus von Riesenburg <Bischof>"@fr,
+        "Nikolaus von Riesenburg <Bischof>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoNikolaus von Riesenburg <Bischof>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nikolaus von Riesenburg <Bischof>"@de .
+

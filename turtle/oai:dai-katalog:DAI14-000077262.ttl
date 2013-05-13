@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077262> a skos:Concept ;
+    skos:altLabel "Casuaria"@en,
+        "Casuaria"@fr,
+        "Casuaria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038807> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveHauteCasuaria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Casuaria"@de .
+

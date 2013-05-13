@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071309> a skos:Concept ;
+    skos:altLabel "Arcevia"@en,
+        "Arcevia"@fr,
+        "Arcevia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039217> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchAnconArcevia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arcevia"@de .
+

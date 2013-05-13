@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011731> a skos:Concept ;
+    skos:altLabel "Martínez Santa-Olalla, Julio"@en,
+        "Martínez Santa-Olalla, Julio"@fr,
+        "Martínez Santa-Olalla, Julio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMartínez Santa-Olalla, Julio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Martínez Santa-Olalla, Julio"@de .
+

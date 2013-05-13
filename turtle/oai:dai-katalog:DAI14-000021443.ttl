@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021443> a skos:Concept ;
+    skos:altLabel "Eccardus <Sangallensis, IV.>"@en,
+        "Eccardus <Sangallensis, IV.>"@fr,
+        "Eccardus <Sangallensis, IV.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEccardus <Sangallensis, IV.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eccardus <Sangallensis, IV.>"@de .
+

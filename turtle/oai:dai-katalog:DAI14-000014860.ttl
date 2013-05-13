@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014860> a skos:Concept ;
+    skos:altLabel "Dépôts de vases"@fr,
+        "Horads of vessels"@en,
+        "Skarby naczyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014857> ;
+    skos:hiddenLabel "yRGKArch08 - DeponZusamGefäs" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gefässhorte"@de .
+

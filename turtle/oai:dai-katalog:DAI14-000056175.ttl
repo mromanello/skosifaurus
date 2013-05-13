@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056175> a skos:Concept ;
+    skos:altLabel "Trado"@en,
+        "Trado"@fr,
+        "Trado"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038951> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsBautzTrado" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trado"@de .
+

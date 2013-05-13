@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008807> a skos:Concept ;
+    skos:altLabel "Kerner, Justinus"@en,
+        "Kerner, Justinus"@fr,
+        "Kerner, Justinus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKerner, Justinus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kerner, Justinus"@de .
+

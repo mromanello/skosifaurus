@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032976> a skos:Concept ;
+    skos:altLabel "London 2008/2009"@en,
+        "London 2008/2009"@fr,
+        "London 2008/2009"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLondon 2008/2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "London 2008/2009"@de .
+

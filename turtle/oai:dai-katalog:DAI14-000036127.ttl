@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036127> a skos:Concept ;
+    skos:altLabel "Kalisz 1998"@en,
+        "Kalisz 1998"@fr,
+        "Kalisz 1998"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrKalisz 1998" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalisz 1998"@de .
+

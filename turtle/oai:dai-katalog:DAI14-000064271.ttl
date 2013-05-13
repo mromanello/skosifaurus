@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064271> a skos:Concept ;
+    skos:altLabel "Blučina, okr. Brno-venkov"@en,
+        "Blučina, okr. Brno-venkov"@fr,
+        "Blučina, okr. Brno-venkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravBlučina," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Blučina, okr. Brno-venkov"@de .
+

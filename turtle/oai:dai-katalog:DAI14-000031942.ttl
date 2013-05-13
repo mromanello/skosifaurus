@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031942> a skos:Concept ;
+    skos:altLabel "Székely, Zoltán"@en,
+        "Székely, Zoltán"@fr,
+        "Székely, Zoltán"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSzékely, Zoltán" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Székely, Zoltán"@de .
+

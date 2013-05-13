@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012964> a skos:Concept ;
+    skos:altLabel "Metal vessels"@en,
+        "Naczynia metalowe"@pl,
+        "Vases en métal"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012963> ;
+    skos:hiddenLabel "yRGKArch05 - FundeGefäsMetal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Metallgefässe"@de .
+

@@ -1,0 +1,84 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002124_Abegg-StiftungBern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Abegg-Stiftung Bern" .
+
+<http://data.dainst.de/zenon/000002124_ArchäologischeBodenforschungBasel-Stadt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Archäologische Bodenforschung Basel-Stadt" .
+
+<http://data.dainst.de/zenon/000002124_FondationHardt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Fondation Hardt" .
+
+<http://data.dainst.de/zenon/000002124_FondationMartinBodmer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Fondation Martin Bodmer" .
+
+<http://data.dainst.de/zenon/000002124_Fédérationinternationaledesassociationsd'étudesclassiques> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Fédération internationale des associations d'études classiques" .
+
+<http://data.dainst.de/zenon/000002124_GesellschaftProVindonissa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Gesellschaft Pro Vindonissa" .
+
+<http://data.dainst.de/zenon/000002124_HellasetRoma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Hellas et Roma" .
+
+<http://data.dainst.de/zenon/000002124_InventarderFundmünzenderSchweiz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Inventar der Fundmünzen der Schweiz" .
+
+<http://data.dainst.de/zenon/000002124_Officedupatrimoinehistorique> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Office du patrimoine historique" .
+
+<http://data.dainst.de/zenon/000002124_ReiCretariaeRomanaeFautores> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Rei Cretariae Romanae Fautores" .
+
+<http://data.dainst.de/zenon/000002124_Schweizerisch-Liechtenstein.Stiftungf.archäol.Forsch.imAusland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Schweizerisch-Liechtenstein. Stiftung f. archäol. Forsch. im Ausland" .
+
+<http://data.dainst.de/zenon/000002124_SchweizerischeGesellschaftfürUr-undFrühgeschichte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Schweizerische Gesellschaft für Ur- und Frühgeschichte" .
+
+<http://data.dainst.de/zenon/000002124_SchweizerischeNumismatischeGesellschaft> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Schweizerische Numismatische Gesellschaft" .
+
+<http://data.dainst.de/zenon/000002124_Sociétésuissedepréhistoire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Société suisse de préhistoire" .
+
+<http://data.dainst.de/zenon/000002124_UniversitätBasel,SeminarfürAlteGeschichte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Universität Basel, Seminar für Alte Geschichte" .
+
+<http://data.dainst.de/zenon/000002124_UniversitédeGenève,Facultédeslettres,Départementdessciencesdel'Antiquité> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Université de Genève, Faculté des lettres, Département des sciences de l'Antiquité" .
+
+<http://data.dainst.de/zenon/000002124_UniversitédeLausanne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "Université de Lausanne" .
+
+<http://data.dainst.de/zenon/000002124_[varia]> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002124> ;
+    skos:prefLabel "[varia]" .
+
+<http://data.dainst.de/zenon/000002124> a skos:Concept ;
+    skos:altLabel "Suisse"@fr,
+        "Svizzera"@it,
+        "Switzerland"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstSchw" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schweiz"@de .
+

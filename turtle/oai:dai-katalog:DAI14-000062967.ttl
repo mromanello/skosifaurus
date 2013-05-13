@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062967> a skos:Concept ;
+    skos:altLabel "Vel'ký Biel, okr. Senec"@en,
+        "Vel'ký Biel, okr. Senec"@fr,
+        "Vel'ký Biel, okr. Senec"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaVel'ký Bi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vel'ký Biel, okr. Senec"@de .
+

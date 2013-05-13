@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045876> a skos:Concept ;
+    skos:altLabel "Saint-Sever"@en,
+        "Saint-Sever"@fr,
+        "Saint-Sever"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038818> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLandeSaint-Sev" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Sever"@de .
+

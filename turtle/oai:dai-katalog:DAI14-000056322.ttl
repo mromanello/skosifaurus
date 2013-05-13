@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056322> a skos:Concept ;
+    skos:altLabel "Lindenberg"@en,
+        "Lindenberg"@fr,
+        "Lindenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038962> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsBurgeLindenber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lindenberg"@de .
+

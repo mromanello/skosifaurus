@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046075> a skos:Concept ;
+    skos:altLabel "Bas-Quercy"@en,
+        "Bas-Quercy"@fr,
+        "Bas-Quercy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038825> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitZZ--RBas-Querc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bas-Quercy"@de .
+

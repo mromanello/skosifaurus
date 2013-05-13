@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006318> a skos:Concept ;
+    skos:altLabel "Fernández-Miranda, Manuel"@en,
+        "Fernández-Miranda, Manuel"@fr,
+        "Fernández-Miranda, Manuel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsFernández-Miranda, Manuel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fernández-Miranda, Manuel"@de .
+

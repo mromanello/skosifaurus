@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065684> a skos:Concept ;
+    skos:altLabel "Gabela"@en,
+        "Gabela"@fr,
+        "Gabela"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039095> ;
+    skos:hiddenLabel "zTopogEuropOsteuBosniGabela" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gabela"@de .
+

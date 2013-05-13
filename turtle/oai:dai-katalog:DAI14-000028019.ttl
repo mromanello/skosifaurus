@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028019> a skos:Concept ;
+    skos:altLabel "Erfurt, Angermuseum"@en,
+        "Erfurt, Angermuseum"@fr,
+        "Erfurt, Angermuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuErfurt, Angermuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erfurt, Angermuseum"@de .
+

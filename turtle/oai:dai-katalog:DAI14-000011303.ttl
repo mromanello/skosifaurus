@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011303> a skos:Concept ;
+    skos:altLabel "Fila, Jan"@en,
+        "Fila, Jan"@fr,
+        "Fila, Jan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFila, Jan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fila, Jan"@de .
+

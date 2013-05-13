@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076723> a skos:Concept ;
+    skos:altLabel "Rhegion"@en,
+        "Rhegion"@fr,
+        "Rhegion"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039256> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCalabReggiRhegion" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rhegion"@de .
+

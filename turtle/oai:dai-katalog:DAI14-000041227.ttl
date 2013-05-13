@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041227> a skos:Concept ;
+    skos:altLabel "Kalmar län, Småland"@en,
+        "Kalmar län, Småland"@fr,
+        "Kalmar län, Småland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077439> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Kalmar lä" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalmar län, Småland"@de .
+

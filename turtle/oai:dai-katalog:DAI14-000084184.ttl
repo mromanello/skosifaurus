@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084184> a skos:Concept ;
+    skos:altLabel "Büren-Harth"@en,
+        "Büren-Harth"@fr,
+        "Büren-Harth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038892> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrPaderBüren-Harth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Büren-Harth"@de .
+

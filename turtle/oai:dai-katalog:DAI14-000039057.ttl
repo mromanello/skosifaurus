@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039057> a skos:Concept ;
+    skos:altLabel "Zurich"@en,
+        "Zurich"@fr,
+        "Zurigo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039035> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüric" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zürich"@de .
+

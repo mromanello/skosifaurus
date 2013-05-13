@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082522> a skos:Concept ;
+    skos:altLabel "Celles"@en,
+        "Celles"@fr,
+        "Celles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038785> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverCantaCelles" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Celles"@de .
+

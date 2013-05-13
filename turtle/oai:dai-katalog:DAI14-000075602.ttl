@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075602> a skos:Concept ;
+    skos:altLabel "Gera"@en,
+        "Gera (Stadt)"@fr,
+        "Gera (Stadt)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038989> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriGera (Sta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gera (Stadt)"@de .
+

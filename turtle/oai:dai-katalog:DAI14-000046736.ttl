@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046736> a skos:Concept ;
+    skos:altLabel "Bowness-on-Solway, Cumberland"@en,
+        "Bowness-on-Solway, Cumberland"@fr,
+        "Bowness-on-Solway, Cumberland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrBowness-o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bowness-on-Solway, Cumberland"@de .
+

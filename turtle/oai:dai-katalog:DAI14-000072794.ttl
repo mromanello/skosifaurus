@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072794> a skos:Concept ;
+    skos:altLabel "Pedra de Ouro"@en,
+        "Pedra de Ouro"@fr,
+        "Pedra de Ouro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039291> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuLisboPedra de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pedra de Ouro"@de .
+

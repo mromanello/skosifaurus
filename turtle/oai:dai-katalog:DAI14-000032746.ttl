@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032746> a skos:Concept ;
+    skos:altLabel "Le Havre 2007/2008"@en,
+        "Le Havre 2007/2008"@fr,
+        "Le Havre 2007/2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLe Havre 2007/2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Le Havre 2007/2008"@de .
+

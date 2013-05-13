@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050771> a skos:Concept ;
+    skos:altLabel "Obere Gäu"@en,
+        "Obere Gäu"@fr,
+        "Obere Gäu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038867> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenZZ--RObere Gäu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obere Gäu"@de .
+

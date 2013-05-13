@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029363> a skos:Concept ;
+    skos:altLabel "Bad Nauheim, Salzmuseum"@en,
+        "Bad Nauheim, Salzmuseum"@fr,
+        "Bad Nauheim, Salzmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBad Nauheim, Salzmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Nauheim, Salzmuseum"@de .
+

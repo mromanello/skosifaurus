@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060607> a skos:Concept ;
+    skos:altLabel "Tarchalice"@en,
+        "Tarchalice"@fr,
+        "Tarchalice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoTarchalic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tarchalice"@de .
+

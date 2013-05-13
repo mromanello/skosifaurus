@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016153> a skos:Concept ;
+    skos:altLabel "Marble"@en,
+        "Marble"@fr,
+        "Marmur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016146> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwRohstGesteMarmo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marmor"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016624> a skos:Concept ;
+    skos:altLabel "Camps de légion"@fr,
+        "Legionary camps"@en,
+        "Obozy legionowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016622> ;
+    skos:hiddenLabel "yRGKArch10 - BefunBauweBefesMilitLegio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legionslager"@de .
+

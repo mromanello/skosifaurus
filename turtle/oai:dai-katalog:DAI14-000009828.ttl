@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009828> a skos:Concept ;
+    skos:altLabel "Schmith, Carl von"@en,
+        "Schmith, Carl von"@fr,
+        "Schmith, Carl von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSchmith, Carl von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schmith, Carl von"@de .
+

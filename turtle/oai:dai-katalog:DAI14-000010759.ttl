@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010759> a skos:Concept ;
+    skos:altLabel "Vilnius, Gesellschaft der Freunde der Wissenschaft"@en,
+        "Vilnius, Gesellschaft der Freunde der Wissenschaft"@fr,
+        "Vilnius, Gesellschaft der Freunde der Wissenschaft"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiVilnius, Gesellschaft der Freunde der Wissenschaft" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vilnius, Gesellschaft der Freunde der Wissenschaft"@de .
+

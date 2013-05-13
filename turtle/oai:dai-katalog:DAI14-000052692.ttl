@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052692> a skos:Concept ;
+    skos:altLabel "Pohlheim-Holzheim"@en,
+        "Pohlheim-Holzheim"@fr,
+        "Pohlheim-Holzheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075489> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseGiessPohlheim-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pohlheim-Holzheim"@de .
+

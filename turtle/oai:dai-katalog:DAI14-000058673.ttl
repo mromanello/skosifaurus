@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058673> a skos:Concept ;
+    skos:altLabel "Alpenvorland"@en,
+        "Alpenvorland"@fr,
+        "Alpenvorland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039004> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterZZ--RAlpenvorl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alpenvorland"@de .
+

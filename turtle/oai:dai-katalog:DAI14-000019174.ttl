@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019174> a skos:Concept ;
+    skos:altLabel "Human sacrifice"@en,
+        "Ofiary z ludzi"@pl,
+        "Sacrifices humains"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019173> ;
+    skos:hiddenLabel "yRGKArch14 - GräbeBestaSondeMensc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Menschenopfer"@de .
+

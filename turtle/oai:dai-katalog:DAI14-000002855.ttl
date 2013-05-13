@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002855> a skos:Concept ;
+    skos:altLabel "chamber tombs"@en,
+        "chambre funéraire"@fr,
+        "tombe a camera"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002840> ;
+    skos:hiddenLabel "xArchitBauGrabKam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kammergräber"@de .
+

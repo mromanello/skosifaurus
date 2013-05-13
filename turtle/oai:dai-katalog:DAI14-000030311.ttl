@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030311> a skos:Concept ;
+    skos:altLabel "Pisanski, Jakob Ludwig"@en,
+        "Pisanski, Jakob Ludwig"@fr,
+        "Pisanski, Jakob Ludwig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPisanski, Jakob Ludwig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pisanski, Jakob Ludwig"@de .
+

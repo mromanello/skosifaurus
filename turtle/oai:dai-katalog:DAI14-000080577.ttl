@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080577> a skos:Concept ;
+    skos:altLabel "Peña"@en,
+        "Peña"@fr,
+        "Peña"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039316> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóHuescPeña" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Peña"@de .
+

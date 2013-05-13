@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014535> a skos:Concept ;
+    skos:altLabel "Ceramic lamps"@en,
+        "Lampes en céramique"@fr,
+        "Lampy ceramiczne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014534> ;
+    skos:hiddenLabel "yRGKArch08 - FundeHausrBeleuKeram" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keramiklampen"@de .
+

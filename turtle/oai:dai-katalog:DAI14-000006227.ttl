@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006227> a skos:Concept ;
+    skos:altLabel "Cursos Internacionales de Prehistória y Arqueología Ampurias"@en,
+        "Cursos Internacionales de Prehistória y Arqueología Ampurias"@fr,
+        "Cursos Internacionales de Prehistória y Arqueología Ampurias"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsCursos Internacionales de Prehistória y Arqueología Ampurias" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cursos Internacionales de Prehistória y Arqueología Ampurias"@de .
+

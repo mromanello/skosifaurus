@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030109> a skos:Concept ;
+    skos:altLabel "Groningen, Biologisch-Archaeologisch Instituut"@en,
+        "Groningen, Biologisch-Archaeologisch Instituut"@fr,
+        "Groningen, Biologisch-Archaeologisch Instituut"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGroningen, Biologisch-Archaeologisch Instituut" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Groningen, Biologisch-Archaeologisch Instituut"@de .
+

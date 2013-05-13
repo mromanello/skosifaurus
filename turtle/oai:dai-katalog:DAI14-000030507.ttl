@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030507> a skos:Concept ;
+    skos:altLabel "Yale Babylonian Collection"@en,
+        "Yale Babylonian Collection"@fr,
+        "Yale Babylonian Collection"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaYale Babylonian Collection" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Yale Babylonian Collection"@de .
+

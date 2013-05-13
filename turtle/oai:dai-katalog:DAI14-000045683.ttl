@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045683> a skos:Concept ;
+    skos:altLabel "La Ferrassie"@en,
+        "La Ferrassie"@fr,
+        "La Ferrassie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038814> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitDordoLa Ferras" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Ferrassie"@de .
+

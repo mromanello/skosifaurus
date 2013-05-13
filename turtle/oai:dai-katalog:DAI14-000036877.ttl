@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036877> a skos:Concept ;
+    skos:altLabel "Nové Vozokany 1988"@en,
+        "Nové Vozokany 1988"@fr,
+        "Nové Vozokany 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNové Vozokany 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nové Vozokany 1988"@de .
+

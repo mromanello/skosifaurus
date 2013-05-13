@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007828> a skos:Concept ;
+    skos:altLabel "Cahn, Herbert A."@en,
+        "Cahn, Herbert A."@fr,
+        "Cahn, Herbert A."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCahn, Herbert A." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cahn, Herbert A."@de .
+

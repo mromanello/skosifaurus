@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011370> a skos:Concept ;
+    skos:altLabel "Brøndsted, Johannes"@en,
+        "Brøndsted, Johannes"@fr,
+        "Brøndsted, Johannes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBrøndsted, Johannes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brøndsted, Johannes"@de .
+

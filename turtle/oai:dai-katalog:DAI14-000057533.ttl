@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057533> a skos:Concept ;
+    skos:altLabel "Split-Marjan"@en,
+        "Split-Marjan"@fr,
+        "Split-Marjan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatSplit-Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Split-Marjan"@de .
+

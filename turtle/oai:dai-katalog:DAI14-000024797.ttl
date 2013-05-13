@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024797> a skos:Concept ;
+    skos:altLabel "Sarmizegetusa Regia"@en,
+        "Sarmizegetusa Regia"@fr,
+        "Sarmizegetusa Regia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016301> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPrägeSarmizegetusa Regia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarmizegetusa Regia"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032251> a skos:Concept ;
+    skos:altLabel "Lex Claudia de nave senatoris"@en,
+        "Lex Claudia de nave senatoris"@fr,
+        "Lex Claudia de nave senatoris"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012500> ;
+    skos:hiddenLabel "yRGKArch02 - SchriJurisLegesLex Claudia de nave senatoris" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lex Claudia de nave senatoris"@de .
+

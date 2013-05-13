@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023493> a skos:Concept ;
+    skos:altLabel "Campania"@en,
+        "Campania"@fr,
+        "Campania"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015181> ;
+    skos:hiddenLabel "yRGKArch08 - GeschRömisGebieCampania" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Campania"@de .
+

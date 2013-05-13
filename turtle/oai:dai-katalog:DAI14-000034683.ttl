@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034683> a skos:Concept ;
+    skos:altLabel "Caylus, Anne Claude Philippe de"@en,
+        "Caylus, Anne Claude Philippe de"@fr,
+        "Caylus, Anne Claude Philippe de"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCaylus, Anne Claude Philippe de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caylus, Anne Claude Philippe de"@de .
+

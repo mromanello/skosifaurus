@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052887> a skos:Concept ;
+    skos:altLabel "Mardorf, Stadt Amöneburg"@en,
+        "Mardorf, Stadt Amöneburg"@fr,
+        "Mardorf, Stadt Amöneburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075501> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMarbuMardorf," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mardorf, Stadt Amöneburg"@de .
+

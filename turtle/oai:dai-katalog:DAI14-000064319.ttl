@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064319> a skos:Concept ;
+    skos:altLabel "Chuchelná, okr. Opava"@en,
+        "Chuchelná, okr. Opava"@fr,
+        "Chuchelná, okr. Opava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravChuchelná" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chuchelná, okr. Opava"@de .
+

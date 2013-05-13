@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055694> a skos:Concept ;
+    skos:altLabel "Engers, Stadt Neuwied, Wüstung Oningendorp"@en,
+        "Engers, Stadt Neuwied, Wüstung Oningendorp"@fr,
+        "Engers, Stadt Neuwied, Wüstung Oningendorp"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038931> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinNeuwiEngers, S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Engers, Stadt Neuwied, Wüstung Oningendorp"@de .
+

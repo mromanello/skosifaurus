@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011150> a skos:Concept ;
+    skos:altLabel "Berlin, Mittel- und Ostdeutscher Verband für Altertumsforschung"@en,
+        "Berlin, Mittel- und Ostdeutscher Verband für Altertumsforschung"@fr,
+        "Berlin, Mittel- und Ostdeutscher Verband für Altertumsforschung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiBerlin, Mittel- und Ostdeutscher Verband für Altertumsforschung" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berlin, Mittel- und Ostdeutscher Verband für Altertumsforschung"@de .
+

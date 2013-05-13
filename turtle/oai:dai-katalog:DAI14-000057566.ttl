@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057566> a skos:Concept ;
+    skos:altLabel "Šenkovec"@en,
+        "Šenkovec"@fr,
+        "Šenkovec"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatŠenkovec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šenkovec"@de .
+

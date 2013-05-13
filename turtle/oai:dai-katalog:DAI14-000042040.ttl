@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042040> a skos:Concept ;
+    skos:altLabel "Goudelancourt-les-Pierrepont"@en,
+        "Goudelancourt-les-Pierrepont"@fr,
+        "Goudelancourt-les-Pierrepont"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038724> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dAisneGoudelanc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Goudelancourt-les-Pierrepont"@de .
+

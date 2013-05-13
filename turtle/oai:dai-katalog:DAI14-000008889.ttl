@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008889> a skos:Concept ;
+    skos:altLabel "König, Marie E. P."@en,
+        "König, Marie E. P."@fr,
+        "König, Marie E. P."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKönig, Marie E. P." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "König, Marie E. P."@de .
+

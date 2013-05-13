@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065008> a skos:Concept ;
+    skos:altLabel "Keszthely-Dobogó"@en,
+        "Keszthely-Dobogó"@fr,
+        "Keszthely-Dobogó"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaKeszthely" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keszthely-Dobogó"@de .
+

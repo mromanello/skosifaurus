@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046448> a skos:Concept ;
+    skos:altLabel "Margeride-Chayla d'Ance"@en,
+        "Margeride-Chayla d'Ance"@fr,
+        "Margeride-Chayla d'Ance"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038830> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguLozèrMargeride" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Margeride-Chayla d'Ance"@de .
+

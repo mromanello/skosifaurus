@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067996> a skos:Concept ;
+    skos:altLabel "Za Rodinu"@en,
+        "Za Rodinu"@fr,
+        "Za Rodinu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiZa Rodinu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Za Rodinu"@de .
+

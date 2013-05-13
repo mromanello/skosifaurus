@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016979> a skos:Concept ;
+    skos:altLabel "Legions"@en,
+        "Legiony"@pl,
+        "Légions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016977> ;
+    skos:hiddenLabel "yRGKArch10 - GeselKriegMilitLegio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legionen"@de .
+

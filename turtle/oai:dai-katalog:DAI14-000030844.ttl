@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030844> a skos:Concept ;
+    skos:altLabel "Erlangen, Institut f. Ur- u. Frühgeschichte"@en,
+        "Erlangen, Institut f. Ur- u. Frühgeschichte"@fr,
+        "Erlangen, Institut f. Ur- u. Frühgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiErlangen, Institut f. Ur- u. Frühgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erlangen, Institut f. Ur- u. Frühgeschichte"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081650> a skos:Concept ;
+    skos:altLabel "Tassili-wan-Ahaggar"@en,
+        "Tassili-wan-Ahaggar"@fr,
+        "Tassili-wan-Ahaggar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000080718> ;
+    skos:hiddenLabel "zTopogAfrikNordaAlgerTassili-w" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tassili-wan-Ahaggar"@de .
+

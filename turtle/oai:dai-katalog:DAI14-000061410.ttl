@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061410> a skos:Concept ;
+    skos:altLabel "Garbów"@en,
+        "Garbów"@fr,
+        "Garbów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelGarbów" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Garbów"@de .
+

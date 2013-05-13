@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041790> a skos:Concept ;
+    skos:altLabel "Wijshagen"@en,
+        "Wijshagen"@fr,
+        "Wijshagen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038718> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLimbuWijshagen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wijshagen"@de .
+

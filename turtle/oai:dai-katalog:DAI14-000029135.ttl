@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029135> a skos:Concept ;
+    skos:altLabel "Trento, Castello del Buonconsiglio"@en,
+        "Trento, Castello del Buonconsiglio"@fr,
+        "Trento, Castello del Buonconsiglio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTrento, Castello del Buonconsiglio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trento, Castello del Buonconsiglio"@de .
+

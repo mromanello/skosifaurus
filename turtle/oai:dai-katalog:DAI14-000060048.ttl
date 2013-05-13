@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060048> a skos:Concept ;
+    skos:altLabel "Strobin-Mieścisko"@en,
+        "Strobin-Mieścisko"@fr,
+        "Strobin-Mieścisko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkStrobin-M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strobin-Mieścisko"@de .
+

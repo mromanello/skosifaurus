@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057404> a skos:Concept ;
+    skos:altLabel "Okjucna"@en,
+        "Okjucna"@fr,
+        "Okjucna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatOkjucna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Okjucna"@de .
+

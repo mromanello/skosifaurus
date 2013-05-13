@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065886> a skos:Concept ;
+    skos:altLabel "Sadovec"@en,
+        "Sadovec"@fr,
+        "Sadovec"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039108> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaVelikPleveSadovec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sadovec"@de .
+

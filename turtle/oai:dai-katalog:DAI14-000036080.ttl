@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036080> a skos:Concept ;
+    skos:altLabel "Isernia 1994"@en,
+        "Isernia 1994"@fr,
+        "Isernia 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrIsernia 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isernia 1994"@de .
+

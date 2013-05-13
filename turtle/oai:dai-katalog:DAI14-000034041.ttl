@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034041> a skos:Concept ;
+    skos:altLabel "F-MU.S.EU.M. (Virtual Museum of European Roots)"@en,
+        "F-MU.S.EU.M. (Virtual Museum of European Roots)"@fr,
+        "F-MU.S.EU.M. (Virtual Museum of European Roots)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiF-MU.S.EU.M. (Virtual Museum of European Roots)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "F-MU.S.EU.M. (Virtual Museum of European Roots)"@de .
+

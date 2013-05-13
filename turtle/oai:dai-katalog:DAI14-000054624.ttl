@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054624> a skos:Concept ;
+    skos:altLabel "Rosendahl-Osterwick"@en,
+        "Rosendahl-Osterwick"@fr,
+        "Rosendahl-Osterwick"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075630> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrCoesfRosendahl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rosendahl-Osterwick"@de .
+

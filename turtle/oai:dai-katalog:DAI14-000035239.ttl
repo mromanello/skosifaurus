@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035239> a skos:Concept ;
+    skos:altLabel "Berlin 1988"@en,
+        "Berlin 1988"@fr,
+        "Berlin 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBerlin 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berlin 1988"@de .
+

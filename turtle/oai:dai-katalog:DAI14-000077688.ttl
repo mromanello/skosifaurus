@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077688> a skos:Concept ;
+    skos:altLabel "Essex"@en,
+        "Essex"@fr,
+        "Essex"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038839> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssex" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Essex"@de .
+

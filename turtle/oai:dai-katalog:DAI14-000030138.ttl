@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030138> a skos:Concept ;
+    skos:altLabel "Hôtel GouÃ£n"@en,
+        "Hôtel GouÃ£n"@fr,
+        "Hôtel GouÃ£n"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaHôtel GouÃ£n" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hôtel GouÃ£n"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027598> a skos:Concept ;
+    skos:altLabel "Asti, Museo Archeologico"@en,
+        "Asti, Museo Archeologico"@fr,
+        "Asti, Museo Archeologico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAsti, Museo Archeologico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asti, Museo Archeologico"@de .
+

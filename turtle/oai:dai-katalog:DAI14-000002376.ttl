@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002376> a skos:Concept ;
+    skos:altLabel "Armenia"@en,
+        "Armenia"@it,
+        "Arménie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002357> ;
+    skos:hiddenLabel "xTopLandArm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Armenien"@de .
+

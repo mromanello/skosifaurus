@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010304> a skos:Concept ;
+    skos:altLabel "Wheeler, Henry A."@en,
+        "Wheeler, Henry A."@fr,
+        "Wheeler, Henry A."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWheeler, Henry A." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wheeler, Henry A."@de .
+

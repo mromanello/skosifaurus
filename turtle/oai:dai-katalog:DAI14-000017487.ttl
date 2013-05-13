@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017487> a skos:Concept ;
+    skos:altLabel "Bâtiments construits en troux de poteau"@fr,
+        "Domy slupowe"@pl,
+        "Post-hole buildings"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017484> ;
+    skos:hiddenLabel "yRGKArch11 - BefunBauweWohnbPfost" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pfostenhäuser"@de .
+

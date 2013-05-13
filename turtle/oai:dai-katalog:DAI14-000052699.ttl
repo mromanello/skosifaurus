@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052699> a skos:Concept ;
+    skos:altLabel "Mörfelden-Walldorf"@en,
+        "Mörfelden-Walldorf"@fr,
+        "Mörfelden-Walldorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075490> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseGrossMörfelden" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mörfelden-Walldorf"@de .
+

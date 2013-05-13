@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079042> a skos:Concept ;
+    skos:altLabel "Montigny-sur-Long"@en,
+        "Montigny-sur-Long"@fr,
+        "Montigny-sur-Long"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038733> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineMontigny-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montigny-sur-Long"@de .
+

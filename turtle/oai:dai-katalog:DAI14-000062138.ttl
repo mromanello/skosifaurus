@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062138> a skos:Concept ;
+    skos:altLabel "Marin-Les Piécettes"@en,
+        "Marin-Les Piécettes"@fr,
+        "Marin-Les Piécettes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039046> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweNeuenMarin-Les" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marin-Les Piécettes"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045647> a skos:Concept ;
+    skos:altLabel "Bara-Bahau (Grotte)"@en,
+        "Bara-Bahau (Grotte)"@fr,
+        "Bara-Bahau (Grotte)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038814> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitDordoBara-Baha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bara-Bahau (Grotte)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003980> a skos:Concept ;
+    skos:altLabel "idee religiose (fino 1997 con sotto-rubriche)"@it,
+        "idées religieuses (jusqu'à 1997 subdivisé)"@fr,
+        "religious ideas (untill 1997 subdivided)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003965> ;
+    skos:hiddenLabel "xReligChrVorst" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "religiöse Vorstellungen (bis 1997 mit Unterteilung)"@de .
+

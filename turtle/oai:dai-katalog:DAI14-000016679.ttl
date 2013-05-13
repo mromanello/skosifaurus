@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016679> a skos:Concept ;
+    skos:altLabel "Architectural sculpture"@en,
+        "Plastiques architecturales"@fr,
+        "Rzezba budowlana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016677> ;
+    skos:hiddenLabel "yRGKArch10 - BefunArchiBaupl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bauplastik"@de .
+

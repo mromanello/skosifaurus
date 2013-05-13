@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061111> a skos:Concept ;
+    skos:altLabel "Ostrowiec Świętokrzyski"@en,
+        "Ostrowiec Świętokrzyski"@fr,
+        "Ostrowiec Świętokrzyski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętOstrowiec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ostrowiec Świętokrzyski"@de .
+

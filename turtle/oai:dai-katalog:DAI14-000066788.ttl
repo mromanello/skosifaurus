@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066788> a skos:Concept ;
+    skos:altLabel "Orţişoara, jud. Timiş"@en,
+        "Orţişoara, jud. Timiş"@fr,
+        "Orţişoara, jud. Timiş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatOrţişoara" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orţişoara, jud. Timiş"@de .
+

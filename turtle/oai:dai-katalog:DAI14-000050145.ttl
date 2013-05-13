@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050145> a skos:Concept ;
+    skos:altLabel "Heidenheim an der Brenz"@en,
+        "Heidenheim an der Brenz"@fr,
+        "Heidenheim an der Brenz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075341> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeideHeidenhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heidenheim an der Brenz"@de .
+

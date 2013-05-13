@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081439> a skos:Concept ;
+    skos:altLabel "Uerikon-Im Länder, Gem. Stäfa"@en,
+        "Uerikon-Im Länder, Gem. Stäfa"@fr,
+        "Uerikon-Im Länder, Gem. Stäfa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039057> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüricUerikon-I" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Uerikon-Im Länder, Gem. Stäfa"@de .
+

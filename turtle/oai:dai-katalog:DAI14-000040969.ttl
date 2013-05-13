@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040969> a skos:Concept ;
+    skos:altLabel "Kivik, Skåne"@en,
+        "Kivik, Skåne"@fr,
+        "Kivik, Skåne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Kivik, Sk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kivik, Skåne"@de .
+

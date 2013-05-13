@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075816> a skos:Concept ;
+    skos:altLabel "Prądzona"@en,
+        "Prądzona"@fr,
+        "Prądzona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorPrądzona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prądzona"@de .
+

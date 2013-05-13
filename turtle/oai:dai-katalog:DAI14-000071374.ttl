@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071374> a skos:Concept ;
+    skos:altLabel "Colbòrdolo"@en,
+        "Colbòrdolo"@fr,
+        "Colbòrdolo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039220> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchPesarColbòrdol" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Colbòrdolo"@de .
+

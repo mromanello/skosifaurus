@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032306> a skos:Concept ;
+    skos:altLabel "Reskuporis <Bosporanisches Reich, König, II.>"@en,
+        "Reskuporis <Bosporanisches Reich, König, II.>"@fr,
+        "Reskuporis <Bosporanisches Reich, König, II.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoReskuporis <Bosporanisches Reich, König, II.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reskuporis <Bosporanisches Reich, König, II.>"@de .
+

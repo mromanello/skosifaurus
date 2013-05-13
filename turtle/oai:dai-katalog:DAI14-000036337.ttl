@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036337> a skos:Concept ;
+    skos:altLabel "Levoča 1992"@en,
+        "Levoča 1992"@fr,
+        "Levoča 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLevoča 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Levoča 1992"@de .
+

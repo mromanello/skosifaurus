@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043670> a skos:Concept ;
+    skos:altLabel "Porteau-Ouest"@en,
+        "Porteau-Ouest"@fr,
+        "Porteau-Ouest"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038764> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoirePorteau-O" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Porteau-Ouest"@de .
+

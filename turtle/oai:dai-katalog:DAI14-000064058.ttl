@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064058> a skos:Concept ;
+    skos:altLabel "Unětice, okr. Praha-západ"@en,
+        "Unětice, okr. Praha-západ"@fr,
+        "Unětice, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyUnětice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Unětice, okr. Praha-západ"@de .
+

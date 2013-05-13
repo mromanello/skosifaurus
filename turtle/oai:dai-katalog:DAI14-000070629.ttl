@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070629> a skos:Concept ;
+    skos:altLabel "Schlanders-Kortsch"@en,
+        "Schlanders-Kortsch"@fr,
+        "Schlanders-Kortsch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaSchlander" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schlanders-Kortsch"@de .
+

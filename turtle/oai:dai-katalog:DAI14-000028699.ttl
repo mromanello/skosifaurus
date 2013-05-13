@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028699> a skos:Concept ;
+    skos:altLabel "Palermo, Museo Archeologico Regionale \"Antonino Salinas\""@en,
+        "Palermo, Museo Archeologico Regionale \"Antonino Salinas\""@fr,
+        "Palermo, Museo Archeologico Regionale \"Antonino Salinas\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPalermo, Museo Archeologico Regionale \"Antonino Salinas\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Palermo, Museo Archeologico Regionale \"Antonino Salinas\""@de .
+

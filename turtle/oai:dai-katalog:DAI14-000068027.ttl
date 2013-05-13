@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068027> a skos:Concept ;
+    skos:altLabel "Ivanovo (obl.)"@en,
+        "Ivanovo (obl.)"@fr,
+        "Ivanovo (obl.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077452> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiIvanovo (" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivanovo (obl.)"@de .
+

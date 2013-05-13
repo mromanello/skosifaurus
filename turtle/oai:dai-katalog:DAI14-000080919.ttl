@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080919> a skos:Concept ;
+    skos:altLabel "Niederleutra"@en,
+        "Niederleutra"@fr,
+        "Niederleutra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075607> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriJena Niederleu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niederleutra"@de .
+

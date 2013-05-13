@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066903> a skos:Concept ;
+    skos:altLabel "Someşeni, jud. Sălaj"@en,
+        "Someşeni, jud. Sălaj"@fr,
+        "Someşeni, jud. Sălaj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSomeşeni," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Someşeni, jud. Sălaj"@de .
+

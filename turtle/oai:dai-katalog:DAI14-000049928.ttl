@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049928> a skos:Concept ;
+    skos:altLabel "Illerkirchberg-Oberkirchberg"@en,
+        "Illerkirchberg-Oberkirchberg"@fr,
+        "Illerkirchberg-Oberkirchberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075326> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenAlb-DIllerkirc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Illerkirchberg-Oberkirchberg"@de .
+

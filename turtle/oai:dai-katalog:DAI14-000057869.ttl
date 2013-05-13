@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057869> a skos:Concept ;
+    skos:altLabel "Reisseck, Danielsberg, VB Spittal an der Drau"@en,
+        "Reisseck, Danielsberg, VB Spittal an der Drau"@fr,
+        "Reisseck, Danielsberg, VB Spittal an der Drau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntReisseck," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reisseck, Danielsberg, VB Spittal an der Drau"@de .
+

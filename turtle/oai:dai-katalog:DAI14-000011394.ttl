@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011394> a skos:Concept ;
+    skos:altLabel "Bernard, Honoré"@en,
+        "Bernard, Honoré"@fr,
+        "Bernard, Honoré"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBernard, Honoré" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bernard, Honoré"@de .
+

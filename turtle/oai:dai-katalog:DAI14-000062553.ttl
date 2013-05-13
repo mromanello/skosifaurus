@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062553> a skos:Concept ;
+    skos:altLabel "Thur"@en,
+        "Thur"@fr,
+        "Thur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039059> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZZ--RThur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thur"@de .
+

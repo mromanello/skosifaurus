@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058145> a skos:Concept ;
+    skos:altLabel "Unterwölbling, VB St. Pölten"@en,
+        "Unterwölbling, VB St. Pölten"@fr,
+        "Unterwölbling, VB St. Pölten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeUnterwölb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Unterwölbling, VB St. Pölten"@de .
+

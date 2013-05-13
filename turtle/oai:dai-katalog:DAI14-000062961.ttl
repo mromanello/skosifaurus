@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062961> a skos:Concept ;
+    skos:altLabel "Vel'ká Mača, okr. Galanta"@en,
+        "Vel'ká Mača, okr. Galanta"@fr,
+        "Vel'ká Mača, okr. Galanta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaVel'ká Ma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vel'ká Mača, okr. Galanta"@de .
+

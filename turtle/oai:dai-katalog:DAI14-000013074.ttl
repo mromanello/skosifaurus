@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013074> a skos:Concept ;
+    skos:altLabel "Ceramic/clay figurines"@en,
+        "Figurines de céramique/d'argile"@fr,
+        "Figurki ceramiczne/gliniane"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013073> ;
+    skos:hiddenLabel "yRGKArch05 - FundeKunstPlastKeram" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keramik-/Tonfigurinen"@de .
+

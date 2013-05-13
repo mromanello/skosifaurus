@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073516> a skos:Concept ;
+    skos:altLabel "Denia"@en,
+        "Denia"@fr,
+        "Denia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039344> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenAlicaDenia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Denia"@de .
+

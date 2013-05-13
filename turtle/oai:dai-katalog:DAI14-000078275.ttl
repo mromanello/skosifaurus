@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078275> a skos:Concept ;
+    skos:altLabel "Sanday, Orkney"@en,
+        "Sanday, Orkney"@fr,
+        "Sanday, Orkney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078652> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkneSanday, O" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sanday, Orkney"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050226> a skos:Concept ;
+    skos:altLabel "Gondelsheim"@en,
+        "Gondelsheim"@fr,
+        "Gondelsheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075344> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenKarlsGondelshe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gondelsheim"@de .
+

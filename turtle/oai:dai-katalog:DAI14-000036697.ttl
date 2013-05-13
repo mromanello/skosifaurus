@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036697> a skos:Concept ;
+    skos:altLabel "Mons 1904"@en,
+        "Mons 1904"@fr,
+        "Mons 1904"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMons 1904" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mons 1904"@de .
+

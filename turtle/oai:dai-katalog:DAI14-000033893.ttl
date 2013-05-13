@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033893> a skos:Concept ;
+    skos:altLabel "Minsk, Nationalmuseum für Geschichte und Kultur Weissrusslands"@en,
+        "Minsk, Nationalmuseum für Geschichte und Kultur Weissrusslands"@fr,
+        "Minsk, Nationalmuseum für Geschichte und Kultur Weissrusslands"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMinsk, Nationalmuseum für Geschichte und Kultur Weissrusslands" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Minsk, Nationalmuseum für Geschichte und Kultur Weissrusslands"@de .
+

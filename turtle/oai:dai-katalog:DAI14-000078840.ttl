@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078840> a skos:Concept ;
+    skos:altLabel "Dîrţu-Ceahlău"@en,
+        "Dîrţu-Ceahlău"@fr,
+        "Dîrţu-Ceahlău"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatDîrţu-Cea" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dîrţu-Ceahlău"@de .
+

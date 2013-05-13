@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030294> a skos:Concept ;
+    skos:altLabel "Parker, John Henry"@en,
+        "Parker, John Henry"@fr,
+        "Parker, John Henry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaParker, John Henry" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Parker, John Henry"@de .
+

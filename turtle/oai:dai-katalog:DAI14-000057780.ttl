@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057780> a skos:Concept ;
+    skos:altLabel "Halbturn, VB Neusiedl am See"@en,
+        "Halbturn, VB Neusiedl am See"@fr,
+        "Halbturn, VB Neusiedl am See"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038995> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterBurgeHalbturn," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Halbturn, VB Neusiedl am See"@de .
+

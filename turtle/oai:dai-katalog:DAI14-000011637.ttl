@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011637> a skos:Concept ;
+    skos:altLabel "Vojkffy, Christoph"@en,
+        "Vojkffy, Christoph"@fr,
+        "Vojkffy, Christoph"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoVojkffy, Christoph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vojkffy, Christoph"@de .
+

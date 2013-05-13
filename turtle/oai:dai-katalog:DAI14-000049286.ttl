@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049286> a skos:Concept ;
+    skos:altLabel "Mount Gabriel, Mizen peninsula"@en,
+        "Mount Gabriel, Mizen peninsula"@fr,
+        "Mount Gabriel, Mizen peninsula"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077520> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubCorkMount Gab" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mount Gabriel, Mizen peninsula"@de .
+

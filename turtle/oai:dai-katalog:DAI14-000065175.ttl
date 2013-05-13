@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065175> a skos:Concept ;
+    skos:altLabel "Putnok"@en,
+        "Putnok"@fr,
+        "Putnok"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039083> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBorsoPutnok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Putnok"@de .
+

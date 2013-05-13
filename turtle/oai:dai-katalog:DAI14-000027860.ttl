@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027860> a skos:Concept ;
+    skos:altLabel "Catania, Museo Civico di Castello Ursino"@en,
+        "Catania, Museo Civico di Castello Ursino"@fr,
+        "Catania, Museo Civico di Castello Ursino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCatania, Museo Civico di Castello Ursino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Catania, Museo Civico di Castello Ursino"@de .
+

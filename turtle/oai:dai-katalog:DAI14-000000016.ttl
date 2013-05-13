@@ -1,0 +1,82 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000016_Andalucía> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Andalucía" .
+
+<http://data.dainst.de/zenon/000000016_Aragón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Aragón" .
+
+<http://data.dainst.de/zenon/000000016_Asturias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Asturias" .
+
+<http://data.dainst.de/zenon/000000016_Castilla-LaMancha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Castilla - La Mancha" .
+
+<http://data.dainst.de/zenon/000000016_CastillayLeón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Castilla y León" .
+
+<http://data.dainst.de/zenon/000000016_Cataluña> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Cataluña" .
+
+<http://data.dainst.de/zenon/000000016_ComunidadValenciana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Comunidad Valenciana" .
+
+<http://data.dainst.de/zenon/000000016_Cádiz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Cádiz" .
+
+<http://data.dainst.de/zenon/000000016_Córdoba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Córdoba" .
+
+<http://data.dainst.de/zenon/000000016_Elche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Elche" .
+
+<http://data.dainst.de/zenon/000000016_España> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "España" .
+
+<http://data.dainst.de/zenon/000000016_Madrid> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Madrid" .
+
+<http://data.dainst.de/zenon/000000016_Murcia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Murcia" .
+
+<http://data.dainst.de/zenon/000000016_Málaga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Málaga" .
+
+<http://data.dainst.de/zenon/000000016_Portugal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Portugal" .
+
+<http://data.dainst.de/zenon/000000016_Sabadell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Sabadell" .
+
+<http://data.dainst.de/zenon/000000016_Tarragona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Tarragona" .
+
+<http://data.dainst.de/zenon/000000016_Vic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000016> ;
+    skos:prefLabel "Vic" .
+
+<http://data.dainst.de/zenon/000000016> a skos:Concept ;
+    skos:altLabel "Países, regiones y provincias"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000014> ;
+    skos:hiddenLabel "3.01.05.01" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Länder, Regionen und Provinzen"@de .
+

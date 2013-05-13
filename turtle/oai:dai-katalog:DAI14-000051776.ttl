@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051776> a skos:Concept ;
+    skos:altLabel "Riedering-Beuerberg"@en,
+        "Riedering-Beuerberg"@fr,
+        "Riedering-Beuerberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075453> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRosenRiedering" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Riedering-Beuerberg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017847> a skos:Concept ;
+    skos:altLabel "Bread"@en,
+        "Chleb"@pl,
+        "Pain"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017846> ;
+    skos:hiddenLabel "yRGKArch11 - WirtsErnähNahruBrot" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brot"@de .
+

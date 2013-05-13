@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012824> a skos:Concept ;
+    skos:altLabel "Caves"@en,
+        "Grottes"@fr,
+        "Jaskinie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012823> ;
+    skos:hiddenLabel "yRGKArch04 - SiedlSiedlHöhle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Höhlen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067143> a skos:Concept ;
+    skos:altLabel "Cernavodă, jud. Constanţa"@en,
+        "Cernavodă, jud. Constanţa"@fr,
+        "Cernavodă, jud. Constanţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenCernavodă" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cernavodă, jud. Constanţa"@de .
+

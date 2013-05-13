@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004131> a skos:Concept ;
+    skos:altLabel "Bretagna (fino al 1997)"@it,
+        "Britain (untill 1997)"@en,
+        "Grande-Bretagne et Irlande (jusqu'au 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgBrit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Britannien (bis 1997)"@de .
+

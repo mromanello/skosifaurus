@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025132> a skos:Concept ;
+    skos:altLabel "Justinos II."@en,
+        "Justinos II."@fr,
+        "Justinos II."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017178> ;
+    skos:hiddenLabel "yRGKArch10 - HistoNumisPräguRömisPrägeJustinos II." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Justinos II."@de .
+

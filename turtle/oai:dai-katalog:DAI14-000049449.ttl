@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049449> a skos:Concept ;
+    skos:altLabel "Fluitenberg"@en,
+        "Fluitenberg"@fr,
+        "Fluitenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038851> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeDrentFluitenbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fluitenberg"@de .
+

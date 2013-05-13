@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049446> a skos:Concept ;
+    skos:altLabel "Emmen, Noordbarge"@en,
+        "Emmen, Noordbarge"@fr,
+        "Emmen, Noordbarge"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038851> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeDrentEmmen, No" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Emmen, Noordbarge"@de .
+

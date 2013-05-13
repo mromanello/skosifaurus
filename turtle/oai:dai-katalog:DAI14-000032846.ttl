@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032846> a skos:Concept ;
+    skos:altLabel "Paderborn/Würzburg 2008"@en,
+        "Paderborn/Würzburg 2008"@fr,
+        "Paderborn/Würzburg 2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstPaderborn/Würzburg 2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paderborn/Würzburg 2008"@de .
+

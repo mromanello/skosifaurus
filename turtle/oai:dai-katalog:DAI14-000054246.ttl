@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054246> a skos:Concept ;
+    skos:altLabel "Osnabrück-Galgenesch"@en,
+        "Osnabrück-Galgenesch"@fr,
+        "Osnabrück-Galgenesch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075595> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeOsnabOsnabrück" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osnabrück-Galgenesch"@de .
+

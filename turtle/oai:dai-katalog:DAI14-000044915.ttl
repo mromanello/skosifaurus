@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044915> a skos:Concept ;
+    skos:altLabel "Baume Moula-Guercy"@en,
+        "Baume Moula-Guercy"@fr,
+        "Baume Moula-Guercy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038800> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveArdècBaume Mou" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baume Moula-Guercy"@de .
+

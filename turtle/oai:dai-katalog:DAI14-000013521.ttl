@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013521> a skos:Concept ;
+    skos:altLabel "Lampes en métal"@fr,
+        "Lampy metalowe"@pl,
+        "Metal lamps"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013519> ;
+    skos:hiddenLabel "yRGKArch06 - FundeHausrBeleuMetal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Metalllampen"@de .
+

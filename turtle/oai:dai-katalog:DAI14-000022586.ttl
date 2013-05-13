@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022586> a skos:Concept ;
+    skos:altLabel "Vettius Rufinus"@en,
+        "Vettius Rufinus"@fr,
+        "Vettius Rufinus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVettius Rufinus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vettius Rufinus"@de .
+

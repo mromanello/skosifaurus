@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014267> a skos:Concept ;
+    skos:altLabel "Malowidla skalne"@pl,
+        "Peintures rupestres"@fr,
+        "Rock-/cave-paintings"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014266> ;
+    skos:hiddenLabel "yRGKArch07 - GeselKunstMalerFels-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fels-/Höhlenmalereien"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057855> a skos:Concept ;
+    skos:altLabel "Mittertrixen, Gde. Völkermarkt, VB Völkermarkt"@en,
+        "Mittertrixen, Gde. Völkermarkt, VB Völkermarkt"@fr,
+        "Mittertrixen, Gde. Völkermarkt, VB Völkermarkt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntMittertri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mittertrixen, Gde. Völkermarkt, VB Völkermarkt"@de .
+

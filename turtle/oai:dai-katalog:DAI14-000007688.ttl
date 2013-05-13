@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007688> a skos:Concept ;
+    skos:altLabel "Bogaers, J. E."@en,
+        "Bogaers, J. E."@fr,
+        "Bogaers, J. E."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBogaers, J. E." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bogaers, J. E."@de .
+

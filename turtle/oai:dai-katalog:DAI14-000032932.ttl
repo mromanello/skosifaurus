@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032932> a skos:Concept ;
+    skos:altLabel "Mac Firbhisigh, Giolla Iosa"@en,
+        "Mac Firbhisigh, Giolla Iosa"@fr,
+        "Mac Firbhisigh, Giolla Iosa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMac Firbhisigh, Giolla Iosa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mac Firbhisigh, Giolla Iosa"@de .
+

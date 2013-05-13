@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080974> a skos:Concept ;
+    skos:altLabel "Kvemo Kartli"@en,
+        "Kvemo Kartli"@fr,
+        "Kvemo Kartli"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039383> ;
+    skos:hiddenLabel "zTopogAsienVordeGeorgKvemo Kar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kvemo Kartli"@de .
+

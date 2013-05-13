@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069843> a skos:Concept ;
+    skos:altLabel "Montaldo di Mondovì"@en,
+        "Montaldo di Mondovì"@fr,
+        "Montaldo di Mondovì"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039160> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoCuneoMontaldo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montaldo di Mondovì"@de .
+

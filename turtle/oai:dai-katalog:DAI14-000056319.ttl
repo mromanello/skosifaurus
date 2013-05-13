@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056319> a skos:Concept ;
+    skos:altLabel "Kleinosida, Gde. Grana"@en,
+        "Kleinosida, Gde. Grana"@fr,
+        "Kleinosida, Gde. Grana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038962> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsBurgeKleinosid" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kleinosida, Gde. Grana"@de .
+

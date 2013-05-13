@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048162> a skos:Concept ;
+    skos:altLabel "Stanwix"@en,
+        "Stanwix"@fr,
+        "Stanwix"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrStanwix" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stanwix"@de .
+

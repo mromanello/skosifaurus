@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009565> a skos:Concept ;
+    skos:altLabel "Polla, Belo"@en,
+        "Polla, Belo"@fr,
+        "Polla, Belo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPolla, Belo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polla, Belo"@de .
+

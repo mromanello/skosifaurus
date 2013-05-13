@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016154> a skos:Concept ;
+    skos:altLabel "Porfir"@pl,
+        "Porphyre"@fr,
+        "Porphyry"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016146> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwRohstGestePorph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Porphyr"@de .
+

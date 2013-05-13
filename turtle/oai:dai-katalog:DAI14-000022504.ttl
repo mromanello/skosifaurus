@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022504> a skos:Concept ;
+    skos:altLabel "Thomas <de Spalato>"@en,
+        "Thomas <de Spalato>"@fr,
+        "Thomas <de Spalato>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoThomas <de Spalato>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thomas <de Spalato>"@de .
+

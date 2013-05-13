@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040628> a skos:Concept ;
+    skos:altLabel "Sandbukt, Sørøy, Vest-Finnmark"@en,
+        "Sandbukt, Sørøy, Vest-Finnmark"@fr,
+        "Sandbukt, Sørøy, Vest-Finnmark"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweSandbukt," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sandbukt, Sørøy, Vest-Finnmark"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050580> a skos:Concept ;
+    skos:altLabel "Schramberg-Waldmössingen"@en,
+        "Schramberg-Waldmössingen"@fr,
+        "Schramberg-Waldmössingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075359> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRottwSchramber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schramberg-Waldmössingen"@de .
+

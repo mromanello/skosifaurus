@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077491> a skos:Concept ;
+    skos:altLabel "Bonethève"@en,
+        "Bonethève"@fr,
+        "Bonethève"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038786> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareBonethève" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonethève"@de .
+

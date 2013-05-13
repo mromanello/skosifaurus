@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077112> a skos:Concept ;
+    skos:altLabel "Store Valby, Sjaelland"@en,
+        "Store Valby, Sjaelland"@fr,
+        "Store Valby, Sjaelland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemStore Val" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Store Valby, Sjaelland"@de .
+

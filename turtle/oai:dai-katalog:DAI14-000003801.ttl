@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003801> a skos:Concept ;
+    skos:altLabel "inscriptions on special items (untill 1997 subdivided)"@en,
+        "inscriptions sur vases et utensils (jusqu'à 1997 subdivisé)"@fr,
+        "iscrizioni su oggetti (fino a 1997 con sotto-rubriche)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003785> ;
+    skos:hiddenLabel "xEpigrLatGebr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Inschriften auf Gebrauchsgegenständen (bis 1997 mit Unterteilung)"@de .
+

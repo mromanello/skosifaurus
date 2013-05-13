@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082880> a skos:Concept ;
+    skos:altLabel "Öhringen-Michelbach am Wald"@en,
+        "Öhringen-Michelbach am Wald"@fr,
+        "Öhringen-Michelbach am Wald"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075343> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHohenÖhringen-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Öhringen-Michelbach am Wald"@de .
+

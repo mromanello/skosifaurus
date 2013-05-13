@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081452> a skos:Concept ;
+    skos:altLabel "Millfield Farm, Wheldrake"@en,
+        "Millfield Farm, Wheldrake"@fr,
+        "Millfield Farm, Wheldrake"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksMillfield" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Millfield Farm, Wheldrake"@de .
+

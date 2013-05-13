@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079593> a skos:Concept ;
+    skos:altLabel "Vrgorac"@en,
+        "Vrgorac"@fr,
+        "Vrgorac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatVrgorac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vrgorac"@de .
+

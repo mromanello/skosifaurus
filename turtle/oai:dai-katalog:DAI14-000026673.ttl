@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026673> a skos:Concept ;
+    skos:altLabel "Litomyšl 1996"@en,
+        "Litomyšl 1996"@fr,
+        "Litomyšl 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLitomyšl 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Litomyšl 1996"@de .
+

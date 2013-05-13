@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017184> a skos:Concept ;
+    skos:altLabel "Lieux de frappe"@fr,
+        "Mennice"@pl,
+        "Mints"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017175> ;
+    skos:hiddenLabel "yRGKArch10 - HistoNumisPräge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prägestätten"@de .
+

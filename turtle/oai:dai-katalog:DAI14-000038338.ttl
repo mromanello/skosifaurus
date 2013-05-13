@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038338> a skos:Concept ;
+    skos:altLabel "Fort de Bard 2008"@en,
+        "Fort de Bard 2008"@fr,
+        "Fort de Bard 2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrFort de Bard 2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fort de Bard 2008"@de .
+

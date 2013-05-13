@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080256> a skos:Concept ;
+    skos:altLabel "Broddenbjerg"@en,
+        "Broddenbjerg"@fr,
+        "Broddenbjerg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemBroddenbj" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Broddenbjerg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022884> a skos:Concept ;
+    skos:altLabel "Salvii Juliani"@en,
+        "Salvii Juliani"@fr,
+        "Salvii Juliani"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschSalvii Juliani" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salvii Juliani"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077066> a skos:Concept ;
+    skos:altLabel "Annaba/Bône"@en,
+        "Annaba/Bône"@fr,
+        "Annaba/Bône"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000080718> ;
+    skos:hiddenLabel "zTopogAfrikNordaAlgerAnnaba/Bô" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Annaba/Bône"@de .
+

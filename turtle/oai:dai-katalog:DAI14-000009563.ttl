@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009563> a skos:Concept ;
+    skos:altLabel "Polejowski, Maciej"@en,
+        "Polejowski, Maciej"@fr,
+        "Polejowski, Maciej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPolejowski, Maciej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polejowski, Maciej"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013002> a skos:Concept ;
+    skos:altLabel "Hammerstone"@en,
+        "Marteaux"@fr,
+        "Pobijaki kamienne/mloty"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012991> ;
+    skos:hiddenLabel "yRGKArch05 - FundeGerätSteinFelsgKlopf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klopfsteine/Hämmer/Schlegel"@de .
+

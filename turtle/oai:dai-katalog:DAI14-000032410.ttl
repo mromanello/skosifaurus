@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032410> a skos:Concept ;
+    skos:altLabel "Wrocław, Uniwersytet Wrocławski"@en,
+        "Wrocław, Uniwersytet Wrocławski"@fr,
+        "Wrocław, Uniwersytet Wrocławski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiWrocław, Uniwersytet Wrocławski" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wrocław, Uniwersytet Wrocławski"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063488> a skos:Concept ;
+    skos:altLabel "Dänemark, okr. Kutná Hora"@en,
+        "Dänemark, okr. Kutná Hora"@fr,
+        "Dänemark, okr. Kutná Hora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyDänemark," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dänemark, okr. Kutná Hora"@de .
+

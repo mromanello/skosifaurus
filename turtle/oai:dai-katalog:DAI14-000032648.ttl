@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032648> a skos:Concept ;
+    skos:altLabel "Philipp <Makedonien, König, I.>"@en,
+        "Philipp <Makedonien, König, I.>"@fr,
+        "Philipp <Makedonien, König, I.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPhilipp <Makedonien, König, I.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philipp <Makedonien, König, I.>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013205> a skos:Concept ;
+    skos:altLabel "Découvertes en tourbière"@fr,
+        "Moor-finds"@en,
+        "Znaleziska bagienne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013203> ;
+    skos:hiddenLabel "yRGKArch05 - DeponFunduVerseMoorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moorfunde"@de .
+

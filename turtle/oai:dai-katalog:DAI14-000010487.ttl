@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010487> a skos:Concept ;
+    skos:altLabel "Committee for Education and Cultural Action (CECA)"@en,
+        "Committee for Education and Cultural Action (CECA)"@fr,
+        "Committee for Education and Cultural Action (CECA)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiCommittee for Education and Cultural Action (CECA)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Committee for Education and Cultural Action (CECA)"@de .
+

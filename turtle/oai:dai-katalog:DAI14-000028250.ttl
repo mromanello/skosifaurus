@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028250> a skos:Concept ;
+    skos:altLabel "Jędrzejów, Państwowe Muzeum im. Przypkowskich"@en,
+        "Jędrzejów, Państwowe Muzeum im. Przypkowskich"@fr,
+        "Jędrzejów, Państwowe Muzeum im. Przypkowskich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuJędrzejów, Państwowe Muzeum im. Przypkowskich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jędrzejów, Państwowe Muzeum im. Przypkowskich"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011162> a skos:Concept ;
+    skos:altLabel "Bronn, Heinrich Georg"@en,
+        "Bronn, Heinrich Georg"@fr,
+        "Bronn, Heinrich Georg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBronn, Heinrich Georg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bronn, Heinrich Georg"@de .
+

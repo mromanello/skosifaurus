@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031735> a skos:Concept ;
+    skos:altLabel "Morintz, Sebastian Eduard"@en,
+        "Morintz, Sebastian Eduard"@fr,
+        "Morintz, Sebastian Eduard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliMorintz, Sebastian Eduard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Morintz, Sebastian Eduard"@de .
+

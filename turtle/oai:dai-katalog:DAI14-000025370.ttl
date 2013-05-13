@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025370> a skos:Concept ;
+    skos:altLabel "Basel"@en,
+        "Basel"@fr,
+        "Basel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018016> ;
+    skos:hiddenLabel "yRGKArch11 - HistoNumisPrägeBasel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Basel"@de .
+

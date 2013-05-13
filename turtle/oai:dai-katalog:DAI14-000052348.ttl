@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052348> a skos:Concept ;
+    skos:altLabel "Hartmannsdorf"@en,
+        "Hartmannsdorf"@fr,
+        "Hartmannsdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075478> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandOder-Hartmanns" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hartmannsdorf"@de .
+

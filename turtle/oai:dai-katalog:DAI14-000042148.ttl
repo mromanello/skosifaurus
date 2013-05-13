@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042148> a skos:Concept ;
+    skos:altLabel "Florentins"@en,
+        "Florentins"@fr,
+        "Florentins"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038726> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEureFlorentin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Florentins"@de .
+

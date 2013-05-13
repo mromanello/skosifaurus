@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067505> a skos:Concept ;
+    skos:altLabel "Frumuşica, jud. Neamţ"@en,
+        "Frumuşica, jud. Neamţ"@fr,
+        "Frumuşica, jud. Neamţ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoFrumuşica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frumuşica, jud. Neamţ"@de .
+

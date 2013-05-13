@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084283> a skos:Concept ;
+    skos:altLabel "Fortuna Fine Arts Ltd., New York 1992"@en,
+        "Fortuna Fine Arts Ltd., New York 1992"@fr,
+        "Fortuna Fine Arts Ltd., New York 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiFortuna Fine Arts Ltd., New York 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fortuna Fine Arts Ltd., New York 1992"@de .
+

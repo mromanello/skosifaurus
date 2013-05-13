@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067205> a skos:Concept ;
+    skos:altLabel "Ghidici, jud. Dolj"@en,
+        "Ghidici, jud. Dolj"@fr,
+        "Ghidici, jud. Dolj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenGhidici," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ghidici, jud. Dolj"@de .
+

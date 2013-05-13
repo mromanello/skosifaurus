@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014401> a skos:Concept ;
+    skos:altLabel "Domestic/useful plants"@en,
+        "Plantes utiles/-domestiques"@fr,
+        "Rosliny uprawne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014400> ;
+    skos:hiddenLabel "yRGKArch07 - NaturPaläoMakroNutzp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nutzpflanzen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030401> a skos:Concept ;
+    skos:altLabel "Sinj, Franjevačkog samostana"@en,
+        "Sinj, Franjevačkog samostana"@fr,
+        "Sinj, Franjevačkog samostana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaSinj, Franjevačkog samostana" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sinj, Franjevačkog samostana"@de .
+

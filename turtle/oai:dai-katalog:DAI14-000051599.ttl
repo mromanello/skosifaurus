@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051599> a skos:Concept ;
+    skos:altLabel "Pommelsbrunn-Hunas"@en,
+        "Pommelsbrunn-Hunas"@fr,
+        "Pommelsbrunn-Hunas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000079130> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNürnbPommelsbr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pommelsbrunn-Hunas"@de .
+

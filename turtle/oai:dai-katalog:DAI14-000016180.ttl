@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016180> a skos:Concept ;
+    skos:altLabel "Miejsca przeróbki hutniczej"@pl,
+        "Sites de réduction"@fr,
+        "Smelting places"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016174> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwAbbauVerhü" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verhüttungsplätze"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079456> a skos:Concept ;
+    skos:altLabel "Thurnau-Alladorf"@en,
+        "Thurnau-Alladorf"@fr,
+        "Thurnau-Alladorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075429> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerKulmbThurnau-A" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thurnau-Alladorf"@de .
+

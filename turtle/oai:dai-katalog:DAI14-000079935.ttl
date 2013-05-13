@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079935> a skos:Concept ;
+    skos:altLabel "Ulbersdorf"@en,
+        "Ulbersdorf"@fr,
+        "Ulbersdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038955> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsSächsUlbersdor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ulbersdorf"@de .
+

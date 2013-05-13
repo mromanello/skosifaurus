@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007427> a skos:Concept ;
+    skos:altLabel "Methods in archaeology"@en,
+        "Metody archeologiczne"@pl,
+        "Méthodes en archéologie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000007390> ;
+    skos:hiddenLabel "yForschArchä" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Archäologische Methoden"@de .
+

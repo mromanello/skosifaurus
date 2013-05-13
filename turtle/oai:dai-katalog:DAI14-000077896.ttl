@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077896> a skos:Concept ;
+    skos:altLabel "Eckersdorf-Donndorf"@en,
+        "Eckersdorf-Donndorf"@fr,
+        "Eckersdorf-Donndorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075379> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerBayreEckersdor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eckersdorf-Donndorf"@de .
+

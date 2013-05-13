@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082321> a skos:Concept ;
+    skos:altLabel "Eine"@en,
+        "Eine"@fr,
+        "Eine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078912> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsSalzlEine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eine"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010144> a skos:Concept ;
+    skos:altLabel "Török, Aurél"@en,
+        "Török, Aurél"@fr,
+        "Török, Aurél"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoTörök, Aurél" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Török, Aurél"@de .
+

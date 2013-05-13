@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044740> a skos:Concept ;
+    skos:altLabel "Thouars"@en,
+        "Thouars"@fr,
+        "Thouars"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038792> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverDeux-Thouars" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thouars"@de .
+

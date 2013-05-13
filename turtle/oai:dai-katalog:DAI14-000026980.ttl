@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026980> a skos:Concept ;
+    skos:altLabel "Osnabrück 2000"@en,
+        "Osnabrück 2000"@fr,
+        "Osnabrück 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstOsnabrück 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osnabrück 2000"@de .
+

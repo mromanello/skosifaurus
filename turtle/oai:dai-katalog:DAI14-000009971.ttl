@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009971> a skos:Concept ;
+    skos:altLabel "Stawiski, Edmund"@en,
+        "Stawiski, Edmund"@fr,
+        "Stawiski, Edmund"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoStawiski, Edmund" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stawiski, Edmund"@de .
+

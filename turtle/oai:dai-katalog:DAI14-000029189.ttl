@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029189> a skos:Concept ;
+    skos:altLabel "Varese, Museo Civico Villa Mirabello"@en,
+        "Varese, Museo Civico Villa Mirabello"@fr,
+        "Varese, Museo Civico Villa Mirabello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVarese, Museo Civico Villa Mirabello" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Varese, Museo Civico Villa Mirabello"@de .
+

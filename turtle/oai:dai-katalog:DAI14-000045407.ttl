@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045407> a skos:Concept ;
+    skos:altLabel "Île de Martigues"@en,
+        "Île de Martigues"@fr,
+        "Île de Martigues"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RÎle de Ma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Île de Martigues"@de .
+

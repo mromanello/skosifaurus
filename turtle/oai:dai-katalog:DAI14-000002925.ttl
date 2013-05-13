@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002925> a skos:Concept ;
+    skos:altLabel "colonne"@it,
+        "colonnes"@fr,
+        "columns"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002914> ;
+    skos:hiddenLabel "xArchitBauglSäul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Säulen"@de .
+

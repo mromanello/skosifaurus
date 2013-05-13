@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066431> a skos:Concept ;
+    skos:altLabel "Sacarovca, raj. Sîngerei"@en,
+        "Sacarovca, raj. Sîngerei"@fr,
+        "Sacarovca, raj. Sîngerei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaSacarovca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sacarovca, raj. Sîngerei"@de .
+

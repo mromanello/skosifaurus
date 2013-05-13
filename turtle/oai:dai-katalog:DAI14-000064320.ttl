@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064320> a skos:Concept ;
+    skos:altLabel "Chvalatice, okr. Znojmo"@en,
+        "Chvalatice, okr. Znojmo"@fr,
+        "Chvalatice, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravChvalatic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chvalatice, okr. Znojmo"@de .
+

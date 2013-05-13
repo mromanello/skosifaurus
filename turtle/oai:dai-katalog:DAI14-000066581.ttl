@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066581> a skos:Concept ;
+    skos:altLabel "Cioroiul Nou, jud. Dolj"@en,
+        "Cioroiul Nou, jud. Dolj"@fr,
+        "Cioroiul Nou, jud. Dolj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatCioroiul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cioroiul Nou, jud. Dolj"@de .
+

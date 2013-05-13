@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014044> a skos:Concept ;
+    skos:altLabel "Naszyjniki"@pl,
+        "Necklaces"@en,
+        "Torques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014039> ;
+    skos:hiddenLabel "yRGKArch07 - FundeKleidSchmuRingsHalsr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Halsringe"@de .
+

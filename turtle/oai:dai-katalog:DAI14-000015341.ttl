@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015341> a skos:Concept ;
+    skos:altLabel "Helvetian Samian Ware"@en,
+        "Helwetyjska Terra sigillata"@pl,
+        "Sigillée helvètien"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015334> ;
+    skos:hiddenLabel "yRGKArch09 - FundeGefäsKeramFeinkTerraHelve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Helvetische TS"@de .
+

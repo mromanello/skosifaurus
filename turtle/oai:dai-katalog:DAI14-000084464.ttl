@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084464> a skos:Concept ;
+    skos:altLabel "Winter, Werner"@en,
+        "Winter, Werner"@fr,
+        "Winter, Werner"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWinter, Werner" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winter, Werner"@de .
+

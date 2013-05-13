@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036993> a skos:Concept ;
+    skos:altLabel "Palencia 1985"@en,
+        "Palencia 1985"@fr,
+        "Palencia 1985"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrPalencia 1985" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Palencia 1985"@de .
+

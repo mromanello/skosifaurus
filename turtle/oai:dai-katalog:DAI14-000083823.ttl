@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083823> a skos:Concept ;
+    skos:altLabel "Dettenschwang"@en,
+        "Dettenschwang"@fr,
+        "Dettenschwang"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075430> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerLandsDettensch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dettenschwang"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063301> a skos:Concept ;
+    skos:altLabel "Vesela gora v Brinju"@en,
+        "Vesela gora v Brinju"@fr,
+        "Vesela gora v Brinju"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039063> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweVesela go" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vesela gora v Brinju"@de .
+

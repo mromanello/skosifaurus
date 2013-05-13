@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058515> a skos:Concept ;
+    skos:altLabel "Werndorf, VB Graz-Umgebung"@en,
+        "Werndorf, VB Graz-Umgebung"@fr,
+        "Werndorf, VB Graz-Umgebung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieWerndorf," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Werndorf, VB Graz-Umgebung"@de .
+

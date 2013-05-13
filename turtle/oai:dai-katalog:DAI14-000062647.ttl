@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062647> a skos:Concept ;
+    skos:altLabel "Čečejovce, okr. Košice"@en,
+        "Čečejovce, okr. Košice"@fr,
+        "Čečejovce, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaČečejovce" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Čečejovce, okr. Košice"@de .
+

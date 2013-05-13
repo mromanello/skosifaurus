@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036234> a skos:Concept ;
+    skos:altLabel "Krasnodar 2000"@en,
+        "Krasnodar 2000"@fr,
+        "Krasnodar 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrKrasnodar 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krasnodar 2000"@de .
+

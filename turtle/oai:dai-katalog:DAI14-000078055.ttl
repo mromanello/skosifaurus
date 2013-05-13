@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078055> a skos:Concept ;
+    skos:altLabel "Sobków"@en,
+        "Sobków"@fr,
+        "Sobków"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętSobków" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sobków"@de .
+

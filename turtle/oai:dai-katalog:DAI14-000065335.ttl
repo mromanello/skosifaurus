@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065335> a skos:Concept ;
+    skos:altLabel "Tiszaföldvár"@en,
+        "Tiszaföldvár"@fr,
+        "Tiszaföldvár"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039087> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunJász-Tiszaföld" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiszaföldvár"@de .
+

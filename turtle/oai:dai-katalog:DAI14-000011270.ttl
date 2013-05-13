@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011270> a skos:Concept ;
+    skos:altLabel "Wilhelm, Adolf"@en,
+        "Wilhelm, Adolf"@fr,
+        "Wilhelm, Adolf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWilhelm, Adolf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wilhelm, Adolf"@de .
+

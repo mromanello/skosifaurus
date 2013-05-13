@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068894> a skos:Concept ;
+    skos:altLabel "Novosel'skoe (Satu Nou), raj. Reni', obl. Odesa"@en,
+        "Novosel'skoe (Satu Nou), raj. Reni', obl. Odesa"@fr,
+        "Novosel'skoe (Satu Nou), raj. Reni', obl. Odesa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiNovosel's" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Novosel'skoe (Satu Nou), raj. Reni', obl. Odesa"@de .
+

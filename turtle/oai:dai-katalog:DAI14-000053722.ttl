@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053722> a skos:Concept ;
+    skos:altLabel "Westerstede-Hüllstede"@en,
+        "Westerstede-Hüllstede"@fr,
+        "Westerstede-Hüllstede"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075548> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeAmmerWesterste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Westerstede-Hüllstede"@de .
+

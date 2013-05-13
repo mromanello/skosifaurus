@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034696> a skos:Concept ;
+    skos:altLabel "Augsburg 1999"@en,
+        "Augsburg 1999"@fr,
+        "Augsburg 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstAugsburg 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Augsburg 1999"@de .
+

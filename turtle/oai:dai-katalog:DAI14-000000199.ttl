@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000199> a skos:Concept ;
+    skos:altLabel "Tribus, pueblos"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000196> ;
+    skos:hiddenLabel "3.07.01.04" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stämme"@de .
+

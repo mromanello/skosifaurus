@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048978> a skos:Concept ;
+    skos:altLabel "Robert's Haven, Orkney"@en,
+        "Robert's Haven, Orkney"@fr,
+        "Robert's Haven, Orkney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078652> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkneRobert's" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Robert's Haven, Orkney"@de .
+

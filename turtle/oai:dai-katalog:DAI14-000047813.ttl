@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047813> a skos:Concept ;
+    skos:altLabel "Oakington"@en,
+        "Oakington"@fr,
+        "Oakington"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077680> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCambrOakington" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oakington"@de .
+

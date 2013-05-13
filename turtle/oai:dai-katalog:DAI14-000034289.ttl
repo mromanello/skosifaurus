@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034289> a skos:Concept ;
+    skos:altLabel "Legio III Flavia Felix"@en,
+        "Legio III Flavia Felix"@fr,
+        "Legio III Flavia Felix"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016054> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitLegioLegio III Flavia Felix" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legio III Flavia Felix"@de .
+

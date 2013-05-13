@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002636> a skos:Concept ;
+    skos:altLabel "altri materiali inorganici"@it,
+        "autre minéraux"@fr,
+        "other minerals"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002596> ;
+    skos:hiddenLabel "xTMMatAnorg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "andere anorganische Materialien"@de .
+

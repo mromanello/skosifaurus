@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074979> a skos:Concept ;
+    skos:altLabel "Sugluk-Chem"@en,
+        "Sugluk-Chem"@fr,
+        "Sugluk-Chem"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiSugluk-Ch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sugluk-Chem"@de .
+

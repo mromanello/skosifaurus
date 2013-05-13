@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071643> a skos:Concept ;
+    skos:altLabel "Roma-Terme di Traiano"@en,
+        "Roma-Terme di Traiano"@fr,
+        "Roma-Terme di Traiano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRoma-Term" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma-Terme di Traiano"@de .
+

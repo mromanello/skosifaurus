@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077200> a skos:Concept ;
+    skos:altLabel "Thésée-Pouillé"@en,
+        "Thésée-Pouillé"@fr,
+        "Thésée-Pouillé"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038763> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoir-Thésée-Po" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thésée-Pouillé"@de .
+

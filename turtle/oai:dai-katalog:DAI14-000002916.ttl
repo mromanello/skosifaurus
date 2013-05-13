@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002916> a skos:Concept ;
+    skos:altLabel "balustrades, fences, enclosures"@en,
+        "cancelli, parapetti, recinti"@it,
+        "parapets et clôtures"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002914> ;
+    skos:hiddenLabel "xArchitBauglBalustr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Balustraden, Zäune, Umfriedungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002888> a skos:Concept ;
+    skos:altLabel "piazze"@it,
+        "places publiques"@fr,
+        "public places and squares"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002808> ;
+    skos:hiddenLabel "xArchitBauPlatz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Platzanlagen"@de .
+

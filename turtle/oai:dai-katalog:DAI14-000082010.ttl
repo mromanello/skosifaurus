@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082010> a skos:Concept ;
+    skos:altLabel "Arnozela"@en,
+        "Arnozela"@fr,
+        "Arnozela"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039280> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuBragaArnozela" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arnozela"@de .
+

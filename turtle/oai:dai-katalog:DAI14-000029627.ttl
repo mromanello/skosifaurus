@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029627> a skos:Concept ;
+    skos:altLabel "Mindelheim, Südschwäbisches Vorgeschichtsmuseum"@en,
+        "Mindelheim, Südschwäbisches Vorgeschichtsmuseum"@fr,
+        "Mindelheim, Südschwäbisches Vorgeschichtsmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMindelheim, Südschwäbisches Vorgeschichtsmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mindelheim, Südschwäbisches Vorgeschichtsmuseum"@de .
+

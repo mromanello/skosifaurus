@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070395> a skos:Concept ;
+    skos:altLabel "Contovello, com. Trieste"@en,
+        "Contovello, com. Trieste"@fr,
+        "Contovello, com. Trieste"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039184> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetFriulTriesContovell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Contovello, com. Trieste"@de .
+

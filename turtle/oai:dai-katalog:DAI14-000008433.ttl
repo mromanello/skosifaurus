@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008433> a skos:Concept ;
+    skos:altLabel "Gosse, H.-J."@en,
+        "Gosse, H.-J."@fr,
+        "Gosse, H.-J."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGosse, H.-J." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gosse, H.-J."@de .
+

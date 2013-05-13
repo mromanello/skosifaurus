@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082023> a skos:Concept ;
+    skos:altLabel "Sillery"@en,
+        "Sillery"@fr,
+        "Sillery"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038746> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMarneSillery" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sillery"@de .
+

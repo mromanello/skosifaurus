@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048206> a skos:Concept ;
+    skos:altLabel "Sunderland"@en,
+        "Sunderland"@fr,
+        "Sunderland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077687> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDurhaSunderlan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sunderland"@de .
+

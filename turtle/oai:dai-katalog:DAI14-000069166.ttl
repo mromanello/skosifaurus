@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069166> a skos:Concept ;
+    skos:altLabel "Kap Ai-Todor"@en,
+        "Kap Ai-Todor"@fr,
+        "Kap Ai-Todor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077455> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiKap Ai-To" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kap Ai-Todor"@de .
+

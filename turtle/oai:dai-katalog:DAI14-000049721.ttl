@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049721> a skos:Concept ;
+    skos:altLabel "Riel"@en,
+        "Riel"@fr,
+        "Riel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038857> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeNoordRiel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Riel"@de .
+

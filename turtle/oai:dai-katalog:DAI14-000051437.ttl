@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051437> a skos:Concept ;
+    skos:altLabel "Eussenheim"@en,
+        "Eussenheim"@fr,
+        "Eussenheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075436> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMain-Eussenhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eussenheim"@de .
+

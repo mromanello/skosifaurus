@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025239> a skos:Concept ;
+    skos:altLabel "Swantevit"@en,
+        "Swantevit"@fr,
+        "Swantevit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017722> ;
+    skos:hiddenLabel "yRGKArch11 - GeselReligKulteGötteSwantevit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Swantevit"@de .
+

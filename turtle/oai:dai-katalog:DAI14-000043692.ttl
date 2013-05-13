@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043692> a skos:Concept ;
+    skos:altLabel "Autry-le-Châtel"@en,
+        "Autry-le-Châtel"@fr,
+        "Autry-le-Châtel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038765> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoireAutry-le-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Autry-le-Châtel"@de .
+

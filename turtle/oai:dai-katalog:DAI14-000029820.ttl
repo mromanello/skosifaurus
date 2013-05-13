@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029820> a skos:Concept ;
+    skos:altLabel "Volterra, Sammlung Galluzzi"@en,
+        "Volterra, Sammlung Galluzzi"@fr,
+        "Volterra, Sammlung Galluzzi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVolterra, Sammlung Galluzzi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Volterra, Sammlung Galluzzi"@de .
+

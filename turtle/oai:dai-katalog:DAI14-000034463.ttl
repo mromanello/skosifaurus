@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034463> a skos:Concept ;
+    skos:altLabel "Cohors I Hamiorum sagittariorum"@en,
+        "Cohors I Hamiorum sagittariorum"@fr,
+        "Cohors I Hamiorum sagittariorum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016058> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitAuxilAuxilCohors I Hamiorum sagittariorum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cohors I Hamiorum sagittariorum"@de .
+

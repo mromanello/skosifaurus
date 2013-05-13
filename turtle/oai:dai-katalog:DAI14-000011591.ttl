@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011591> a skos:Concept ;
+    skos:altLabel "Kolčin, Boris Aleksandrovič"@en,
+        "Kolčin, Boris Aleksandrovič"@fr,
+        "Kolčin, Boris Aleksandrovič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKolčin, Boris Aleksandrovič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kolčin, Boris Aleksandrovič"@de .
+

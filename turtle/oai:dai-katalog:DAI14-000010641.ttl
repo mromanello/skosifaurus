@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010641> a skos:Concept ;
+    skos:altLabel "Padova, Museo Civico"@en,
+        "Padova, Museo Civico"@fr,
+        "Padova, Museo Civico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiPadova, Museo Civico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Padova, Museo Civico"@de .
+

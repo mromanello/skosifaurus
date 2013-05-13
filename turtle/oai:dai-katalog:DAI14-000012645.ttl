@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012645> a skos:Concept ;
+    skos:altLabel "Gospodarka zywieniowa"@pl,
+        "Stratégie subsistance"@fr,
+        "Subsistence strategies"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012644> ;
+    skos:hiddenLabel "yRGKArch03 - WirtsSubsi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Subsistenzwirtschaft"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003595> a skos:Concept ;
+    skos:altLabel "gruppi, singoli, proprietari"@it,
+        "individuals, groups, ownership"@en,
+        "particuliers, groupes, propriétaires"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003592> ;
+    skos:hiddenLabel "xAntWirtschPers" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Personen, Gruppen, Besitzverhältnisse"@de .
+

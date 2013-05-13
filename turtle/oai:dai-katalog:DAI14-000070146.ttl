@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070146> a skos:Concept ;
+    skos:altLabel "Carmignano di Brenta"@en,
+        "Carmignano di Brenta"@fr,
+        "Carmignano di Brenta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039175> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetPadovCarmignan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carmignano di Brenta"@de .
+

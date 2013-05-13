@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023045> a skos:Concept ;
+    skos:altLabel "Passio Sancti Bonosi et Maximi"@en,
+        "Passio Sancti Bonosi et Maximi"@fr,
+        "Passio Sancti Bonosi et Maximi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012496> ;
+    skos:hiddenLabel "yRGKArch02 - SchriReligVitaePassio Sancti Bonosi et Maximi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Passio Sancti Bonosi et Maximi"@de .
+

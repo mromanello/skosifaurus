@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003182> a skos:Concept ;
+    skos:altLabel "Hongrie"@fr,
+        "Hungary"@en,
+        "Ungheria"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003152> ;
+    skos:hiddenLabel "xMosTessUngarn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ungarn"@de .
+

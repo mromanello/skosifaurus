@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067339> a skos:Concept ;
+    skos:altLabel "Schela Cladovei, jud. Mehedinţi"@en,
+        "Schela Cladovei, jud. Mehedinţi"@fr,
+        "Schela Cladovei, jud. Mehedinţi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenSchela Cl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schela Cladovei, jud. Mehedinţi"@de .
+

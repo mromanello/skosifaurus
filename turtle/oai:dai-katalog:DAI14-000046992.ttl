@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046992> a skos:Concept ;
+    skos:altLabel "Crawley Edge"@en,
+        "Crawley Edge"@fr,
+        "Crawley Edge"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077687> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDurhaCrawley E" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crawley Edge"@de .
+

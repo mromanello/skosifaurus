@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049929> a skos:Concept ;
+    skos:altLabel "Sandberg"@en,
+        "Sandberg"@fr,
+        "Sandberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075326> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenAlb-DSandberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sandberg"@de .
+

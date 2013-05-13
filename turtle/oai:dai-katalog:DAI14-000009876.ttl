@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009876> a skos:Concept ;
+    skos:altLabel "Seaby, Wilfred Arthur"@en,
+        "Seaby, Wilfred Arthur"@fr,
+        "Seaby, Wilfred Arthur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSeaby, Wilfred Arthur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seaby, Wilfred Arthur"@de .
+

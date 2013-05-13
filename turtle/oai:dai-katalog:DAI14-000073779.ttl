@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073779> a skos:Concept ;
+    skos:altLabel "Ria de Huelva"@en,
+        "Ria de Huelva"@fr,
+        "Ria de Huelva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039355> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalHuelvRia de Hu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ria de Huelva"@de .
+

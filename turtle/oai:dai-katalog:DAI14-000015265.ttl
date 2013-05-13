@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015265> a skos:Concept ;
+    skos:altLabel "Aes rude"@en,
+        "Aes rude"@fr,
+        "Aes rude"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015264> ;
+    skos:hiddenLabel "yRGKArch08 - HistoNumisMünzmBronzAes r" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aes rude"@de .
+

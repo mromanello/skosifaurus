@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008328> a skos:Concept ;
+    skos:altLabel "Fülöp, József"@en,
+        "Fülöp, József"@fr,
+        "Fülöp, József"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFülöp, József" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fülöp, József"@de .
+

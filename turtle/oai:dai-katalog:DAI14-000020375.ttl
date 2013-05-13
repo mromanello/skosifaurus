@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020375> a skos:Concept ;
+    skos:altLabel "Latium"@en,
+        "Latium"@fr,
+        "Latium"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Latium" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Latium"@de .
+

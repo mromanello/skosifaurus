@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070953> a skos:Concept ;
+    skos:altLabel "Motto di Massa Finalese"@en,
+        "Motto di Massa Finalese"@fr,
+        "Motto di Massa Finalese"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039194> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliModenMotto di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Motto di Massa Finalese"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002639> a skos:Concept ;
+    skos:altLabel "allume"@it,
+        "alum"@en,
+        "alun"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002636> ;
+    skos:hiddenLabel "xTMMatAnorgAlaun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alaun"@de .
+

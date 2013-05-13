@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052384> a skos:Concept ;
+    skos:altLabel "Molchow, Stadt Neuruppin"@en,
+        "Molchow, Stadt Neuruppin"@fr,
+        "Molchow, Stadt Neuruppin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075479> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandOstprMolchow," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Molchow, Stadt Neuruppin"@de .
+

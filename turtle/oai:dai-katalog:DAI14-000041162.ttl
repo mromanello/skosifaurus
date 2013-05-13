@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041162> a skos:Concept ;
+    skos:altLabel "Trekanten, Småland"@en,
+        "Trekanten, Småland"@fr,
+        "Trekanten, Småland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Trekanten" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trekanten, Småland"@de .
+

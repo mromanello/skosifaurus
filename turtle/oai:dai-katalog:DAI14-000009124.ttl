@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009124> a skos:Concept ;
+    skos:altLabel "Maggi da Bassano (Famiglia)"@en,
+        "Maggi da Bassano (Famiglia)"@fr,
+        "Maggi da Bassano (Famiglia)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMaggi da Bassano (Famiglia)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maggi da Bassano (Famiglia)"@de .
+

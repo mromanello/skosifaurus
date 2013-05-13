@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012117> a skos:Concept ;
+    skos:altLabel "Bonenfant, Pierre-Paul"@en,
+        "Bonenfant, Pierre-Paul"@fr,
+        "Bonenfant, Pierre-Paul"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBonenfant, Pierre-Paul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonenfant, Pierre-Paul"@de .
+

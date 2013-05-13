@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006169> a skos:Concept ;
+    skos:altLabel "Burgbernheim"@en,
+        "Burgbernheim"@fr,
+        "Burgbernheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBurgbernheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burgbernheim"@de .
+

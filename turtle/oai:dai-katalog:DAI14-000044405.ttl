@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044405> a skos:Concept ;
+    skos:altLabel "Saint-Julien-du-Sault"@en,
+        "Saint-Julien-du-Sault"@fr,
+        "Saint-Julien-du-Sault"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038780> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgYonneSaint-Jul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Julien-du-Sault"@de .
+

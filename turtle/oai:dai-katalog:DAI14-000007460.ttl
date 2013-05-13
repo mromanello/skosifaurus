@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007460> a skos:Concept ;
+    skos:altLabel "Alföldi-Rosenbaum, Elisabeth"@en,
+        "Alföldi-Rosenbaum, Elisabeth"@fr,
+        "Alföldi-Rosenbaum, Elisabeth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAlföldi-Rosenbaum, Elisabeth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alföldi-Rosenbaum, Elisabeth"@de .
+

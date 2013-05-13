@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063345> a skos:Concept ;
+    skos:altLabel "Istrien"@en,
+        "Istrien"@fr,
+        "Istrien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039064> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweZZ--RIstrien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Istrien"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081501> a skos:Concept ;
+    skos:altLabel "Tyne"@en,
+        "Tyne"@fr,
+        "Tyne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077701> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthTyne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tyne"@de .
+

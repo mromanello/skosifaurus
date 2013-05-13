@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022853> a skos:Concept ;
+    skos:altLabel "Ocratii"@en,
+        "Ocratii"@fr,
+        "Ocratii"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschOcratii" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ocratii"@de .
+

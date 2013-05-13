@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011121> a skos:Concept ;
+    skos:altLabel "Asquerino, Dolores"@en,
+        "Asquerino, Dolores"@fr,
+        "Asquerino, Dolores"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAsquerino, Dolores" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asquerino, Dolores"@de .
+

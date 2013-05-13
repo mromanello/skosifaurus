@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017450> a skos:Concept ;
+    skos:altLabel "Rzezba drobna"@pl,
+        "Sculpture en miniature"@fr,
+        "Small-scale sculpture"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017448> ;
+    skos:hiddenLabel "yRGKArch11 - FundeKunstRundpKlein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kleinplastik"@de .
+

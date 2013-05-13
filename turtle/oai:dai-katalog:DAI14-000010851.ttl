@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010851> a skos:Concept ;
+    skos:altLabel "Lwów, Instytut Stauropigialny"@en,
+        "Lwów, Instytut Stauropigialny"@fr,
+        "Lwów, Instytut Stauropigialny"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLwów, Instytut Stauropigialny" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lwów, Instytut Stauropigialny"@de .
+

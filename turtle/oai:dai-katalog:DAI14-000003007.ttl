@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003007> a skos:Concept ;
+    skos:altLabel "artigiani"@it,
+        "artisans"@fr,
+        "craftsmen"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002999> ;
+    skos:hiddenLabel "xPlastRundplGruppHandw" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Handwerker"@de .
+

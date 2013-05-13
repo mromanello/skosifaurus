@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047019> a skos:Concept ;
+    skos:altLabel "Danby Rigg, North Yorkshire"@en,
+        "Danby Rigg, North Yorkshire"@fr,
+        "Danby Rigg, North Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksDanby Rig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Danby Rigg, North Yorkshire"@de .
+

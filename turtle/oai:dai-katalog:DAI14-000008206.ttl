@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008206> a skos:Concept ;
+    skos:altLabel "Eyck, Jan van"@en,
+        "Eyck, Jan van"@fr,
+        "Eyck, Jan van"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoEyck, Jan van" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eyck, Jan van"@de .
+

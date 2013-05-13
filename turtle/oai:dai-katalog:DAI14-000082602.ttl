@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082602> a skos:Concept ;
+    skos:altLabel "Guéthary"@en,
+        "Guéthary"@fr,
+        "Guéthary"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038821> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitPyrénGuéthary" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Guéthary"@de .
+

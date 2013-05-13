@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073527> a skos:Concept ;
+    skos:altLabel "Illici"@en,
+        "Illici"@fr,
+        "Illici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039344> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenAlicaIllici" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Illici"@de .
+

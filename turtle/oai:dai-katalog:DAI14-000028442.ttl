@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028442> a skos:Concept ;
+    skos:altLabel "Lviv, Archaeological Museum of Lviv University"@en,
+        "Lviv, Archaeological Museum of Lviv University"@fr,
+        "Lviv, Archaeological Museum of Lviv University"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLviv, Archaeological Museum of Lviv University" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lviv, Archaeological Museum of Lviv University"@de .
+

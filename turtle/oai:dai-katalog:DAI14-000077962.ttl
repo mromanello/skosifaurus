@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077962> a skos:Concept ;
+    skos:altLabel "Dätgen"@en,
+        "Dätgen"@fr,
+        "Dätgen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038983> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleRendsDätgen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dätgen"@de .
+

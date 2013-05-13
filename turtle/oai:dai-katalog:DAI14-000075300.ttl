@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075300> a skos:Concept ;
+    skos:altLabel "Alzenau-Hörstein"@en,
+        "Alzenau-Hörstein"@fr,
+        "Alzenau-Hörstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075374> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAschaAlzenau-H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alzenau-Hörstein"@de .
+

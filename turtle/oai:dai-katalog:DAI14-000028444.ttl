@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028444> a skos:Concept ;
+    skos:altLabel "Lyon, Musée de la Civilisation Gallo-Romaine"@en,
+        "Lyon, Musée de la Civilisation Gallo-Romaine"@fr,
+        "Lyon, Musée de la Civilisation Gallo-Romaine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLyon, Musée de la Civilisation Gallo-Romaine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lyon, Musée de la Civilisation Gallo-Romaine"@de .
+

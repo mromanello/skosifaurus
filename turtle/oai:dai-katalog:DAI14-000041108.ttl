@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041108> a skos:Concept ;
+    skos:altLabel "Södra Sallerup, Skåne"@en,
+        "Södra Sallerup, Skåne"@fr,
+        "Södra Sallerup, Skåne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Södra Sal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Södra Sallerup, Skåne"@de .
+

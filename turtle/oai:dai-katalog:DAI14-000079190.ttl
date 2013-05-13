@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079190> a skos:Concept ;
+    skos:altLabel "Sofratikë"@en,
+        "Sofratikë"@fr,
+        "Sofratikë"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039093> ;
+    skos:hiddenLabel "zTopogEuropOsteuAlbanSofratikë" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sofratikë"@de .
+

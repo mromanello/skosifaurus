@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012989> a skos:Concept ;
+    skos:altLabel "Daggers"@en,
+        "Poignards"@fr,
+        "Sztylety"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012979> ;
+    skos:hiddenLabel "yRGKArch05 - FundeGerätSteinSilexDolch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dolche"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002204> a skos:Concept ;
+    skos:altLabel "Svezia"@it,
+        "Svède"@fr,
+        "Sweden"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002180> ;
+    skos:hiddenLabel "xMusSlgMusLandSchwed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schweden"@de .
+

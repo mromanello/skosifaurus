@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062942> a skos:Concept ;
+    skos:altLabel "Trebatice, okr. Piešt'any"@en,
+        "Trebatice, okr. Piešt'any"@fr,
+        "Trebatice, okr. Piešt'any"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaTrebatice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trebatice, okr. Piešt'any"@de .
+

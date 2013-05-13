@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010311> a skos:Concept ;
+    skos:altLabel "Wiedemann, Thomas Ernst Josef"@en,
+        "Wiedemann, Thomas Ernst Josef"@fr,
+        "Wiedemann, Thomas Ernst Josef"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWiedemann, Thomas Ernst Josef" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wiedemann, Thomas Ernst Josef"@de .
+

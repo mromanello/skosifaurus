@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081981> a skos:Concept ;
+    skos:altLabel "Noisy-sur-École"@en,
+        "Noisy-sur-École"@fr,
+        "Noisy-sur-École"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038733> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineNoisy-sur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Noisy-sur-École"@de .
+

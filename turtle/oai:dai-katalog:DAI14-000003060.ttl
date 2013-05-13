@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003060> a skos:Concept ;
+    skos:altLabel "medaglioni e tondi"@it,
+        "medaillons"@en,
+        "médaillons"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003050> ;
+    skos:hiddenLabel "xPlastRelMedail" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reliefmedaillons"@de .
+

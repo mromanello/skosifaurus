@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027985> a skos:Concept ;
+    skos:altLabel "Dubrovnik, Arheološki Muzej"@en,
+        "Dubrovnik, Arheološki Muzej"@fr,
+        "Dubrovnik, Arheološki Muzej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuDubrovnik, Arheološki Muzej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dubrovnik, Arheološki Muzej"@de .
+

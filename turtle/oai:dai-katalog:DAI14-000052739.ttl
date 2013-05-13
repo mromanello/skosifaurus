@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052739> a skos:Concept ;
+    skos:altLabel "Ober-Erlenbach, Stadt Bad Homburg"@en,
+        "Ober-Erlenbach, Stadt Bad Homburg"@fr,
+        "Ober-Erlenbach, Stadt Bad Homburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075492> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseHochtOber-Erle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ober-Erlenbach, Stadt Bad Homburg"@de .
+

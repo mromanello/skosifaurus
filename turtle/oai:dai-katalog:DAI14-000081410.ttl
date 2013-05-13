@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081410> a skos:Concept ;
+    skos:altLabel "Lauchheim-Kapfenburg"@en,
+        "Lauchheim-Kapfenburg"@fr,
+        "Lauchheim-Kapfenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075352> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenOstalLauchheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lauchheim-Kapfenburg"@de .
+

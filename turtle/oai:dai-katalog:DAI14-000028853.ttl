@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028853> a skos:Concept ;
+    skos:altLabel "Roma (allgem.)"@en,
+        "Roma (allgem.)"@fr,
+        "Roma (allgem.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma (allgem.)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma (allgem.)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051181> a skos:Concept ;
+    skos:altLabel "Kranzberg-Bernstorf"@en,
+        "Kranzberg-Bernstorf"@fr,
+        "Kranzberg-Bernstorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075412> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerFreisKranzberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kranzberg-Bernstorf"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045047> a skos:Concept ;
+    skos:altLabel "Saint-Paul-Lès-Durance"@en,
+        "Saint-Paul-Lès-Durance"@fr,
+        "Saint-Paul-Lès-Durance"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchSaint-Pau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Paul-Lès-Durance"@de .
+

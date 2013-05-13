@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042036> a skos:Concept ;
+    skos:altLabel "Farcheville"@en,
+        "Farcheville"@fr,
+        "Farcheville"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038724> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dAisneFarchevil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Farcheville"@de .
+

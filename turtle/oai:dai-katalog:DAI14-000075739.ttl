@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075739> a skos:Concept ;
+    skos:altLabel "Orheiul Bistriţei, jud. Bistriţa-Năsăud"@en,
+        "Orheiul Bistriţei, jud. Bistriţa-Năsăud"@fr,
+        "Orheiul Bistriţei, jud. Bistriţa-Năsăud"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatOrheiul B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orheiul Bistriţei, jud. Bistriţa-Năsăud"@de .
+

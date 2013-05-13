@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006281> a skos:Concept ;
+    skos:altLabel "Driesch, Angela von den"@en,
+        "Driesch, Angela von den"@fr,
+        "Driesch, Angela von den"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsDriesch, Angela von den" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Driesch, Angela von den"@de .
+

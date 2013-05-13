@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070599> a skos:Concept ;
+    skos:altLabel "Ortisei-Col de Flam"@en,
+        "Ortisei-Col de Flam"@fr,
+        "Ortisei-Col de Flam"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaOrtisei-C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ortisei-Col de Flam"@de .
+

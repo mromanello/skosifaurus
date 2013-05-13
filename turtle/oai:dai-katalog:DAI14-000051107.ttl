@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051107> a skos:Concept ;
+    skos:altLabel "Buchenhüll"@en,
+        "Buchenhüll"@fr,
+        "Buchenhüll"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075405> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerEichsBuchenhül" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buchenhüll"@de .
+

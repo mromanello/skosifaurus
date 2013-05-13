@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038181> a skos:Concept ;
+    skos:altLabel "Straubing 2006"@en,
+        "Straubing 2006"@fr,
+        "Straubing 2006"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrStraubing 2006" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Straubing 2006"@de .
+

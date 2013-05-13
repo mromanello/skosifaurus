@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055745> a skos:Concept ;
+    skos:altLabel "Damscheid, Wüstung Udenweiler"@en,
+        "Damscheid, Wüstung Udenweiler"@fr,
+        "Damscheid, Wüstung Udenweiler"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038933> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinRheinDamscheid" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Damscheid, Wüstung Udenweiler"@de .
+

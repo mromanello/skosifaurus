@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032796> a skos:Concept ;
+    skos:altLabel "LPL"@en,
+        "LPL"@fr,
+        "LPL"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeLPL" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "LPL"@de .
+

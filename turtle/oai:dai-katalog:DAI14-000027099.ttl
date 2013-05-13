@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027099> a skos:Concept ;
+    skos:altLabel "Rennes 1988"@en,
+        "Rennes 1988"@fr,
+        "Rennes 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstRennes 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rennes 1988"@de .
+

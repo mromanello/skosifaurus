@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009207> a skos:Concept ;
+    skos:altLabel "Meer, Frederik Gerben Louis van der"@en,
+        "Meer, Frederik Gerben Louis van der"@fr,
+        "Meer, Frederik Gerben Louis van der"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMeer, Frederik Gerben Louis van der" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meer, Frederik Gerben Louis van der"@de .
+

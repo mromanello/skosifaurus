@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074713> a skos:Concept ;
+    skos:altLabel "Mektepini, Dogluşah"@en,
+        "Mektepini, Dogluşah"@fr,
+        "Mektepini, Dogluşah"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeMektepini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mektepini, Dogluşah"@de .
+

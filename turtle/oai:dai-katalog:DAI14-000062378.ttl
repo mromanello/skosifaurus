@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062378> a skos:Concept ;
+    skos:altLabel "Aeugst am Albis"@en,
+        "Aeugst am Albis"@fr,
+        "Aeugst am Albis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039057> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüricAeugst am" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aeugst am Albis"@de .
+

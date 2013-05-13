@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063996> a skos:Concept ;
+    skos:altLabel "Sulejovice, okr. Litoměrice"@en,
+        "Sulejovice, okr. Litoměrice"@fr,
+        "Sulejovice, okr. Litoměrice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechySulejovic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sulejovice, okr. Litoměrice"@de .
+

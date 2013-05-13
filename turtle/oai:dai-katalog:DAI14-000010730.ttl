@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010730> a skos:Concept ;
+    skos:altLabel "Toruń, Coppernicus-Verein für Wissenschaft und Kunst zu Thorn"@en,
+        "Toruń, Coppernicus-Verein für Wissenschaft und Kunst zu Thorn"@fr,
+        "Toruń, Coppernicus-Verein für Wissenschaft und Kunst zu Thorn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiToruń, Coppernicus-Verein für Wissenschaft und Kunst zu Thorn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Toruń, Coppernicus-Verein für Wissenschaft und Kunst zu Thorn"@de .
+

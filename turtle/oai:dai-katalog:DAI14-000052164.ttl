@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052164> a skos:Concept ;
+    skos:altLabel "Fürstlich Drehna"@en,
+        "Fürstlich Drehna"@fr,
+        "Fürstlich Drehna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075471> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandDahmeFürstlich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fürstlich Drehna"@de .
+

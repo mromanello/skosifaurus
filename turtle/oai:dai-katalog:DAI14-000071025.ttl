@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071025> a skos:Concept ;
+    skos:altLabel "Rivaltella-Ca'Romensini"@en,
+        "Rivaltella-Ca'Romensini"@fr,
+        "Rivaltella-Ca'Romensini"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039198> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliReggiRivaltell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rivaltella-Ca'Romensini"@de .
+

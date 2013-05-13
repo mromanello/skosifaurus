@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041843> a skos:Concept ;
+    skos:altLabel "Haltinne, com. Gesves"@en,
+        "Haltinne, com. Gesves"@fr,
+        "Haltinne, com. Gesves"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurHaltinne," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haltinne, com. Gesves"@de .
+

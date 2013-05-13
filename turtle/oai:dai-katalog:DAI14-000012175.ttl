@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012175> a skos:Concept ;
+    skos:altLabel "Hayes, J. W."@en,
+        "Hayes, J. W."@fr,
+        "Hayes, J. W."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHayes, J. W." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hayes, J. W."@de .
+

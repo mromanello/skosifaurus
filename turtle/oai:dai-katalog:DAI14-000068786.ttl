@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068786> a skos:Concept ;
+    skos:altLabel "Leżnycja, obl. Volyn'"@en,
+        "Leżnycja, obl. Volyn'"@fr,
+        "Leżnycja, obl. Volyn'"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiLeżnycja," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leżnycja, obl. Volyn'"@de .
+

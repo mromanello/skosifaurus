@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080689> a skos:Concept ;
+    skos:altLabel "Filderstadt-Plattenhardt"@en,
+        "Filderstadt-Plattenhardt"@fr,
+        "Filderstadt-Plattenhardt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075336> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenEssliFildersta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Filderstadt-Plattenhardt"@de .
+

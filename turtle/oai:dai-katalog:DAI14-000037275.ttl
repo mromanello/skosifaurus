@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037275> a skos:Concept ;
+    skos:altLabel "Reno 1988"@en,
+        "Reno 1988"@fr,
+        "Reno 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrReno 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reno 1988"@de .
+

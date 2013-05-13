@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071262> a skos:Concept ;
+    skos:altLabel "Campanello sul Clitunno"@en,
+        "Campanello sul Clitunno"@fr,
+        "Campanello sul Clitunno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039214> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaUmbriPerugCampanell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Campanello sul Clitunno"@de .
+

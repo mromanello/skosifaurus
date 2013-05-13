@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026729> a skos:Concept ;
+    skos:altLabel "Lyon 1978/1979"@en,
+        "Lyon 1978/1979"@fr,
+        "Lyon 1978/1979"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLyon 1978/1979" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lyon 1978/1979"@de .
+

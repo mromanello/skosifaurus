@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073358> a skos:Concept ;
+    skos:altLabel "León"@en,
+        "León"@fr,
+        "León"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039329> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiLeónLeón" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "León"@de .
+

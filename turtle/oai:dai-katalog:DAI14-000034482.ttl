@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034482> a skos:Concept ;
+    skos:altLabel "Berlin, Kulturstiftung der Länder"@en,
+        "Berlin, Kulturstiftung der Länder"@fr,
+        "Berlin, Kulturstiftung der Länder"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiBerlin, Kulturstiftung der Länder" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berlin, Kulturstiftung der Länder"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049325> a skos:Concept ;
+    skos:altLabel "Lough Gara"@en,
+        "Lough Gara"@fr,
+        "Lough Gara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077553> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubRoscoLough Gar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lough Gara"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016833> a skos:Concept ;
+    skos:altLabel "Eunuchowie"@pl,
+        "Eunuchs"@en,
+        "Eunuques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016813> ;
+    skos:hiddenLabel "yRGKArch10 - GeselGeselSoziaRömisEunuc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eunuchen"@de .
+

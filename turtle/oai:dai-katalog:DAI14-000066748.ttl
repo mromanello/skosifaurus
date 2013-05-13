@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066748> a skos:Concept ;
+    skos:altLabel "Mehadia, jud. Caraş-Severin"@en,
+        "Mehadia, jud. Caraş-Severin"@fr,
+        "Mehadia, jud. Caraş-Severin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatMehadia," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mehadia, jud. Caraş-Severin"@de .
+

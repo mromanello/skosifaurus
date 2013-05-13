@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041021> a skos:Concept ;
+    skos:altLabel "Mos, Gotland"@en,
+        "Mos, Gotland"@fr,
+        "Mos, Gotland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Mos, Gotl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mos, Gotland"@de .
+

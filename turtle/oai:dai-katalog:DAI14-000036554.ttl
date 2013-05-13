@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036554> a skos:Concept ;
+    skos:altLabel "Mainz 1966"@en,
+        "Mainz 1966"@fr,
+        "Mainz 1966"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMainz 1966" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mainz 1966"@de .
+

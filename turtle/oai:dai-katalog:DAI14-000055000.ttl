@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055000> a skos:Concept ;
+    skos:altLabel "Frimmersdorf"@en,
+        "Frimmersdorf"@fr,
+        "Frimmersdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038888> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrNeussFrimmersd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frimmersdorf"@de .
+

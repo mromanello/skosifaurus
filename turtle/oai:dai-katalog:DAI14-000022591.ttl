@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022591> a skos:Concept ;
+    skos:altLabel "Villon, François"@en,
+        "Villon, François"@fr,
+        "Villon, François"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVillon, François" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villon, François"@de .
+

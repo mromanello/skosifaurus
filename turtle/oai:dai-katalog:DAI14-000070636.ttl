@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070636> a skos:Concept ;
+    skos:altLabel "Selva di Val Gardena-Plan de Frea"@en,
+        "Selva di Val Gardena-Plan de Frea"@fr,
+        "Selva di Val Gardena-Plan de Frea"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaSelva di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Selva di Val Gardena-Plan de Frea"@de .
+

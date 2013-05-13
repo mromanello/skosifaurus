@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031163> a skos:Concept ;
+    skos:altLabel "Seaby Coins, London 1996"@en,
+        "Seaby Coins, London 1996"@fr,
+        "Seaby Coins, London 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiSeaby Coins, London 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seaby Coins, London 1996"@de .
+

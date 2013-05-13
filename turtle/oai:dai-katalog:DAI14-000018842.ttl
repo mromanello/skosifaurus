@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018842> a skos:Concept ;
+    skos:altLabel "Inscriptions sur vases/graffiti"@fr,
+        "Inscriptions/graffiti on vessels"@en,
+        "Inskrypcje na naczyniach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018837> ;
+    skos:hiddenLabel "yRGKArch12 - HistoEpigrGefäs" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gefässinschriften"@de .
+

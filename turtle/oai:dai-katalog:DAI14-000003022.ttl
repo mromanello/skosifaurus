@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003022> a skos:Concept ;
+    skos:altLabel "heads"@en,
+        "teste"@it,
+        "têtes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002952> ;
+    skos:hiddenLabel "xPlastRundplKopf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Köpfe"@de .
+

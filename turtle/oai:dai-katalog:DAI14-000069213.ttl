@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069213> a skos:Concept ;
+    skos:altLabel "Feixa del Moro"@en,
+        "Feixa del Moro"@fr,
+        "Feixa del Moro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039140> ;
+    skos:hiddenLabel "zTopogEuropSüdeuAndorFeixa del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Feixa del Moro"@de .
+

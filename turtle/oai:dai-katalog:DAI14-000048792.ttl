@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048792> a skos:Concept ;
+    skos:altLabel "Bothwell Castle, Lanarkshire"@en,
+        "Bothwell Castle, Lanarkshire"@fr,
+        "Bothwell Castle, Lanarkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078502> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotStratBothwell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bothwell Castle, Lanarkshire"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047139> a skos:Concept ;
+    skos:altLabel "Faversham"@en,
+        "Faversham"@fr,
+        "Faversham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077694> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaKentFaversham" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Faversham"@de .
+

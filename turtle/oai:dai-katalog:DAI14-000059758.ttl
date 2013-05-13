@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059758> a skos:Concept ;
+    skos:altLabel "Obórka"@en,
+        "Obórka"@fr,
+        "Obórka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039016> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkWielkObórka" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obórka"@de .
+

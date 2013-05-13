@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028984> a skos:Concept ;
+    skos:altLabel "Sharjah, Musée"@en,
+        "Sharjah, Musée"@fr,
+        "Sharjah, Musée"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSharjah, Musée" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sharjah, Musée"@de .
+

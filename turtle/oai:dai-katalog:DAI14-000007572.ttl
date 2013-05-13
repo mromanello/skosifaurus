@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007572> a skos:Concept ;
+    skos:altLabel "Baudou, Evert"@en,
+        "Baudou, Evert"@fr,
+        "Baudou, Evert"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBaudou, Evert" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baudou, Evert"@de .
+

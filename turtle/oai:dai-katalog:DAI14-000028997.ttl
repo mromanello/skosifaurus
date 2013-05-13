@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028997> a skos:Concept ;
+    skos:altLabel "Skopje, Muzei na Makedonija"@en,
+        "Skopje, Muzei na Makedonija"@fr,
+        "Skopje, Muzei na Makedonija"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSkopje, Muzei na Makedonija" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skopje, Muzei na Makedonija"@de .
+

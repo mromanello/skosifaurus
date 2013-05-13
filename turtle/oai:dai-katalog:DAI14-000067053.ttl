@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067053> a skos:Concept ;
+    skos:altLabel "Srem, Banat"@en,
+        "Srem, Banat"@fr,
+        "Srem, Banat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReSrem, Ban" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Srem, Banat"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033534> a skos:Concept ;
+    skos:altLabel "Herren von Hischhorn"@en,
+        "Herren von Hischhorn"@fr,
+        "Herren von Hischhorn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschHerren von Hischhorn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herren von Hischhorn"@de .
+

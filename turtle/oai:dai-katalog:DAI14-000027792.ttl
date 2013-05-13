@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027792> a skos:Concept ;
+    skos:altLabel "Bruxelles, Musée du Cinquantenaire"@en,
+        "Bruxelles, Musée du Cinquantenaire"@fr,
+        "Bruxelles, Musée du Cinquantenaire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBruxelles, Musée du Cinquantenaire" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruxelles, Musée du Cinquantenaire"@de .
+

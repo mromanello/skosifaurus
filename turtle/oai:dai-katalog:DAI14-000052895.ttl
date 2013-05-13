@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052895> a skos:Concept ;
+    skos:altLabel "Burg Erbach"@en,
+        "Burg Erbach"@fr,
+        "Burg Erbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075502> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseOdenwBurg Erba" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burg Erbach"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074616> a skos:Concept ;
+    skos:altLabel "Gülpinar"@en,
+        "Gülpinar"@fr,
+        "Gülpinar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeGülpinar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gülpinar"@de .
+

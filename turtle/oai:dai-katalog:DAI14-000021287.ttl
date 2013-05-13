@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021287> a skos:Concept ;
+    skos:altLabel "Carausius <Römisches Reich, Kaiser, Gegenkaiser>"@en,
+        "Carausius <Römisches Reich, Kaiser, Gegenkaiser>"@fr,
+        "Carausius <Römisches Reich, Kaiser, Gegenkaiser>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCarausius <Römisches Reich, Kaiser, Gegenkaiser>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carausius <Römisches Reich, Kaiser, Gegenkaiser>"@de .
+

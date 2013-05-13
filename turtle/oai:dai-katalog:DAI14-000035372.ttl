@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035372> a skos:Concept ;
+    skos:altLabel "Bratislava 1996"@en,
+        "Bratislava 1996"@fr,
+        "Bratislava 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBratislava 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bratislava 1996"@de .
+

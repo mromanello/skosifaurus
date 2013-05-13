@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081491> a skos:Concept ;
+    skos:altLabel "Arbeia"@en,
+        "Arbeia"@fr,
+        "Arbeia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077687> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDurhaArbeia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arbeia"@de .
+

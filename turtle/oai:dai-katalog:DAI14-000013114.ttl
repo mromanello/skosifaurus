@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013114> a skos:Concept ;
+    skos:altLabel "Fosse de stockage"@fr,
+        "Jamy zasobowe"@pl,
+        "Storage pits"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013113> ;
+    skos:hiddenLabel "yRGKArch05 - BefunBauweGrubeVorra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vorratsgruben"@de .
+

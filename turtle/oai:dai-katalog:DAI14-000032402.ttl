@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032402> a skos:Concept ;
+    skos:altLabel "Bytom 2001"@en,
+        "Bytom 2001"@fr,
+        "Bytom 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBytom 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bytom 2001"@de .
+

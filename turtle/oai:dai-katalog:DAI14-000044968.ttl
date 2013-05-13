@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044968> a skos:Concept ;
+    skos:altLabel "Villeneuve-de-Berg"@en,
+        "Villeneuve-de-Berg"@fr,
+        "Villeneuve-de-Berg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038800> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveArdècVilleneuv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villeneuve-de-Berg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030583> a skos:Concept ;
+    skos:altLabel "Essex, County Council Archeology Section"@en,
+        "Essex, County Council Archeology Section"@fr,
+        "Essex, County Council Archeology Section"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiEssex, County Council Archeology Section" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Essex, County Council Archeology Section"@de .
+

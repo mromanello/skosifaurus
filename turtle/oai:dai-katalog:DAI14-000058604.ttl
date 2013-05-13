@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058604> a skos:Concept ;
+    skos:altLabel "St. Jakob, VB Landeck"@en,
+        "St. Jakob, VB Landeck"@fr,
+        "St. Jakob, VB Landeck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolSt. Jakob" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "St. Jakob, VB Landeck"@de .
+

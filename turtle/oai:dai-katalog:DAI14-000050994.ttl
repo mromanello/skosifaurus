@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050994> a skos:Concept ;
+    skos:altLabel "Künzing-Unternberg"@en,
+        "Künzing-Unternberg"@fr,
+        "Künzing-Unternberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075393> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDeggeKünzing-U" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Künzing-Unternberg"@de .
+

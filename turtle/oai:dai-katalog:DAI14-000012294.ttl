@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012294> a skos:Concept ;
+    skos:altLabel "Naturwissenschaftlicher und Historischer Verein für das Land Lippe"@en,
+        "Naturwissenschaftlicher und Historischer Verein für das Land Lippe"@fr,
+        "Naturwissenschaftlicher und Historischer Verein für das Land Lippe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiNaturwissenschaftlicher und Historischer Verein für das Land Lippe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Naturwissenschaftlicher und Historischer Verein für das Land Lippe"@de .
+

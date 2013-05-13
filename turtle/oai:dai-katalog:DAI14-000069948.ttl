@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069948> a skos:Concept ;
+    skos:altLabel "Trino Vercelli"@en,
+        "Trino Vercelli"@fr,
+        "Trino Vercelli"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039164> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoVerceTrino Ver" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trino Vercelli"@de .
+

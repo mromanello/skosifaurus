@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078646> a skos:Concept ;
+    skos:altLabel "North Uist"@en,
+        "North Uist"@fr,
+        "North Uist"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlNorth Uis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "North Uist"@de .
+

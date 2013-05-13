@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062758> a skos:Concept ;
+    skos:altLabel "Lakšárska Nová Ves, okr. Senica"@en,
+        "Lakšárska Nová Ves, okr. Senica"@fr,
+        "Lakšárska Nová Ves, okr. Senica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaLakšárska" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lakšárska Nová Ves, okr. Senica"@de .
+

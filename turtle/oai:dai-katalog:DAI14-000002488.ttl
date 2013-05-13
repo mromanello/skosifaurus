@@ -1,0 +1,100 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002488_Belikh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Belikh" .
+
+<http://data.dainst.de/zenon/000002488_Dekapolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Dekapolis" .
+
+<http://data.dainst.de/zenon/000002488_DjebelBariša> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel Bariša" .
+
+<http://data.dainst.de/zenon/000002488_DjebelDoueili> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel Doueili" .
+
+<http://data.dainst.de/zenon/000002488_DjebelSemʿan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel Semʿan" .
+
+<http://data.dainst.de/zenon/000002488_DjebelWastani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel Wastani" .
+
+<http://data.dainst.de/zenon/000002488_DjebelZawiye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel Zawiye" .
+
+<http://data.dainst.de/zenon/000002488_Djebelel-Aʿla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Djebel el-Aʿla" .
+
+<http://data.dainst.de/zenon/000002488_Déhès> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Déhès" .
+
+<http://data.dainst.de/zenon/000002488_ElFurat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "El Furat" .
+
+<http://data.dainst.de/zenon/000002488_ElGhab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "El Ghab" .
+
+<http://data.dainst.de/zenon/000002488_ElMatah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "El Matah" .
+
+<http://data.dainst.de/zenon/000002488_Hauran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Hauran" .
+
+<http://data.dainst.de/zenon/000002488_Hermon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Hermon" .
+
+<http://data.dainst.de/zenon/000002488_JebelBishri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Jebel Bishri" .
+
+<http://data.dainst.de/zenon/000002488_Kyrrhestike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Kyrrhestike" .
+
+<http://data.dainst.de/zenon/000002488_Ledja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Ledja" .
+
+<http://data.dainst.de/zenon/000002488_Massifcalcaire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Massif calcaire" .
+
+<http://data.dainst.de/zenon/000002488_Mesopotamia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Mesopotamia" .
+
+<http://data.dainst.de/zenon/000002488_Qalamun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Qalamun" .
+
+<http://data.dainst.de/zenon/000002488_Sebkhetel-Djabboul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Sebkhet el-Djabboul" .
+
+<http://data.dainst.de/zenon/000002488_Ğazira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002488> ;
+    skos:prefLabel "Ğazira" .
+
+<http://data.dainst.de/zenon/000002488> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002487> ;
+    skos:hiddenLabel "xTopLandSyrGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

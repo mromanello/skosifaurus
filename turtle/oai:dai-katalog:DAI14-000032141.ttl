@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032141> a skos:Concept ;
+    skos:altLabel "Kriegerdarstellungen, Merowingerzeit"@en,
+        "Kriegerdarstellungen, Merowingerzeit"@fr,
+        "Kriegerdarstellungen, Merowingerzeit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliKriegerdarstellungen, Merowingerzeit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kriegerdarstellungen, Merowingerzeit"@de .
+

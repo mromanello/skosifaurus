@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020567> a skos:Concept ;
+    skos:altLabel "Osipovka"@en,
+        "Osipovka"@fr,
+        "Osipovka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Osipovka" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osipovka"@de .
+

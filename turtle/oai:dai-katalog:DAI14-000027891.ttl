@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027891> a skos:Concept ;
+    skos:altLabel "Chiancino Terme"@en,
+        "Chiancino Terme"@fr,
+        "Chiancino Terme"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuChiancino Terme" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chiancino Terme"@de .
+

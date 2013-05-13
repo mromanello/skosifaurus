@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055530> a skos:Concept ;
+    skos:altLabel "Kaiserslautern-Einsiedel"@en,
+        "Kaiserslautern-Einsiedel"@fr,
+        "Kaiserslautern-Einsiedel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038922> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKaiseKaisersla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaiserslautern-Einsiedel"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017181> a skos:Concept ;
+    skos:altLabel "Monety wandalskie"@pl,
+        "Monnayages vandaliques"@fr,
+        "Vandalic coins"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017180> ;
+    skos:hiddenLabel "yRGKArch10 - HistoNumisPräguBarbaWanda" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wandalische Münzen"@de .
+

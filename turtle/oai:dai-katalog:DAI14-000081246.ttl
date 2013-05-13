@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081246> a skos:Concept ;
+    skos:altLabel "Čauševica"@en,
+        "Čauševica"@fr,
+        "Čauševica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039095> ;
+    skos:hiddenLabel "zTopogEuropOsteuBosniČauševica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Čauševica"@de .
+

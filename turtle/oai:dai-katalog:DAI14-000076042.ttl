@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076042> a skos:Concept ;
+    skos:altLabel "Broniszów"@en,
+        "Broniszów"@fr,
+        "Broniszów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039015> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkLubusBroniszów" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Broniszów"@de .
+

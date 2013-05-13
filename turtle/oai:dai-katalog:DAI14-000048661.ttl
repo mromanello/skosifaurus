@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048661> a skos:Concept ;
+    skos:altLabel "Castell Henllys"@en,
+        "Castell Henllys"@fr,
+        "Castell Henllys"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078208> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesPembrCastell H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castell Henllys"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007288> a skos:Concept ;
+    skos:altLabel "Blech, Michael"@en,
+        "Blech, Michael"@fr,
+        "Blech, Michael"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBlech, Michael" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Blech, Michael"@de .
+

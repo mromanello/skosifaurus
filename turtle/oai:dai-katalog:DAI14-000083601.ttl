@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083601> a skos:Concept ;
+    skos:altLabel "Böhming"@en,
+        "Böhming"@fr,
+        "Böhming"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075405> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerEichsBöhming" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Böhming"@de .
+

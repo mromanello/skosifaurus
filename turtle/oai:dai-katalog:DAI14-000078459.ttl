@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078459> a skos:Concept ;
+    skos:altLabel "Llangollen-Dinas Brân"@en,
+        "Llangollen-Dinas Brân"@fr,
+        "Llangollen-Dinas Brân"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078202> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesDenbiLlangolle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Llangollen-Dinas Brân"@de .
+

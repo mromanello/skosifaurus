@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034754> a skos:Concept ;
+    skos:altLabel "Piggott, Stuart"@en,
+        "Piggott, Stuart"@fr,
+        "Piggott, Stuart"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliPiggott, Stuart" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Piggott, Stuart"@de .
+

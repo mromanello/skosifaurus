@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077577> a skos:Concept ;
+    skos:altLabel "Dalkey Islands"@en,
+        "Dalkey Islands"@fr,
+        "Dalkey Islands"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077515> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubDubliDalkey Is" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dalkey Islands"@de .
+

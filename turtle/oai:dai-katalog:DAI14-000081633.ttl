@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081633> a skos:Concept ;
+    skos:altLabel "Kachalinskaya stanitsa, obl. Volgograd"@en,
+        "Kachalinskaya stanitsa, obl. Volgograd"@fr,
+        "Kachalinskaya stanitsa, obl. Volgograd"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiKachalins" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kachalinskaya stanitsa, obl. Volgograd"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029890> a skos:Concept ;
+    skos:altLabel "Arezzo, Collezione Bacci"@en,
+        "Arezzo, Collezione Bacci"@fr,
+        "Arezzo, Collezione Bacci"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaArezzo, Collezione Bacci" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arezzo, Collezione Bacci"@de .
+

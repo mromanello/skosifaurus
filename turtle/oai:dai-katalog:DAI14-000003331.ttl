@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003331> a skos:Concept ;
+    skos:altLabel "plastic vases (untill 1997 subdivided)"@en,
+        "vases plastiques (jusqu'à 1997 subdivisé)"@fr,
+        "vasi configurati (fino a 1997 con sotto-rubriche)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003189> ;
+    skos:hiddenLabel "xGefFig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "figürliche Gefässe (bis 1997 mit Unterteilung)"@de .
+

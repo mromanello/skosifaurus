@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029704> a skos:Concept ;
+    skos:altLabel "Ptuj, Pokrajinski muzej Ptuj"@en,
+        "Ptuj, Pokrajinski muzej Ptuj"@fr,
+        "Ptuj, Pokrajinski muzej Ptuj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPtuj, Pokrajinski muzej Ptuj" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ptuj, Pokrajinski muzej Ptuj"@de .
+

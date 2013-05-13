@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007397> a skos:Concept ;
+    skos:altLabel "Archeologia Bliskiego Wschodu"@pl,
+        "Archéologie du Proche-Orient"@fr,
+        "Near Eastern Archaeology"@en ;
+    skos:broader <http://data.dainst.de/zenon/000007395> ;
+    skos:hiddenLabel "yForschWisseArchäVorde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vorderasiatische Archäologie"@de .
+

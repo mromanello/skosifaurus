@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010065> a skos:Concept ;
+    skos:altLabel "Šonje, Ante"@en,
+        "Šonje, Ante"@fr,
+        "Šonje, Ante"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoŠonje, Ante" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šonje, Ante"@de .
+

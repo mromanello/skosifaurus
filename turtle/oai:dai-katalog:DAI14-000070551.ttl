@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070551> a skos:Concept ;
+    skos:altLabel "Greifenstein"@en,
+        "Greifenstein"@fr,
+        "Greifenstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaGreifenst" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Greifenstein"@de .
+

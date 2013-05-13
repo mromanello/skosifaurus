@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022702> a skos:Concept ;
+    skos:altLabel "Boulogne"@en,
+        "Boulogne"@fr,
+        "Boulogne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschBoulogne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boulogne"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027487> a skos:Concept ;
+    skos:altLabel "York 1976"@en,
+        "York 1976"@fr,
+        "York 1976"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstYork 1976" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "York 1976"@de .
+

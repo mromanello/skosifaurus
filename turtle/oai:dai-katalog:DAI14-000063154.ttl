@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063154> a skos:Concept ;
+    skos:altLabel "Krog"@en,
+        "Krog"@fr,
+        "Krog"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039063> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweKrog" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krog"@de .
+

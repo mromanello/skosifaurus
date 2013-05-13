@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046396> a skos:Concept ;
+    skos:altLabel "Saint-Martin de Londres"@en,
+        "Saint-Martin de Londres"@fr,
+        "Saint-Martin de Londres"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauSaint-Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Martin de Londres"@de .
+

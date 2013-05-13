@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044254> a skos:Concept ;
+    skos:altLabel "Montureux-lès-Baulay"@en,
+        "Montureux-lès-Baulay"@fr,
+        "Montureux-lès-Baulay"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038778> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgHauteMontureux" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montureux-lès-Baulay"@de .
+

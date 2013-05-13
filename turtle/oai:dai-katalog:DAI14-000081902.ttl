@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081902> a skos:Concept ;
+    skos:altLabel "Ruszelczyce"@en,
+        "Ruszelczyce"@fr,
+        "Ruszelczyce"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039031> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopPodkaRuszelczy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ruszelczyce"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073700> a skos:Concept ;
+    skos:altLabel "Higueral de Motilla, Cueva"@en,
+        "Higueral de Motilla, Cueva"@fr,
+        "Higueral de Motilla, Cueva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039352> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalCádizHigueral" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Higueral de Motilla, Cueva"@de .
+

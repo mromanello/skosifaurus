@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047043> a skos:Concept ;
+    skos:altLabel "Dinton"@en,
+        "Dinton"@fr,
+        "Dinton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077679> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaBuckiDinton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dinton"@de .
+

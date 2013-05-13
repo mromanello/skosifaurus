@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031476> a skos:Concept ;
+    skos:altLabel "Gábor, Vékony"@en,
+        "Gábor, Vékony"@fr,
+        "Gábor, Vékony"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliGábor, Vékony" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gábor, Vékony"@de .
+

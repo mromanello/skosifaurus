@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059195> a skos:Concept ;
+    skos:altLabel "Ryńsk"@en,
+        "Ryńsk"@fr,
+        "Ryńsk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039009> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorKujawRyńsk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ryńsk"@de .
+

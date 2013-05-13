@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024551> a skos:Concept ;
+    skos:altLabel "Via Iulia Augusta"@en,
+        "Via Iulia Augusta"@fr,
+        "Via Iulia Augusta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016130> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsVerkeLandwStrasVia Iulia Augusta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Via Iulia Augusta"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006434> a skos:Concept ;
+    skos:altLabel "Hahnloser, Hans R."@en,
+        "Hahnloser, Hans R."@fr,
+        "Hahnloser, Hans R."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHahnloser, Hans R." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hahnloser, Hans R."@de .
+

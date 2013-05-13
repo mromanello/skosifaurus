@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025618> a skos:Concept ;
+    skos:altLabel "Petar Krešimir IV."@en,
+        "Petar Krešimir IV."@fr,
+        "Petar Krešimir IV."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018604> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstIkonoPortrPetar Krešimir IV." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petar Krešimir IV."@de .
+

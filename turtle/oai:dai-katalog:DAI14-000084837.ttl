@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084837> a skos:Concept ;
+    skos:altLabel "München 2007"@en,
+        "München 2007"@fr,
+        "München 2007"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMünchen 2007" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "München 2007"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042274> a skos:Concept ;
+    skos:altLabel "Compiègne"@en,
+        "Compiègne"@fr,
+        "Compiègne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038729> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOiseCompiègne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Compiègne"@de .
+

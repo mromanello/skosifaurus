@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017086> a skos:Concept ;
+    skos:altLabel "Forges"@fr,
+        "Kuznie"@pl,
+        "Smithies"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017084> ;
+    skos:hiddenLabel "yRGKArch10 - WirtsHandwProduProduSchmi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schmieden"@de .
+

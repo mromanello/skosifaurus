@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047048> a skos:Concept ;
+    skos:altLabel "Ditchling Beacon"@en,
+        "Ditchling Beacon"@fr,
+        "Ditchling Beacon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077710> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSusseDitchling" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ditchling Beacon"@de .
+

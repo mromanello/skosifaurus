@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036210> a skos:Concept ;
+    skos:altLabel "København 1954"@en,
+        "København 1954"@fr,
+        "København 1954"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrKøbenhavn 1954" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "København 1954"@de .
+

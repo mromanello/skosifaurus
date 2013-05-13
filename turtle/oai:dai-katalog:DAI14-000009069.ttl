@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009069> a skos:Concept ;
+    skos:altLabel "Litvinskij, Boris Anatol'evič"@en,
+        "Litvinskij, Boris Anatol'evič"@fr,
+        "Litvinskij, Boris Anatol'evič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLitvinskij, Boris Anatol'evič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Litvinskij, Boris Anatol'evič"@de .
+

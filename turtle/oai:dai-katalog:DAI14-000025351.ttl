@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025351> a skos:Concept ;
+    skos:altLabel "Karl der Kahle"@en,
+        "Karl der Kahle"@fr,
+        "Karl der Kahle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017986> ;
+    skos:hiddenLabel "yRGKArch11 - HistoNumisPräguPrägeKarl der Kahle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karl der Kahle"@de .
+

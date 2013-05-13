@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029156> a skos:Concept ;
+    skos:altLabel "Turku, Museum Aboa vetus"@en,
+        "Turku, Museum Aboa vetus"@fr,
+        "Turku, Museum Aboa vetus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTurku, Museum Aboa vetus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Turku, Museum Aboa vetus"@de .
+

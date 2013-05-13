@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047540> a skos:Concept ;
+    skos:altLabel "Levens Hall, Westmorland"@en,
+        "Levens Hall, Westmorland"@fr,
+        "Levens Hall, Westmorland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrLevens Ha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Levens Hall, Westmorland"@de .
+

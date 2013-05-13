@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028528> a skos:Concept ;
+    skos:altLabel "Modena, Musei Civici"@en,
+        "Modena, Musei Civici"@fr,
+        "Modena, Musei Civici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuModena, Musei Civici" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Modena, Musei Civici"@de .
+

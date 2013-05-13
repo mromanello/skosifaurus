@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024315> a skos:Concept ;
+    skos:altLabel "Nerva"@en,
+        "Nerva"@fr,
+        "Nerva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015995> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKunstIkonoProfaMenscPortrNerva" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nerva"@de .
+

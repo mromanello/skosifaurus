@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027733> a skos:Concept ;
+    skos:altLabel "Blois, Collections Archéologiques"@en,
+        "Blois, Collections Archéologiques"@fr,
+        "Blois, Collections Archéologiques"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBlois, Collections Archéologiques" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Blois, Collections Archéologiques"@de .
+

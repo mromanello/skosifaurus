@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053845> a skos:Concept ;
+    skos:altLabel "Emden"@en,
+        "Emden"@fr,
+        "Emden"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075573> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeEmdenEmden" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Emden"@de .
+

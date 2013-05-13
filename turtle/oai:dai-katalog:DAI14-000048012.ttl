@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048012> a skos:Concept ;
+    skos:altLabel "Sandwich"@en,
+        "Sandwich"@fr,
+        "Sandwich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077694> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaKentSandwich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sandwich"@de .
+

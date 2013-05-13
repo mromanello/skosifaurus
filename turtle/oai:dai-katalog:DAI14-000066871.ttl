@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066871> a skos:Concept ;
+    skos:altLabel "Sântana, jud. Arad"@en,
+        "Sântana, jud. Arad"@fr,
+        "Sântana, jud. Arad"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSântana," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sântana, jud. Arad"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052648> a skos:Concept ;
+    skos:altLabel "Frankfurt-Bergen"@en,
+        "Frankfurt-Bergen"@fr,
+        "Frankfurt-Bergen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075487> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseFrankFrankfurt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frankfurt-Bergen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060353> a skos:Concept ;
+    skos:altLabel "Święck Strumiany"@en,
+        "Święck Strumiany"@fr,
+        "Święck Strumiany"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039021> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowPodlaŚwięck St" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Święck Strumiany"@de .
+

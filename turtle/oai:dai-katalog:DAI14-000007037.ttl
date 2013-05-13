@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007037> a skos:Concept ;
+    skos:altLabel "Theocharis, D. R."@en,
+        "Theocharis, D. R."@fr,
+        "Theocharis, D. R."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsTheocharis, D. R." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Theocharis, D. R."@de .
+

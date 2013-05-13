@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068829> a skos:Concept ;
+    skos:altLabel "Marianovka, obl. Rovne"@en,
+        "Marianovka, obl. Rovne"@fr,
+        "Marianovka, obl. Rovne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiMarianovk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marianovka, obl. Rovne"@de .
+

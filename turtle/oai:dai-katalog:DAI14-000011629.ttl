@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011629> a skos:Concept ;
+    skos:altLabel "Enmann, Alexander"@en,
+        "Enmann, Alexander"@fr,
+        "Enmann, Alexander"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoEnmann, Alexander" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Enmann, Alexander"@de .
+

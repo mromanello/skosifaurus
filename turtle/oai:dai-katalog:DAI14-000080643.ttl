@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080643> a skos:Concept ;
+    skos:altLabel "Stuttgart-Hofen"@en,
+        "Stuttgart-Hofen"@fr,
+        "Stuttgart-Hofen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075363> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenStuttStuttgart" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stuttgart-Hofen"@de .
+

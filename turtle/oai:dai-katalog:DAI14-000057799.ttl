@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057799> a skos:Concept ;
+    skos:altLabel "Schattendorf, VB Mattersburg"@en,
+        "Schattendorf, VB Mattersburg"@fr,
+        "Schattendorf, VB Mattersburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038995> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterBurgeSchattend" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schattendorf, VB Mattersburg"@de .
+

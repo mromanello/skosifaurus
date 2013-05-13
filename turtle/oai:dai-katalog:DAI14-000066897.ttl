@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066897> a skos:Concept ;
+    skos:altLabel "Sînnicolau Mare, jud. Timiş"@en,
+        "Sînnicolau Mare, jud. Timiş"@fr,
+        "Sînnicolau Mare, jud. Timiş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSînnicola" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sînnicolau Mare, jud. Timiş"@de .
+

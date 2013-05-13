@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081488> a skos:Concept ;
+    skos:altLabel "Isle of Portland"@en,
+        "Isle of Portland"@fr,
+        "Isle of Portland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077686> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDorseIsle of P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isle of Portland"@de .
+

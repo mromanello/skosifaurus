@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054081> a skos:Concept ;
+    skos:altLabel "Nortmoor"@en,
+        "Nortmoor"@fr,
+        "Nortmoor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075593> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeLeerNortmoor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nortmoor"@de .
+

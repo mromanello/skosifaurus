@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036714> a skos:Concept ;
+    skos:altLabel "Montreal 1994"@en,
+        "Montreal 1994"@fr,
+        "Montreal 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMontreal 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montreal 1994"@de .
+

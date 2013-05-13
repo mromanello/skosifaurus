@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007964> a skos:Concept ;
+    skos:altLabel "Cunnington, William"@en,
+        "Cunnington, William"@fr,
+        "Cunnington, William"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCunnington, William" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cunnington, William"@de .
+

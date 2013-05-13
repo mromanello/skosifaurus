@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009471> a skos:Concept ;
+    skos:altLabel "Paret, Oskar"@en,
+        "Paret, Oskar"@fr,
+        "Paret, Oskar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoParet, Oskar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paret, Oskar"@de .
+

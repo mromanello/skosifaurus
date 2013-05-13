@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022046> a skos:Concept ;
+    skos:altLabel "Messalina <Römisches Reich, Kaiserin>"@en,
+        "Messalina <Römisches Reich, Kaiserin>"@fr,
+        "Messalina <Römisches Reich, Kaiserin>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMessalina <Römisches Reich, Kaiserin>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Messalina <Römisches Reich, Kaiserin>"@de .
+

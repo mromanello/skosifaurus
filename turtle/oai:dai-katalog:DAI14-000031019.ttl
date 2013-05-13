@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031019> a skos:Concept ;
+    skos:altLabel "U.I.S.P.P."@en,
+        "U.I.S.P.P."@fr,
+        "U.I.S.P.P."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiU.I.S.P.P." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "U.I.S.P.P."@de .
+

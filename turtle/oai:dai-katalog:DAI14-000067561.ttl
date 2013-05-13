@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067561> a skos:Concept ;
+    skos:altLabel "Negri-Brad, jud. Bacău"@en,
+        "Negri-Brad, jud. Bacău"@fr,
+        "Negri-Brad, jud. Bacău"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoNegri-Bra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Negri-Brad, jud. Bacău"@de .
+

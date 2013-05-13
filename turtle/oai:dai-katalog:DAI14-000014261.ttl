@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014261> a skos:Concept ;
+    skos:altLabel "Agriculture"@en,
+        "Agriculture"@fr,
+        "Uprawa ziemi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014254> ;
+    skos:hiddenLabel "yRGKArch07 - GeselKunstIkonoAcker" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ackerbau"@de .
+

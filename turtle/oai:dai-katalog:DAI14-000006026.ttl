@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006026> a skos:Concept ;
+    skos:altLabel "Andronikos, Manolis"@en,
+        "Andronikos, Manolis"@fr,
+        "Andronikos, Manolis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsAndronikos, Manolis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Andronikos, Manolis"@de .
+

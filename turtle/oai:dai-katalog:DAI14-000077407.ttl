@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077407> a skos:Concept ;
+    skos:altLabel "Castelnaud-la-Chapelle"@en,
+        "Castelnaud-la-Chapelle"@fr,
+        "Castelnaud-la-Chapelle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038814> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitDordoCastelnau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castelnaud-la-Chapelle"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062642> a skos:Concept ;
+    skos:altLabel "Cífer-Pác (Nad mlynom), okr. Trnava"@en,
+        "Cífer-Pác (Nad mlynom), okr. Trnava"@fr,
+        "Cífer-Pác (Nad mlynom), okr. Trnava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaCífer-Pác" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cífer-Pác (Nad mlynom), okr. Trnava"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063403> a skos:Concept ;
+    skos:altLabel "Bohnice, okr. Praha"@en,
+        "Bohnice, okr. Praha"@fr,
+        "Bohnice, okr. Praha"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBohnice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bohnice, okr. Praha"@de .
+

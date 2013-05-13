@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040483> a skos:Concept ;
+    skos:altLabel "Alta, Finnmark"@en,
+        "Alta, Finnmark"@fr,
+        "Alta, Finnmark"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweAlta, Fin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alta, Finnmark"@de .
+

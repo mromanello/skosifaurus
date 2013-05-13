@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010587> a skos:Concept ;
+    skos:altLabel "Ljubljana, Institut für Archäologie beim Zentrum für Wissenschaft und"@en,
+        "Ljubljana, Institut für Archäologie beim Zentrum für Wissenschaft und"@fr,
+        "Ljubljana, Institut für Archäologie beim Zentrum für Wissenschaft und"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLjubljana, Institut für Archäologie beim Zentrum für Wissenschaft und" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ljubljana, Institut für Archäologie beim Zentrum für Wissenschaft und"@de .
+

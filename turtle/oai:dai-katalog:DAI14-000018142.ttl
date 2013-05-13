@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018142> a skos:Concept ;
+    skos:altLabel "Bells"@en,
+        "Cloches"@fr,
+        "Dzwonki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018141> ;
+    skos:hiddenLabel "yRGKArch12 - FundeHausrGlock" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glocken"@de .
+

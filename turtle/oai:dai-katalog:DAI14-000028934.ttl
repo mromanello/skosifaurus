@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028934> a skos:Concept ;
+    skos:altLabel "Saint-Paul-Trois-Château, Musée d' Archéologie tricastin"@en,
+        "Saint-Paul-Trois-Château, Musée d' Archéologie tricastin"@fr,
+        "Saint-Paul-Trois-Château, Musée d' Archéologie tricastin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSaint-Paul-Trois-Château, Musée d' Archéologie tricastin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Paul-Trois-Château, Musée d' Archéologie tricastin"@de .
+

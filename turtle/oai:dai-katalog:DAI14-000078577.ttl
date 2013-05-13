@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078577> a skos:Concept ;
+    skos:altLabel "Tantallon Castle"@en,
+        "Tantallon Castle"@fr,
+        "Tantallon Castle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078505> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotLothiTantallon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tantallon Castle"@de .
+

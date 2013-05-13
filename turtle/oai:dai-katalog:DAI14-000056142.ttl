@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056142> a skos:Concept ;
+    skos:altLabel "Packisch, Gde. Arzberg"@en,
+        "Packisch, Gde. Arzberg"@fr,
+        "Packisch, Gde. Arzberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038948> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsNordsPackisch," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Packisch, Gde. Arzberg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013069> a skos:Concept ;
+    skos:altLabel "Glass beads"@en,
+        "Paciorki szklane"@pl,
+        "Perles en verre"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013055> ;
+    skos:hiddenLabel "yRGKArch05 - FundeKleidSchmuGlasp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glasperlen"@de .
+

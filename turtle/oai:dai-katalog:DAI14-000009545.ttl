@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009545> a skos:Concept ;
+    skos:altLabel "Pisarova, Vesela Doseva"@en,
+        "Pisarova, Vesela Doseva"@fr,
+        "Pisarova, Vesela Doseva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPisarova, Vesela Doseva" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pisarova, Vesela Doseva"@de .
+

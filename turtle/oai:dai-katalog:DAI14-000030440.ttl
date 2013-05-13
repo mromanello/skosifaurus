@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030440> a skos:Concept ;
+    skos:altLabel "Tewswoos, Schule"@en,
+        "Tewswoos, Schule"@fr,
+        "Tewswoos, Schule"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaTewswoos, Schule" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tewswoos, Schule"@de .
+

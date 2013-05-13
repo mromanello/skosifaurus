@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032414> a skos:Concept ;
+    skos:altLabel "Jena 1999"@en,
+        "Jena 1999"@fr,
+        "Jena 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstJena 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jena 1999"@de .
+

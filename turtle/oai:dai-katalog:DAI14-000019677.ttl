@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019677> a skos:Concept ;
+    skos:altLabel "Micromorphologie"@fr,
+        "Micromorphology"@en,
+        "Mikromorfologia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019672> ;
+    skos:hiddenLabel "yRGKNaturGeowiGeoloMikro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mikromorphologie"@de .
+

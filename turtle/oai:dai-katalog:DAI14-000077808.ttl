@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077808> a skos:Concept ;
+    skos:altLabel "Appleby-in-Westmorland"@en,
+        "Appleby-in-Westmorland"@fr,
+        "Appleby-in-Westmorland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrAppleby-i" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Appleby-in-Westmorland"@de .
+

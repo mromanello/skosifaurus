@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020164> a skos:Concept ;
+    skos:altLabel "Grodek-Zdolbice"@en,
+        "Grodek-Zdolbice"@fr,
+        "Grodek-Zdolbice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Grodek-Zdolbice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grodek-Zdolbice"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002671> a skos:Concept ;
+    skos:altLabel "resin"@en,
+        "resina"@it,
+        "résine"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002659> ;
+    skos:hiddenLabel "xTMMatOrganHarz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Harz"@de .
+

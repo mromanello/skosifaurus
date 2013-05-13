@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061384> a skos:Concept ;
+    skos:altLabel "Chełm"@en,
+        "Chełm"@fr,
+        "Chełm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelChełm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chełm"@de .
+

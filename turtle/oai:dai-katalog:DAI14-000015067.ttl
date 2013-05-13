@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015067> a skos:Concept ;
+    skos:altLabel "Serpents"@fr,
+        "Snakes"@en,
+        "Weze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015058> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsLandwTierhHaustSchla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schlangen"@de .
+

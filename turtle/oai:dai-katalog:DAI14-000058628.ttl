@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058628> a skos:Concept ;
+    skos:altLabel "Bludenz-Untersee, VB Bludenz"@en,
+        "Bludenz-Untersee, VB Bludenz"@fr,
+        "Bludenz-Untersee, VB Bludenz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039002> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterVorarBludenz-U" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bludenz-Untersee, VB Bludenz"@de .
+

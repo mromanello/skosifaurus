@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039208> a skos:Concept ;
+    skos:altLabel "Massa-Carrara"@en,
+        "Massa-Carrara"@fr,
+        "Massa-carrara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039202> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaToscaMassa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Massa-Carrara"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028535> a skos:Concept ;
+    skos:altLabel "Mont-de-Marsan, Musée de Plein Air"@en,
+        "Mont-de-Marsan, Musée de Plein Air"@fr,
+        "Mont-de-Marsan, Musée de Plein Air"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMont-de-Marsan, Musée de Plein Air" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mont-de-Marsan, Musée de Plein Air"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032843> a skos:Concept ;
+    skos:altLabel "Haltern am See, Stadtbücherei"@en,
+        "Haltern am See, Stadtbücherei"@fr,
+        "Haltern am See, Stadtbücherei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuHaltern am See, Stadtbücherei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haltern am See, Stadtbücherei"@de .
+

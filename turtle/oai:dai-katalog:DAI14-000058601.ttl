@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058601> a skos:Concept ;
+    skos:altLabel "Sölden, VB Imst"@en,
+        "Sölden, VB Imst"@fr,
+        "Sölden, VB Imst"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolSölden, V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sölden, VB Imst"@de .
+

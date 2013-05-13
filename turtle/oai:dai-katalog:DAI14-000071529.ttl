@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071529> a skos:Concept ;
+    skos:altLabel "Aquae Caeretanae"@en,
+        "Aquae Caeretanae"@fr,
+        "Aquae Caeretanae"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaAquae Cae" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aquae Caeretanae"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035855> a skos:Concept ;
+    skos:altLabel "Garlate 2002"@en,
+        "Garlate 2002"@fr,
+        "Garlate 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrGarlate 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Garlate 2002"@de .
+

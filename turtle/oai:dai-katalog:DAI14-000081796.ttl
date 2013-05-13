@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081796> a skos:Concept ;
+    skos:altLabel "Boria-Wyrzykowszczyzna"@en,
+        "Boria-Wyrzykowszczyzna"@fr,
+        "Boria-Wyrzykowszczyzna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętBoria-Wyr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boria-Wyrzykowszczyzna"@de .
+

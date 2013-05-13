@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026437> a skos:Concept ;
+    skos:altLabel "Hamm 1981"@en,
+        "Hamm 1981"@fr,
+        "Hamm 1981"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstHamm 1981" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hamm 1981"@de .
+

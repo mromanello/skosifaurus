@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058030> a skos:Concept ;
+    skos:altLabel "Michelstetten, Gem. Asparn a.d. Zaya, VB Mistelbach"@en,
+        "Michelstetten, Gem. Asparn a.d. Zaya, VB Mistelbach"@fr,
+        "Michelstetten, Gem. Asparn a.d. Zaya, VB Mistelbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeMichelste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Michelstetten, Gem. Asparn a.d. Zaya, VB Mistelbach"@de .
+

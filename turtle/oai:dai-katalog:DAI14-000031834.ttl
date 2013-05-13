@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031834> a skos:Concept ;
+    skos:altLabel "Radt, Wolfgang"@en,
+        "Radt, Wolfgang"@fr,
+        "Radt, Wolfgang"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliRadt, Wolfgang" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Radt, Wolfgang"@de .
+

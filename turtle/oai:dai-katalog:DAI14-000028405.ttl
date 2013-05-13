@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028405> a skos:Concept ;
+    skos:altLabel "Lisboa, Museu Nacional de Arqueologia"@en,
+        "Lisboa, Museu Nacional de Arqueologia"@fr,
+        "Lisboa, Museu Nacional de Arqueologia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLisboa, Museu Nacional de Arqueologia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lisboa, Museu Nacional de Arqueologia"@de .
+

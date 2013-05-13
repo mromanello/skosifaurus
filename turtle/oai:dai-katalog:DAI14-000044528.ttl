@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044528> a skos:Concept ;
+    skos:altLabel "Jarnac"@en,
+        "Jarnac"@fr,
+        "Jarnac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038786> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareJarnac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jarnac"@de .
+

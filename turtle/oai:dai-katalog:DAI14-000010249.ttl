@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010249> a skos:Concept ;
+    skos:altLabel "Wagner, Eberhard"@en,
+        "Wagner, Eberhard"@fr,
+        "Wagner, Eberhard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWagner, Eberhard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wagner, Eberhard"@de .
+

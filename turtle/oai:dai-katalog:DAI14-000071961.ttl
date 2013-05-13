@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071961> a skos:Concept ;
+    skos:altLabel "San Felice a Cancello"@en,
+        "San Felice a Cancello"@fr,
+        "San Felice a Cancello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039240> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaCaserSan Felic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Felice a Cancello"@de .
+

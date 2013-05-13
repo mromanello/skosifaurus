@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012225> a skos:Concept ;
+    skos:altLabel "Instytutu Historii Kultury Materialnej PAN"@en,
+        "Instytutu Historii Kultury Materialnej PAN"@fr,
+        "Instytutu Historii Kultury Materialnej PAN"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiInstytutu Historii Kultury Materialnej PAN" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Instytutu Historii Kultury Materialnej PAN"@de .
+

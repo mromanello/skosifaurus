@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044146> a skos:Concept ;
+    skos:altLabel "Saint-Vit"@en,
+        "Saint-Vit"@fr,
+        "Saint-Vit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038775> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgDoubsSaint-Vit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Vit"@de .
+

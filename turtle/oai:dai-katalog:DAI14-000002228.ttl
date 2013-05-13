@@ -1,0 +1,1704 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002228_Maddaloni1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Maddaloni 1996" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1960" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1966" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1980" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1983" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1987" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1990" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1993" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1997" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1998-99> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1998-99" .
+
+<http://data.dainst.de/zenon/000002228_Madrid1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 1999" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2000" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2002" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2004" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_Madrid2008-09> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Madrid 2008-09" .
+
+<http://data.dainst.de/zenon/000002228_Magdeburg1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Magdeburg 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_Magdeburg2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Magdeburg 2012" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1960" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1966" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1968" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1970" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1975" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1980" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1980-81> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1980-81" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1999" .
+
+<http://data.dainst.de/zenon/000002228_Mainz1999-2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 1999-2000" .
+
+<http://data.dainst.de/zenon/000002228_Mainz2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 2002" .
+
+<http://data.dainst.de/zenon/000002228_Mainz2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 2003" .
+
+<http://data.dainst.de/zenon/000002228_Mainz2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 2008" .
+
+<http://data.dainst.de/zenon/000002228_Mainz2011-12> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 2011-12" .
+
+<http://data.dainst.de/zenon/000002228_Mainz2012-13> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mainz 2012-13" .
+
+<http://data.dainst.de/zenon/000002228_Malaga1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malaga 1963" .
+
+<http://data.dainst.de/zenon/000002228_Malalbergo1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malalbergo 1993" .
+
+<http://data.dainst.de/zenon/000002228_Malibu1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 1980" .
+
+<http://data.dainst.de/zenon/000002228_Malibu1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 1983" .
+
+<http://data.dainst.de/zenon/000002228_Malibu1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 1990" .
+
+<http://data.dainst.de/zenon/000002228_Malibu1994-95> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 1994-95" .
+
+<http://data.dainst.de/zenon/000002228_Malibu2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 2005" .
+
+<http://data.dainst.de/zenon/000002228_Malibu2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 2006" .
+
+<http://data.dainst.de/zenon/000002228_Malibu2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malibu 2007" .
+
+<http://data.dainst.de/zenon/000002228_Malmö1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Malmö 1989" .
+
+<http://data.dainst.de/zenon/000002228_Manchester1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manchester 1982" .
+
+<http://data.dainst.de/zenon/000002228_Manching2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manching 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_Manching2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manching 2009" .
+
+<http://data.dainst.de/zenon/000002228_Manciano1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manciano 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_Manciano1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manciano 1997" .
+
+<http://data.dainst.de/zenon/000002228_Manerbio2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manerbio 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_Manerbio2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manerbio 2010" .
+
+<http://data.dainst.de/zenon/000002228_Manfredonia1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manfredonia 1979" .
+
+<http://data.dainst.de/zenon/000002228_Manfredonia1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Manfredonia 1987" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1976" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1982" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1983" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1989" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1992-93" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1994" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim1996-97> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 1996-97" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2001" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2008" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2009-10> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2009-10" .
+
+<http://data.dainst.de/zenon/000002228_Mannheim2010-11> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mannheim 2010-11" .
+
+<http://data.dainst.de/zenon/000002228_Mantova1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 1979" .
+
+<http://data.dainst.de/zenon/000002228_Mantova1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 1984" .
+
+<http://data.dainst.de/zenon/000002228_Mantova1986-87> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 1986-87" .
+
+<http://data.dainst.de/zenon/000002228_Mantova1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 1998" .
+
+<http://data.dainst.de/zenon/000002228_Mantova2002-03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 2002-03" .
+
+<http://data.dainst.de/zenon/000002228_Mantova2003-04> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 2003-04" .
+
+<http://data.dainst.de/zenon/000002228_Mantova2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Mantova2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mantova 2008" .
+
+<http://data.dainst.de/zenon/000002228_Marbacha.N.1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marbach a.N. 1966" .
+
+<http://data.dainst.de/zenon/000002228_Marburg1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marburg 1985" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1966" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1967" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1972" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1976" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1994" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 1998" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont2002-03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 2002-03" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 2003" .
+
+<http://data.dainst.de/zenon/000002228_Mariemont2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mariemont 2008" .
+
+<http://data.dainst.de/zenon/000002228_Marsala1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marsala 1984" .
+
+<http://data.dainst.de/zenon/000002228_Marsala1984-85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marsala 1984-85" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1972" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1974" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1975-76> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1975-76" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1976" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1977" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1977-78> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1977-78" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1983-84> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1983-84" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1991-92" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1992-93" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1995" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1997" .
+
+<http://data.dainst.de/zenon/000002228_Marseille1999-2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Marseille 1999-2000" .
+
+<http://data.dainst.de/zenon/000002228_MassaMarittima1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Massa Marittima 1985" .
+
+<http://data.dainst.de/zenon/000002228_Matelica1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Matelica 1999" .
+
+<http://data.dainst.de/zenon/000002228_Matelica2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Matelica 2008" .
+
+<http://data.dainst.de/zenon/000002228_Mattsee1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mattsee 1988" .
+
+<http://data.dainst.de/zenon/000002228_Medea2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Medea 2002" .
+
+<http://data.dainst.de/zenon/000002228_Melbourne1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Melbourne 1988" .
+
+<http://data.dainst.de/zenon/000002228_Melbourne1988-89> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Melbourne 1988-89" .
+
+<http://data.dainst.de/zenon/000002228_Melbourne2005-06> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Melbourne 2005-06" .
+
+<http://data.dainst.de/zenon/000002228_Melfi1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Melfi 1993" .
+
+<http://data.dainst.de/zenon/000002228_Melun1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Melun 1981" .
+
+<http://data.dainst.de/zenon/000002228_Mendrisio2009-10> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mendrisio 2009-10" .
+
+<http://data.dainst.de/zenon/000002228_Messina1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Messina 1989" .
+
+<http://data.dainst.de/zenon/000002228_Messina1997-98> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Messina 1997-98" .
+
+<http://data.dainst.de/zenon/000002228_Metz1978-79> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Metz 1978-79" .
+
+<http://data.dainst.de/zenon/000002228_Metz1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Metz 1988" .
+
+<http://data.dainst.de/zenon/000002228_Metz2001-02> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Metz 2001-02" .
+
+<http://data.dainst.de/zenon/000002228_Michigan1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Michigan 1967" .
+
+<http://data.dainst.de/zenon/000002228_Michigan2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Michigan 2005" .
+
+<http://data.dainst.de/zenon/000002228_Middelburg1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Middelburg 1971" .
+
+<http://data.dainst.de/zenon/000002228_Milano1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1957" .
+
+<http://data.dainst.de/zenon/000002228_Milano1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1962" .
+
+<http://data.dainst.de/zenon/000002228_Milano1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1963" .
+
+<http://data.dainst.de/zenon/000002228_Milano1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1964" .
+
+<http://data.dainst.de/zenon/000002228_Milano1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1968" .
+
+<http://data.dainst.de/zenon/000002228_Milano1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1971" .
+
+<http://data.dainst.de/zenon/000002228_Milano1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1974" .
+
+<http://data.dainst.de/zenon/000002228_Milano1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1976" .
+
+<http://data.dainst.de/zenon/000002228_Milano1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1978" .
+
+<http://data.dainst.de/zenon/000002228_Milano1980-81> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1980-81" .
+
+<http://data.dainst.de/zenon/000002228_Milano1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1981" .
+
+<http://data.dainst.de/zenon/000002228_Milano1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1982" .
+
+<http://data.dainst.de/zenon/000002228_Milano1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1983" .
+
+<http://data.dainst.de/zenon/000002228_Milano1984-85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1984-85" .
+
+<http://data.dainst.de/zenon/000002228_Milano1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1985" .
+
+<http://data.dainst.de/zenon/000002228_Milano1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1986" .
+
+<http://data.dainst.de/zenon/000002228_Milano1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1987" .
+
+<http://data.dainst.de/zenon/000002228_Milano1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1988" .
+
+<http://data.dainst.de/zenon/000002228_Milano1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1989" .
+
+<http://data.dainst.de/zenon/000002228_Milano1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1990" .
+
+<http://data.dainst.de/zenon/000002228_Milano1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1991" .
+
+<http://data.dainst.de/zenon/000002228_Milano1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1991-92" .
+
+<http://data.dainst.de/zenon/000002228_Milano1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1994" .
+
+<http://data.dainst.de/zenon/000002228_Milano1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1997" .
+
+<http://data.dainst.de/zenon/000002228_Milano1998-99> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1998-99" .
+
+<http://data.dainst.de/zenon/000002228_Milano1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 1999" .
+
+<http://data.dainst.de/zenon/000002228_Milano2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2001" .
+
+<http://data.dainst.de/zenon/000002228_Milano2003-04> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2003-04" .
+
+<http://data.dainst.de/zenon/000002228_Milano2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Milano2005-06> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2005-06" .
+
+<http://data.dainst.de/zenon/000002228_Milano2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2006" .
+
+<http://data.dainst.de/zenon/000002228_Milano2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2007" .
+
+<http://data.dainst.de/zenon/000002228_Milano2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2008" .
+
+<http://data.dainst.de/zenon/000002228_Milano2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2010" .
+
+<http://data.dainst.de/zenon/000002228_Milano2011-12> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2011-12" .
+
+<http://data.dainst.de/zenon/000002228_Milano2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milano 2012" .
+
+<http://data.dainst.de/zenon/000002228_Milazzo1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Milazzo 1997" .
+
+<http://data.dainst.de/zenon/000002228_Militello1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Militello 1991" .
+
+<http://data.dainst.de/zenon/000002228_Minneapolis1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Minneapolis 1972" .
+
+<http://data.dainst.de/zenon/000002228_Minneapolis2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Minneapolis 2004" .
+
+<http://data.dainst.de/zenon/000002228_Mirandola1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mirandola 1971" .
+
+<http://data.dainst.de/zenon/000002228_Modena1983-84> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Modena 1983-84" .
+
+<http://data.dainst.de/zenon/000002228_Modena1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Modena 1989" .
+
+<http://data.dainst.de/zenon/000002228_Modena1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Modena 1994" .
+
+<http://data.dainst.de/zenon/000002228_Modena1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Modena 1997" .
+
+<http://data.dainst.de/zenon/000002228_Mondovì2001-02> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mondovì 2001-02" .
+
+<http://data.dainst.de/zenon/000002228_MontaltodiCastro2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montalto di Castro 2002" .
+
+<http://data.dainst.de/zenon/000002228_Montauban2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montauban 2006" .
+
+<http://data.dainst.de/zenon/000002228_MontePorzioCatone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monte Porzio Catone" .
+
+<http://data.dainst.de/zenon/000002228_MontePorzioCatone2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monte Porzio Catone 2003" .
+
+<http://data.dainst.de/zenon/000002228_MontePorzioCatone2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monte Porzio Catone 2012" .
+
+<http://data.dainst.de/zenon/000002228_Montebelluna2001-02> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montebelluna 2001-02" .
+
+<http://data.dainst.de/zenon/000002228_MonteleoneSabino1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monteleone Sabino 1999" .
+
+<http://data.dainst.de/zenon/000002228_MonteleoneSabino2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monteleone Sabino 2001" .
+
+<http://data.dainst.de/zenon/000002228_Monterenzio1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Monterenzio 1983" .
+
+<http://data.dainst.de/zenon/000002228_Montpellier2010-11> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montpellier 2010-11" .
+
+<http://data.dainst.de/zenon/000002228_Montréal1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montréal 1992" .
+
+<http://data.dainst.de/zenon/000002228_Montréal2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montréal 2004" .
+
+<http://data.dainst.de/zenon/000002228_Montréal2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montréal 2007" .
+
+<http://data.dainst.de/zenon/000002228_Montréal2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Montréal 2012" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1958" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1970" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1972" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1977" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1978-79> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1978-79" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1980" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1984" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1987" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1989" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1991" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1993" .
+
+<http://data.dainst.de/zenon/000002228_Moskva1996-97> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moskva 1996-97" .
+
+<http://data.dainst.de/zenon/000002228_Moura1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Moura 1988" .
+
+<http://data.dainst.de/zenon/000002228_Muccia2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Muccia 2003" .
+
+<http://data.dainst.de/zenon/000002228_Muggia1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Muggia 1985" .
+
+<http://data.dainst.de/zenon/000002228_Murcia1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 1993" .
+
+<http://data.dainst.de/zenon/000002228_Murcia2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 2004" .
+
+<http://data.dainst.de/zenon/000002228_Murcia2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Murcia2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 2005" .
+
+<http://data.dainst.de/zenon/000002228_Murcia2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 2007" .
+
+<http://data.dainst.de/zenon/000002228_Murcia2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Murcia 2010" .
+
+<http://data.dainst.de/zenon/000002228_MuroLucano1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Muro Lucano 1986" .
+
+<http://data.dainst.de/zenon/000002228_Mérida1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mérida 1978" .
+
+<http://data.dainst.de/zenon/000002228_Mérida1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mérida 1998" .
+
+<http://data.dainst.de/zenon/000002228_Mérida2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mérida 2002" .
+
+<http://data.dainst.de/zenon/000002228_Mérida2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mérida 2003" .
+
+<http://data.dainst.de/zenon/000002228_Mérida2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mérida 2010" .
+
+<http://data.dainst.de/zenon/000002228_Mönchengladbach1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mönchengladbach 1980" .
+
+<http://data.dainst.de/zenon/000002228_Mönchengladbach1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mönchengladbach 1986" .
+
+<http://data.dainst.de/zenon/000002228_Mönchengladbach1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mönchengladbach 1988" .
+
+<http://data.dainst.de/zenon/000002228_Mönchengladbach1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Mönchengladbach 1992" .
+
+<http://data.dainst.de/zenon/000002228_München1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1963" .
+
+<http://data.dainst.de/zenon/000002228_München1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1966" .
+
+<http://data.dainst.de/zenon/000002228_München1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1972" .
+
+<http://data.dainst.de/zenon/000002228_München1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1973" .
+
+<http://data.dainst.de/zenon/000002228_München1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1976" .
+
+<http://data.dainst.de/zenon/000002228_München1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1977" .
+
+<http://data.dainst.de/zenon/000002228_München1977-78> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1977-78" .
+
+<http://data.dainst.de/zenon/000002228_München1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1978" .
+
+<http://data.dainst.de/zenon/000002228_München1978-79> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1978-79" .
+
+<http://data.dainst.de/zenon/000002228_München1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1980" .
+
+<http://data.dainst.de/zenon/000002228_München1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1981" .
+
+<http://data.dainst.de/zenon/000002228_München1981-82> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1981-82" .
+
+<http://data.dainst.de/zenon/000002228_München1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1982" .
+
+<http://data.dainst.de/zenon/000002228_München1982-83> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1982-83" .
+
+<http://data.dainst.de/zenon/000002228_München1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1983" .
+
+<http://data.dainst.de/zenon/000002228_München1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1984" .
+
+<http://data.dainst.de/zenon/000002228_München1984-85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1984-85" .
+
+<http://data.dainst.de/zenon/000002228_München1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1985" .
+
+<http://data.dainst.de/zenon/000002228_München1985-86> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1985-86" .
+
+<http://data.dainst.de/zenon/000002228_München1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1986" .
+
+<http://data.dainst.de/zenon/000002228_München1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1987" .
+
+<http://data.dainst.de/zenon/000002228_München1988-89> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1988-89" .
+
+<http://data.dainst.de/zenon/000002228_München1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1989" .
+
+<http://data.dainst.de/zenon/000002228_München1989-90> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1989-90" .
+
+<http://data.dainst.de/zenon/000002228_München1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1990" .
+
+<http://data.dainst.de/zenon/000002228_München1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1991-92" .
+
+<http://data.dainst.de/zenon/000002228_München1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1992" .
+
+<http://data.dainst.de/zenon/000002228_München1993-94> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1993-94" .
+
+<http://data.dainst.de/zenon/000002228_München1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1994" .
+
+<http://data.dainst.de/zenon/000002228_München1994-95> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1994-95" .
+
+<http://data.dainst.de/zenon/000002228_München1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1996" .
+
+<http://data.dainst.de/zenon/000002228_München1996-97> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1996-97" .
+
+<http://data.dainst.de/zenon/000002228_München1997-98> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1997-98" .
+
+<http://data.dainst.de/zenon/000002228_München1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1998" .
+
+<http://data.dainst.de/zenon/000002228_München1998-99> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1998-99" .
+
+<http://data.dainst.de/zenon/000002228_München1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1999" .
+
+<http://data.dainst.de/zenon/000002228_München1999-2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 1999-2000" .
+
+<http://data.dainst.de/zenon/000002228_München2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2000" .
+
+<http://data.dainst.de/zenon/000002228_München2000-01> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2000-01" .
+
+<http://data.dainst.de/zenon/000002228_München2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2001" .
+
+<http://data.dainst.de/zenon/000002228_München2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2003" .
+
+<http://data.dainst.de/zenon/000002228_München2003-04> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2003-04" .
+
+<http://data.dainst.de/zenon/000002228_München2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2004" .
+
+<http://data.dainst.de/zenon/000002228_München2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_München2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2005" .
+
+<http://data.dainst.de/zenon/000002228_München2005-06> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2005-06" .
+
+<http://data.dainst.de/zenon/000002228_München2006-07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2006-07" .
+
+<http://data.dainst.de/zenon/000002228_München2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_München2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2008" .
+
+<http://data.dainst.de/zenon/000002228_München2008-10> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2008-10" .
+
+<http://data.dainst.de/zenon/000002228_München2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2009" .
+
+<http://data.dainst.de/zenon/000002228_München2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2010" .
+
+<http://data.dainst.de/zenon/000002228_München2011-12> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "München 2011-12" .
+
+<http://data.dainst.de/zenon/000002228_Münster1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 1983" .
+
+<http://data.dainst.de/zenon/000002228_Münster1983-84> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 1983-84" .
+
+<http://data.dainst.de/zenon/000002228_Münster1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 1984" .
+
+<http://data.dainst.de/zenon/000002228_Münster1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 1986" .
+
+<http://data.dainst.de/zenon/000002228_Münster1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 1991" .
+
+<http://data.dainst.de/zenon/000002228_Münster2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 2002" .
+
+<http://data.dainst.de/zenon/000002228_Münster2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 2005" .
+
+<http://data.dainst.de/zenon/000002228_Münster2010-2011> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Münster 2010-2011" .
+
+<http://data.dainst.de/zenon/000002228_Nagoya1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nagoya 1958" .
+
+<http://data.dainst.de/zenon/000002228_Nagoya1999-2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nagoya 1999-2004" .
+
+<http://data.dainst.de/zenon/000002228_Nantes1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nantes 1987" .
+
+<http://data.dainst.de/zenon/000002228_Nantes1987-88> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nantes 1987-88" .
+
+<http://data.dainst.de/zenon/000002228_Nantes1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nantes 1993" .
+
+<http://data.dainst.de/zenon/000002228_Nantes2004-07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nantes 2004-07" .
+
+<http://data.dainst.de/zenon/000002228_Napoli-Pompei1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli-Pompei 1981" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1958" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1964" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1969" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1973" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1975" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1978" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1979" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1981-82> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1981-82" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1982" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1983" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1985" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1985-86> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1985-86" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1987" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1996" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1998" .
+
+<http://data.dainst.de/zenon/000002228_Napoli1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 1999" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2000" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2002" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2002-03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2002-03" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2003" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2003-04> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2003-04" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2005-06> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2005-06" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2006" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2006-2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2006-2007" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2007" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2007-08> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2007-08" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2008-09> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2008-09" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2009" .
+
+<http://data.dainst.de/zenon/000002228_Napoli2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Napoli 2010" .
+
+<http://data.dainst.de/zenon/000002228_Narbonne1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Narbonne 1991" .
+
+<http://data.dainst.de/zenon/000002228_Naxos2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Naxos 2001" .
+
+<http://data.dainst.de/zenon/000002228_Nemi2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nemi 2012" .
+
+<http://data.dainst.de/zenon/000002228_Nemours1984-85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nemours 1984-85" .
+
+<http://data.dainst.de/zenon/000002228_Nepi1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nepi 1992-93" .
+
+<http://data.dainst.de/zenon/000002228_Neu-Ulm1994-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Neu-Ulm 1994-96" .
+
+<http://data.dainst.de/zenon/000002228_Neuchâtel1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Neuchâtel 1991-92" .
+
+<http://data.dainst.de/zenon/000002228_Neusäss1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Neusäss 1988" .
+
+<http://data.dainst.de/zenon/000002228_NewDelhi1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Delhi 1977" .
+
+<http://data.dainst.de/zenon/000002228_NewHaven1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Haven 1961" .
+
+<http://data.dainst.de/zenon/000002228_NewHaven1975-76> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Haven 1975-76" .
+
+<http://data.dainst.de/zenon/000002228_NewHaven1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Haven 1993" .
+
+<http://data.dainst.de/zenon/000002228_NewHaven1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Haven 1994" .
+
+<http://data.dainst.de/zenon/000002228_NewHaven1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Haven 1996" .
+
+<http://data.dainst.de/zenon/000002228_NewOrleans1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New Orleans 1981" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1957" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1958" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1959-60> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1959-60" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1960" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1965" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1966" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1971" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1973" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1975" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1975-76> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1975-76" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1977-78> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1977-78" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1978" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1979-80> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1979-80" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1982" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1983" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1984-85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1984-85" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1985" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1986-87> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1986-87" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1987" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1988" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1988-89> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1988-89" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1990" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1992" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1992-93" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1993" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1995" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_NewYork1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 1996" .
+
+<http://data.dainst.de/zenon/000002228_NewYork2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 2000" .
+
+<http://data.dainst.de/zenon/000002228_NewYork2000-01> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 2000-01" .
+
+<http://data.dainst.de/zenon/000002228_NewYork2006-07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 2006-07" .
+
+<http://data.dainst.de/zenon/000002228_NewYork2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 2008" .
+
+<http://data.dainst.de/zenon/000002228_NewYork2008-09> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "New York 2008-09" .
+
+<http://data.dainst.de/zenon/000002228_Nice1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nice 1976" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 1974" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 1989" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen1990-91> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 1990-91" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 1992" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2000" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2001" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2002-03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2002-03" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2005-06> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2005-06" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2006-07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2006-07" .
+
+<http://data.dainst.de/zenon/000002228_Nijmegen2008-09> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nijmegen 2008-09" .
+
+<http://data.dainst.de/zenon/000002228_Nikosia1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nikosia 1998" .
+
+<http://data.dainst.de/zenon/000002228_Nimes1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nimes 1985" .
+
+<http://data.dainst.de/zenon/000002228_Nimes1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nimes 1986" .
+
+<http://data.dainst.de/zenon/000002228_Nimes1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nimes 1987" .
+
+<http://data.dainst.de/zenon/000002228_Nimes2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nimes 2007" .
+
+<http://data.dainst.de/zenon/000002228_NoceraUmbra1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nocera Umbra 1985" .
+
+<http://data.dainst.de/zenon/000002228_NoceraUmbra1996-97> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nocera Umbra 1996-97" .
+
+<http://data.dainst.de/zenon/000002228_Noli2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Noli 2007" .
+
+<http://data.dainst.de/zenon/000002228_Northampton,Mass.1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Northampton, Mass. 1978" .
+
+<http://data.dainst.de/zenon/000002228_Northeim2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Northeim 2006" .
+
+<http://data.dainst.de/zenon/000002228_Northridge1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Northridge 1973" .
+
+<http://data.dainst.de/zenon/000002228_Noto2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Noto 2003" .
+
+<http://data.dainst.de/zenon/000002228_Novara1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Novara 1987" .
+
+<http://data.dainst.de/zenon/000002228_Nuoro1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nuoro 1978" .
+
+<http://data.dainst.de/zenon/000002228_Nyon2003-04> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nyon 2003-04" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1977" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1978" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1985-86> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1985-86" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1987-88> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1987-88" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1991-92" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 1993" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg2000-01> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 2000-01" .
+
+<http://data.dainst.de/zenon/000002228_Nürnberg2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Nürnberg 2003" .
+
+<http://data.dainst.de/zenon/000002228_Okayama1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Okayama 1996" .
+
+<http://data.dainst.de/zenon/000002228_Oldenburg1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oldenburg 1981" .
+
+<http://data.dainst.de/zenon/000002228_Oldenburg1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oldenburg 1991" .
+
+<http://data.dainst.de/zenon/000002228_Oldenburg2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oldenburg 2000" .
+
+<http://data.dainst.de/zenon/000002228_Oldenburg2008-09> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oldenburg 2008-09" .
+
+<http://data.dainst.de/zenon/000002228_Oldenburg2009-10> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oldenburg 2009-10" .
+
+<http://data.dainst.de/zenon/000002228_Oleggio1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oleggio 1999" .
+
+<http://data.dainst.de/zenon/000002228_Oleggio2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oleggio 2001" .
+
+<http://data.dainst.de/zenon/000002228_Orbetello1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orbetello 1985" .
+
+<http://data.dainst.de/zenon/000002228_Oricola2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oricola 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Oristano1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oristano 1997" .
+
+<http://data.dainst.de/zenon/000002228_Oristano1998-99> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oristano 1998-99" .
+
+<http://data.dainst.de/zenon/000002228_Oristano2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oristano 2000" .
+
+<http://data.dainst.de/zenon/000002228_Oristano2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oristano 2004" .
+
+<http://data.dainst.de/zenon/000002228_Orléans2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orléans 2007" .
+
+<http://data.dainst.de/zenon/000002228_Orvieto1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orvieto 1978" .
+
+<http://data.dainst.de/zenon/000002228_Orvieto1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orvieto 1982" .
+
+<http://data.dainst.de/zenon/000002228_Orvieto2002-03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orvieto 2002-03" .
+
+<http://data.dainst.de/zenon/000002228_Orvieto2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Orvieto 2004-05" .
+
+<http://data.dainst.de/zenon/000002228_Osaka1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Osaka 1996" .
+
+<http://data.dainst.de/zenon/000002228_Osaka2006-07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Osaka 2006-07" .
+
+<http://data.dainst.de/zenon/000002228_Osijek1995-96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Osijek 1995-96" .
+
+<http://data.dainst.de/zenon/000002228_Osimo1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Osimo 1996" .
+
+<http://data.dainst.de/zenon/000002228_Osimo2000-2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Osimo 2000-2001" .
+
+<http://data.dainst.de/zenon/000002228_Ostia1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Ostia 1975" .
+
+<http://data.dainst.de/zenon/000002228_Ostia1998-99> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Ostia 1998-99" .
+
+<http://data.dainst.de/zenon/000002228_Oxford1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 1965" .
+
+<http://data.dainst.de/zenon/000002228_Oxford1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 1966" .
+
+<http://data.dainst.de/zenon/000002228_Oxford1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 1967" .
+
+<http://data.dainst.de/zenon/000002228_Oxford1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 1975" .
+
+<http://data.dainst.de/zenon/000002228_Oxford1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 1981" .
+
+<http://data.dainst.de/zenon/000002228_Oxford2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 2004" .
+
+<http://data.dainst.de/zenon/000002228_Oxford2011> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Oxford 2011" .
+
+<http://data.dainst.de/zenon/000002228_Österreich1991-92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002228> ;
+    skos:prefLabel "Österreich 1991-92" .
+
+<http://data.dainst.de/zenon/000002228> a skos:Concept ;
+    skos:altLabel "exhibitions M-O"@en,
+        "expositions M-O"@fr,
+        "mostre M-O"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002224> ;
+    skos:hiddenLabel "xMusSlgAusstM-O" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ausstellungen M-O"@de .
+

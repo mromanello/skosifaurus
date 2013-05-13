@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074247> a skos:Concept ;
+    skos:altLabel "Zindan-i-Suleiman"@en,
+        "Zindan-i-Suleiman"@fr,
+        "Zindan-i-Suleiman"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039385> ;
+    skos:hiddenLabel "zTopogAsienVordeIranZindan-i-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zindan-i-Suleiman"@de .
+

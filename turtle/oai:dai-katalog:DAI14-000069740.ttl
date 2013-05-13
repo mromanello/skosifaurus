@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069740> a skos:Concept ;
+    skos:altLabel "Conturines-Höhle"@en,
+        "Conturines-Höhle"@fr,
+        "Conturines-Höhle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039154> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaSondrConturine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Conturines-Höhle"@de .
+

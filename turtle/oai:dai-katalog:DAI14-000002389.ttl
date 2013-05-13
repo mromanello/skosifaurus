@@ -1,0 +1,552 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002389_Ain> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Ain" .
+
+<http://data.dainst.de/zenon/000002389_Aisne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Aisne" .
+
+<http://data.dainst.de/zenon/000002389_Alpes-Maritimes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Alpes-Maritimes" .
+
+<http://data.dainst.de/zenon/000002389_Alpes-de-Haute-Provence> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Alpes-de-Haute-Provence" .
+
+<http://data.dainst.de/zenon/000002389_AlpesCottiae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Alpes Cottiae" .
+
+<http://data.dainst.de/zenon/000002389_Alsace> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Alsace" .
+
+<http://data.dainst.de/zenon/000002389_Aquitania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Aquitania" .
+
+<http://data.dainst.de/zenon/000002389_Ardèche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Ardèche" .
+
+<http://data.dainst.de/zenon/000002389_Ariège> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Ariège" .
+
+<http://data.dainst.de/zenon/000002389_Artois> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Artois" .
+
+<http://data.dainst.de/zenon/000002389_Aube> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Aube" .
+
+<http://data.dainst.de/zenon/000002389_Aude> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Aude" .
+
+<http://data.dainst.de/zenon/000002389_Aunis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Aunis" .
+
+<http://data.dainst.de/zenon/000002389_Auvergne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Auvergne" .
+
+<http://data.dainst.de/zenon/000002389_Bas-Rhin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Bas-Rhin" .
+
+<http://data.dainst.de/zenon/000002389_Beauce> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Beauce" .
+
+<http://data.dainst.de/zenon/000002389_BelgicaSecunda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Belgica Secunda" .
+
+<http://data.dainst.de/zenon/000002389_Berry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Berry" .
+
+<http://data.dainst.de/zenon/000002389_Biterrois> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Biterrois" .
+
+<http://data.dainst.de/zenon/000002389_Bouches-du-Rhône> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Bouches-du-Rhône" .
+
+<http://data.dainst.de/zenon/000002389_Bourbonnais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Bourbonnais" .
+
+<http://data.dainst.de/zenon/000002389_Bourgogne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Bourgogne" .
+
+<http://data.dainst.de/zenon/000002389_Bretagne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Bretagne" .
+
+<http://data.dainst.de/zenon/000002389_Briançonnais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Briançonnais" .
+
+<http://data.dainst.de/zenon/000002389_Brie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Brie" .
+
+<http://data.dainst.de/zenon/000002389_Béarn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Béarn" .
+
+<http://data.dainst.de/zenon/000002389_Calvados> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Calvados" .
+
+<http://data.dainst.de/zenon/000002389_Camargue> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Camargue" .
+
+<http://data.dainst.de/zenon/000002389_Cantal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Cantal" .
+
+<http://data.dainst.de/zenon/000002389_Centre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Centre" .
+
+<http://data.dainst.de/zenon/000002389_Champagne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Champagne" .
+
+<http://data.dainst.de/zenon/000002389_Charente> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Charente" .
+
+<http://data.dainst.de/zenon/000002389_Charente-Maritime> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Charente-Maritime" .
+
+<http://data.dainst.de/zenon/000002389_Cher> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Cher" .
+
+<http://data.dainst.de/zenon/000002389_Corbières> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Corbières" .
+
+<http://data.dainst.de/zenon/000002389_Corrèze> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Corrèze" .
+
+<http://data.dainst.de/zenon/000002389_Corse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Corse" .
+
+<http://data.dainst.de/zenon/000002389_Cévennes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Cévennes" .
+
+<http://data.dainst.de/zenon/000002389_Côte-d'Or> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Côte-d'Or" .
+
+<http://data.dainst.de/zenon/000002389_Côted'Azur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Côte d'Azur" .
+
+<http://data.dainst.de/zenon/000002389_Dauphiné> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Dauphiné" .
+
+<http://data.dainst.de/zenon/000002389_Deux-Sèvres> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Deux-Sèvres" .
+
+<http://data.dainst.de/zenon/000002389_Dordogne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Dordogne" .
+
+<http://data.dainst.de/zenon/000002389_Doubs> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Doubs" .
+
+<http://data.dainst.de/zenon/000002389_Drôme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Drôme" .
+
+<http://data.dainst.de/zenon/000002389_Essonne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Essonne" .
+
+<http://data.dainst.de/zenon/000002389_Eure> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Eure" .
+
+<http://data.dainst.de/zenon/000002389_Eure-et-Loir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Eure-et-Loir" .
+
+<http://data.dainst.de/zenon/000002389_Finage> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Finage" .
+
+<http://data.dainst.de/zenon/000002389_Forez> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Forez" .
+
+<http://data.dainst.de/zenon/000002389_Franche-Comté> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Franche-Comté" .
+
+<http://data.dainst.de/zenon/000002389_Gard> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Gard" .
+
+<http://data.dainst.de/zenon/000002389_Gironde> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Gironde" .
+
+<http://data.dainst.de/zenon/000002389_Gâtinais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Gâtinais" .
+
+<http://data.dainst.de/zenon/000002389_Haut-Rhin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haut-Rhin" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Garonne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Garonne" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Loire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Loire" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Marne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Marne" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Savoie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Savoie" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Saône> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Saône" .
+
+<http://data.dainst.de/zenon/000002389_Haute-Vienne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Haute-Vienne" .
+
+<http://data.dainst.de/zenon/000002389_Hautes-Alpes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Hautes-Alpes" .
+
+<http://data.dainst.de/zenon/000002389_Hautes-Pyrénées> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Hautes-Pyrénées" .
+
+<http://data.dainst.de/zenon/000002389_Hauts-de-Seine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Hauts-de-Seine" .
+
+<http://data.dainst.de/zenon/000002389_Hérault> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Hérault" .
+
+<http://data.dainst.de/zenon/000002389_IledeFrance> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Ile de France" .
+
+<http://data.dainst.de/zenon/000002389_Ille-et-Vilaine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Ille-et-Vilaine" .
+
+<http://data.dainst.de/zenon/000002389_Indre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Indre" .
+
+<http://data.dainst.de/zenon/000002389_Indre-et-Loire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Indre-et-Loire" .
+
+<http://data.dainst.de/zenon/000002389_Isère> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Isère" .
+
+<http://data.dainst.de/zenon/000002389_Jura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Jura" .
+
+<http://data.dainst.de/zenon/000002389_LaMontagnette> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "La Montagnette" .
+
+<http://data.dainst.de/zenon/000002389_Landes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Landes" .
+
+<http://data.dainst.de/zenon/000002389_Languedoc> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Languedoc" .
+
+<http://data.dainst.de/zenon/000002389_Limousin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Limousin" .
+
+<http://data.dainst.de/zenon/000002389_Loir-et-Cher> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Loir-et-Cher" .
+
+<http://data.dainst.de/zenon/000002389_Loire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Loire" .
+
+<http://data.dainst.de/zenon/000002389_Loire-Atlantique> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Loire-Atlantique" .
+
+<http://data.dainst.de/zenon/000002389_Loiret> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Loiret" .
+
+<http://data.dainst.de/zenon/000002389_Lorraine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Lorraine" .
+
+<http://data.dainst.de/zenon/000002389_Lot> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Lot" .
+
+<http://data.dainst.de/zenon/000002389_Lot-et-Garonne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Lot-et-Garonne" .
+
+<http://data.dainst.de/zenon/000002389_Lozère> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Lozère" .
+
+<http://data.dainst.de/zenon/000002389_Lugdunensis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Lugdunensis" .
+
+<http://data.dainst.de/zenon/000002389_Maine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Maine" .
+
+<http://data.dainst.de/zenon/000002389_Manche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Manche" .
+
+<http://data.dainst.de/zenon/000002389_Marne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Marne" .
+
+<http://data.dainst.de/zenon/000002389_Mayenne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Mayenne" .
+
+<http://data.dainst.de/zenon/000002389_Meurthe-et-Moselle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Meurthe-et-Moselle" .
+
+<http://data.dainst.de/zenon/000002389_Meuse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Meuse" .
+
+<http://data.dainst.de/zenon/000002389_Midi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Midi" .
+
+<http://data.dainst.de/zenon/000002389_Midi-Pyrénées> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Midi-Pyrénées" .
+
+<http://data.dainst.de/zenon/000002389_Morvan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Morvan" .
+
+<http://data.dainst.de/zenon/000002389_Moselle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Moselle" .
+
+<http://data.dainst.de/zenon/000002389_Multien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Multien" .
+
+<http://data.dainst.de/zenon/000002389_Narbonensis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Narbonensis" .
+
+<http://data.dainst.de/zenon/000002389_Nièvre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Nièvre" .
+
+<http://data.dainst.de/zenon/000002389_Nord> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Nord" .
+
+<http://data.dainst.de/zenon/000002389_Normandie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Normandie" .
+
+<http://data.dainst.de/zenon/000002389_Oise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Oise" .
+
+<http://data.dainst.de/zenon/000002389_Orléanais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Orléanais" .
+
+<http://data.dainst.de/zenon/000002389_Orne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Orne" .
+
+<http://data.dainst.de/zenon/000002389_Pas-de-Calais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Pas-de-Calais" .
+
+<http://data.dainst.de/zenon/000002389_PaysdelaLoire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Pays de la Loire" .
+
+<http://data.dainst.de/zenon/000002389_Picardie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Picardie" .
+
+<http://data.dainst.de/zenon/000002389_Poitou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Poitou" .
+
+<http://data.dainst.de/zenon/000002389_Poitou-Charentes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Poitou-Charentes" .
+
+<http://data.dainst.de/zenon/000002389_Provence> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Provence" .
+
+<http://data.dainst.de/zenon/000002389_Puy-de-Dôme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Puy-de-Dôme" .
+
+<http://data.dainst.de/zenon/000002389_Pyrénées> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Pyrénées" .
+
+<http://data.dainst.de/zenon/000002389_Pyrénées-Atlantiques> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Pyrénées-Atlantiques" .
+
+<http://data.dainst.de/zenon/000002389_Pyrénées-Orientales> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Pyrénées-Orientales" .
+
+<http://data.dainst.de/zenon/000002389_Rhône> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Rhône" .
+
+<http://data.dainst.de/zenon/000002389_Rhône-Alpes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Rhône-Alpes" .
+
+<http://data.dainst.de/zenon/000002389_Roussillon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Roussillon" .
+
+<http://data.dainst.de/zenon/000002389_Saintonge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Saintonge" .
+
+<http://data.dainst.de/zenon/000002389_Sarthe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Sarthe" .
+
+<http://data.dainst.de/zenon/000002389_Savoie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Savoie" .
+
+<http://data.dainst.de/zenon/000002389_Saône-et-Loire> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Saône-et-Loire" .
+
+<http://data.dainst.de/zenon/000002389_Seine-Maritime> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Seine-Maritime" .
+
+<http://data.dainst.de/zenon/000002389_Tarentaise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Tarentaise" .
+
+<http://data.dainst.de/zenon/000002389_Tarn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Tarn" .
+
+<http://data.dainst.de/zenon/000002389_Tarn-et-Garonne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Tarn-et-Garonne" .
+
+<http://data.dainst.de/zenon/000002389_TerritoiredeBelfort> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Territoire de Belfort" .
+
+<http://data.dainst.de/zenon/000002389_Touraine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Touraine" .
+
+<http://data.dainst.de/zenon/000002389_Tricastin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Tricastin" .
+
+<http://data.dainst.de/zenon/000002389_Val-d'Oise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Val-d'Oise" .
+
+<http://data.dainst.de/zenon/000002389_Val-de-Marne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Val-de-Marne" .
+
+<http://data.dainst.de/zenon/000002389_Var> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Var" .
+
+<http://data.dainst.de/zenon/000002389_Vaucluse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Vaucluse" .
+
+<http://data.dainst.de/zenon/000002389_Vendée> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Vendée" .
+
+<http://data.dainst.de/zenon/000002389_Vivarais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Vivarais" .
+
+<http://data.dainst.de/zenon/000002389_Vosges> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Vosges" .
+
+<http://data.dainst.de/zenon/000002389_Yonne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Yonne" .
+
+<http://data.dainst.de/zenon/000002389_Yvelines> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002389> ;
+    skos:prefLabel "Yvelines" .
+
+<http://data.dainst.de/zenon/000002389> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002388> ;
+    skos:hiddenLabel "xTopLandFrGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

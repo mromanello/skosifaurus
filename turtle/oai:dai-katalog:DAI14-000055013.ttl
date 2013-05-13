@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055013> a skos:Concept ;
+    skos:altLabel "Jüchen-Hahner Hof"@en,
+        "Jüchen-Hahner Hof"@fr,
+        "Jüchen-Hahner Hof"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038888> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrNeussJüchen-Ha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jüchen-Hahner Hof"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068955> a skos:Concept ;
+    skos:altLabel "Raškova, raj. Hotin, obl. Černivec'k"@en,
+        "Raškova, raj. Hotin, obl. Černivec'k"@fr,
+        "Raškova, raj. Hotin, obl. Černivec'k"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiRaškova," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Raškova, raj. Hotin, obl. Černivec'k"@de .
+

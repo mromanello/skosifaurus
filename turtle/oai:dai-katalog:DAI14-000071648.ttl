@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071648> a skos:Concept ;
+    skos:altLabel "Roma-Via Appia"@en,
+        "Roma-Via Appia"@fr,
+        "Roma-Via Appia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRoma-Via" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma-Via Appia"@de .
+

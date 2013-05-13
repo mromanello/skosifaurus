@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063705> a skos:Concept ;
+    skos:altLabel "Kvíc u Slaného, okr. Kladno"@en,
+        "Kvíc u Slaného, okr. Kladno"@fr,
+        "Kvíc u Slaného, okr. Kladno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKvíc u Sl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kvíc u Slaného, okr. Kladno"@de .
+

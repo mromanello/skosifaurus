@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082689> a skos:Concept ;
+    skos:altLabel "Kabeliai, Varčna raj."@en,
+        "Kabeliai, Varčna raj."@fr,
+        "Kabeliai, Varčna raj."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038702> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiLitauKabeliai," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kabeliai, Varčna raj."@de .
+

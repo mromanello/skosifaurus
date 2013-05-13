@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064379> a skos:Concept ;
+    skos:altLabel "Hukvaldy, okr. Frýdek-Místek"@en,
+        "Hukvaldy, okr. Frýdek-Místek"@fr,
+        "Hukvaldy, okr. Frýdek-Místek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravHukvaldy," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hukvaldy, okr. Frýdek-Místek"@de .
+

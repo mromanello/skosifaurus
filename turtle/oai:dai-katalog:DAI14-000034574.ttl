@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034574> a skos:Concept ;
+    skos:altLabel "Gassmann"@en,
+        "Gassmann"@fr,
+        "Gassmann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGassmann" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gassmann"@de .
+

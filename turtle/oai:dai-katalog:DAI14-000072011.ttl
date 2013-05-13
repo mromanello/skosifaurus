@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072011> a skos:Concept ;
+    skos:altLabel "Santa Maria la Carita"@en,
+        "Santa Maria la Carita"@fr,
+        "Santa Maria la Carita"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039241> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaNapolSanta Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Santa Maria la Carita"@de .
+

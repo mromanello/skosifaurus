@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009340> a skos:Concept ;
+    skos:altLabel "Narr, Karl J."@en,
+        "Narr, Karl J."@fr,
+        "Narr, Karl J."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNarr, Karl J." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Narr, Karl J."@de .
+

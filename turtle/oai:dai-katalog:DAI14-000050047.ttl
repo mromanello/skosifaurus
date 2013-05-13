@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050047> a skos:Concept ;
+    skos:altLabel "Umkirch"@en,
+        "Umkirch"@fr,
+        "Umkirch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075331> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBreisUmkirch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Umkirch"@de .
+

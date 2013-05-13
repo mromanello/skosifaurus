@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077813> a skos:Concept ;
+    skos:altLabel "Arborfield Garrison"@en,
+        "Arborfield Garrison"@fr,
+        "Arborfield Garrison"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077678> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaBerksArborfiel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arborfield Garrison"@de .
+

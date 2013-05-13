@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009664> a skos:Concept ;
+    skos:altLabel "Reusch, Wilhelm"@en,
+        "Reusch, Wilhelm"@fr,
+        "Reusch, Wilhelm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoReusch, Wilhelm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reusch, Wilhelm"@de .
+

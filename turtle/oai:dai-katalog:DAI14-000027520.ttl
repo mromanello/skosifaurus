@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027520> a skos:Concept ;
+    skos:altLabel "Zürich/Lugano/Basel/Bern/Genf 1991-92"@en,
+        "Zürich/Lugano/Basel/Bern/Genf 1991-92"@fr,
+        "Zürich/Lugano/Basel/Bern/Genf 1991-92"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstZürich/Lugano/Basel/Bern/Genf 1991-92" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zürich/Lugano/Basel/Bern/Genf 1991-92"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012649> a skos:Concept ;
+    skos:altLabel "Carrion"@en,
+        "Charogne"@fr,
+        "Padlina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012645> ;
+    skos:hiddenLabel "yRGKArch03 - WirtsSubsiAas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aas"@de .
+

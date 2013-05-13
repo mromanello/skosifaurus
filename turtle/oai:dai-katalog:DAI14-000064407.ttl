@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064407> a skos:Concept ;
+    skos:altLabel "Klentnice, okr. Břeclav"@en,
+        "Klentnice, okr. Břeclav"@fr,
+        "Klentnice, okr. Břeclav"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravKlentnice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klentnice, okr. Břeclav"@de .
+

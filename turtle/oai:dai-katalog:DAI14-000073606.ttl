@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073606> a skos:Concept ;
+    skos:altLabel "Los Villares"@en,
+        "Los Villares"@fr,
+        "Los Villares"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039346> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenValenLos Villa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Los Villares"@de .
+

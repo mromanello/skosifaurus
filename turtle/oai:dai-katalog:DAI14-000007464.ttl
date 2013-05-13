@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007464> a skos:Concept ;
+    skos:altLabel "Allmers, Herrmann"@en,
+        "Allmers, Herrmann"@fr,
+        "Allmers, Herrmann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAllmers, Herrmann" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Allmers, Herrmann"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012679> a skos:Concept ;
+    skos:altLabel "Production"@en,
+        "Production"@fr,
+        "Produkcja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012654> ;
+    skos:hiddenLabel "yRGKArch03 - WirtsHandwProdu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Produktion"@de .
+

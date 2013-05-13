@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046038> a skos:Concept ;
+    skos:altLabel "Gijounet"@en,
+        "Gijounet"@fr,
+        "Gijounet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038823> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitTarnGijounet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gijounet"@de .
+

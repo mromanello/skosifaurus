@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065141> a skos:Concept ;
+    skos:altLabel "Hejőkeresztúr"@en,
+        "Hejőkeresztúr"@fr,
+        "Hejőkeresztúr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039083> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBorsoHejőkeres" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hejőkeresztúr"@de .
+

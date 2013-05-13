@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072943> a skos:Concept ;
+    skos:altLabel "San Esteban del Rio Sil"@en,
+        "San Esteban del Rio Sil"@fr,
+        "San Esteban del Rio Sil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039304> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniGalicOurenSan Esteb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Esteban del Rio Sil"@de .
+

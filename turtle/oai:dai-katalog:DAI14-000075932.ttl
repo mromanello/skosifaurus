@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075932> a skos:Concept ;
+    skos:altLabel "Karm Abu Mina"@en,
+        "Karm Abu Mina"@fr,
+        "Karm Abu Mina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075137> ;
+    skos:hiddenLabel "zTopogAfrikNordaÄgyptKarm Abu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karm Abu Mina"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049082> a skos:Concept ;
+    skos:altLabel "Outer Hebrides"@en,
+        "Outer Hebrides"@fr,
+        "Outer Hebrides"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlOuter Heb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Outer Hebrides"@de .
+

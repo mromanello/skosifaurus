@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062617> a skos:Concept ;
+    skos:altLabel "Bratislava-Kopčanoch"@en,
+        "Bratislava-Kopčanoch"@fr,
+        "Bratislava-Kopčanoch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaBratislav" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bratislava-Kopčanoch"@de .
+

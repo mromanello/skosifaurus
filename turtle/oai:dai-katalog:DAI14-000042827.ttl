@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042827> a skos:Concept ;
+    skos:altLabel "Suzon"@en,
+        "Suzon"@fr,
+        "Suzon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038742> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dZZ--RSuzon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Suzon"@de .
+

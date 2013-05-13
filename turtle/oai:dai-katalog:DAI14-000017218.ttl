@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017218> a skos:Concept ;
+    skos:altLabel "Names of persons"@en,
+        "Nazwiska/imiona"@pl,
+        "Noms de Personnes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017217> ;
+    skos:hiddenLabel "yRGKArch10 - HistoOnomaPerso" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Personennamen"@de .
+

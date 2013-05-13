@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062352> a skos:Concept ;
+    skos:altLabel "Onnens"@en,
+        "Onnens"@fr,
+        "Onnens"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039056> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweWaadtOnnens" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Onnens"@de .
+

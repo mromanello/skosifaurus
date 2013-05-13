@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065980> a skos:Concept ;
+    skos:altLabel "Vetren"@en,
+        "Vetren"@fr,
+        "Vetren"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039114> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaPlovdPazarVetren" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vetren"@de .
+

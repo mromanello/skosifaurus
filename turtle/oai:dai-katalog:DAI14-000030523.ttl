@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030523> a skos:Concept ;
+    skos:altLabel "Amersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek"@en,
+        "Amersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek"@fr,
+        "Amersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiAmersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek"@de .
+

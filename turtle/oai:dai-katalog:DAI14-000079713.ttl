@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079713> a skos:Concept ;
+    skos:altLabel "Kirchdorf a. Inn"@en,
+        "Kirchdorf a. Inn"@fr,
+        "Kirchdorf a. Inn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075455> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRottaKirchdorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kirchdorf a. Inn"@de .
+

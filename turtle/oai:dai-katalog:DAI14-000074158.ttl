@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074158> a skos:Concept ;
+    skos:altLabel "Akhchtyr"@en,
+        "Akhchtyr"@fr,
+        "Akhchtyr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039383> ;
+    skos:hiddenLabel "zTopogAsienVordeGeorgAkhchtyr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Akhchtyr"@de .
+

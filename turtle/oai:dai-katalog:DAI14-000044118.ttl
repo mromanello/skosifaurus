@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044118> a skos:Concept ;
+    skos:altLabel "Volnay"@en,
+        "Volnay"@fr,
+        "Volnay"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Volnay" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Volnay"@de .
+

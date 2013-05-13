@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063411> a skos:Concept ;
+    skos:altLabel "Branišovice, okr. České Budějovice"@en,
+        "Branišovice, okr. České Budějovice"@fr,
+        "Branišovice, okr. České Budějovice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBranišovi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Branišovice, okr. České Budějovice"@de .
+

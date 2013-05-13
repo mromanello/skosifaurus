@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063579> a skos:Concept ;
+    skos:altLabel "Hrad Prostiboř, okr. Tachov"@en,
+        "Hrad Prostiboř, okr. Tachov"@fr,
+        "Hrad Prostiboř, okr. Tachov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Pros" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Prostiboř, okr. Tachov"@de .
+

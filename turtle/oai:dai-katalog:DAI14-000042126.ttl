@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042126> a skos:Concept ;
+    skos:altLabel "Saint-Manvieu-Norrey, Le Haras"@en,
+        "Saint-Manvieu-Norrey, Le Haras"@fr,
+        "Saint-Manvieu-Norrey, Le Haras"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038725> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dCalvaSaint-Man" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Manvieu-Norrey, Le Haras"@de .
+

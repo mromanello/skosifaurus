@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009347> a skos:Concept ;
+    skos:altLabel "Nawrolski, Tadeusz"@en,
+        "Nawrolski, Tadeusz"@fr,
+        "Nawrolski, Tadeusz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNawrolski, Tadeusz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nawrolski, Tadeusz"@de .
+

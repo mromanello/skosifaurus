@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022515> a skos:Concept ;
+    skos:altLabel "Tiglatpileser <Assyrien, König, III.>"@en,
+        "Tiglatpileser <Assyrien, König, III.>"@fr,
+        "Tiglatpileser <Assyrien, König, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoTiglatpileser <Assyrien, König, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiglatpileser <Assyrien, König, III.>"@de .
+

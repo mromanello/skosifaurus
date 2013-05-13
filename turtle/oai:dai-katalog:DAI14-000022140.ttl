@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022140> a skos:Concept ;
+    skos:altLabel "Otakar <Čechy, Král, II.>"@en,
+        "Otakar <Čechy, Král, II.>"@fr,
+        "Otakar <Čechy, Král, II.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoOtakar <Čechy, Král, II.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Otakar <Čechy, Král, II.>"@de .
+

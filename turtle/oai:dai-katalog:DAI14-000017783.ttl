@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017783> a skos:Concept ;
+    skos:altLabel "Figures phantastiques"@fr,
+        "Istoty fantastyczne"@pl,
+        "Phantastic figures"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017759> ;
+    skos:hiddenLabel "yRGKArch11 - GeselKunstIkonoMisch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mischwesen"@de .
+

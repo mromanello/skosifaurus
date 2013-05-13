@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030093> a skos:Concept ;
+    skos:altLabel "Glueck, Helen und Nelson"@en,
+        "Glueck, Helen und Nelson"@fr,
+        "Glueck, Helen und Nelson"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGlueck, Helen und Nelson" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glueck, Helen und Nelson"@de .
+

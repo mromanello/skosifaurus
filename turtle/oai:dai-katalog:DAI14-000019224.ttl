@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019224> a skos:Concept ;
+    skos:altLabel "Malarstwo/rysunki/ryty"@pl,
+        "Paintings/drawings/engravings"@en,
+        "Peintures/gravures"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019217> ;
+    skos:hiddenLabel "yRGKArch14 - GeselKunstMaler" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Malereien/Zeichnungen/Gravuren"@de .
+

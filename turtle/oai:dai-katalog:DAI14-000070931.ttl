@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070931> a skos:Concept ;
+    skos:altLabel "Savignano sul Rubicone"@en,
+        "Savignano sul Rubicone"@fr,
+        "Savignano sul Rubicone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039193> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliForlìSavignano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Savignano sul Rubicone"@de .
+

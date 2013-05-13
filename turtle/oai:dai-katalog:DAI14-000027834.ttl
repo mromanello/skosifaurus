@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027834> a skos:Concept ;
+    skos:altLabel "Cambridge, Corpus Christi College"@en,
+        "Cambridge, Corpus Christi College"@fr,
+        "Cambridge, Corpus Christi College"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCambridge, Corpus Christi College" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cambridge, Corpus Christi College"@de .
+

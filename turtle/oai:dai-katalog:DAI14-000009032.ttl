@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009032> a skos:Concept ;
+    skos:altLabel "Leroi-Gourhan, Arlette"@en,
+        "Leroi-Gourhan, Arlette"@fr,
+        "Leroi-Gourhan, Arlette"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLeroi-Gourhan, Arlette" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leroi-Gourhan, Arlette"@de .
+

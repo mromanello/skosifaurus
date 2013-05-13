@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042547> a skos:Concept ;
+    skos:altLabel "Mailleraye-sur-Seine"@en,
+        "Mailleraye-sur-Seine"@fr,
+        "Mailleraye-sur-Seine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038734> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineMailleray" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mailleraye-sur-Seine"@de .
+

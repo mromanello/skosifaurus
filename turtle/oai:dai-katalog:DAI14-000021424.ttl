@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021424> a skos:Concept ;
+    skos:altLabel "Duilius, Caius"@en,
+        "Duilius, Caius"@fr,
+        "Duilius, Caius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoDuilius, Caius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Duilius, Caius"@de .
+

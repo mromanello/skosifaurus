@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072752> a skos:Concept ;
+    skos:altLabel "Gruta de Moinhos Velhos"@en,
+        "Gruta de Moinhos Velhos"@fr,
+        "Gruta de Moinhos Velhos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039289> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuLeiriGruta de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gruta de Moinhos Velhos"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022056> a skos:Concept ;
+    skos:altLabel "Mieszko <Polen, König, III.>"@en,
+        "Mieszko <Polen, König, III.>"@fr,
+        "Mieszko <Polen, König, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMieszko <Polen, König, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mieszko <Polen, König, III.>"@de .
+

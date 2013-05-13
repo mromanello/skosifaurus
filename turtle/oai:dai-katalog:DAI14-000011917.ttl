@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011917> a skos:Concept ;
+    skos:altLabel "Muradore Romualdo"@en,
+        "Muradore Romualdo"@fr,
+        "Muradore Romualdo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMuradore Romualdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Muradore Romualdo"@de .
+

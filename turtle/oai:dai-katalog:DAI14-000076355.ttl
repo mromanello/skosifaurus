@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076355> a skos:Concept ;
+    skos:altLabel "Craiova, jud. Dolj"@en,
+        "Craiova, jud. Dolj"@fr,
+        "Craiova, jud. Dolj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenCraiova," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Craiova, jud. Dolj"@de .
+

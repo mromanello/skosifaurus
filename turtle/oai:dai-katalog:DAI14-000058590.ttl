@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058590> a skos:Concept ;
+    skos:altLabel "Oberpettnau, Gde. Pettnau, VB Innsbruck-Land"@en,
+        "Oberpettnau, Gde. Pettnau, VB Innsbruck-Land"@fr,
+        "Oberpettnau, Gde. Pettnau, VB Innsbruck-Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolOberpettn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oberpettnau, Gde. Pettnau, VB Innsbruck-Land"@de .
+

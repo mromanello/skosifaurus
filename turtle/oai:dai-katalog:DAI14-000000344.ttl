@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000344> a skos:Concept ;
+    skos:altLabel "Arquitectura profana (p.e. Villae)"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000341> ;
+    skos:hiddenLabel "3.10.11.03" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Profanarchitektur (z.B. Villen)"@de .
+

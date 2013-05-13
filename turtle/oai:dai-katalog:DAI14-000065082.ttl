@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065082> a skos:Concept ;
+    skos:altLabel "Vaskút"@en,
+        "Vaskút"@fr,
+        "Vaskút"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039081> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBács-Vaskút" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vaskút"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009174> a skos:Concept ;
+    skos:altLabel "Martigny, Joseph Alexandre"@en,
+        "Martigny, Joseph Alexandre"@fr,
+        "Martigny, Joseph Alexandre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMartigny, Joseph Alexandre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Martigny, Joseph Alexandre"@de .
+

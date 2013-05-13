@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029285> a skos:Concept ;
+    skos:altLabel "Wieselburg, Museum für Ur- und Frühgeschichte"@en,
+        "Wieselburg, Museum für Ur- und Frühgeschichte"@fr,
+        "Wieselburg, Museum für Ur- und Frühgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuWieselburg, Museum für Ur- und Frühgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wieselburg, Museum für Ur- und Frühgeschichte"@de .
+

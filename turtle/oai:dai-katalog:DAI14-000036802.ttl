@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036802> a skos:Concept ;
+    skos:altLabel "Nemours 1988"@en,
+        "Nemours 1988"@fr,
+        "Nemours 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNemours 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nemours 1988"@de .
+

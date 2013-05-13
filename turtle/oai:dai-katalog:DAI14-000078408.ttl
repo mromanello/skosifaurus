@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078408> a skos:Concept ;
+    skos:altLabel "Plas Gogerddan"@en,
+        "Plas Gogerddan"@fr,
+        "Plas Gogerddan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078200> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesCeredPlas Goge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plas Gogerddan"@de .
+

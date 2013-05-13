@@ -1,0 +1,292 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002731_Aegyptus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Aegyptus" .
+
+<http://data.dainst.de/zenon/000002731_Aemilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Aemilia" .
+
+<http://data.dainst.de/zenon/000002731_Aethiopia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Aethiopia" .
+
+<http://data.dainst.de/zenon/000002731_Africa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Africa" .
+
+<http://data.dainst.de/zenon/000002731_Akarnanien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Akarnanien" .
+
+<http://data.dainst.de/zenon/000002731_Apulia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Apulia" .
+
+<http://data.dainst.de/zenon/000002731_Aquitania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Aquitania" .
+
+<http://data.dainst.de/zenon/000002731_Arabia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Arabia" .
+
+<http://data.dainst.de/zenon/000002731_Argolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Argolis" .
+
+<http://data.dainst.de/zenon/000002731_Arkadia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Arkadia" .
+
+<http://data.dainst.de/zenon/000002731_Armenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Armenia" .
+
+<http://data.dainst.de/zenon/000002731_AsiaMinor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Asia Minor" .
+
+<http://data.dainst.de/zenon/000002731_Attike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Attike" .
+
+<http://data.dainst.de/zenon/000002731_Baetica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Baetica" .
+
+<http://data.dainst.de/zenon/000002731_Britannia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Britannia" .
+
+<http://data.dainst.de/zenon/000002731_Campania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Campania" .
+
+<http://data.dainst.de/zenon/000002731_Corsica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Corsica" .
+
+<http://data.dainst.de/zenon/000002731_Dacia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Dacia" .
+
+<http://data.dainst.de/zenon/000002731_Dalmatia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Dalmatia" .
+
+<http://data.dainst.de/zenon/000002731_Delphi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Delphi" .
+
+<http://data.dainst.de/zenon/000002731_Dodekanesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Dodekanesos" .
+
+<http://data.dainst.de/zenon/000002731_Epeiros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Epeiros" .
+
+<http://data.dainst.de/zenon/000002731_Fars> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Fars" .
+
+<http://data.dainst.de/zenon/000002731_Gallia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Gallia" .
+
+<http://data.dainst.de/zenon/000002731_GalliaBelgica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Gallia Belgica" .
+
+<http://data.dainst.de/zenon/000002731_GalliaCisalpina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Gallia Cisalpina" .
+
+<http://data.dainst.de/zenon/000002731_GalliaCispadana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Gallia Cispadana" .
+
+<http://data.dainst.de/zenon/000002731_GalliaNarbonensis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Gallia Narbonensis" .
+
+<http://data.dainst.de/zenon/000002731_Germania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Germania" .
+
+<http://data.dainst.de/zenon/000002731_Hellas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Hellas" .
+
+<http://data.dainst.de/zenon/000002731_Hispania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Hispania" .
+
+<http://data.dainst.de/zenon/000002731_Histria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Histria" .
+
+<http://data.dainst.de/zenon/000002731_Illyricum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Illyricum" .
+
+<http://data.dainst.de/zenon/000002731_Ionia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Ionia" .
+
+<http://data.dainst.de/zenon/000002731_Italia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Italia" .
+
+<http://data.dainst.de/zenon/000002731_Kappadokia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kappadokia" .
+
+<http://data.dainst.de/zenon/000002731_Karia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Karia" .
+
+<http://data.dainst.de/zenon/000002731_Kilikia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kilikia" .
+
+<http://data.dainst.de/zenon/000002731_Kolchis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kolchis" .
+
+<http://data.dainst.de/zenon/000002731_Krete> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Krete" .
+
+<http://data.dainst.de/zenon/000002731_Kyklades> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kyklades" .
+
+<http://data.dainst.de/zenon/000002731_Kypros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kypros" .
+
+<http://data.dainst.de/zenon/000002731_Kyrenaika> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Kyrenaika" .
+
+<http://data.dainst.de/zenon/000002731_Latium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Latium" .
+
+<http://data.dainst.de/zenon/000002731_Lesbos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Lesbos" .
+
+<http://data.dainst.de/zenon/000002731_Lykia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Lykia" .
+
+<http://data.dainst.de/zenon/000002731_MagnaGraecia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Magna Graecia" .
+
+<http://data.dainst.de/zenon/000002731_Makedonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Makedonia" .
+
+<http://data.dainst.de/zenon/000002731_Mesopotamia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Mesopotamia" .
+
+<http://data.dainst.de/zenon/000002731_Messenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Messenia" .
+
+<http://data.dainst.de/zenon/000002731_Moesia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Moesia" .
+
+<http://data.dainst.de/zenon/000002731_Mysia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Mysia" .
+
+<http://data.dainst.de/zenon/000002731_Noricum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Noricum" .
+
+<http://data.dainst.de/zenon/000002731_Palaestina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Palaestina" .
+
+<http://data.dainst.de/zenon/000002731_Pamphylia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Pamphylia" .
+
+<http://data.dainst.de/zenon/000002731_Pannonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Pannonia" .
+
+<http://data.dainst.de/zenon/000002731_Peloponnesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Peloponnesos" .
+
+<http://data.dainst.de/zenon/000002731_Phthiotis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Phthiotis" .
+
+<http://data.dainst.de/zenon/000002731_Pisidia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Pisidia" .
+
+<http://data.dainst.de/zenon/000002731_PontosEuxeinos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Pontos Euxeinos" .
+
+<http://data.dainst.de/zenon/000002731_Samnium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Samnium" .
+
+<http://data.dainst.de/zenon/000002731_Sardinia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Sardinia" .
+
+<http://data.dainst.de/zenon/000002731_ScythiaMinor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Scythia Minor" .
+
+<http://data.dainst.de/zenon/000002731_Sicilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Sicilia" .
+
+<http://data.dainst.de/zenon/000002731_Syria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Syria" .
+
+<http://data.dainst.de/zenon/000002731_Thessalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Thessalia" .
+
+<http://data.dainst.de/zenon/000002731_Thessalonike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Thessalonike" .
+
+<http://data.dainst.de/zenon/000002731_Thrake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Thrake" .
+
+<http://data.dainst.de/zenon/000002731_Umbria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Umbria" .
+
+<http://data.dainst.de/zenon/000002731_Venetia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002731> ;
+    skos:prefLabel "Venetia" .
+
+<http://data.dainst.de/zenon/000002731> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002728> ;
+    skos:hiddenLabel "xArchitKgLandsch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landschaften"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008076> a skos:Concept ;
+    skos:altLabel "Dimbleby, Geoffrey William"@en,
+        "Dimbleby, Geoffrey William"@fr,
+        "Dimbleby, Geoffrey William"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDimbleby, Geoffrey William" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dimbleby, Geoffrey William"@de .
+

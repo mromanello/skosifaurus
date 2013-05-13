@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041810> a skos:Concept ;
+    skos:altLabel "Bois Laiterie Höhle"@en,
+        "Bois Laiterie Höhle"@fr,
+        "Bois Laiterie Höhle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurBois Lait" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bois Laiterie Höhle"@de .
+

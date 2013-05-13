@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078350> a skos:Concept ;
+    skos:altLabel "Ureterp"@en,
+        "Ureterp"@fr,
+        "Ureterp"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038853> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeFriesUreterp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ureterp"@de .
+

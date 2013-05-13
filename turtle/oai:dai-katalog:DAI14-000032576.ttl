@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032576> a skos:Concept ;
+    skos:altLabel "Schliemann, Heinrich"@en,
+        "Schliemann, Heinrich"@fr,
+        "Schliemann, Heinrich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSchliemann, Heinrich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schliemann, Heinrich"@de .
+

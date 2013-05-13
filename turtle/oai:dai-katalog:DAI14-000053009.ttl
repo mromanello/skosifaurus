@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053009> a skos:Concept ;
+    skos:altLabel "Bad Nauheim-Steinfurth"@en,
+        "Bad Nauheim-Steinfurth"@fr,
+        "Bad Nauheim-Steinfurth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075509> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWetteBad Nauhe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Nauheim-Steinfurth"@de .
+

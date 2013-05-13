@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025340> a skos:Concept ;
+    skos:altLabel "Eleutherius"@en,
+        "Eleutherius"@fr,
+        "Eleutherius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017986> ;
+    skos:hiddenLabel "yRGKArch11 - HistoNumisPräguPrägeEleutherius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eleutherius"@de .
+

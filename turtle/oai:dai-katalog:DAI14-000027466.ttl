@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027466> a skos:Concept ;
+    skos:altLabel "Wien 2000/2001"@en,
+        "Wien 2000/2001"@fr,
+        "Wien 2000/2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstWien 2000/2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wien 2000/2001"@de .
+

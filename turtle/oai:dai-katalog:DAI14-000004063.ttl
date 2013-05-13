@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004063> a skos:Concept ;
+    skos:altLabel "military units"@en,
+        "unità militari"@it,
+        "unités militaires"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004054> ;
+    skos:hiddenLabel "xGeschMilRömTruppen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Truppeneinheiten"@de .
+

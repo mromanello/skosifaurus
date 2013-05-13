@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064268> a skos:Concept ;
+    skos:altLabel "Blansko"@en,
+        "Blansko"@fr,
+        "Blansko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravBlansko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Blansko"@de .
+

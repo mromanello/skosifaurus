@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007230> a skos:Concept ;
+    skos:altLabel "Turfa, Jean MacIntosh"@en,
+        "Turfa, Jean MacIntosh"@fr,
+        "Turfa, Jean MacIntosh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsTurfa, Jean MacIntosh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Turfa, Jean MacIntosh"@de .
+

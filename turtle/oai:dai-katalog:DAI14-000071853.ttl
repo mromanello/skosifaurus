@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071853> a skos:Concept ;
+    skos:altLabel "Pisa"@en,
+        "Pisa"@fr,
+        "Pisa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039232> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaZZ--RPisa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pisa"@de .
+

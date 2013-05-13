@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027850> a skos:Concept ;
+    skos:altLabel "Carlisle, Tullie House Museum"@en,
+        "Carlisle, Tullie House Museum"@fr,
+        "Carlisle, Tullie House Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCarlisle, Tullie House Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carlisle, Tullie House Museum"@de .
+

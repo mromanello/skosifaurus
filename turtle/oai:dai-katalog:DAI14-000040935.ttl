@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040935> a skos:Concept ;
+    skos:altLabel "Högsbyn, Tisselkogs socken, Dalsland"@en,
+        "Högsbyn, Tisselkogs socken, Dalsland"@fr,
+        "Högsbyn, Tisselkogs socken, Dalsland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Högsbyn," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Högsbyn, Tisselkogs socken, Dalsland"@de .
+

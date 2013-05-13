@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049405> a skos:Concept ;
+    skos:altLabel "Reuland-Atsebach"@en,
+        "Reuland-Atsebach"@fr,
+        "Reuland-Atsebach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038847> ;
+    skos:hiddenLabel "zTopogEuropWesteLuxemReuland-A" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reuland-Atsebach"@de .
+

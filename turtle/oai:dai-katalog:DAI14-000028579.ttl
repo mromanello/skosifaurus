@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028579> a skos:Concept ;
+    skos:altLabel "Nagykanizsa, Thury György Múzeum"@en,
+        "Nagykanizsa, Thury György Múzeum"@fr,
+        "Nagykanizsa, Thury György Múzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuNagykanizsa, Thury György Múzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nagykanizsa, Thury György Múzeum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063370> a skos:Concept ;
+    skos:altLabel "Valle dell'Isonzo"@en,
+        "Valle dell'Isonzo"@fr,
+        "Valle dell'Isonzo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039064> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweZZ--RValle del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle dell'Isonzo"@de .
+

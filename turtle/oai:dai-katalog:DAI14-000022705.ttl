@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022705> a skos:Concept ;
+    skos:altLabel "Braniccy-Gryfici"@en,
+        "Braniccy-Gryfici"@fr,
+        "Braniccy-Gryfici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschBraniccy-Gryfici" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Braniccy-Gryfici"@de .
+

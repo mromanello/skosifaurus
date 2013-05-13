@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055897> a skos:Concept ;
+    skos:altLabel "Mittelrhein"@en,
+        "Mittelrhein"@fr,
+        "Mittelrhein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038945> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinZZ--RMittelrhe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mittelrhein"@de .
+

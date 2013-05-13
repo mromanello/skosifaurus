@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071045> a skos:Concept ;
+    skos:altLabel "Canale Pallotta"@en,
+        "Canale Pallotta"@fr,
+        "Canale Pallotta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039200> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliZZ--ECanale Pa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Canale Pallotta"@de .
+

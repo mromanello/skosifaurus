@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071029> a skos:Concept ;
+    skos:altLabel "Sant'Ilario d'Enza"@en,
+        "Sant'Ilario d'Enza"@fr,
+        "Sant'Ilario d'Enza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039198> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliReggiSant'Ilar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sant'Ilario d'Enza"@de .
+

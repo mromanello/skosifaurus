@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036609> a skos:Concept ;
+    skos:altLabel "Marigny 1994"@en,
+        "Marigny 1994"@fr,
+        "Marigny 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMarigny 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marigny 1994"@de .
+

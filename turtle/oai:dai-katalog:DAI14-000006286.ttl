@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006286> a skos:Concept ;
+    skos:altLabel "Dunham, Dows"@en,
+        "Dunham, Dows"@fr,
+        "Dunham, Dows"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsDunham, Dows" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dunham, Dows"@de .
+

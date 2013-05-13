@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023134> a skos:Concept ;
+    skos:altLabel "Lübz-Fahrenhorster Karte"@en,
+        "Lübz-Fahrenhorster Karte"@fr,
+        "Lübz-Fahrenhorster Karte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012498> ;
+    skos:hiddenLabel "yRGKArch02 - SchriLandkLübz-Fahrenhorster Karte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lübz-Fahrenhorster Karte"@de .
+

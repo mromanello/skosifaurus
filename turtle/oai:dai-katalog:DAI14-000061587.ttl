@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061587> a skos:Concept ;
+    skos:altLabel "Śniatycze"@en,
+        "Śniatycze"@fr,
+        "Śniatycze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelŚniatycze" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Śniatycze"@de .
+

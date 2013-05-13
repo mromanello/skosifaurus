@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054442> a skos:Concept ;
+    skos:altLabel "Wisede"@en,
+        "Wisede"@fr,
+        "Wisede"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075552> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWittmWisede" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wisede"@de .
+

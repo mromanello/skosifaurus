@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010753> a skos:Concept ;
+    skos:altLabel "Valence, Centre d'Archéologie Préhistorique"@en,
+        "Valence, Centre d'Archéologie Préhistorique"@fr,
+        "Valence, Centre d'Archéologie Préhistorique"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiValence, Centre d'Archéologie Préhistorique" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valence, Centre d'Archéologie Préhistorique"@de .
+

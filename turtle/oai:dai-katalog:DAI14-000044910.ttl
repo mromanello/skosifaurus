@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044910> a skos:Concept ;
+    skos:altLabel "Villeneuve-Loubet"@en,
+        "Villeneuve-Loubet"@fr,
+        "Villeneuve-Loubet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038799> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAlpesVilleneuv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villeneuve-Loubet"@de .
+

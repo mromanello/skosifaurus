@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070080> a skos:Concept ;
+    skos:altLabel "Monte Barro"@en,
+        "Monte Barro"@fr,
+        "Monte Barro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039171> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliLombaZZ--RMonte Bar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte Barro"@de .
+

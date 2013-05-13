@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028355> a skos:Concept ;
+    skos:altLabel "Landshut, Stadtmuseum"@en,
+        "Landshut, Stadtmuseum"@fr,
+        "Landshut, Stadtmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLandshut, Stadtmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landshut, Stadtmuseum"@de .
+

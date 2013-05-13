@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027208> a skos:Concept ;
+    skos:altLabel "Schloss Tirol 1998"@en,
+        "Schloss Tirol 1998"@fr,
+        "Schloss Tirol 1998"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSchloss Tirol 1998" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schloss Tirol 1998"@de .
+

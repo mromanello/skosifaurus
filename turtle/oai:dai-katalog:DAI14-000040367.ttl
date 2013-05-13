@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040367> a skos:Concept ;
+    skos:altLabel "Inari"@en,
+        "Inari"@fr,
+        "Inari"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038704> ;
+    skos:hiddenLabel "zTopogEuropNordeFinnlInari" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Inari"@de .
+

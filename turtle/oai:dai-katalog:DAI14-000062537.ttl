@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062537> a skos:Concept ;
+    skos:altLabel "Rafzer Feld (Kt. Zürich)"@en,
+        "Rafzer Feld (Kt. Zürich)"@fr,
+        "Rafzer Feld (Kt. Zürich)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039059> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZZ--RRafzer Fe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rafzer Feld (Kt. Zürich)"@de .
+

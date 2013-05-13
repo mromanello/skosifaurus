@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067417> a skos:Concept ;
+    skos:altLabel "Basarabien"@en,
+        "Basarabien"@fr,
+        "Basarabien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReBasarabie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Basarabien"@de .
+

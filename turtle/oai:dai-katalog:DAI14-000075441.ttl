@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075441> a skos:Concept ;
+    skos:altLabel "Neu-Ulm"@en,
+        "Neu-Ulm"@fr,
+        "Neu-Ulm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038868> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNeu-Ulm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neu-Ulm"@de .
+

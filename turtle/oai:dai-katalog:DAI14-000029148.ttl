@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029148> a skos:Concept ;
+    skos:altLabel "Trieste, Società istriana di archeologia e storia patria"@en,
+        "Trieste, Società istriana di archeologia e storia patria"@fr,
+        "Trieste, Società istriana di archeologia e storia patria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTrieste, Società istriana di archeologia e storia patria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trieste, Società istriana di archeologia e storia patria"@de .
+

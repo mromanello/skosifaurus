@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045307> a skos:Concept ;
+    skos:altLabel "Ollioules-La Courtine"@en,
+        "Ollioules-La Courtine"@fr,
+        "Ollioules-La Courtine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038808> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVarOllioules" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ollioules-La Courtine"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041536> a skos:Concept ;
+    skos:altLabel "Bois de la Houssière"@en,
+        "Bois de la Houssière"@fr,
+        "Bois de la Houssière"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaBois de l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bois de la Houssière"@de .
+

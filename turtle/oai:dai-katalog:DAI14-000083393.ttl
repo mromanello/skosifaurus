@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083393> a skos:Concept ;
+    skos:altLabel "Tywyn y Capel"@en,
+        "Tywyn y Capel"@fr,
+        "Tywyn y Capel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078194> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesAngleTywyn y C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tywyn y Capel"@de .
+

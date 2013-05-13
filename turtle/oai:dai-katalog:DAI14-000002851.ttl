@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002851> a skos:Concept ;
+    skos:altLabel "columna-tombs"@en,
+        "monuments funéraires à colonnes"@fr,
+        "sepolcri a colonna"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002840> ;
+    skos:hiddenLabel "xArchitBauGrabSäul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Säulengräber"@de .
+

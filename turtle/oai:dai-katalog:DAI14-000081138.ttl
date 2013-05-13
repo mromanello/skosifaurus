@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081138> a skos:Concept ;
+    skos:altLabel "Seeboden, VB Spital a. d. Drau"@en,
+        "Seeboden, VB Spital a. d. Drau"@fr,
+        "Seeboden, VB Spital a. d. Drau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntSeeboden," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seeboden, VB Spital a. d. Drau"@de .
+

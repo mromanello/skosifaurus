@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025997> a skos:Concept ;
+    skos:altLabel "Barcelona 1992"@en,
+        "Barcelona 1992"@fr,
+        "Barcelona 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBarcelona 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barcelona 1992"@de .
+

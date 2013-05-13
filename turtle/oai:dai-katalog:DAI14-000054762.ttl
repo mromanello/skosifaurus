@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054762> a skos:Concept ;
+    skos:altLabel "Mechernich-Kommern"@en,
+        "Mechernich-Kommern"@fr,
+        "Mechernich-Kommern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075637> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrEuskiMechernic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mechernich-Kommern"@de .
+

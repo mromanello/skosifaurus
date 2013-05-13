@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040116> a skos:Concept ;
+    skos:altLabel "Ringe Sø, Fyn"@en,
+        "Ringe Sø, Fyn"@fr,
+        "Ringe Sø, Fyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemRinge Sø," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ringe Sø, Fyn"@de .
+

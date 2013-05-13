@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034486> a skos:Concept ;
+    skos:altLabel "Ivarsson, Gaute <Trondheim, Erzbischof>"@en,
+        "Ivarsson, Gaute <Trondheim, Erzbischof>"@fr,
+        "Ivarsson, Gaute <Trondheim, Erzbischof>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoIvarsson, Gaute <Trondheim, Erzbischof>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivarsson, Gaute <Trondheim, Erzbischof>"@de .
+

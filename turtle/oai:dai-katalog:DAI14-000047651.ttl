@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047651> a skos:Concept ;
+    skos:altLabel "Malham, North Yorkshire"@en,
+        "Malham, North Yorkshire"@fr,
+        "Malham, North Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksMalham, N" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Malham, North Yorkshire"@de .
+

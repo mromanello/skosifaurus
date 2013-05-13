@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029120> a skos:Concept ;
+    skos:altLabel "Torino, Museo Martini"@en,
+        "Torino, Museo Martini"@fr,
+        "Torino, Museo Martini"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTorino, Museo Martini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Torino, Museo Martini"@de .
+

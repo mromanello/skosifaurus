@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084097> a skos:Concept ;
+    skos:altLabel "Gramelberg"@en,
+        "Gramelberg"@fr,
+        "Gramelberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075462> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerTraunGramelber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gramelberg"@de .
+

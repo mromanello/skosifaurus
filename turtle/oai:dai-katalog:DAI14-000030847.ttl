@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030847> a skos:Concept ;
+    skos:altLabel "Frankfurt, Geldmuseum der Deutschen Bundesbank"@en,
+        "Frankfurt, Geldmuseum der Deutschen Bundesbank"@fr,
+        "Frankfurt, Geldmuseum der Deutschen Bundesbank"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiFrankfurt, Geldmuseum der Deutschen Bundesbank" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frankfurt, Geldmuseum der Deutschen Bundesbank"@de .
+

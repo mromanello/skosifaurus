@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042689> a skos:Concept ;
+    skos:altLabel "Bourg-la-Reine"@en,
+        "Bourg-la-Reine"@fr,
+        "Bourg-la-Reine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038738> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dHautsBourg-la-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bourg-la-Reine"@de .
+

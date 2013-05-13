@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074978> a skos:Concept ;
+    skos:altLabel "Suchanica, obl. Krasnojarsk"@en,
+        "Suchanica, obl. Krasnojarsk"@fr,
+        "Suchanica, obl. Krasnojarsk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiSuchanica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Suchanica, obl. Krasnojarsk"@de .
+

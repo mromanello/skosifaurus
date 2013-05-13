@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028537> a skos:Concept ;
+    skos:altLabel "Montale, \"Terramare\""@en,
+        "Montale, \"Terramare\""@fr,
+        "Montale, \"Terramare\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMontale, \"Terramare\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montale, \"Terramare\""@de .
+

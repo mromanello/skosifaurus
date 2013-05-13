@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058550> a skos:Concept ;
+    skos:altLabel "Fiecht, VB Innsbruck-Land"@en,
+        "Fiecht, VB Innsbruck-Land"@fr,
+        "Fiecht, VB Innsbruck-Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolFiecht, V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fiecht, VB Innsbruck-Land"@de .
+

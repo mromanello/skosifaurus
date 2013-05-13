@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030953> a skos:Concept ;
+    skos:altLabel "Paris, Centre de recherche sur les traitements automatisés en archéolo"@en,
+        "Paris, Centre de recherche sur les traitements automatisés en archéolo"@fr,
+        "Paris, Centre de recherche sur les traitements automatisés en archéolo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiParis, Centre de recherche sur les traitements automatisés en archéolo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paris, Centre de recherche sur les traitements automatisés en archéolo"@de .
+

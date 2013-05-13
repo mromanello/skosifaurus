@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057202> a skos:Concept ;
+    skos:altLabel "Dugi Otok"@en,
+        "Dugi Otok"@fr,
+        "Dugi Otok"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatDugi Otok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dugi Otok"@de .
+

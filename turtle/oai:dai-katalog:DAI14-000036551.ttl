@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036551> a skos:Concept ;
+    skos:altLabel "Madrid/Italica 1964"@en,
+        "Madrid/Italica 1964"@fr,
+        "Madrid/Italica 1964"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMadrid/Italica 1964" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Madrid/Italica 1964"@de .
+

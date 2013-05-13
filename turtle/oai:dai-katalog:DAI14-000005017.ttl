@@ -1,0 +1,626 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000005017_>Nertobriga(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Nertobriga (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000005017_>Obulcula(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Obulcula (Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_>Oiasso(PaísVasco)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Oiasso (País Vasco)" .
+
+<http://data.dainst.de/zenon/000005017_>Onussa(Maestrazgo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Onussa (Maestrazgo)" .
+
+<http://data.dainst.de/zenon/000005017_>Orongi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Orongi" .
+
+<http://data.dainst.de/zenon/000005017_>Osca(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Osca (Huelva)" .
+
+<http://data.dainst.de/zenon/000005017_>Osicerda(Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel ">Osicerda (Teruel)" .
+
+<http://data.dainst.de/zenon/000005017_NaGuardis(Mallorca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Na Guardis (Mallorca)" .
+
+<http://data.dainst.de/zenon/000005017_Naeva:s./v.Cantillana(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Naeva: s./v. Cantillana (Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_NanclaresdelaOca(Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nanclares de la Oca (Alava)" .
+
+<http://data.dainst.de/zenon/000005017_NardakosteIV,cueva(Oñate,Guipuzcoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nardakoste IV, cueva (Oñate, Guipuzcoa)" .
+
+<http://data.dainst.de/zenon/000005017_Narrabaes(Catí,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Narrabaes (Catí, Castellón)" .
+
+<http://data.dainst.de/zenon/000005017_NarrosdelPuerto(Ávila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Narros del Puerto (Ávila)" .
+
+<http://data.dainst.de/zenon/000005017_Navafría(Clares,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navafría (Clares, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000005017_Navagallega(MembribedelaSierra,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navagallega (Membribe de la Sierra, Salamanca)" .
+
+<http://data.dainst.de/zenon/000005017_Navalcán,dolmen(Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navalcán, dolmen (Toledo)" .
+
+<http://data.dainst.de/zenon/000005017_Navalvillar(ColmenarViejo,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navalvillar (Colmenar Viejo, Madrid)" .
+
+<http://data.dainst.de/zenon/000005017_Navarrés(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navarrés (Valencia)" .
+
+<http://data.dainst.de/zenon/000005017_Navasangil(Avila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navasangil (Avila)" .
+
+<http://data.dainst.de/zenon/000005017_NavasdeTolosa(SantaElena,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navas de Tolosa (Santa Elena, Jaén)" .
+
+<http://data.dainst.de/zenon/000005017_NavasdelMadroño(Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navas del Madroño (Cáceres)" .
+
+<http://data.dainst.de/zenon/000005017_NavasdelaConcepción(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navas de la Concepción (Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_Navatejera(Villaquilambre,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navatejera (Villaquilambre, León)" .
+
+<http://data.dainst.de/zenon/000005017_Navès(Lérida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Navès (Lérida)" .
+
+<http://data.dainst.de/zenon/000005017_NecrópolisdelCamino(AlcaládeGuadaira,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Necrópolis del Camino (Alcalá de Guadaira, Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_Negrais,Complexode(Sintra,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Negrais, Complexo de (Sintra, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Negrón(Gilena,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Negrón (Gilena, Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_Neila(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Neila (Burgos)" .
+
+<http://data.dainst.de/zenon/000005017_Neixón(Boiro,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Neixón (Boiro, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_Nerja(Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nerja (Málaga)" .
+
+<http://data.dainst.de/zenon/000005017_Nerpio(Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nerpio (Albacete)" .
+
+<http://data.dainst.de/zenon/000005017_NertobrigaConcordiaIulia(FregenaldelaSierra,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nertobriga Concordia Iulia (Fregenal de la Sierra, Badajoz)" .
+
+<http://data.dainst.de/zenon/000005017_Nerva(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nerva (Huelva)" .
+
+<http://data.dainst.de/zenon/000005017_Nescania*(prov.Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nescania* (prov. Málaga)" .
+
+<http://data.dainst.de/zenon/000005017_Niebla(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Niebla (Huelva)" .
+
+<http://data.dainst.de/zenon/000005017_Nigrán(Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nigrán (Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_Niharra(Avila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Niharra (Avila)" .
+
+<http://data.dainst.de/zenon/000005017_NinhodoAçor(CasteloBranco,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ninho do Açor (Castelo Branco, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Niuet(AlqueriadeAsnar,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Niuet (Alqueria de Asnar, Alicante)" .
+
+<http://data.dainst.de/zenon/000005017_Noega(Gijón,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noega (Gijón, Asturias)" .
+
+<http://data.dainst.de/zenon/000005017_Noez(Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noez (Toledo)" .
+
+<http://data.dainst.de/zenon/000005017_Nogales(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nogales (Badajoz)" .
+
+<http://data.dainst.de/zenon/000005017_NogueiradeCôta(Côta,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nogueira de Côta (Côta, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Noheda;mosaico(VillardeDomingoGarcía,Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noheda; mosaico (Villar de Domingo García, Cuenca)" .
+
+<http://data.dainst.de/zenon/000005017_Norba(Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Norba (Cáceres)" .
+
+<http://data.dainst.de/zenon/000005017_NossaSenhorad'Aires(AlcácerdoSal,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nossa Senhora d'Aires (Alcácer do Sal, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_NossaSenhoradaGuia(S.PedrodoSul,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nossa Senhora da Guia (S. Pedro do Sul, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_NossaSenhoradoMonte,necrópole(Penedono,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nossa Senhora do Monte, necrópole (Penedono, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Noudar(Barrancos,Beja,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noudar (Barrancos, Beja, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Noudar(Barrancos,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noudar (Barrancos, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_NovaAugusta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nova Augusta" .
+
+<http://data.dainst.de/zenon/000005017_NovaClassis,campamento:s.unter/ver,LaPalma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nova Classis, campamento: s. unter/ ver, La Palma" .
+
+<http://data.dainst.de/zenon/000005017_Novallas(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Novallas (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000005017_Novelda(Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Novelda (Alicante)" .
+
+<http://data.dainst.de/zenon/000005017_Novillas(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Novillas (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000005017_Noville(Mugardos,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Noville (Mugardos, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_NuevaCarteya(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nueva Carteya (Córdoba)" .
+
+<http://data.dainst.de/zenon/000005017_Nules(Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nules (Castellón)" .
+
+<http://data.dainst.de/zenon/000005017_Numancia(Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Numancia (Soria)" .
+
+<http://data.dainst.de/zenon/000005017_Numantia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Numantia" .
+
+<http://data.dainst.de/zenon/000005017_Nájera(Logroño)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Nájera (Logroño)" .
+
+<http://data.dainst.de/zenon/000005017_Níjar(Sorbas,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Níjar (Sorbas, Almería)" .
+
+<http://data.dainst.de/zenon/000005017_OAchadizo,castro(Boiro,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Achadizo, castro (Boiro, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OAreal;salina(Vigo,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Areal; salina (Vigo, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OCastelo(Cencelle,Ourense)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Castelo (Cencelle, Ourense)" .
+
+<http://data.dainst.de/zenon/000005017_OFacho(OHio,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Facho (O Hio, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OFiunchal(Vigo,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Fiunchal (Vigo, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OFolón(Vigo,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Folón (Vigo, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OGrove(Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Grove (Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OPeto(Vedra,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Peto (Vedra, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_ORegueiriño(Moaña,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "O Regueiriño (Moaña, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_Obejo(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Obejo (Córdoba)" .
+
+<http://data.dainst.de/zenon/000005017_Obulco(s.Porcuna)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Obulco (s. Porcuna)" .
+
+<http://data.dainst.de/zenon/000005017_Obón(Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Obón (Teruel)" .
+
+<http://data.dainst.de/zenon/000005017_Ocaña(Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ocaña (Toledo)" .
+
+<http://data.dainst.de/zenon/000005017_Ocilis(Medinaceli,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ocilis (Medinaceli, Soria)" .
+
+<http://data.dainst.de/zenon/000005017_Ocreza(Envendos,Mação,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ocreza ( Envendos, Mação, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Octodurum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Octodurum" .
+
+<http://data.dainst.de/zenon/000005017_Ocuri(Ubrique,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ocuri (Ubrique, Cádiz)" .
+
+<http://data.dainst.de/zenon/000005017_Odemira(Beja,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Odemira (Beja, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Odrinhas(Sintra,Lisboa,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Odrinhas (Sintra, Lisboa, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Oeiras(Lisboa,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oeiras (Lisboa, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Oia(Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oia (Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OjoGuareña(EspinosadelosMonteros,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ojo Guareña (Espinosa de los Monteros, Burgos)" .
+
+<http://data.dainst.de/zenon/000005017_Ojén(Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ojén (Málaga)" .
+
+<http://data.dainst.de/zenon/000005017_Olbia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olbia" .
+
+<http://data.dainst.de/zenon/000005017_Oleiros(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oleiros (Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Olelas(Sintra,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olelas (Sintra, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Olhão(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olhão (Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Oliete(Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliete (Teruel)" .
+
+<http://data.dainst.de/zenon/000005017_Olisipo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olisipo" .
+
+<http://data.dainst.de/zenon/000005017_Olite(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olite (Navarra)" .
+
+<http://data.dainst.de/zenon/000005017_Oliva(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliva (Valencia)" .
+
+<http://data.dainst.de/zenon/000005017_Oliva,l';necrópolis(Maldà,l'Urgell)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliva, l'; necrópolis (Maldà, l'Urgell)" .
+
+<http://data.dainst.de/zenon/000005017_OlivadePlasencia(Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliva de Plasencia (Cáceres)" .
+
+<http://data.dainst.de/zenon/000005017_OlivardelMelcón(DehesadeBenavides,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olivar del Melcón (Dehesa de Benavides, Badajoz)" .
+
+<http://data.dainst.de/zenon/000005017_OlivaresdeDuero(Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olivares de Duero (Valladolid)" .
+
+<http://data.dainst.de/zenon/000005017_OliveiradeFrades(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliveira de Frades (Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OliveiradoConde(CarregaldoSal,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oliveira do Conde (Carregal do Sal, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Olivenza(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olivenza (Badajoz)" .
+
+<http://data.dainst.de/zenon/000005017_OllerosdePisuerga(Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olleros de Pisuerga (Palencia)" .
+
+<http://data.dainst.de/zenon/000005017_Olmos,fortaleza(ElVisodeSanJuan,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olmos, fortaleza (El Viso de San Juan, Toledo)" .
+
+<http://data.dainst.de/zenon/000005017_Olot(Gerona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olot (Gerona)" .
+
+<http://data.dainst.de/zenon/000005017_Olvena(Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olvena (Huesca)" .
+
+<http://data.dainst.de/zenon/000005017_Olvera(Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olvera (Cádiz)" .
+
+<http://data.dainst.de/zenon/000005017_Olèrdola(Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olèrdola (Barcelona)" .
+
+<http://data.dainst.de/zenon/000005017_OlíasdelRey;mun.(Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Olías del Rey; mun. (Toledo)" .
+
+<http://data.dainst.de/zenon/000005017_Omeñaca(Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Omeñaca (Soria)" .
+
+<http://data.dainst.de/zenon/000005017_Onda(Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Onda (Castellón)" .
+
+<http://data.dainst.de/zenon/000005017_Ontinyent(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ontinyent (Valencia)" .
+
+<http://data.dainst.de/zenon/000005017_Onuba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Onuba" .
+
+<http://data.dainst.de/zenon/000005017_OrcadoFolhadal(Nelas,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orca do Folhadal (Nelas, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OrcadoOuteiro(LapadoLobo,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orca do Outeiro (Lapa do Lobo, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OrcadosJuncais(Queiriga,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orca dos Juncais (Queiriga, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OrcadosPadrões(Mangualde,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orca dos Padrões (Mangualde, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Orcasitas(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orcasitas (Madrid)" .
+
+<http://data.dainst.de/zenon/000005017_Orce(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orce (Granada)" .
+
+<http://data.dainst.de/zenon/000005017_Orcera(Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orcera (Albacete)" .
+
+<http://data.dainst.de/zenon/000005017_Ordoiz(Estella,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ordoiz (Estella, Navarra)" .
+
+<http://data.dainst.de/zenon/000005017_Orense> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orense" .
+
+<http://data.dainst.de/zenon/000005017_Orgiva(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orgiva (Granada)" .
+
+<http://data.dainst.de/zenon/000005017_Orihuela(Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orihuela (Alicante)" .
+
+<http://data.dainst.de/zenon/000005017_Oriola,necrópolis(Amposta,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oriola, necrópolis (Amposta, Tarragona)" .
+
+<http://data.dainst.de/zenon/000005017_Orippo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orippo" .
+
+<http://data.dainst.de/zenon/000005017_Orleyl(LaValld'Uxo,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orleyl (La Vall d'Uxo, Castellón)" .
+
+<http://data.dainst.de/zenon/000005017_Orpesa(Castelló)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orpesa (Castelló)" .
+
+<http://data.dainst.de/zenon/000005017_Ortigueira(LaCoruna)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ortigueira (La Coruna)" .
+
+<http://data.dainst.de/zenon/000005017_Orxeta;mun.(Alacant)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Orxeta; mun. (Alacant)" .
+
+<http://data.dainst.de/zenon/000005017_OsCampiños(Leiro,Rianxo,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Campiños (Leiro, Rianxo, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OsCaneiros(Moeche,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Caneiros (Moeche, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OsCapariños(VilardePerdizes,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Capariños (Vilar de Perdizes, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OsCastros(Toques,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Castros (Toques, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OsConsellos(Nigrán,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Consellos (Nigrán, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OsMuiños(Agolada,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Muiños (Agolada, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OsPericos(Ribeira,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Pericos (Ribeira, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OsRemedios(Moaña,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Os Remedios (Moaña, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000005017_OsadelaVega(Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Osa de la Vega (Cuenca)" .
+
+<http://data.dainst.de/zenon/000005017_Osona(Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Osona (Barcelona)" .
+
+<http://data.dainst.de/zenon/000005017_Osset(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Osset (Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_Ossigi(s.JimenadelaFrontera)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ossigi (s. Jimena de la Frontera)" .
+
+<http://data.dainst.de/zenon/000005017_Ossonoba:s./v.Faro(Portugal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ossonoba: s./v. Faro (Portugal)" .
+
+<http://data.dainst.de/zenon/000005017_Osuna(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Osuna (Sevilla)" .
+
+<http://data.dainst.de/zenon/000005017_Otogesa-Otobesa(Tivisa,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Otogesa - Otobesa (Tivisa, Tarragona)" .
+
+<http://data.dainst.de/zenon/000005017_Ourém(Santarém,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ourém (Santarém, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OuteirodeRei(Lugo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Outeiro de Rei (Lugo)" .
+
+<http://data.dainst.de/zenon/000005017_OuteirodeS.Bernardo(Moura,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Outeiro de S. Bernardo (Moura, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_OuteirodoCorno(PortodoSon,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Outeiro do Corno (Porto do Son, A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_OuteirodosCastelos(Beijós,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Outeiro dos Castelos (Beijós, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Ovadas(Resende,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ovadas (Resende, Port.)" .
+
+<http://data.dainst.de/zenon/000005017_Overa(Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Overa (Almería)" .
+
+<http://data.dainst.de/zenon/000005017_Oviedo(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oviedo (Asturias)" .
+
+<http://data.dainst.de/zenon/000005017_OzadosRíos(ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oza dos Ríos (A Coruña)" .
+
+<http://data.dainst.de/zenon/000005017_Oña(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Oña (Burgos)" .
+
+<http://data.dainst.de/zenon/000005017_Ólvega(Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000005017> ;
+    skos:prefLabel "Ólvega (Soria)" .
+
+<http://data.dainst.de/zenon/000005017> a skos:Concept ;
+    skos:altLabel "Lugares, yacimientos N-O"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000007> ;
+    skos:hiddenLabel "3.00.01.01.N-O" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte N-O"@de .
+

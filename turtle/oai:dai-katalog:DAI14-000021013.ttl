@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021013> a skos:Concept ;
+    skos:altLabel "Adalbert <Pragensis>"@en,
+        "Adalbert <Pragensis>"@fr,
+        "Adalbert <Pragensis>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAdalbert <Pragensis>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Adalbert <Pragensis>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013676> a skos:Concept ;
+    skos:altLabel "Animal burials"@en,
+        "Groby zwierzece"@pl,
+        "Sépultures d'animaux"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013664> ;
+    skos:hiddenLabel "yRGKArch06 - GräbeBestaTierg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiergräber"@de .
+

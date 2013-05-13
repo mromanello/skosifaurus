@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028763> a skos:Concept ;
+    skos:altLabel "Port Sunlight, Lady Lever Art Gallery"@en,
+        "Port Sunlight, Lady Lever Art Gallery"@fr,
+        "Port Sunlight, Lady Lever Art Gallery"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPort Sunlight, Lady Lever Art Gallery" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Port Sunlight, Lady Lever Art Gallery"@de .
+

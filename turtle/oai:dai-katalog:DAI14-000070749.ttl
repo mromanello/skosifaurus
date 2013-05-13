@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070749> a skos:Concept ;
+    skos:altLabel "Alpi orientali"@en,
+        "Alpi orientali"@fr,
+        "Alpi orientali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039189> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliVenetZZ--RAlpi orie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alpi orientali"@de .
+

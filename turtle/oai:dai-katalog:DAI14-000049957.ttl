@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049957> a skos:Concept ;
+    skos:altLabel "Oggelshausen-Bruckgraben"@en,
+        "Oggelshausen-Bruckgraben"@fr,
+        "Oggelshausen-Bruckgraben"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075328> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBiberOggelshau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oggelshausen-Bruckgraben"@de .
+

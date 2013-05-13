@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017984> a skos:Concept ;
+    skos:altLabel "Numismatics"@en,
+        "Numismatique"@fr,
+        "Numizmatyka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017963> ;
+    skos:hiddenLabel "yRGKArch11 - HistoNumis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Numismatik"@de .
+

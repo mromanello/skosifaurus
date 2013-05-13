@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036647> a skos:Concept ;
+    skos:altLabel "Mexico-City 1981"@en,
+        "Mexico-City 1981"@fr,
+        "Mexico-City 1981"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMexico-City 1981" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mexico-City 1981"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071644> a skos:Concept ;
+    skos:altLabel "Roma-Tor de' Schiavi"@en,
+        "Roma-Tor de' Schiavi"@fr,
+        "Roma-Tor de' Schiavi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRoma-Tor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma-Tor de' Schiavi"@de .
+

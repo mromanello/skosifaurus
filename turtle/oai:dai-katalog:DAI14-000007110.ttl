@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007110> a skos:Concept ;
+    skos:altLabel "van Beuningen, H. J. E."@en,
+        "van Beuningen, H. J. E."@fr,
+        "van Beuningen, H. J. E."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsvan Beuningen, H. J. E." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "van Beuningen, H. J. E."@de .
+

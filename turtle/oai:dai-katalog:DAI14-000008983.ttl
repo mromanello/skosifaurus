@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008983> a skos:Concept ;
+    skos:altLabel "LaRoche-Gauss, Fritz"@en,
+        "LaRoche-Gauss, Fritz"@fr,
+        "LaRoche-Gauss, Fritz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLaRoche-Gauss, Fritz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "LaRoche-Gauss, Fritz"@de .
+

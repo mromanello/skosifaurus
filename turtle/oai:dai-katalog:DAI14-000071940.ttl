@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071940> a skos:Concept ;
+    skos:altLabel "Bellona"@en,
+        "Bellona"@fr,
+        "Bellona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039240> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaCaserBellona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bellona"@de .
+

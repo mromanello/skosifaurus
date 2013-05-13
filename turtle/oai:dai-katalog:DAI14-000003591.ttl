@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003591> a skos:Concept ;
+    skos:altLabel "circulation et transport"@fr,
+        "traffic and transport"@en,
+        "traffico e trasporto"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003549> ;
+    skos:hiddenLabel "xAntVerkehr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verkehr und Transport"@de .
+

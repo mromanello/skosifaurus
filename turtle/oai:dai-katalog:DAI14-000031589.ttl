@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031589> a skos:Concept ;
+    skos:altLabel "Jenkins, G. K."@en,
+        "Jenkins, G. K."@fr,
+        "Jenkins, G. K."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliJenkins, G. K." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jenkins, G. K."@de .
+

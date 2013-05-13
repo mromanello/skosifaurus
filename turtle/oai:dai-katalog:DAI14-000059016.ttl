@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059016> a skos:Concept ;
+    skos:altLabel "Starogard Gdański"@en,
+        "Starogard Gdański"@fr,
+        "Starogard Gdański"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorStarogard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Starogard Gdański"@de .
+

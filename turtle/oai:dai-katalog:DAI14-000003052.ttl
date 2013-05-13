@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003052> a skos:Concept ;
+    skos:altLabel "Greek"@en,
+        "greci"@it,
+        "grecs"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003051> ;
+    skos:hiddenLabel "xPlastRelGrabGr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "griechische"@de .
+

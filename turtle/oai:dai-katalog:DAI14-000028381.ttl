@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028381> a skos:Concept ;
+    skos:altLabel "Lérida, Museo Arqueológico del Instituto de Estudios Ilerdenses"@en,
+        "Lérida, Museo Arqueológico del Instituto de Estudios Ilerdenses"@fr,
+        "Lérida, Museo Arqueológico del Instituto de Estudios Ilerdenses"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLérida, Museo Arqueológico del Instituto de Estudios Ilerdenses" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lérida, Museo Arqueológico del Instituto de Estudios Ilerdenses"@de .
+

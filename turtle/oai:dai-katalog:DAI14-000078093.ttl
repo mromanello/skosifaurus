@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078093> a skos:Concept ;
+    skos:altLabel "Praha-Stodůlky"@en,
+        "Praha-Stodůlky"@fr,
+        "Praha-Stodůlky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPraha-Sto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Praha-Stodůlky"@de .
+

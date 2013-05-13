@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071630> a skos:Concept ;
+    skos:altLabel "Roma-Mercati di Traiano"@en,
+        "Roma-Mercati di Traiano"@fr,
+        "Roma-Mercati di Traiano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRoma-Merc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma-Mercati di Traiano"@de .
+

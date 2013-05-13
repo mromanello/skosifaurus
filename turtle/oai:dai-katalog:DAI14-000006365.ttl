@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006365> a skos:Concept ;
+    skos:altLabel "Gavioli, Francesco"@en,
+        "Gavioli, Francesco"@fr,
+        "Gavioli, Francesco"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsGavioli, Francesco" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gavioli, Francesco"@de .
+

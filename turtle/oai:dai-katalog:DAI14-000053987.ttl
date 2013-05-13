@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053987> a skos:Concept ;
+    skos:altLabel "Wunstorf-Spreensburg"@en,
+        "Wunstorf-Spreensburg"@fr,
+        "Wunstorf-Spreensburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075559> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHannoWunstorf-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wunstorf-Spreensburg"@de .
+

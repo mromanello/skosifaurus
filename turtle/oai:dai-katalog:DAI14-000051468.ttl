@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051468> a skos:Concept ;
+    skos:altLabel "Polling-Weiding"@en,
+        "Polling-Weiding"@fr,
+        "Polling-Weiding"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075434> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMühldPolling-W" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polling-Weiding"@de .
+

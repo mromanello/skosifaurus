@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016227> a skos:Concept ;
+    skos:altLabel "Bosporanian Empire"@en,
+        "Empire du Bosphore"@fr,
+        "Królestwo Bosporanskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016224> ;
+    skos:hiddenLabel "yRGKArch09 - GeschHistoBospo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bosporanisches Reich"@de .
+

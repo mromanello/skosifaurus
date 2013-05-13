@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061856> a skos:Concept ;
+    skos:altLabel "Kiesen"@en,
+        "Kiesen"@fr,
+        "Kiesen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernKiesen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kiesen"@de .
+

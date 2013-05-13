@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027196> a skos:Concept ;
+    skos:altLabel "Schaffhausen 2002/2003"@en,
+        "Schaffhausen 2002/2003"@fr,
+        "Schaffhausen 2002/2003"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSchaffhausen 2002/2003" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schaffhausen 2002/2003"@de .
+

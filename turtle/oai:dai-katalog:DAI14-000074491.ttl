@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074491> a skos:Concept ;
+    skos:altLabel "Nahr el Kébir, Libanon"@en,
+        "Nahr el Kébir, Libanon"@fr,
+        "Nahr el Kébir, Libanon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039390> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieZZ--RNahr el K" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nahr el Kébir, Libanon"@de .
+

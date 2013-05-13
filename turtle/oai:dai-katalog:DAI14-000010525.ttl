@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010525> a skos:Concept ;
+    skos:altLabel "Gavardo, Gruppo Grotte Gavardo"@en,
+        "Gavardo, Gruppo Grotte Gavardo"@fr,
+        "Gavardo, Gruppo Grotte Gavardo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiGavardo, Gruppo Grotte Gavardo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gavardo, Gruppo Grotte Gavardo"@de .
+

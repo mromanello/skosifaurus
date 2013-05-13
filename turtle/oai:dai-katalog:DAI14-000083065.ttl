@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083065> a skos:Concept ;
+    skos:altLabel "Al-Hamriya, Vereinigte Arabische Emirate"@en,
+        "Al-Hamriya, Vereinigte Arabische Emirate"@fr,
+        "Al-Hamriya, Vereinigte Arabische Emirate"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039377> ;
+    skos:hiddenLabel "zTopogAsienVordeArabiAl-Hamriy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Al-Hamriya, Vereinigte Arabische Emirate"@de .
+

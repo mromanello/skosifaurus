@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064242> a skos:Concept ;
+    skos:altLabel "Strakonice (okr.)"@en,
+        "Strakonice (okr.)"@fr,
+        "Strakonice (okr.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077426> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheZZ-ReStrakonic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strakonice (okr.)"@de .
+

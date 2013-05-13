@@ -1,0 +1,84 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002444_Bastendorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Bastendorf" .
+
+<http://data.dainst.de/zenon/000002444_Bech> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Bech" .
+
+<http://data.dainst.de/zenon/000002444_Beckerich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Beckerich" .
+
+<http://data.dainst.de/zenon/000002444_Bertrange> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Bertrange" .
+
+<http://data.dainst.de/zenon/000002444_Dalheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Dalheim" .
+
+<http://data.dainst.de/zenon/000002444_Diekirch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Diekirch" .
+
+<http://data.dainst.de/zenon/000002444_Düdelingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Düdelingen" .
+
+<http://data.dainst.de/zenon/000002444_Echternach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Echternach" .
+
+<http://data.dainst.de/zenon/000002444_Goeblingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Goeblingen" .
+
+<http://data.dainst.de/zenon/000002444_Hellingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Hellingen" .
+
+<http://data.dainst.de/zenon/000002444_Helmsingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Helmsingen" .
+
+<http://data.dainst.de/zenon/000002444_Mersch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Mersch" .
+
+<http://data.dainst.de/zenon/000002444_Mompach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Mompach" .
+
+<http://data.dainst.de/zenon/000002444_Schieren> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Schieren" .
+
+<http://data.dainst.de/zenon/000002444_Septfontaines> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Septfontaines" .
+
+<http://data.dainst.de/zenon/000002444_Titelberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Titelberg" .
+
+<http://data.dainst.de/zenon/000002444_Walferdingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Walferdingen" .
+
+<http://data.dainst.de/zenon/000002444_Wasserbillig> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002444> ;
+    skos:prefLabel "Wasserbillig" .
+
+<http://data.dainst.de/zenon/000002444> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002443> ;
+    skos:hiddenLabel "xTopLandLuxOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

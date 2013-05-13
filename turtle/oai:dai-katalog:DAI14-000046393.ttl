@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046393> a skos:Concept ;
+    skos:altLabel "Saint-Génies-des-Mourgues"@en,
+        "Saint-Génies-des-Mourgues"@fr,
+        "Saint-Génies-des-Mourgues"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauSaint-Gén" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Génies-des-Mourgues"@de .
+

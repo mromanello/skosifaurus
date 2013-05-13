@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066525> a skos:Concept ;
+    skos:altLabel "Bologa, jud. Cluj"@en,
+        "Bologa, jud. Cluj"@fr,
+        "Bologa, jud. Cluj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatBologa, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bologa, jud. Cluj"@de .
+

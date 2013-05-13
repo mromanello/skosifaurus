@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080864> a skos:Concept ;
+    skos:altLabel "Prerow, Hertesburg"@en,
+        "Prerow, Hertesburg"@fr,
+        "Prerow, Hertesburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075531> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordvPrerow, H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prerow, Hertesburg"@de .
+

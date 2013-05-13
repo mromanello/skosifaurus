@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071404> a skos:Concept ;
+    skos:altLabel "Grotta Continenza"@en,
+        "Grotta Continenza"@fr,
+        "Grotta Continenza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039222> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaAbruzAquilGrotta Co" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotta Continenza"@de .
+

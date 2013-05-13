@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028677> a skos:Concept ;
+    skos:altLabel "Osijek, Muzej Slavonije"@en,
+        "Osijek, Muzej Slavonije"@fr,
+        "Osijek, Muzej Slavonije"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuOsijek, Muzej Slavonije" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osijek, Muzej Slavonije"@de .
+

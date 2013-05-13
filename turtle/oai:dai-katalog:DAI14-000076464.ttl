@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076464> a skos:Concept ;
+    skos:altLabel "Upperton"@en,
+        "Upperton"@fr,
+        "Upperton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077703> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaOxforUpperton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Upperton"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006453> a skos:Concept ;
+    skos:altLabel "Hawkes, Sonia Chadwick"@en,
+        "Hawkes, Sonia Chadwick"@fr,
+        "Hawkes, Sonia Chadwick"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHawkes, Sonia Chadwick" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hawkes, Sonia Chadwick"@de .
+

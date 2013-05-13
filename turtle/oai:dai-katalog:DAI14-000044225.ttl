@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044225> a skos:Concept ;
+    skos:altLabel "Saint-Vérain-en-Puisaye"@en,
+        "Saint-Vérain-en-Puisaye"@fr,
+        "Saint-Vérain-en-Puisaye"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038777> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgNièvrSaint-Vér" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Vérain-en-Puisaye"@de .
+

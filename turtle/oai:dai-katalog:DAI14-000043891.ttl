@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043891> a skos:Concept ;
+    skos:altLabel "Saint-Médard-des-Près"@en,
+        "Saint-Médard-des-Près"@fr,
+        "Saint-Médard-des-Près"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038770> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaVendéSaint-Méd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Médard-des-Près"@de .
+

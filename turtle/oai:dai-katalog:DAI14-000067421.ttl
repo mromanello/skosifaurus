@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067421> a skos:Concept ;
+    skos:altLabel "Călărasi (jud.)"@en,
+        "Călărasi (jud.)"@fr,
+        "Călărasi (jud.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReCălărasi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Călărasi (jud.)"@de .
+

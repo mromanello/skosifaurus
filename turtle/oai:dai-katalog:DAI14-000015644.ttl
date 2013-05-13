@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015644> a skos:Concept ;
+    skos:altLabel "Nimfea/miejsca kultu zródel"@pl,
+        "Nymphaeum amd sanctuaries of sources"@en,
+        "Nymphées et sanctuaires de source"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015640> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBauweKultaTempeNymph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nymphäen/Quellheiligtümer"@de .
+

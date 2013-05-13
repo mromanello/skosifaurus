@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073757> a skos:Concept ;
+    skos:altLabel "Sierra Elvira"@en,
+        "Sierra Elvira"@fr,
+        "Sierra Elvira"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039354> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalGranaSierra El" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sierra Elvira"@de .
+

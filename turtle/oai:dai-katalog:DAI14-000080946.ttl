@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080946> a skos:Concept ;
+    skos:altLabel "Ouse Valley"@en,
+        "Ouse Valley"@fr,
+        "Ouse Valley"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077467> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaZZ - Ouse Vall" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ouse Valley"@de .
+

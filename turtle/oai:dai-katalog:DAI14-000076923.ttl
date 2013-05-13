@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076923> a skos:Concept ;
+    skos:altLabel "Great and Little Leighs"@en,
+        "Great and Little Leighs"@fr,
+        "Great and Little Leighs"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077688> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssexGreat and" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Great and Little Leighs"@de .
+

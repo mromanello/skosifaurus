@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009386> a skos:Concept ;
+    skos:altLabel "Nikolov, Todor"@en,
+        "Nikolov, Todor"@fr,
+        "Nikolov, Todor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNikolov, Todor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nikolov, Todor"@de .
+

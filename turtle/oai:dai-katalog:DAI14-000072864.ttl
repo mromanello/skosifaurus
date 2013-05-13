@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072864> a skos:Concept ;
+    skos:altLabel "Lobeira Grande"@en,
+        "Lobeira Grande"@fr,
+        "Lobeira Grande"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039295> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuBejaLobeira G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lobeira Grande"@de .
+

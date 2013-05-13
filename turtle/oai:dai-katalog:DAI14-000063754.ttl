@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063754> a skos:Concept ;
+    skos:altLabel "Malá Dobrá, okr. Kladno"@en,
+        "Malá Dobrá, okr. Kladno"@fr,
+        "Malá Dobrá, okr. Kladno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyMalá Dobr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Malá Dobrá, okr. Kladno"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024389> a skos:Concept ;
+    skos:altLabel "Legio IV Italica"@en,
+        "Legio IV Italica"@fr,
+        "Legio IV Italica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016054> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitLegioLegio IV Italica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legio IV Italica"@de .
+

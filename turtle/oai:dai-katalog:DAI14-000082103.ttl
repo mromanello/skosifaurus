@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082103> a skos:Concept ;
+    skos:altLabel "Gainneville"@en,
+        "Gainneville"@fr,
+        "Gainneville"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038734> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineGainnevil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gainneville"@de .
+

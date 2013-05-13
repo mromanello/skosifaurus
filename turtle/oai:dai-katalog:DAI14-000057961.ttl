@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057961> a skos:Concept ;
+    skos:altLabel "Grafenwörth, VB Tulln"@en,
+        "Grafenwörth, VB Tulln"@fr,
+        "Grafenwörth, VB Tulln"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeGrafenwör" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grafenwörth, VB Tulln"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042333> a skos:Concept ;
+    skos:altLabel "La Roche-Mabile"@en,
+        "La Roche-Mabile"@fr,
+        "La Roche-Mabile"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038730> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOrneLa Roche-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Roche-Mabile"@de .
+

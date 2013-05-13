@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002723> a skos:Concept ;
+    skos:altLabel "fonti"@it,
+        "sources"@en,
+        "sources de l'histoire de l'art"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002690> ;
+    skos:hiddenLabel "xKgQuell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quellen"@de .
+

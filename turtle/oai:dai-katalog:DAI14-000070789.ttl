@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070789> a skos:Concept ;
+    skos:altLabel "Madonna di Campiglio"@en,
+        "Madonna di Campiglio"@fr,
+        "Madonna di Campiglio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039189> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliVenetZZ--RMadonna d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Madonna di Campiglio"@de .
+

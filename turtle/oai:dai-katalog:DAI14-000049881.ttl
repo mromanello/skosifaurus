@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049881> a skos:Concept ;
+    skos:altLabel "Voorne-Putten"@en,
+        "Voorne-Putten"@fr,
+        "Voorne-Putten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038862> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeZuid-Voorne-Pu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Voorne-Putten"@de .
+

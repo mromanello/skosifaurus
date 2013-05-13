@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055044> a skos:Concept ;
+    skos:altLabel "Reichshof-Denklingen, Odenspiel"@en,
+        "Reichshof-Denklingen, Odenspiel"@fr,
+        "Reichshof-Denklingen, Odenspiel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038889> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrOberbReichshof" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reichshof-Denklingen, Odenspiel"@de .
+

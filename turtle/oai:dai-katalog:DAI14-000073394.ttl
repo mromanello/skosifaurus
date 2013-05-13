@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073394> a skos:Concept ;
+    skos:altLabel "Cueva de la Vaquera"@en,
+        "Cueva de la Vaquera"@fr,
+        "Cueva de la Vaquera"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039332> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiSegovCueva de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cueva de la Vaquera"@de .
+

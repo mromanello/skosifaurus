@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073367> a skos:Concept ;
+    skos:altLabel "Baños de Cerrato"@en,
+        "Baños de Cerrato"@fr,
+        "Baños de Cerrato"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039330> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiPalenBaños de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baños de Cerrato"@de .
+

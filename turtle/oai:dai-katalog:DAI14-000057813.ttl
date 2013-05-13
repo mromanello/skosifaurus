@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057813> a skos:Concept ;
+    skos:altLabel "Baldersdorf, VB Spittal a. d. Drau"@en,
+        "Baldersdorf, VB Spittal a. d. Drau"@fr,
+        "Baldersdorf, VB Spittal a. d. Drau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntBaldersdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baldersdorf, VB Spittal a. d. Drau"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066904> a skos:Concept ;
+    skos:altLabel "Soporu de Cîmpie, jud. Cluj"@en,
+        "Soporu de Cîmpie, jud. Cluj"@fr,
+        "Soporu de Cîmpie, jud. Cluj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSoporu de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Soporu de Cîmpie, jud. Cluj"@de .
+

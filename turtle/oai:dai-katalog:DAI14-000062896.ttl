@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062896> a skos:Concept ;
+    skos:altLabel "Smiżany, okr. Soišská Nová Ves"@en,
+        "Smiżany, okr. Soišská Nová Ves"@fr,
+        "Smiżany, okr. Soišská Nová Ves"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaSmiżany," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Smiżany, okr. Soišská Nová Ves"@de .
+

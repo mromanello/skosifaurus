@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035424> a skos:Concept ;
+    skos:altLabel "Bruxelles/Leuven 1995"@en,
+        "Bruxelles/Leuven 1995"@fr,
+        "Bruxelles/Leuven 1995"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBruxelles/Leuven 1995" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruxelles/Leuven 1995"@de .
+

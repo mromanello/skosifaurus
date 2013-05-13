@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049983> a skos:Concept ;
+    skos:altLabel "Sipplingen"@en,
+        "Sipplingen"@fr,
+        "Sipplingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075330> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBodenSipplinge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sipplingen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084989> a skos:Concept ;
+    skos:altLabel "Widdern-Unterkessach"@en,
+        "Widdern-Unterkessach"@fr,
+        "Widdern-Unterkessach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075342> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeilbWiddern-Unterkessach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Widdern-Unterkessach"@de .
+

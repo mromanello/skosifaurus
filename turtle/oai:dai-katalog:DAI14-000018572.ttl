@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018572> a skos:Concept ;
+    skos:altLabel "New Testament"@en,
+        "Nouveau Testament"@fr,
+        "Nowy Testament"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018570> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstIkonoSakraJüdisNeues" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neues Testament"@de .
+

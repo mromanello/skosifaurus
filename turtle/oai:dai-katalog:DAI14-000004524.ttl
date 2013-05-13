@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004524> a skos:Concept ;
+    skos:altLabel "lieux et régions"@fr,
+        "luoghi e regioni"@it,
+        "places and regions"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004521> ;
+    skos:hiddenLabel "xItalSizItAntWirtschPlatz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plätze und Regionen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022824> a skos:Concept ;
+    skos:altLabel "Ligyi"@en,
+        "Ligyi"@fr,
+        "Ligyi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschLigyi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ligyi"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063416> a skos:Concept ;
+    skos:altLabel "Brloh, okr. Písek"@en,
+        "Brloh, okr. Písek"@fr,
+        "Brloh, okr. Písek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBrloh, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brloh, okr. Písek"@de .
+

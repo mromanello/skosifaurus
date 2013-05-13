@@ -1,0 +1,368 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002380_Aalst> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Aalst" .
+
+<http://data.dainst.de/zenon/000002380_Acosse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Acosse" .
+
+<http://data.dainst.de/zenon/000002380_Aduaticavedi:Tongeren> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Aduatica vedi: Tongeren" .
+
+<http://data.dainst.de/zenon/000002380_Amay> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Amay" .
+
+<http://data.dainst.de/zenon/000002380_Anderlecht> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Anderlecht" .
+
+<http://data.dainst.de/zenon/000002380_Anthée> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Anthée" .
+
+<http://data.dainst.de/zenon/000002380_Antoing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Antoing" .
+
+<http://data.dainst.de/zenon/000002380_Antwerpen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Antwerpen" .
+
+<http://data.dainst.de/zenon/000002380_Ardon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Ardon" .
+
+<http://data.dainst.de/zenon/000002380_Arlon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Arlon" .
+
+<http://data.dainst.de/zenon/000002380_Atuatuca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Atuatuca" .
+
+<http://data.dainst.de/zenon/000002380_Authevernes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Authevernes" .
+
+<http://data.dainst.de/zenon/000002380_Avernas-le-Bauduin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Avernas-le-Bauduin" .
+
+<http://data.dainst.de/zenon/000002380_Baudecet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Baudecet" .
+
+<http://data.dainst.de/zenon/000002380_Berlingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Berlingen" .
+
+<http://data.dainst.de/zenon/000002380_Bienne-lez-Happart> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Bienne-lez-Happart" .
+
+<http://data.dainst.de/zenon/000002380_Blicquy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Blicquy" .
+
+<http://data.dainst.de/zenon/000002380_Braives> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Braives" .
+
+<http://data.dainst.de/zenon/000002380_Broekom> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Broekom" .
+
+<http://data.dainst.de/zenon/000002380_Bruxelles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Bruxelles" .
+
+<http://data.dainst.de/zenon/000002380_Buzenol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Buzenol" .
+
+<http://data.dainst.de/zenon/000002380_Chameleux> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Chameleux" .
+
+<http://data.dainst.de/zenon/000002380_Champion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Champion" .
+
+<http://data.dainst.de/zenon/000002380_Chaudfontaine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Chaudfontaine" .
+
+<http://data.dainst.de/zenon/000002380_Courtrai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Courtrai" .
+
+<http://data.dainst.de/zenon/000002380_Destelbergen-lez-Gand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Destelbergen-lez-Gand" .
+
+<http://data.dainst.de/zenon/000002380_Dion(Belgien)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Dion (Belgien)" .
+
+<http://data.dainst.de/zenon/000002380_Elewijt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Elewijt" .
+
+<http://data.dainst.de/zenon/000002380_Elversele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Elversele" .
+
+<http://data.dainst.de/zenon/000002380_Eprave> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Eprave" .
+
+<http://data.dainst.de/zenon/000002380_Erps-Kwerps> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Erps-Kwerps" .
+
+<http://data.dainst.de/zenon/000002380_Flobecq> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Flobecq" .
+
+<http://data.dainst.de/zenon/000002380_Fontaine-Valmont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Fontaine-Valmont" .
+
+<http://data.dainst.de/zenon/000002380_Fontenoille> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Fontenoille" .
+
+<http://data.dainst.de/zenon/000002380_Franchimont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Franchimont" .
+
+<http://data.dainst.de/zenon/000002380_Freux> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Freux" .
+
+<http://data.dainst.de/zenon/000002380_Furfooz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Furfooz" .
+
+<http://data.dainst.de/zenon/000002380_Geminiacum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Geminiacum" .
+
+<http://data.dainst.de/zenon/000002380_Givry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Givry" .
+
+<http://data.dainst.de/zenon/000002380_Grobbendonk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Grobbendonk" .
+
+<http://data.dainst.de/zenon/000002380_Harelbeke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Harelbeke" .
+
+<http://data.dainst.de/zenon/000002380_Harmignies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Harmignies" .
+
+<http://data.dainst.de/zenon/000002380_Hives> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Hives" .
+
+<http://data.dainst.de/zenon/000002380_Huissignies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Huissignies" .
+
+<http://data.dainst.de/zenon/000002380_Huy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Huy" .
+
+<http://data.dainst.de/zenon/000002380_Jandrain> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Jandrain" .
+
+<http://data.dainst.de/zenon/000002380_Kontich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Kontich" .
+
+<http://data.dainst.de/zenon/000002380_Kruishoutem> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Kruishoutem" .
+
+<http://data.dainst.de/zenon/000002380_Lauwe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Lauwe" .
+
+<http://data.dainst.de/zenon/000002380_Liberchiesvedi:Geminiacum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Liberchies vedi: Geminiacum" .
+
+<http://data.dainst.de/zenon/000002380_Lixhe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Lixhe" .
+
+<http://data.dainst.de/zenon/000002380_Maldegem> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Maldegem" .
+
+<http://data.dainst.de/zenon/000002380_Marcinelle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Marcinelle" .
+
+<http://data.dainst.de/zenon/000002380_Matagne-la-Grande> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Matagne-la-Grande" .
+
+<http://data.dainst.de/zenon/000002380_Meeffe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Meeffe" .
+
+<http://data.dainst.de/zenon/000002380_Mont-lès-Houffalize> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Mont-lès-Houffalize" .
+
+<http://data.dainst.de/zenon/000002380_Montauban-sous-Buzenol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Montauban-sous-Buzenol" .
+
+<http://data.dainst.de/zenon/000002380_Montignies-Saint-Christophe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Montignies-Saint-Christophe" .
+
+<http://data.dainst.de/zenon/000002380_Morlanwelz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Morlanwelz" .
+
+<http://data.dainst.de/zenon/000002380_Namur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Namur" .
+
+<http://data.dainst.de/zenon/000002380_Noirmont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Noirmont" .
+
+<http://data.dainst.de/zenon/000002380_Nouvelles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Nouvelles" .
+
+<http://data.dainst.de/zenon/000002380_Oudenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Oudenburg" .
+
+<http://data.dainst.de/zenon/000002380_Overhespen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Overhespen" .
+
+<http://data.dainst.de/zenon/000002380_Overpelt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Overpelt" .
+
+<http://data.dainst.de/zenon/000002380_Perniciacum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Perniciacum" .
+
+<http://data.dainst.de/zenon/000002380_Pommeroeul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Pommeroeul" .
+
+<http://data.dainst.de/zenon/000002380_Pry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Pry" .
+
+<http://data.dainst.de/zenon/000002380_Pévèle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Pévèle" .
+
+<http://data.dainst.de/zenon/000002380_Robelmont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Robelmont" .
+
+<http://data.dainst.de/zenon/000002380_Rumes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Rumes" .
+
+<http://data.dainst.de/zenon/000002380_Saint-Mard> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Saint-Mard" .
+
+<http://data.dainst.de/zenon/000002380_Solre-sur-Sambre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Solre-sur-Sambre" .
+
+<http://data.dainst.de/zenon/000002380_Strée-lez-Huy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Strée-lez-Huy" .
+
+<http://data.dainst.de/zenon/000002380_Taintignies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Taintignies" .
+
+<http://data.dainst.de/zenon/000002380_Taviers> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Taviers" .
+
+<http://data.dainst.de/zenon/000002380_Thorembais-Saint-Trond> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Thorembais-Saint-Trond" .
+
+<http://data.dainst.de/zenon/000002380_Thuin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Thuin" .
+
+<http://data.dainst.de/zenon/000002380_Tienen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Tienen" .
+
+<http://data.dainst.de/zenon/000002380_Tongeren> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Tongeren" .
+
+<http://data.dainst.de/zenon/000002380_Tournai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Tournai" .
+
+<http://data.dainst.de/zenon/000002380_Val-Meer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Val-Meer" .
+
+<http://data.dainst.de/zenon/000002380_Velzeke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Velzeke" .
+
+<http://data.dainst.de/zenon/000002380_Vervoz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Vervoz" .
+
+<http://data.dainst.de/zenon/000002380_Vieuxville> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Vieuxville" .
+
+<http://data.dainst.de/zenon/000002380_Wange> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Wange" .
+
+<http://data.dainst.de/zenon/000002380_Waudrez> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Waudrez" .
+
+<http://data.dainst.de/zenon/000002380_Weitersbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Weitersbach" .
+
+<http://data.dainst.de/zenon/000002380_Wervik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002380> ;
+    skos:prefLabel "Wervik" .
+
+<http://data.dainst.de/zenon/000002380> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002378> ;
+    skos:hiddenLabel "xTopLandBelgOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

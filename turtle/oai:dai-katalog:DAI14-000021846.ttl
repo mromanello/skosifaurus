@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021846> a skos:Concept ;
+    skos:altLabel "Karlmann <Hausmeier>"@en,
+        "Karlmann <Hausmeier>"@fr,
+        "Karlmann <Hausmeier>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKarlmann <Hausmeier>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karlmann <Hausmeier>"@de .
+

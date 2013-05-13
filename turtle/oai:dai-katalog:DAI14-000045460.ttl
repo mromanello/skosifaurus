@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045460> a skos:Concept ;
+    skos:altLabel "Var"@en,
+        "Var"@fr,
+        "Var"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RVar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Var"@de .
+

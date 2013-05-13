@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017562> a skos:Concept ;
+    skos:altLabel "Doors/Gates"@en,
+        "Drzwi/bramy"@pl,
+        "Portes/accès"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017546> ;
+    skos:hiddenLabel "yRGKArch11 - BefunArchiTüren" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Türen/Tore"@de .
+

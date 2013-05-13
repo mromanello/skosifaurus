@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004795> a skos:Concept ;
+    skos:altLabel "medicina (1956 - 1997)"@it,
+        "medicine (1956 - 1997)"@en,
+        "médecine (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004780> ;
+    skos:hiddenLabel "xÄgAntMed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Medizin (1956 - 1997)"@de .
+

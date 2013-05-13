@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050976> a skos:Concept ;
+    skos:altLabel "Roding-Wiesing"@en,
+        "Roding-Wiesing"@fr,
+        "Roding-Wiesing"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075383> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerChamRoding-Wi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roding-Wiesing"@de .
+

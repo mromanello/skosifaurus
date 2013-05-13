@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063531> a skos:Concept ;
+    skos:altLabel "Hluboká nad Vltavou, okr. České Budějoviceha-východ"@en,
+        "Hluboká nad Vltavou, okr. České Budějoviceha-východ"@fr,
+        "Hluboká nad Vltavou, okr. České Budějoviceha-východ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHluboká n" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hluboká nad Vltavou, okr. České Budějoviceha-východ"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030659> a skos:Concept ;
+    skos:altLabel "Nordirland, Environment and Heritage Service (EHS)"@en,
+        "Nordirland, Environment and Heritage Service (EHS)"@fr,
+        "Nordirland, Environment and Heritage Service (EHS)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiNordirland, Environment and Heritage Service (EHS)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nordirland, Environment and Heritage Service (EHS)"@de .
+

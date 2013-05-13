@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027474> a skos:Concept ;
+    skos:altLabel "Wolfenbüttel/Oldenburg/Hannover 1981-82"@en,
+        "Wolfenbüttel/Oldenburg/Hannover 1981-82"@fr,
+        "Wolfenbüttel/Oldenburg/Hannover 1981-82"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstWolfenbüttel/Oldenburg/Hannover 1981-82" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wolfenbüttel/Oldenburg/Hannover 1981-82"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038250> a skos:Concept ;
+    skos:altLabel "Serres 2004"@en,
+        "Serres 2004"@fr,
+        "Serres 2004"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSerres 2004" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Serres 2004"@de .
+

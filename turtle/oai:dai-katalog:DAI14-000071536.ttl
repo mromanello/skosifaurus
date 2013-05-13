@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071536> a skos:Concept ;
+    skos:altLabel "Caere"@en,
+        "Caere"@fr,
+        "Caere"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaCaere" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caere"@de .
+

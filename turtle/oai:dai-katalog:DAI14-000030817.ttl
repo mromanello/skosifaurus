@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030817> a skos:Concept ;
+    skos:altLabel "Comisaría General de Excavaciones Arqueológicas"@en,
+        "Comisaría General de Excavaciones Arqueológicas"@fr,
+        "Comisaría General de Excavaciones Arqueológicas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiComisaría General de Excavaciones Arqueológicas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Comisaría General de Excavaciones Arqueológicas"@de .
+

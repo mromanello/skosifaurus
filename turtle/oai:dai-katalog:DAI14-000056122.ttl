@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056122> a skos:Concept ;
+    skos:altLabel "Burg Winterstein"@en,
+        "Burg Winterstein"@fr,
+        "Burg Winterstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038955> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsSächsBurg Wint" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burg Winterstein"@de .
+

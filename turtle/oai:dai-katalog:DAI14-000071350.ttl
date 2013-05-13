@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071350> a skos:Concept ;
+    skos:altLabel "Camerino"@en,
+        "Camerino"@fr,
+        "Camerino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039219> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchMacerCamerino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Camerino"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054682> a skos:Concept ;
+    skos:altLabel "Müntz, Gde. Titz"@en,
+        "Müntz, Gde. Titz"@fr,
+        "Müntz, Gde. Titz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075632> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrDürenMüntz, Gd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Müntz, Gde. Titz"@de .
+

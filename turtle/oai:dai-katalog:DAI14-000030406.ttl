@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030406> a skos:Concept ;
+    skos:altLabel "Smith, Henry Eckroyd"@en,
+        "Smith, Henry Eckroyd"@fr,
+        "Smith, Henry Eckroyd"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaSmith, Henry Eckroyd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Smith, Henry Eckroyd"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011704> a skos:Concept ;
+    skos:altLabel "Naturhistorische Gesellschaft Nürnberg, Abteilung Vorgeschichte"@en,
+        "Naturhistorische Gesellschaft Nürnberg, Abteilung Vorgeschichte"@fr,
+        "Naturhistorische Gesellschaft Nürnberg, Abteilung Vorgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiNaturhistorische Gesellschaft Nürnberg, Abteilung Vorgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Naturhistorische Gesellschaft Nürnberg, Abteilung Vorgeschichte"@de .
+

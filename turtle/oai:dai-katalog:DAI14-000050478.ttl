@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050478> a skos:Concept ;
+    skos:altLabel "Waldburg"@en,
+        "Waldburg"@fr,
+        "Waldburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075355> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRavenWaldburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Waldburg"@de .
+

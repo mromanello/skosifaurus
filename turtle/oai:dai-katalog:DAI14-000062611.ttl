@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062611> a skos:Concept ;
+    skos:altLabel "Bratislava-Čunovo"@en,
+        "Bratislava-Čunovo"@fr,
+        "Bratislava-Čunovo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaBratislav" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bratislava-Čunovo"@de .
+

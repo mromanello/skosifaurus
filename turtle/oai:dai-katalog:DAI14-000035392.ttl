@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035392> a skos:Concept ;
+    skos:altLabel "Bristol 2004"@en,
+        "Bristol 2004"@fr,
+        "Bristol 2004"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBristol 2004" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bristol 2004"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009005> a skos:Concept ;
+    skos:altLabel "Le Beau, Charles"@en,
+        "Le Beau, Charles"@fr,
+        "Le Beau, Charles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLe Beau, Charles" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Le Beau, Charles"@de .
+

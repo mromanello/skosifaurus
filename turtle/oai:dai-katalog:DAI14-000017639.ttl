@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017639> a skos:Concept ;
+    skos:altLabel "Architecture sépulcrale"@fr,
+        "Architektura grobowa"@pl,
+        "Grave-architecture"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017635> ;
+    skos:hiddenLabel "yRGKArch11 - GräbeGrabbGrabb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grabbauten"@de .
+

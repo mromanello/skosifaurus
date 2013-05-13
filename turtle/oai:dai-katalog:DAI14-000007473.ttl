@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007473> a skos:Concept ;
+    skos:altLabel "Amico, Vito Maria"@en,
+        "Amico, Vito Maria"@fr,
+        "Amico, Vito Maria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAmico, Vito Maria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amico, Vito Maria"@de .
+

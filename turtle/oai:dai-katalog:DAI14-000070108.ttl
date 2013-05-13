@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070108> a skos:Concept ;
+    skos:altLabel "Valle del Polcevera"@en,
+        "Valle del Polcevera"@fr,
+        "Valle del Polcevera"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039171> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliLombaZZ--RValle del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle del Polcevera"@de .
+

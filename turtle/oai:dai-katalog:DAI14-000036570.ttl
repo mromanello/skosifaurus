@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036570> a skos:Concept ;
+    skos:altLabel "Malé Vozokany 1969"@en,
+        "Malé Vozokany 1969"@fr,
+        "Malé Vozokany 1969"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMalé Vozokany 1969" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Malé Vozokany 1969"@de .
+

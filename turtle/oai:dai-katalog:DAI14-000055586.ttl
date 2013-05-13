@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055586> a skos:Concept ;
+    skos:altLabel "Urbar"@en,
+        "Urbar"@fr,
+        "Urbar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038923> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKobleUrbar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Urbar"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010360> a skos:Concept ;
+    skos:altLabel "Worsaae, Jens Jacob Asmussen"@en,
+        "Worsaae, Jens Jacob Asmussen"@fr,
+        "Worsaae, Jens Jacob Asmussen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWorsaae, Jens Jacob Asmussen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Worsaae, Jens Jacob Asmussen"@de .
+

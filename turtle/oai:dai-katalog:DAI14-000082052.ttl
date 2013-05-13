@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082052> a skos:Concept ;
+    skos:altLabel "Łaszczów (Gem.)"@en,
+        "Łaszczów (Gem.)"@fr,
+        "Łaszczów (Gem.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039033> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopZZ--RŁaszczów" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Łaszczów (Gem.)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041841> a skos:Concept ;
+    skos:altLabel "Grotte de Sladina"@en,
+        "Grotte de Sladina"@fr,
+        "Grotte de Sladina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurGrotte de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotte de Sladina"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007475> a skos:Concept ;
+    skos:altLabel "Amyx, Darrell Arlynn"@en,
+        "Amyx, Darrell Arlynn"@fr,
+        "Amyx, Darrell Arlynn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAmyx, Darrell Arlynn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amyx, Darrell Arlynn"@de .
+

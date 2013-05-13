@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055419> a skos:Concept ;
+    skos:altLabel "Bretzenheim an der Nahe"@en,
+        "Bretzenheim an der Nahe"@fr,
+        "Bretzenheim an der Nahe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038913> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinBad KBretzenhe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bretzenheim an der Nahe"@de .
+

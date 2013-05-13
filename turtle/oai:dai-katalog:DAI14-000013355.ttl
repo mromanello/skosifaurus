@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013355> a skos:Concept ;
+    skos:altLabel "Tekstylia/skóra"@pl,
+        "Textiles/cuire"@fr,
+        "Textiles/leather"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013353> ;
+    skos:hiddenLabel "yRGKArch05 - WirtsHandwRohmaOrganTexti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Textilien/Leder"@de .
+

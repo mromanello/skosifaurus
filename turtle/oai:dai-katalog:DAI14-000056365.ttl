@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056365> a skos:Concept ;
+    skos:altLabel "Menz"@en,
+        "Menz"@fr,
+        "Menz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038964> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsJericMenz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Menz"@de .
+

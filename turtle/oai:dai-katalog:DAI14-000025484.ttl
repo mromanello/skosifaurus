@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025484> a skos:Concept ;
+    skos:altLabel "Adalgott"@en,
+        "Adalgott"@fr,
+        "Adalgott"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018550> ;
+    skos:hiddenLabel "yRGKArch12 - GeselReligReligChrisHeiliHeiliAdalgott" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Adalgott"@de .
+

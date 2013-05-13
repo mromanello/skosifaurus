@@ -1,0 +1,84 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002473_Aargau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Aargau" .
+
+<http://data.dainst.de/zenon/000002473_Bern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Bern" .
+
+<http://data.dainst.de/zenon/000002473_Fribourg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Fribourg" .
+
+<http://data.dainst.de/zenon/000002473_Genève> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Genève" .
+
+<http://data.dainst.de/zenon/000002473_Graubünden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Graubünden" .
+
+<http://data.dainst.de/zenon/000002473_Jura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Jura" .
+
+<http://data.dainst.de/zenon/000002473_Liechtenstein> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Liechtenstein" .
+
+<http://data.dainst.de/zenon/000002473_Misox> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Misox" .
+
+<http://data.dainst.de/zenon/000002473_Neuchâtel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Neuchâtel" .
+
+<http://data.dainst.de/zenon/000002473_Oberhalbstein> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Oberhalbstein" .
+
+<http://data.dainst.de/zenon/000002473_SanktGallen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Sankt Gallen" .
+
+<http://data.dainst.de/zenon/000002473_Seeland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Seeland" .
+
+<http://data.dainst.de/zenon/000002473_Thurgau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Thurgau" .
+
+<http://data.dainst.de/zenon/000002473_Ticino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Ticino" .
+
+<http://data.dainst.de/zenon/000002473_Unterwalden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Unterwalden" .
+
+<http://data.dainst.de/zenon/000002473_Vallois> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Vallois" .
+
+<http://data.dainst.de/zenon/000002473_Vaud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Vaud" .
+
+<http://data.dainst.de/zenon/000002473_Zug> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002473> ;
+    skos:prefLabel "Zug" .
+
+<http://data.dainst.de/zenon/000002473> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002472> ;
+    skos:hiddenLabel "xTopLandSchwGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

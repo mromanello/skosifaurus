@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040408> a skos:Concept ;
+    skos:altLabel "Puumala"@en,
+        "Puumala"@fr,
+        "Puumala"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038704> ;
+    skos:hiddenLabel "zTopogEuropNordeFinnlPuumala" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Puumala"@de .
+

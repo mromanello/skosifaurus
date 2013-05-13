@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066421> a skos:Concept ;
+    skos:altLabel "Potârca, raj. Orhei"@en,
+        "Potârca, raj. Orhei"@fr,
+        "Potârca, raj. Orhei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaPotârca," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Potârca, raj. Orhei"@de .
+

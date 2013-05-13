@@ -1,0 +1,101 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001041_Afrasiab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Afrasiab" .
+
+<http://data.dainst.de/zenon/000001041_Andižan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Andižan" .
+
+<http://data.dainst.de/zenon/000001041_Buchara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Buchara" .
+
+<http://data.dainst.de/zenon/000001041_Choresm> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Choresm" .
+
+<http://data.dainst.de/zenon/000001041_Džarkutan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Džarkutan" .
+
+<http://data.dainst.de/zenon/000001041_Erkurgan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Erkurgan" .
+
+<http://data.dainst.de/zenon/000001041_Fergana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Fergana" .
+
+<http://data.dainst.de/zenon/000001041_Kara-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Kara-Tepe" .
+
+<http://data.dainst.de/zenon/000001041_Karakalpakstan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Karakalpakstan" .
+
+<http://data.dainst.de/zenon/000001041_Kurgantepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Kurgantepe" .
+
+<http://data.dainst.de/zenon/000001041_Namangan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Namangan" .
+
+<http://data.dainst.de/zenon/000001041_Samarkand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Samarkand" .
+
+<http://data.dainst.de/zenon/000001041_Sapalli-tepa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Sapalli-tepa" .
+
+<http://data.dainst.de/zenon/000001041_Sogd> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Sogd" .
+
+<http://data.dainst.de/zenon/000001041_Surchandarja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Surchandarja" .
+
+<http://data.dainst.de/zenon/000001041_Tali-Barzu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Tali-Barzu" .
+
+<http://data.dainst.de/zenon/000001041_Taškent> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Taškent" .
+
+<http://data.dainst.de/zenon/000001041_Termes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Termes" .
+
+<http://data.dainst.de/zenon/000001041_Termez> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Termez" .
+
+<http://data.dainst.de/zenon/000001041_Tocharistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Tocharistan" .
+
+<http://data.dainst.de/zenon/000001041_Zaraut-Kamar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Zaraut-Kamar" .
+
+<http://data.dainst.de/zenon/000001041_Čaganian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Čaganian" .
+
+<http://data.dainst.de/zenon/000001041_ĖskiAchsi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001041> ;
+    skos:prefLabel "Ėski Achsi" .
+
+<http://data.dainst.de/zenon/000001041> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.06.04" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Uzbekistan"@de .
+

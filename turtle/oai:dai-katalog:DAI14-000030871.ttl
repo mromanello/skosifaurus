@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030871> a skos:Concept ;
+    skos:altLabel "Grossbritannien (Universitäten)"@en,
+        "Grossbritannien (Universitäten)"@fr,
+        "Grossbritannien (Universitäten)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiGrossbritannien (Universitäten)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossbritannien (Universitäten)"@de .
+

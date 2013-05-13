@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027056> a skos:Concept ;
+    skos:altLabel "Poitiers 2004/2005"@en,
+        "Poitiers 2004/2005"@fr,
+        "Poitiers 2004/2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstPoitiers 2004/2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poitiers 2004/2005"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003024> a skos:Concept ;
+    skos:altLabel "personifications and unnamed gods"@en,
+        "personificazioni e divinità senza nomi"@it,
+        "personnifications et dieux indéfinis"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003022> ;
+    skos:hiddenLabel "xPlastRundplKopfPersonif" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Personifikationen und unbenannte Götter"@de .
+

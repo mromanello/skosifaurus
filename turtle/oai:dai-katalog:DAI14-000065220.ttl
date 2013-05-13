@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065220> a skos:Concept ;
+    skos:altLabel "Klárafalva-Hajdova"@en,
+        "Klárafalva-Hajdova"@fr,
+        "Klárafalva-Hajdova"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039084> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunCsongKlárafalv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klárafalva-Hajdova"@de .
+

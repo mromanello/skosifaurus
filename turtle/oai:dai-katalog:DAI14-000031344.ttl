@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031344> a skos:Concept ;
+    skos:altLabel "Cermanović-Kuzmanović, Alexandrina"@en,
+        "Cermanović-Kuzmanović, Alexandrina"@fr,
+        "Cermanović-Kuzmanović, Alexandrina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliCermanović-Kuzmanović, Alexandrina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cermanović-Kuzmanović, Alexandrina"@de .
+

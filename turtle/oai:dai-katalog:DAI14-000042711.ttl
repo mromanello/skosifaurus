@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042711> a skos:Concept ;
+    skos:altLabel "Saint-Maur-des-Fossés"@en,
+        "Saint-Maur-des-Fossés"@fr,
+        "Saint-Maur-des-Fossés"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038740> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dVal-dSaint-Mau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Maur-des-Fossés"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038418> a skos:Concept ;
+    skos:altLabel "Cagliari 2009"@en,
+        "Cagliari 2009"@fr,
+        "Cagliari 2009"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCagliari 2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cagliari 2009"@de .
+

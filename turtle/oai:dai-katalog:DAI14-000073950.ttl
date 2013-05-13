@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073950> a skos:Concept ;
+    skos:altLabel "Es Vincle Vell"@en,
+        "Es Vincle Vell"@fr,
+        "Es Vincle Vell"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039364> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniIslasMalloEs Vincle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Es Vincle Vell"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047691> a skos:Concept ;
+    skos:altLabel "Meldreth"@en,
+        "Meldreth"@fr,
+        "Meldreth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077680> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCambrMeldreth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meldreth"@de .
+

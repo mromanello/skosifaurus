@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038462> a skos:Concept ;
+    skos:altLabel "Winchester 1994"@en,
+        "Winchester 1994"@fr,
+        "Winchester 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrWinchester 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winchester 1994"@de .
+

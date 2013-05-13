@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081058> a skos:Concept ;
+    skos:altLabel "Ladakh"@en,
+        "Ladakh"@fr,
+        "Ladakh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075954> ;
+    skos:hiddenLabel "zTopogAsienSüd- IndieLadakh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ladakh"@de .
+

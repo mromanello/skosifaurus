@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000346> a skos:Concept ;
+    skos:altLabel "Arquitectura: elementos decorativos, constructivos (con cancelas)"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000341> ;
+    skos:hiddenLabel "3.10.11.05" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Architekturdekor, Bauglieder (mit Schrankenplatten)"@de .
+

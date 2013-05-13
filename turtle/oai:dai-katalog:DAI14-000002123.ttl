@@ -1,0 +1,52 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002123_AcadémiedelaRépubliquePopulaireRoumaine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Académie de la République Populaire Roumaine" .
+
+<http://data.dainst.de/zenon/000002123_Institutuldearheologie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Institutul de arheologie" .
+
+<http://data.dainst.de/zenon/000002123_InstitutuldearheologieIaşi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Institutul de arheologie Iaşi" .
+
+<http://data.dainst.de/zenon/000002123_InstitutuldearheologiedinBucureşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Institutul de arheologie din Bucureşti" .
+
+<http://data.dainst.de/zenon/000002123_Institutuldetracologie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Institutul de tracologie" .
+
+<http://data.dainst.de/zenon/000002123_Institutulromândetracologie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Institutul român de tracologie" .
+
+<http://data.dainst.de/zenon/000002123_Ovidianum.Societasovidianisstudiisinteromnesgentesfovendis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Ovidianum. Societas ovidianis studiis inter omnes gentes fovendis" .
+
+<http://data.dainst.de/zenon/000002123_SocietateadeistorieşiarheologiedinTimişoara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Societatea de istorie şi arheologie din Timişoara" .
+
+<http://data.dainst.de/zenon/000002123_SocietateanumismaticăRomână> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "Societatea numismatică Română" .
+
+<http://data.dainst.de/zenon/000002123_[varia]> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002123> ;
+    skos:prefLabel "[varia]" .
+
+<http://data.dainst.de/zenon/000002123> a skos:Concept ;
+    skos:altLabel "Roumanie"@fr,
+        "Rumania"@en,
+        "Rumania"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstRum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rumänien"@de .
+

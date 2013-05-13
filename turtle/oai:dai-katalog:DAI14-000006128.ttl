@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006128> a skos:Concept ;
+    skos:altLabel "Borchhardt, Jürgen"@en,
+        "Borchhardt, Jürgen"@fr,
+        "Borchhardt, Jürgen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBorchhardt, Jürgen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borchhardt, Jürgen"@de .
+

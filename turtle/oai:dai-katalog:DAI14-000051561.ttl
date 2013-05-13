@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051561> a skos:Concept ;
+    skos:altLabel "Simmershofen-Hohlach"@en,
+        "Simmershofen-Hohlach"@fr,
+        "Simmershofen-Hohlach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075444> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNeustSimmersho" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Simmershofen-Hohlach"@de .
+

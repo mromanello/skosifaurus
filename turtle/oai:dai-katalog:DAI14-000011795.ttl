@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011795> a skos:Concept ;
+    skos:altLabel "Spratt, Thomas"@en,
+        "Spratt, Thomas"@fr,
+        "Spratt, Thomas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSpratt, Thomas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Spratt, Thomas"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021876> a skos:Concept ;
+    skos:altLabel "Cosmas <von Jerusalem>"@en,
+        "Cosmas <von Jerusalem>"@fr,
+        "Cosmas <von Jerusalem>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCosmas <von Jerusalem>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cosmas <von Jerusalem>"@de .
+

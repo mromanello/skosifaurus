@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034820> a skos:Concept ;
+    skos:altLabel "Jedwabny szlak"@pl,
+        "Route de la soie"@fr,
+        "Silk road"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019277> ;
+    skos:hiddenLabel "yRGKArch14 - WirtsVerkeLandwSeide" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seidenstrasse"@de .
+

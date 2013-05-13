@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028000> a skos:Concept ;
+    skos:altLabel "Eggenburg, Krahuletz-Museum"@en,
+        "Eggenburg, Krahuletz-Museum"@fr,
+        "Eggenburg, Krahuletz-Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuEggenburg, Krahuletz-Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eggenburg, Krahuletz-Museum"@de .
+

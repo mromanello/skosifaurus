@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072138> a skos:Concept ;
+    skos:altLabel "Grotta dell'Acqua"@en,
+        "Grotta dell'Acqua"@fr,
+        "Grotta dell'Acqua"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039249> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliFoggiGrotta de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotta dell'Acqua"@de .
+

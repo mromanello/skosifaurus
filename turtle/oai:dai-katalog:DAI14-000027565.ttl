@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027565> a skos:Concept ;
+    skos:altLabel "Angers, Musée des Beaux-Arts"@en,
+        "Angers, Musée des Beaux-Arts"@fr,
+        "Angers, Musée des Beaux-Arts"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAngers, Musée des Beaux-Arts" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Angers, Musée des Beaux-Arts"@de .
+

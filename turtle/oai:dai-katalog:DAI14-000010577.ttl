@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010577> a skos:Concept ;
+    skos:altLabel "Landsberg a. Lech, Historischer Verein für Stadt und Kreis"@en,
+        "Landsberg a. Lech, Historischer Verein für Stadt und Kreis"@fr,
+        "Landsberg a. Lech, Historischer Verein für Stadt und Kreis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLandsberg a. Lech, Historischer Verein für Stadt und Kreis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landsberg a. Lech, Historischer Verein für Stadt und Kreis"@de .
+

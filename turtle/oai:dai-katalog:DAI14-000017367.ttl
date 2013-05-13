@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017367> a skos:Concept ;
+    skos:altLabel "Brooches with inscriptions"@en,
+        "Fibule z inskrypcjami"@pl,
+        "Fibules avec inscriptions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017362> ;
+    skos:hiddenLabel "yRGKArch11 - FundeKleidFibelFibel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fibeln mit Inschriften"@de .
+

@@ -1,0 +1,69 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001029_Berezan'> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Berezan'" .
+
+<http://data.dainst.de/zenon/000001029_Cherson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Cherson" .
+
+<http://data.dainst.de/zenon/000001029_Dnepr-Gebiet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Dnepr-Gebiet" .
+
+<http://data.dainst.de/zenon/000001029_Doneck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Doneck" .
+
+<http://data.dainst.de/zenon/000001029_Evpatorija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Evpatorija" .
+
+<http://data.dainst.de/zenon/000001029_Feodosija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Feodosija" .
+
+<http://data.dainst.de/zenon/000001029_Kertsch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Kertsch" .
+
+<http://data.dainst.de/zenon/000001029_Kiew> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Kiew" .
+
+<http://data.dainst.de/zenon/000001029_Krim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Krim" .
+
+<http://data.dainst.de/zenon/000001029_Mezin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Mezin" .
+
+<http://data.dainst.de/zenon/000001029_Odessa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Odessa" .
+
+<http://data.dainst.de/zenon/000001029_Ordžonikidze> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Ordžonikidze" .
+
+<http://data.dainst.de/zenon/000001029_Ternopol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Ternopol" .
+
+<http://data.dainst.de/zenon/000001029_Timonovka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Timonovka" .
+
+<http://data.dainst.de/zenon/000001029_Tiraspol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001029> ;
+    skos:prefLabel "Tiraspol" .
+
+<http://data.dainst.de/zenon/000001029> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.01.07" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ukraine"@de .
+

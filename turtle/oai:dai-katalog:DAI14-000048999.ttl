@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048999> a skos:Concept ;
+    skos:altLabel "St. Boniface, Orkney"@en,
+        "St. Boniface, Orkney"@fr,
+        "St. Boniface, Orkney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078652> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkneSt. Bonif" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "St. Boniface, Orkney"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019577> a skos:Concept ;
+    skos:altLabel "New Archaeology/processualism"@en,
+        "New Archaeology/processualisme"@fr,
+        "Nowa archeologia/procesualizm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019572> ;
+    skos:hiddenLabel "yRGKMethTheorTheorNew A" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "New Archaeology/Prozessualismus"@de .
+

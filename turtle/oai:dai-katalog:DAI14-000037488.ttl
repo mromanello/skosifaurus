@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037488> a skos:Concept ;
+    skos:altLabel "Sens 1977"@en,
+        "Sens 1977"@fr,
+        "Sens 1977"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSens 1977" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sens 1977"@de .
+

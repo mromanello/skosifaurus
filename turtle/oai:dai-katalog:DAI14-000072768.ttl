@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072768> a skos:Concept ;
+    skos:altLabel "Vale de Sorraia"@en,
+        "Vale de Sorraia"@fr,
+        "Vale de Sorraia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039290> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuSantaVale de S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vale de Sorraia"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029693> a skos:Concept ;
+    skos:altLabel "Philadelphia, The University Museum"@en,
+        "Philadelphia, The University Museum"@fr,
+        "Philadelphia, The University Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPhiladelphia, The University Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philadelphia, The University Museum"@de .
+

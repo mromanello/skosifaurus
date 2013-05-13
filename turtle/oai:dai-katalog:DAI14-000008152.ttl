@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008152> a skos:Concept ;
+    skos:altLabel "de Waele, Jos"@en,
+        "de Waele, Jos"@fr,
+        "de Waele, Jos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersode Waele, Jos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "de Waele, Jos"@de .
+

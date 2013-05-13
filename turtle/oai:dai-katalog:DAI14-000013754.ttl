@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013754> a skos:Concept ;
+    skos:altLabel "Décors solaires"@fr,
+        "Symbole slonca"@pl,
+        "Symbols of the sun"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013746> ;
+    skos:hiddenLabel "yRGKArch06 - GeselKunstIkonoSonne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sonnensymbole"@de .
+

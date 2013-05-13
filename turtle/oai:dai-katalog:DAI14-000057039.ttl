@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057039> a skos:Concept ;
+    skos:altLabel "Eisenach, Wartburg"@en,
+        "Eisenach, Wartburg"@fr,
+        "Eisenach, Wartburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075618> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriWartbEisenach," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eisenach, Wartburg"@de .
+

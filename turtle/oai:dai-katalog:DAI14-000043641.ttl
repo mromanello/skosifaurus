@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043641> a skos:Concept ;
+    skos:altLabel "Saint-Firmin-des-Prés"@en,
+        "Saint-Firmin-des-Prés"@fr,
+        "Saint-Firmin-des-Prés"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038763> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoir-Saint-Fir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Firmin-des-Prés"@de .
+

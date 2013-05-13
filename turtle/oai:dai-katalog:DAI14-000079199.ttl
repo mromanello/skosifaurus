@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079199> a skos:Concept ;
+    skos:altLabel "Capelle-les-Grands"@en,
+        "Capelle-les-Grands"@fr,
+        "Capelle-les-Grands"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038726> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEureCapelle-l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Capelle-les-Grands"@de .
+

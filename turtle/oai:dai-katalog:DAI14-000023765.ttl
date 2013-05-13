@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023765> a skos:Concept ;
+    skos:altLabel "Sexi Vl Aspr"@en,
+        "Sexi Vl Aspr"@fr,
+        "Sexi Vl Aspr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeSexi Vl Aspr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sexi Vl Aspr"@de .
+

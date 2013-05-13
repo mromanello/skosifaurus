@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048229> a skos:Concept ;
+    skos:altLabel "Tarbock, Merseyside"@en,
+        "Tarbock, Merseyside"@fr,
+        "Tarbock, Merseyside"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077695> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaLancaTarbock," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tarbock, Merseyside"@de .
+

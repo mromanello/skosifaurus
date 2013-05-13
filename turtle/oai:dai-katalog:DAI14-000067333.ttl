@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067333> a skos:Concept ;
+    skos:altLabel "Satu Nou, jud. Constanţa"@en,
+        "Satu Nou, jud. Constanţa"@fr,
+        "Satu Nou, jud. Constanţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenSatu Nou," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Satu Nou, jud. Constanţa"@de .
+

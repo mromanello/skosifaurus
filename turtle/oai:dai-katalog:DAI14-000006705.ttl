@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006705> a skos:Concept ;
+    skos:altLabel "Miller, Urve"@en,
+        "Miller, Urve"@fr,
+        "Miller, Urve"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsMiller, Urve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Miller, Urve"@de .
+

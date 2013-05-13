@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075686> a skos:Concept ;
+    skos:altLabel "Gösseling, Gde. St. Georgen am Längsee, VB St. Veit an der Glan"@en,
+        "Gösseling, Gde. St. Georgen am Längsee, VB St. Veit an der Glan"@fr,
+        "Gösseling, Gde. St. Georgen am Längsee, VB St. Veit an der Glan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntGösseling" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gösseling, Gde. St. Georgen am Längsee, VB St. Veit an der Glan"@de .
+

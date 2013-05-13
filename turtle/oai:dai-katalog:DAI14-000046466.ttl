@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046466> a skos:Concept ;
+    skos:altLabel "Campôme"@en,
+        "Campôme"@fr,
+        "Campôme"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038831> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguPyrénCampôme" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Campôme"@de .
+

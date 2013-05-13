@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042943> a skos:Concept ;
+    skos:altLabel "Isle-sur-Suippe"@en,
+        "Isle-sur-Suippe"@fr,
+        "Isle-sur-Suippe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038746> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMarneIsle-sur-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isle-sur-Suippe"@de .
+

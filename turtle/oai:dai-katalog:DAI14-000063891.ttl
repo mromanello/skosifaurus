@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063891> a skos:Concept ;
+    skos:altLabel "Praha-Menší Město"@en,
+        "Praha-Menší Město"@fr,
+        "Praha-Menší Město"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPraha-Men" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Praha-Menší Město"@de .
+

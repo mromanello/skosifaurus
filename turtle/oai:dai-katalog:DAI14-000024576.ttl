@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024576> a skos:Concept ;
+    skos:altLabel "Asia"@en,
+        "Asia"@fr,
+        "Asia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016235> ;
+    skos:hiddenLabel "yRGKArch09 - GeschRömisAsia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asia"@de .
+

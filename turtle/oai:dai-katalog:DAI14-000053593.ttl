@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053593> a skos:Concept ;
+    skos:altLabel "Rostock-Gehlsdorf"@en,
+        "Rostock-Gehlsdorf"@fr,
+        "Rostock-Gehlsdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075536> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklRostoRostock-G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rostock-Gehlsdorf"@de .
+

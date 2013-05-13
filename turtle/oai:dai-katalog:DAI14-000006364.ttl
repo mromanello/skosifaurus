@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006364> a skos:Concept ;
+    skos:altLabel "Gavela, Branko"@en,
+        "Gavela, Branko"@fr,
+        "Gavela, Branko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsGavela, Branko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gavela, Branko"@de .
+

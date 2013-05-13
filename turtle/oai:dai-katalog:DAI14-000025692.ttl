@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025692> a skos:Concept ;
+    skos:altLabel "Georgien (allgem.)"@en,
+        "Georgien (allgem.)"@fr,
+        "Georgien (allgem.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018896> ;
+    skos:hiddenLabel "yRGKArch12 - HistoNumisPrägeGeorgien (allgem.)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Georgien (allgem.)"@de .
+

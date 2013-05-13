@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064115> a skos:Concept ;
+    skos:altLabel "Zborovy, okr. Klatovy"@en,
+        "Zborovy, okr. Klatovy"@fr,
+        "Zborovy, okr. Klatovy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyZborovy," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zborovy, okr. Klatovy"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083965> a skos:Concept ;
+    skos:altLabel "Equarhofen"@en,
+        "Equarhofen"@fr,
+        "Equarhofen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075444> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNeustEquarhof" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Equarhofen"@de .
+

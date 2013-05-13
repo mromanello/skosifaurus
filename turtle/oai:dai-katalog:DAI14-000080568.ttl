@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080568> a skos:Concept ;
+    skos:altLabel "Ardara"@en,
+        "Ardara"@fr,
+        "Ardara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039274> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeSassaArdara" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ardara"@de .
+

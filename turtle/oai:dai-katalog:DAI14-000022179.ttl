@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022179> a skos:Concept ;
+    skos:altLabel "Etterlin, Petermann"@en,
+        "Etterlin, Petermann"@fr,
+        "Etterlin, Petermann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEtterlin, Petermann" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Etterlin, Petermann"@de .
+

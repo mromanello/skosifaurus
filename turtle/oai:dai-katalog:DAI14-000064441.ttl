@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064441> a skos:Concept ;
+    skos:altLabel "Lovčičky, okr. Vyškov"@en,
+        "Lovčičky, okr. Vyškov"@fr,
+        "Lovčičky, okr. Vyškov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravLovčičky," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lovčičky, okr. Vyškov"@de .
+

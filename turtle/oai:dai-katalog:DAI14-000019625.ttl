@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019625> a skos:Concept ;
+    skos:altLabel "Instruction scolaire"@fr,
+        "Lekcje szkolne/szkoly"@pl,
+        "Teaching history"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019619> ;
+    skos:hiddenLabel "yRGKMusÖffenGesch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geschichtsuntericht/Schulen"@de .
+

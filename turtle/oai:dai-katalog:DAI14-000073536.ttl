@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073536> a skos:Concept ;
+    skos:altLabel "Marina Alta"@en,
+        "Marina Alta"@fr,
+        "Marina Alta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039344> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenAlicaMarina Al" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marina Alta"@de .
+

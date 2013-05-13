@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035506> a skos:Concept ;
+    skos:altLabel "Carnuntum 1955"@en,
+        "Carnuntum 1955"@fr,
+        "Carnuntum 1955"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCarnuntum 1955" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carnuntum 1955"@de .
+

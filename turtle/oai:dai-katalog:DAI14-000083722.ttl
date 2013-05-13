@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083722> a skos:Concept ;
+    skos:altLabel "Bramois"@en,
+        "Bramois"@fr,
+        "Bramois"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039055> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweWalliBramois" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bramois"@de .
+

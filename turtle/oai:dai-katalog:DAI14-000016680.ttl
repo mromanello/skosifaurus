@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016680> a skos:Concept ;
+    skos:altLabel "Argile/terre cuite"@fr,
+        "Clay/terracotta"@en,
+        "Glina/terakota"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016679> ;
+    skos:hiddenLabel "yRGKArch10 - BefunArchiBauplTon/T" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ton/Terracotta"@de .
+

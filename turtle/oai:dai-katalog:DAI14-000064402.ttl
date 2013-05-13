@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064402> a skos:Concept ;
+    skos:altLabel "Jiříkovic, okr. Brno-Venkov"@en,
+        "Jiříkovic, okr. Brno-Venkov"@fr,
+        "Jiříkovic, okr. Brno-Venkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravJiříkovic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jiříkovic, okr. Brno-Venkov"@de .
+

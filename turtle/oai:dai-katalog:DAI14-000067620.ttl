@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067620> a skos:Concept ;
+    skos:altLabel "Şcheia-Sfîntu Ilie, jud. Suceava"@en,
+        "Şcheia-Sfîntu Ilie, jud. Suceava"@fr,
+        "Şcheia-Sfîntu Ilie, jud. Suceava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoŞcheia-Sf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Şcheia-Sfîntu Ilie, jud. Suceava"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063746> a skos:Concept ;
+    skos:altLabel "Lovčice, okr. Příbram"@en,
+        "Lovčice, okr. Příbram"@fr,
+        "Lovčice, okr. Příbram"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyLovčice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lovčice, okr. Příbram"@de .
+

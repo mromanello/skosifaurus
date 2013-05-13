@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062834> a skos:Concept ;
+    skos:altLabel "Ostrovany, okr. Sabinov"@en,
+        "Ostrovany, okr. Sabinov"@fr,
+        "Ostrovany, okr. Sabinov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaOstrovany" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ostrovany, okr. Sabinov"@de .
+

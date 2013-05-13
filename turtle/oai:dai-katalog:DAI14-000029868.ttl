@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029868> a skos:Concept ;
+    skos:altLabel "Skarbek-Malczewski, Adolf"@en,
+        "Skarbek-Malczewski, Adolf"@fr,
+        "Skarbek-Malczewski, Adolf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019606> ;
+    skos:hiddenLabel "yRGKMusMuseeNachlSkarbek-Malczewski, Adolf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skarbek-Malczewski, Adolf"@de .
+

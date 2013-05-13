@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025062> a skos:Concept ;
+    skos:altLabel "Mauretania Sitifensis"@en,
+        "Mauretania Sitifensis"@fr,
+        "Mauretania Sitifensis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017117> ;
+    skos:hiddenLabel "yRGKArch10 - GeschGebieMauretania Sitifensis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mauretania Sitifensis"@de .
+

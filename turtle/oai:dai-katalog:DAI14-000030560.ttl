@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030560> a skos:Concept ;
+    skos:altLabel "Comisaria Provincial (Gerona)"@en,
+        "Comisaria Provincial (Gerona)"@fr,
+        "Comisaria Provincial (Gerona)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiComisaria Provincial (Gerona)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Comisaria Provincial (Gerona)"@de .
+

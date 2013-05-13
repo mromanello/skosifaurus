@@ -1,0 +1,790 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000018_Alava2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alava 2001" .
+
+<http://data.dainst.de/zenon/000000018_Albacete1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Albacete 1992" .
+
+<http://data.dainst.de/zenon/000000018_Albacete1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Albacete 1995" .
+
+<http://data.dainst.de/zenon/000000018_Albacete1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Albacete 1999" .
+
+<http://data.dainst.de/zenon/000000018_Albaceteu.a.1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Albacete u.a. 1992-93" .
+
+<http://data.dainst.de/zenon/000000018_Albaceteu.a.1999-2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Albacete u.a. 1999-2000" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 1998" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 1999" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 2001" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares2007(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 2007 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares2008(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 2008 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares2011(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 2011 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_AlcaládeHenares2012(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alcalá de Henares 2012 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_Algeciras2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Algeciras 2003" .
+
+<http://data.dainst.de/zenon/000000018_Alhambra(Granada)1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alhambra (Granada) 1997" .
+
+<http://data.dainst.de/zenon/000000018_Alicante1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alicante 1992" .
+
+<http://data.dainst.de/zenon/000000018_Alicante2007(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alicante 2007 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Alicante2008(Auss.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Alicante 2008 (Auss.)" .
+
+<http://data.dainst.de/zenon/000000018_Almería1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Almería 1992" .
+
+<http://data.dainst.de/zenon/000000018_Almería1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Almería 1995" .
+
+<http://data.dainst.de/zenon/000000018_Almería2007(S.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Almería 2007 (S.)" .
+
+<http://data.dainst.de/zenon/000000018_Amsterdam1999/2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Amsterdam 1999/2000" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 1986" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 1992" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 1997" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona1999/2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 1999/2000" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2000" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2002" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2003" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2004/05(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2004/05 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2005(K./A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2005 (K./A.)" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2006/07> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2006/07" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2008(Sonderausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2008 (Sonderausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Barcelona2009/10(Sonderausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Barcelona 2009/10 (Sonderausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Beja,ca.1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Beja, ca.1993" .
+
+<http://data.dainst.de/zenon/000000018_Beja1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Beja 1995" .
+
+<http://data.dainst.de/zenon/000000018_Berlin1995/96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Berlin 1995/96" .
+
+<http://data.dainst.de/zenon/000000018_Berlin2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Berlin 2004" .
+
+<http://data.dainst.de/zenon/000000018_Beziers1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Beziers 1993" .
+
+<http://data.dainst.de/zenon/000000018_Bonn1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Bonn 1998" .
+
+<http://data.dainst.de/zenon/000000018_Bonn1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Bonn 1999" .
+
+<http://data.dainst.de/zenon/000000018_Bonn2006(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Bonn 2006 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Cascais2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Cascais 2002" .
+
+<http://data.dainst.de/zenon/000000018_Cascais2011(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Cascais 2011 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_Castellón2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Castellón 2000" .
+
+<http://data.dainst.de/zenon/000000018_Ceuta2012(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ceuta 2012 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_CiudadReal1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ciudad Real 1995" .
+
+<http://data.dainst.de/zenon/000000018_CornellàdeLlobregat2004/05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Cornellà de Llobregat 2004/05" .
+
+<http://data.dainst.de/zenon/000000018_Cádiz1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Cádiz 1995" .
+
+<http://data.dainst.de/zenon/000000018_Cádiz2010/2011(A.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Cádiz 2010/2011 (A.)" .
+
+<http://data.dainst.de/zenon/000000018_Córdoba/Sevilla1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Córdoba/ Sevilla 1997" .
+
+<http://data.dainst.de/zenon/000000018_Córdoba1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Córdoba 1996" .
+
+<http://data.dainst.de/zenon/000000018_Dallas1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Dallas 1992" .
+
+<http://data.dainst.de/zenon/000000018_DonBenito(Badajoz)1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Don Benito (Badajoz) 1998" .
+
+<http://data.dainst.de/zenon/000000018_EjeadelosCaballeros(Zaragoza)2007(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ejea de los Caballeros (Zaragoza) 2007 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Elche/Madrid1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Elche/Madrid 1997" .
+
+<http://data.dainst.de/zenon/000000018_Elche1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Elche 1995" .
+
+<http://data.dainst.de/zenon/000000018_Empúries1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Empúries 1998" .
+
+<http://data.dainst.de/zenon/000000018_Evora1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Evora 1990" .
+
+<http://data.dainst.de/zenon/000000018_FigueiradaFoz1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Figueira da Foz 1994" .
+
+<http://data.dainst.de/zenon/000000018_Gijón1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Gijón 1995" .
+
+<http://data.dainst.de/zenon/000000018_Girona/Lleida2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Girona / Lleida 2006" .
+
+<http://data.dainst.de/zenon/000000018_Granada1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Granada 1995" .
+
+<http://data.dainst.de/zenon/000000018_Granada1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Granada 1997" .
+
+<http://data.dainst.de/zenon/000000018_GranjadeSanIldefonso(La)2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Granja de San Ildefonso (La) 2000" .
+
+<http://data.dainst.de/zenon/000000018_Guissona1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Guissona 1983" .
+
+<http://data.dainst.de/zenon/000000018_Hannover1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Hannover 1990" .
+
+<http://data.dainst.de/zenon/000000018_Hospitalet2006(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Hospitalet 2006 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Huelva2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Huelva 2006" .
+
+<http://data.dainst.de/zenon/000000018_Jaén1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Jaén 1995" .
+
+<http://data.dainst.de/zenon/000000018_Jaén1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Jaén 1998" .
+
+<http://data.dainst.de/zenon/000000018_Jaén2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Jaén 2000" .
+
+<http://data.dainst.de/zenon/000000018_LaCodoñera1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Codoñera 1995" .
+
+<http://data.dainst.de/zenon/000000018_LaCoruña1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Coruña 1991" .
+
+<http://data.dainst.de/zenon/000000018_LaGranjadeSanIldefonso2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Granja de San Ildefonso 2000" .
+
+<http://data.dainst.de/zenon/000000018_LaGranjadeSanIldefonso2001/2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Granja de San Ildefonso 2001/2002" .
+
+<http://data.dainst.de/zenon/000000018_LaGranjadeSanIldefonso2007(Ausstell.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Granja de San Ildefonso 2007 (Ausstell.)" .
+
+<http://data.dainst.de/zenon/000000018_LaLaguna1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "La Laguna 1992" .
+
+<http://data.dainst.de/zenon/000000018_Lausanne1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lausanne 1996" .
+
+<http://data.dainst.de/zenon/000000018_Leganés1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Leganés 1996" .
+
+<http://data.dainst.de/zenon/000000018_León2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "León 2001" .
+
+<http://data.dainst.de/zenon/000000018_León2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "León 2002" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa/Oeiras1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa/Oeiras 1997" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1989" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1991" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1994" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1995" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1996" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1997" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 1998" .
+
+<http://data.dainst.de/zenon/000000018_Lisboa2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lisboa 2002" .
+
+<http://data.dainst.de/zenon/000000018_Loures1999(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Loures 1999 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Lugo1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lugo 1995" .
+
+<http://data.dainst.de/zenon/000000018_Lugo1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lugo 1996" .
+
+<http://data.dainst.de/zenon/000000018_Lérida1996/97> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Lérida 1996/97" .
+
+<http://data.dainst.de/zenon/000000018_Madinatal-Zahra'1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madinat al-Zahra' 1995" .
+
+<http://data.dainst.de/zenon/000000018_Madinatal-Zahra'2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madinat al-Zahra' 2001" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1982" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1991" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1992" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1994" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1995" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1995/96> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1995/96" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1997" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1998" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1999" .
+
+<http://data.dainst.de/zenon/000000018_Madrid1999-2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 1999-2000" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2000" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2001" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2002" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2004" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2007(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2007 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2008(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2008 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2009(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2009 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Madrid2011(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Madrid 2011 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Milano1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Milano 1994" .
+
+<http://data.dainst.de/zenon/000000018_Milán,u.a.1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Milán, u.a. 1997" .
+
+<http://data.dainst.de/zenon/000000018_Munigua(VillanuevadelRíoyMinas)2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Munigua (Villanueva del Río y Minas) 2006" .
+
+<http://data.dainst.de/zenon/000000018_Murcia2006(Exp.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Murcia 2006 (Exp.)" .
+
+<http://data.dainst.de/zenon/000000018_Murcia2007(Sonderausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Murcia 2007 (Sonderausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Murcia2008(A.K.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Murcia 2008 (A.K.)" .
+
+<http://data.dainst.de/zenon/000000018_Málaga1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Málaga 1995" .
+
+<http://data.dainst.de/zenon/000000018_Mérida,Toulouse,Tarragona1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida, Toulouse, Tarragona 1995" .
+
+<http://data.dainst.de/zenon/000000018_Mérida1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 1998" .
+
+<http://data.dainst.de/zenon/000000018_Mérida1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 1999" .
+
+<http://data.dainst.de/zenon/000000018_Mérida2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 2000" .
+
+<http://data.dainst.de/zenon/000000018_Mérida2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 2001" .
+
+<http://data.dainst.de/zenon/000000018_Mérida2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 2002" .
+
+<http://data.dainst.de/zenon/000000018_Mérida2005(Ausstell.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Mérida 2005 (Ausstell.)" .
+
+<http://data.dainst.de/zenon/000000018_NewYork1993/94> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "New York 1993/94" .
+
+<http://data.dainst.de/zenon/000000018_Novallas(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Novallas (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000018_Nürnberg2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Nürnberg 2003" .
+
+<http://data.dainst.de/zenon/000000018_Olèrdola2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Olèrdola 2001" .
+
+<http://data.dainst.de/zenon/000000018_Oviedo1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Oviedo 1993" .
+
+<http://data.dainst.de/zenon/000000018_Oviedo1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Oviedo 1995" .
+
+<http://data.dainst.de/zenon/000000018_PalmadeMallorca2000/01> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Palma de Mallorca 2000/01" .
+
+<http://data.dainst.de/zenon/000000018_PalmadeMallorca2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Palma de Mallorca 2001" .
+
+<http://data.dainst.de/zenon/000000018_Pamplona2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Pamplona 2001" .
+
+<http://data.dainst.de/zenon/000000018_Paris1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Paris 1998" .
+
+<http://data.dainst.de/zenon/000000018_Paris1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Paris 1999" .
+
+<http://data.dainst.de/zenon/000000018_Paris2000/01> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Paris 2000/01" .
+
+<http://data.dainst.de/zenon/000000018_Paris2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Paris 2001" .
+
+<http://data.dainst.de/zenon/000000018_Parisu.a.1997/98> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Paris u.a. 1997/98" .
+
+<http://data.dainst.de/zenon/000000018_Ponferrada1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ponferrada 1999" .
+
+<http://data.dainst.de/zenon/000000018_Roma1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Roma 1997" .
+
+<http://data.dainst.de/zenon/000000018_SaLlonja1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sa Llonja 1998" .
+
+<http://data.dainst.de/zenon/000000018_Sagunto2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sagunto 2003" .
+
+<http://data.dainst.de/zenon/000000018_Salamanca1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Salamanca 1999" .
+
+<http://data.dainst.de/zenon/000000018_Salamanca2002/03> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Salamanca 2002/03" .
+
+<http://data.dainst.de/zenon/000000018_SantJustDesvern2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sant Just Desvern 2001" .
+
+<http://data.dainst.de/zenon/000000018_SantMartídeMaldà(Lérida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sant Martí de Maldà (Lérida)" .
+
+<http://data.dainst.de/zenon/000000018_Santander2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Santander 2000" .
+
+<http://data.dainst.de/zenon/000000018_SantiagodeChile2007/08(Sonderausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Santiago de Chile 2007/08 (Sonderausst.)" .
+
+<http://data.dainst.de/zenon/000000018_SantiagodeCompostela1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Santiago de Compostela 1991" .
+
+<http://data.dainst.de/zenon/000000018_SantiagodeCompostela2012(S.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Santiago de Compostela 2012 (S.)" .
+
+<http://data.dainst.de/zenon/000000018_SantillanadelMar2003(Kt)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Santillana del Mar 2003 (Kt)" .
+
+<http://data.dainst.de/zenon/000000018_Segovia1994/95> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Segovia 1994/95" .
+
+<http://data.dainst.de/zenon/000000018_Segovia2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Segovia 2000" .
+
+<http://data.dainst.de/zenon/000000018_Sevilla/Rabat1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla/Rabat 1999" .
+
+<http://data.dainst.de/zenon/000000018_Sevilla1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla 1992" .
+
+<http://data.dainst.de/zenon/000000018_Sevilla2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla 2001" .
+
+<http://data.dainst.de/zenon/000000018_Sevilla2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla 2007" .
+
+<http://data.dainst.de/zenon/000000018_Sevilla2009/10(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla 2009/10 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Sevillau.a.2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Sevilla u.a. 2000" .
+
+<http://data.dainst.de/zenon/000000018_Soria2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Soria 2005" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona-Solsona1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona-Solsona 1994" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 1993" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 1995" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona2001/02> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 2001/02" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona2005/06(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 2005/06 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona2006(Sonderausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 2006 (Sonderausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Tarragona2008(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona 2008 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Tarragonau.a.1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Tarragona u.a. 1995" .
+
+<http://data.dainst.de/zenon/000000018_Teruel2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Teruel 2002" .
+
+<http://data.dainst.de/zenon/000000018_Teruel2007(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Teruel 2007 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Toledo1991/92> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Toledo 1991/92" .
+
+<http://data.dainst.de/zenon/000000018_Valencia,ca.1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia, ca.1991" .
+
+<http://data.dainst.de/zenon/000000018_Valencia2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia 2000" .
+
+<http://data.dainst.de/zenon/000000018_Valencia2001/02> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia 2001/02" .
+
+<http://data.dainst.de/zenon/000000018_Valencia2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia 2002" .
+
+<http://data.dainst.de/zenon/000000018_Valencia2007(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia 2007 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Valencia2010(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Valencia 2010 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_Venezia1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Venezia 1991" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza,u.a.1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza, u.a. 1998" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 1992" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 1993" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 1998" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 2002" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 2003" .
+
+<http://data.dainst.de/zenon/000000018_Zaragoza2011(Ausst.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Zaragoza 2011 (Ausst.)" .
+
+<http://data.dainst.de/zenon/000000018_[Lisboa1997]> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "[Lisboa 1997]" .
+
+<http://data.dainst.de/zenon/000000018_toledo2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "toledo 2007" .
+
+<http://data.dainst.de/zenon/000000018_Ávila1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ávila 1991" .
+
+<http://data.dainst.de/zenon/000000018_Ávila2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ávila 2001" .
+
+<http://data.dainst.de/zenon/000000018_Ávila2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000018> ;
+    skos:prefLabel "Ávila 2007" .
+
+<http://data.dainst.de/zenon/000000018> a skos:Concept ;
+    skos:altLabel "Exposiciones temporales"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000014> ;
+    skos:hiddenLabel "3.01.05.03" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sonderausstellungen"@de .
+

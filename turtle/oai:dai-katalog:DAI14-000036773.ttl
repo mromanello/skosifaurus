@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036773> a skos:Concept ;
+    skos:altLabel "Nancy 1955"@en,
+        "Nancy 1955"@fr,
+        "Nancy 1955"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNancy 1955" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nancy 1955"@de .
+

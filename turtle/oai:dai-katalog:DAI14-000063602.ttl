@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063602> a skos:Concept ;
+    skos:altLabel "Hrad Wildstein, okr. Cheb"@en,
+        "Hrad Wildstein, okr. Cheb"@fr,
+        "Hrad Wildstein, okr. Cheb"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Wild" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Wildstein, okr. Cheb"@de .
+

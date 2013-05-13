@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002549> a skos:Concept ;
+    skos:altLabel "Tevere, Isola Tiberina, porto e maggazzini, Testaccio"@it,
+        "Tiber, Tiber Island, harbour and store buildings, Testaccio"@en,
+        "Tibre, Ile Tibérine, port et magasins, Testaccio"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002513> ;
+    skos:hiddenLabel "xTopRAIRomTiber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiber, Tiberinsel, Hafen, Magazine, Testaccio"@de .
+

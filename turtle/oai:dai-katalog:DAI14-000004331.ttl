@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004331> a skos:Concept ;
+    skos:altLabel "Sassanians"@en,
+        "Sassanides"@fr,
+        "Sassanidi"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004148> ;
+    skos:hiddenLabel "xRkSass" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sassaniden"@de .
+

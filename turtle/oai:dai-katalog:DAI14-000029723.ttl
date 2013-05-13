@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029723> a skos:Concept ;
+    skos:altLabel "Roma, Parco Archeologico Centrale"@en,
+        "Roma, Parco Archeologico Centrale"@fr,
+        "Roma, Parco Archeologico Centrale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Parco Archeologico Centrale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Parco Archeologico Centrale"@de .
+

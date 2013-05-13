@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021537> a skos:Concept ;
+    skos:altLabel "Friedrich <von Walchen>"@en,
+        "Friedrich <von Walchen>"@fr,
+        "Friedrich <von Walchen>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoFriedrich <von Walchen>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Friedrich <von Walchen>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051627> a skos:Concept ;
+    skos:altLabel "Ortenburg-Blasen"@en,
+        "Ortenburg-Blasen"@fr,
+        "Ortenburg-Blasen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075448> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerPassaOrtenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ortenburg-Blasen"@de .
+

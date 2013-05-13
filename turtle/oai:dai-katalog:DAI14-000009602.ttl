@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009602> a skos:Concept ;
+    skos:altLabel "Putnam, Bill"@en,
+        "Putnam, Bill"@fr,
+        "Putnam, Bill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPutnam, Bill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Putnam, Bill"@de .
+

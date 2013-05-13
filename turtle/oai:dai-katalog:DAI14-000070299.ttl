@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070299> a skos:Concept ;
+    skos:altLabel "Pezze di Tombazosana"@en,
+        "Pezze di Tombazosana"@fr,
+        "Pezze di Tombazosana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronPezze di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pezze di Tombazosana"@de .
+

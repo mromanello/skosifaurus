@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032553> a skos:Concept ;
+    skos:altLabel "Herodes Antipas <Galiläa, Tetrarch>"@en,
+        "Herodes Antipas <Galiläa, Tetrarch>"@fr,
+        "Herodes Antipas <Galiläa, Tetrarch>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoHerodes Antipas <Galiläa, Tetrarch>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herodes Antipas <Galiläa, Tetrarch>"@de .
+

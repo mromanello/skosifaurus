@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013645> a skos:Concept ;
+    skos:altLabel "Amas coquilliers"@fr,
+        "Shell Midden"@en,
+        "Smietniska muszlowe (Kekkenmeddinger)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013643> ;
+    skos:hiddenLabel "yRGKArch06 - SiedlSiedlMusch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Muschelhaufen (KÃµkkenmÃµddinger)"@de .
+

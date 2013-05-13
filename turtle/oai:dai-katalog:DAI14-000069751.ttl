@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069751> a skos:Concept ;
+    skos:altLabel "Bodio Lomnago, Pizzo Bodio"@en,
+        "Bodio Lomnago, Pizzo Bodio"@fr,
+        "Bodio Lomnago, Pizzo Bodio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039155> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaVaresBodio Lom" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bodio Lomnago, Pizzo Bodio"@de .
+

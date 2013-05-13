@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007364> a skos:Concept ;
+    skos:altLabel "Klinger, Jörg"@en,
+        "Klinger, Jörg"@fr,
+        "Klinger, Jörg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsKlinger, Jörg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klinger, Jörg"@de .
+

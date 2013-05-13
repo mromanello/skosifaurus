@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004864> a skos:Concept ;
+    skos:altLabel "images des saisons"@fr,
+        "imagini delle stagioni"@it,
+        "representation of seasons"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004834> ;
+    skos:hiddenLabel "xIndexJahresz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jahreszeitendarstellungen"@de .
+

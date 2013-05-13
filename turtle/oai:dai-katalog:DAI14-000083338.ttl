@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083338> a skos:Concept ;
+    skos:altLabel "Beyerberg"@en,
+        "Beyerberg"@fr,
+        "Beyerberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075373> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAnsbaBeyerberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beyerberg"@de .
+

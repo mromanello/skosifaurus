@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034419> a skos:Concept ;
+    skos:altLabel "Moskau, Kreml"@en,
+        "Moskau, Kreml"@fr,
+        "Moskau, Kreml"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMoskau, Kreml" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moskau, Kreml"@de .
+

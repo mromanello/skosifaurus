@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042750> a skos:Concept ;
+    skos:altLabel "Plessis-Gassot (le), com. Mesnil Aubry"@en,
+        "Plessis-Gassot (le), com. Mesnil Aubry"@fr,
+        "Plessis-Gassot (le), com. Mesnil Aubry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038741> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dVal-dPlessis-G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plessis-Gassot (le), com. Mesnil Aubry"@de .
+

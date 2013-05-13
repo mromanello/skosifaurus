@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021302> a skos:Concept ;
+    skos:altLabel "Celsus, Aulus Cornelius"@en,
+        "Celsus, Aulus Cornelius"@fr,
+        "Celsus, Aulus Cornelius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCelsus, Aulus Cornelius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Celsus, Aulus Cornelius"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067173> a skos:Concept ;
+    skos:altLabel "Deduleşti, jud. Brăila"@en,
+        "Deduleşti, jud. Brăila"@fr,
+        "Deduleşti, jud. Brăila"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenDeduleşti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Deduleşti, jud. Brăila"@de .
+

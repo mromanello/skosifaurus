@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067017> a skos:Concept ;
+    skos:altLabel "Bihor (jud.)"@en,
+        "Bihor (jud.)"@fr,
+        "Bihor (jud.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReBihor (ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bihor (jud.)"@de .
+

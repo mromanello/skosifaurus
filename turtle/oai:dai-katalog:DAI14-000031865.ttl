@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031865> a skos:Concept ;
+    skos:altLabel "Sanders, Gabriel"@en,
+        "Sanders, Gabriel"@fr,
+        "Sanders, Gabriel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSanders, Gabriel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sanders, Gabriel"@de .
+

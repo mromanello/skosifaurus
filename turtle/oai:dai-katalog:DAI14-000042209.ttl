@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042209> a skos:Concept ;
+    skos:altLabel "Crèvecoeur-sur-l'Escaut"@en,
+        "Crèvecoeur-sur-l'Escaut"@fr,
+        "Crèvecoeur-sur-l'Escaut"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038728> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dNordCrèvecoeu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crèvecoeur-sur-l'Escaut"@de .
+

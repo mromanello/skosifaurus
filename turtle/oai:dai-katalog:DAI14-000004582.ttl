@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004582> a skos:Concept ;
+    skos:altLabel "Iberian Peninsula (1956 - 1997)"@en,
+        "Penisola Pirenaica (1956 - 1997)"@it,
+        "péninsule Ibérique (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004569> ;
+    skos:hiddenLabel "xFrMAGebPyren" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pyrenäenhalbinsel (1956 - 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045735> a skos:Concept ;
+    skos:altLabel "Belbèze-en-Comminges"@en,
+        "Belbèze-en-Comminges"@fr,
+        "Belbèze-en-Comminges"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038815> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitHauteBelbèze-e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Belbèze-en-Comminges"@de .
+

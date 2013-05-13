@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033661> a skos:Concept ;
+    skos:altLabel "Lichtenberg, Georg Christoph"@en,
+        "Lichtenberg, Georg Christoph"@fr,
+        "Lichtenberg, Georg Christoph"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoLichtenberg, Georg Christoph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lichtenberg, Georg Christoph"@de .
+

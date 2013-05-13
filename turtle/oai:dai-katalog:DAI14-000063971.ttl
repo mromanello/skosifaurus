@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063971> a skos:Concept ;
+    skos:altLabel "Sopotnice, okr. Ustí-nad-Orlicí"@en,
+        "Sopotnice, okr. Ustí-nad-Orlicí"@fr,
+        "Sopotnice, okr. Ustí-nad-Orlicí"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechySopotnice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sopotnice, okr. Ustí-nad-Orlicí"@de .
+

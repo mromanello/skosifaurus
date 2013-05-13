@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042880> a skos:Concept ;
+    skos:altLabel "Brienne-la-Vieille"@en,
+        "Brienne-la-Vieille"@fr,
+        "Brienne-la-Vieille"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038745> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacAubeBrienne-l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brienne-la-Vieille"@de .
+

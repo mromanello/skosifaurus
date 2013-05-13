@@ -1,0 +1,236 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002495_Aiolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Aiolis" .
+
+<http://data.dainst.de/zenon/000002495_Amanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Amanos" .
+
+<http://data.dainst.de/zenon/000002495_Armenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Armenia" .
+
+<http://data.dainst.de/zenon/000002495_Arzanene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Arzanene" .
+
+<http://data.dainst.de/zenon/000002495_Bayburt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Bayburt" .
+
+<http://data.dainst.de/zenon/000002495_BeyDağlan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Bey Dağlan" .
+
+<http://data.dainst.de/zenon/000002495_Bithynia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Bithynia" .
+
+<http://data.dainst.de/zenon/000002495_BolkarDağları> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Bolkar Dağları" .
+
+<http://data.dainst.de/zenon/000002495_Botan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Botan" .
+
+<http://data.dainst.de/zenon/000002495_Chersonesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Chersonesos" .
+
+<http://data.dainst.de/zenon/000002495_Cordyene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Cordyene" .
+
+<http://data.dainst.de/zenon/000002495_DaraçyaYarımadası> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Daraçya Yarımadası" .
+
+<http://data.dainst.de/zenon/000002495_Demrevedi:Myra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Demre vedi: Myra" .
+
+<http://data.dainst.de/zenon/000002495_Galatia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Galatia" .
+
+<http://data.dainst.de/zenon/000002495_Gaziantep> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Gaziantep" .
+
+<http://data.dainst.de/zenon/000002495_GeliboluYarımadası> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Gelibolu Yarımadası" .
+
+<http://data.dainst.de/zenon/000002495_Granikos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Granikos" .
+
+<http://data.dainst.de/zenon/000002495_Hatay> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Hatay" .
+
+<http://data.dainst.de/zenon/000002495_Honoriasvedi:Paphlagonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Honorias vedi: Paphlagonia" .
+
+<http://data.dainst.de/zenon/000002495_Ionia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Ionia" .
+
+<http://data.dainst.de/zenon/000002495_Ionien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Ionien" .
+
+<http://data.dainst.de/zenon/000002495_Isauria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Isauria" .
+
+<http://data.dainst.de/zenon/000002495_Kabalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kabalia" .
+
+<http://data.dainst.de/zenon/000002495_Kappadokia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kappadokia" .
+
+<http://data.dainst.de/zenon/000002495_Karatepe-Aslantaş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Karatepe-Aslantaş" .
+
+<http://data.dainst.de/zenon/000002495_Karia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Karia" .
+
+<http://data.dainst.de/zenon/000002495_Kataonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kataonia" .
+
+<http://data.dainst.de/zenon/000002495_Kazıklı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kazıklı" .
+
+<http://data.dainst.de/zenon/000002495_Kibyratis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kibyratis" .
+
+<http://data.dainst.de/zenon/000002495_Kilikia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kilikia" .
+
+<http://data.dainst.de/zenon/000002495_Kommagene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kommagene" .
+
+<http://data.dainst.de/zenon/000002495_Kurdistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kurdistan" .
+
+<http://data.dainst.de/zenon/000002495_Kyrrhestike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Kyrrhestike" .
+
+<http://data.dainst.de/zenon/000002495_Lydia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Lydia" .
+
+<http://data.dainst.de/zenon/000002495_Lykaonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Lykaonia" .
+
+<http://data.dainst.de/zenon/000002495_Lykia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Lykia" .
+
+<http://data.dainst.de/zenon/000002495_Maiandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Maiandros" .
+
+<http://data.dainst.de/zenon/000002495_Melitenevedi:EskiMalatya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Melitene vedi: Eski Malatya" .
+
+<http://data.dainst.de/zenon/000002495_Menderes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Menderes" .
+
+<http://data.dainst.de/zenon/000002495_Milyas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Milyas" .
+
+<http://data.dainst.de/zenon/000002495_Mysia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Mysia" .
+
+<http://data.dainst.de/zenon/000002495_Osroene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Osroene" .
+
+<http://data.dainst.de/zenon/000002495_Ostanatolien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Ostanatolien" .
+
+<http://data.dainst.de/zenon/000002495_Pamphylia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Pamphylia" .
+
+<http://data.dainst.de/zenon/000002495_Paphlagonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Paphlagonia" .
+
+<http://data.dainst.de/zenon/000002495_Phrygia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Phrygia" .
+
+<http://data.dainst.de/zenon/000002495_Pisidia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Pisidia" .
+
+<http://data.dainst.de/zenon/000002495_Pontos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Pontos" .
+
+<http://data.dainst.de/zenon/000002495_RhodionPeraia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Rhodion Peraia" .
+
+<http://data.dainst.de/zenon/000002495_SchwarzesMeer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Schwarzes Meer" .
+
+<http://data.dainst.de/zenon/000002495_Sophene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Sophene" .
+
+<http://data.dainst.de/zenon/000002495_Tabal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Tabal" .
+
+<http://data.dainst.de/zenon/000002495_TorosDağları> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Toros Dağları" .
+
+<http://data.dainst.de/zenon/000002495_Troas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Troas" .
+
+<http://data.dainst.de/zenon/000002495_TurʿAbdin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Tur ʿAbdin" .
+
+<http://data.dainst.de/zenon/000002495_TuzGölü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002495> ;
+    skos:prefLabel "Tuz Gölü" .
+
+<http://data.dainst.de/zenon/000002495> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002494> ;
+    skos:hiddenLabel "xTopLandTkGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

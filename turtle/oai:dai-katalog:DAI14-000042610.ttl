@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042610> a skos:Concept ;
+    skos:altLabel "Ault"@en,
+        "Ault"@fr,
+        "Ault"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038736> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSommeAult" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ault"@de .
+

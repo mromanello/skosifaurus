@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021496> a skos:Concept ;
+    skos:altLabel "Firmicus Maternus, Iulius"@en,
+        "Firmicus Maternus, Iulius"@fr,
+        "Firmicus Maternus, Iulius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoFirmicus Maternus, Iulius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Firmicus Maternus, Iulius"@de .
+

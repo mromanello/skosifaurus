@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010558> a skos:Concept ;
+    skos:altLabel "Istanbul, Universität"@en,
+        "Istanbul, Universität"@fr,
+        "Istanbul, Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiIstanbul, Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Istanbul, Universität"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070013> a skos:Concept ;
+    skos:altLabel "Suvero"@en,
+        "Suvero"@fr,
+        "Suvero"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039169> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLigurLa SpSuvero" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Suvero"@de .
+

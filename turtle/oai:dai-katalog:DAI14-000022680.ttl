@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022680> a skos:Concept ;
+    skos:altLabel "Atilii"@en,
+        "Atilii"@fr,
+        "Atilii"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschAtilii" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Atilii"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032631> a skos:Concept ;
+    skos:altLabel "Terra Sigillata"@en,
+        "Terra Sigillata"@fr,
+        "Terra Sigillata"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliTerra Sigillata" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Terra Sigillata"@de .
+

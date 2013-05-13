@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048102> a skos:Concept ;
+    skos:altLabel "South Holmwood"@en,
+        "South Holmwood"@fr,
+        "South Holmwood"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077709> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSurreSouth Hol" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "South Holmwood"@de .
+

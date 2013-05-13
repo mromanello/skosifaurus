@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049422> a skos:Concept ;
+    skos:altLabel "Chiers"@en,
+        "Chiers"@fr,
+        "Chiers"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038848> ;
+    skos:hiddenLabel "zTopogEuropWesteLuxemChiers" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chiers"@de .
+

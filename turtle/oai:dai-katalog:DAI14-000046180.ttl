@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046180> a skos:Concept ;
+    skos:altLabel "Ornaisons"@en,
+        "Ornaisons"@fr,
+        "Ornaisons"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038827> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguAudeOrnaisons" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ornaisons"@de .
+

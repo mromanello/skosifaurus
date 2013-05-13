@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027814> a skos:Concept ;
+    skos:altLabel "Buonconsiglio, Castello"@en,
+        "Buonconsiglio, Castello"@fr,
+        "Buonconsiglio, Castello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBuonconsiglio, Castello" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buonconsiglio, Castello"@de .
+

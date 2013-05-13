@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039025> a skos:Concept ;
+    skos:altLabel "Opolskie"@en,
+        "Opolskie"@fr,
+        "Opolskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039023> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpols" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Opolskie"@de .
+

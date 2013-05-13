@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047185> a skos:Concept ;
+    skos:altLabel "Frith End"@en,
+        "Frith End"@fr,
+        "Frith End"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077690> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHampsFrith End" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frith End"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014856> a skos:Concept ;
+    skos:altLabel "Dépôsits votifs"@fr,
+        "Ofiary/miejsca ofiar cialopalnych"@pl,
+        "Votive deposits"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014851> ;
+    skos:hiddenLabel "yRGKArch08 - DeponFunduOpfer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Opfer/Brandopferplatz"@de .
+

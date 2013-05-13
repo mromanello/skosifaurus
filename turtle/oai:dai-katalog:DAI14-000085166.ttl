@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085166> a skos:Concept ;
+    skos:altLabel "Lamia 1999"@en,
+        "Lamia 1999"@fr,
+        "Lamia 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLamia 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lamia 1999"@de .
+

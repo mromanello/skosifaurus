@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051459> a skos:Concept ;
+    skos:altLabel "Niedernberg"@en,
+        "Niedernberg"@fr,
+        "Niedernberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075440> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMilteNiedernbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niedernberg"@de .
+

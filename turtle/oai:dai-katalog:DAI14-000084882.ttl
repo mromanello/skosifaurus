@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084882> a skos:Concept ;
+    skos:altLabel "Nitra 2009"@en,
+        "Nitra 2009"@fr,
+        "Nitra 2009"@pl ;
+    skos:hiddenLabel "zKongrNitra 2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nitra 2009"@de ;
+    skos:topConceptOf base:thesaurus .
+

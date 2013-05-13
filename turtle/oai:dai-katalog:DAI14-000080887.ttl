@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080887> a skos:Concept ;
+    skos:altLabel "Ida-Virumaa"@en,
+        "Ida-Virumaa"@fr,
+        "Ida-Virumaa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038700> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiEstlaIda-Virum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ida-Virumaa"@de .
+

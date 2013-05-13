@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019501> a skos:Concept ;
+    skos:altLabel "Tatares"@fr,
+        "Tatars"@en,
+        "Tatarzy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019486> ;
+    skos:hiddenLabel "yRGKEthnSteppTatar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tataren"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043925> a skos:Concept ;
+    skos:altLabel "Ouzilly-Vignolles"@en,
+        "Ouzilly-Vignolles"@fr,
+        "Ouzilly-Vignolles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038771> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaViennOuzilly-V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ouzilly-Vignolles"@de .
+

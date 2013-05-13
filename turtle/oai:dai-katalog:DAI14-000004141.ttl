@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004141> a skos:Concept ;
+    skos:altLabel "Eastern Europe (untill 1997)"@en,
+        "Europa orientale (fino al 1997)"@it,
+        "Europe orientale (jusqu'au 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgO-Eur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ost-Europa (bis 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024405> a skos:Concept ;
+    skos:altLabel "Legio XI Claudia pia fidelis"@en,
+        "Legio XI Claudia pia fidelis"@fr,
+        "Legio XI Claudia pia fidelis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016054> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitLegioLegio XI Claudia pia fidelis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legio XI Claudia pia fidelis"@de .
+

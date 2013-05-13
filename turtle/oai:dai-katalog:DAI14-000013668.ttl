@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013668> a skos:Concept ;
+    skos:altLabel "Double/multiple burials"@en,
+        "Groby podwójne/zbiorowe"@pl,
+        "Sépultures doubles/multiples"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013664> ;
+    skos:hiddenLabel "yRGKArch06 - GräbeBestaDoppe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Doppel-/Mehrfachbestattungen"@de .
+

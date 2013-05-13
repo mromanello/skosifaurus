@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058127> a skos:Concept ;
+    skos:altLabel "Stockerau, VB Korneuburg"@en,
+        "Stockerau, VB Korneuburg"@fr,
+        "Stockerau, VB Korneuburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeStockerau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockerau, VB Korneuburg"@de .
+

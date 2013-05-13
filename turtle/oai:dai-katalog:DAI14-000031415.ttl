@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031415> a skos:Concept ;
+    skos:altLabel "Durczewski, Dobromir"@en,
+        "Durczewski, Dobromir"@fr,
+        "Durczewski, Dobromir"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliDurczewski, Dobromir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Durczewski, Dobromir"@de .
+

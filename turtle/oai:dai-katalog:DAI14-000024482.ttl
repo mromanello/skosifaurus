@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024482> a skos:Concept ;
+    skos:altLabel "Cohors II Tungrorum Milliaria Equitata c. L."@en,
+        "Cohors II Tungrorum Milliaria Equitata c. L."@fr,
+        "Cohors II Tungrorum Milliaria Equitata c. L."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016058> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitAuxilAuxilCohors II Tungrorum Milliaria Equitata c. L." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cohors II Tungrorum Milliaria Equitata c. L."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047684> a skos:Concept ;
+    skos:altLabel "East Bedfont-Mayfield Farm"@en,
+        "East Bedfont-Mayfield Farm"@fr,
+        "East Bedfont-Mayfield Farm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077757> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaLondoEast Bedf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "East Bedfont-Mayfield Farm"@de .
+

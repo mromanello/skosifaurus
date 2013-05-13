@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075775> a skos:Concept ;
+    skos:altLabel "Kunzenloch, Gde. Lerbach"@en,
+        "Kunzenloch, Gde. Lerbach"@fr,
+        "Kunzenloch, Gde. Lerbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075597> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeOsterKunzenloc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kunzenloch, Gde. Lerbach"@de .
+

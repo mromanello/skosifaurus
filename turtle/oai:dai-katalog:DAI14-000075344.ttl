@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075344> a skos:Concept ;
+    skos:altLabel "Karlsruhe"@en,
+        "Karlsruhe"@fr,
+        "Karlsruhe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038866> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenKarlsruhe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karlsruhe"@de .
+

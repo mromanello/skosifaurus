@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009867> a skos:Concept ;
+    skos:altLabel "Schwarz, Klaus"@en,
+        "Schwarz, Klaus"@fr,
+        "Schwarz, Klaus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSchwarz, Klaus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwarz, Klaus"@de .
+

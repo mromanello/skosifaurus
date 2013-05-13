@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080817> a skos:Concept ;
+    skos:altLabel "Roquefort-les-Pins"@en,
+        "Roquefort-les-Pins"@fr,
+        "Roquefort-les-Pins"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038799> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAlpesRoquefort" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roquefort-les-Pins"@de .
+

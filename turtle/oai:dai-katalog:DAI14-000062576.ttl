@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062576> a skos:Concept ;
+    skos:altLabel "Vaduz"@en,
+        "Vaduz"@fr,
+        "Vaduz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039060> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweLiechVaduz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vaduz"@de .
+

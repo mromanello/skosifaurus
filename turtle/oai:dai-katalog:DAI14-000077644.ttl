@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077644> a skos:Concept ;
+    skos:altLabel "Markkleeberg"@en,
+        "Markkleeberg"@fr,
+        "Markkleeberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038954> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsLeipzMarkkleeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Markkleeberg"@de .
+

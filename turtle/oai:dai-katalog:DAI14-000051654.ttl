@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051654> a skos:Concept ;
+    skos:altLabel "Vohburg a.d. Donau-Menning"@en,
+        "Vohburg a.d. Donau-Menning"@fr,
+        "Vohburg a.d. Donau-Menning"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075449> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerPfaffVohburg a" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vohburg a.d. Donau-Menning"@de .
+

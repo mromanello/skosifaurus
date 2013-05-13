@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044344> a skos:Concept ;
+    skos:altLabel "Saint-Rémy"@en,
+        "Saint-Rémy"@fr,
+        "Saint-Rémy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038779> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgSaôneSaint-Rém" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Rémy"@de .
+

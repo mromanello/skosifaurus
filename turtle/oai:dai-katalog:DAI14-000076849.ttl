@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076849> a skos:Concept ;
+    skos:altLabel "Quantock Hills"@en,
+        "Quantock Hills"@fr,
+        "Quantock Hills"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077706> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSomerQuantock" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quantock Hills"@de .
+

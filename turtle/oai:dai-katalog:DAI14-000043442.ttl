@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043442> a skos:Concept ;
+    skos:altLabel "Châteauneuf-du-Faou"@en,
+        "Châteauneuf-du-Faou"@fr,
+        "Châteauneuf-du-Faou"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038759> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaFinisChâteaune" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Châteauneuf-du-Faou"@de .
+

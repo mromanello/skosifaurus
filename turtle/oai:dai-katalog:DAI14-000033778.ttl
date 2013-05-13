@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033778> a skos:Concept ;
+    skos:altLabel "Praefectus urbi"@en,
+        "Praefectus urbi"@fr,
+        "Praefectus urbi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016053> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitMilitPraef" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Praefectus classis"@de .
+

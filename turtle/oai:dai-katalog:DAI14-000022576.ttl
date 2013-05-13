@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022576> a skos:Concept ;
+    skos:altLabel "Velius Longus"@en,
+        "Velius Longus"@fr,
+        "Velius Longus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVelius Longus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Velius Longus"@de .
+

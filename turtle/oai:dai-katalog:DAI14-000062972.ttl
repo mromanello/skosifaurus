@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062972> a skos:Concept ;
+    skos:altLabel "Veselé, okr. Piešt'any"@en,
+        "Veselé, okr. Piešt'any"@fr,
+        "Veselé, okr. Piešt'any"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaVeselé, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Veselé, okr. Piešt'any"@de .
+

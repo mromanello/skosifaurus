@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054307> a skos:Concept ;
+    skos:altLabel "Wiersdorf, Gde. Heeslingen"@en,
+        "Wiersdorf, Gde. Heeslingen"@fr,
+        "Wiersdorf, Gde. Heeslingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075598> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeRotenWiersdorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wiersdorf, Gde. Heeslingen"@de .
+

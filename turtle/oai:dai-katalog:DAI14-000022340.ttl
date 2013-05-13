@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022340> a skos:Concept ;
+    skos:altLabel "Romanos <Byzanz, Basileos, III.>"@en,
+        "Romanos <Byzanz, Basileos, III.>"@fr,
+        "Romanos <Byzanz, Basileos, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoRomanos <Byzanz, Basileos, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Romanos <Byzanz, Basileos, III.>"@de .
+

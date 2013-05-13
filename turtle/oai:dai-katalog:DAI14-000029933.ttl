@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029933> a skos:Concept ;
+    skos:altLabel "Bicknell, Clarence"@en,
+        "Bicknell, Clarence"@fr,
+        "Bicknell, Clarence"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaBicknell, Clarence" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bicknell, Clarence"@de .
+

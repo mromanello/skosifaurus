@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079166> a skos:Concept ;
+    skos:altLabel "Ense-Bremen"@en,
+        "Ense-Bremen"@fr,
+        "Ense-Bremen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038899> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrSoestEnse-Brem" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ense-Bremen"@de .
+

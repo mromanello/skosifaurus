@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027222> a skos:Concept ;
+    skos:altLabel "Sitten 1998/1999"@en,
+        "Sitten 1998/1999"@fr,
+        "Sitten 1998/1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSitten 1998/1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sitten 1998/1999"@de .
+

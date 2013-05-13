@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080220> a skos:Concept ;
+    skos:altLabel "Gachnang-Niederwil"@en,
+        "Gachnang-Niederwil"@fr,
+        "Gachnang-Niederwil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039053> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweThurgGachnang-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gachnang-Niederwil"@de .
+

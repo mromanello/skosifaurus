@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011705> a skos:Concept ;
+    skos:altLabel "Bonch-Osmolovsky, G. A."@en,
+        "Bonch-Osmolovsky, G. A."@fr,
+        "Bonch-Osmolovsky, G. A."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBonch-Osmolovsky, G. A." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonch-Osmolovsky, G. A."@de .
+

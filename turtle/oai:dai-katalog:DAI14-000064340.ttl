@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064340> a skos:Concept ;
+    skos:altLabel "Drżovuce, okr. Prostějov"@en,
+        "Drżovuce, okr. Prostějov"@fr,
+        "Drżovuce, okr. Prostějov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravDrżovuce," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Drżovuce, okr. Prostějov"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012803> a skos:Concept ;
+    skos:altLabel "Kamien/skala"@pl,
+        "Pierre/roche"@fr,
+        "Stone/rock"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012802> ;
+    skos:hiddenLabel "yRGKArch04 - FundeKunstMaterStein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stein/Fels"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035713> a skos:Concept ;
+    skos:altLabel "Dübendorf 2002"@en,
+        "Dübendorf 2002"@fr,
+        "Dübendorf 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrDübendorf 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dübendorf 2002"@de .
+

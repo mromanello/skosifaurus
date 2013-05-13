@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031023> a skos:Concept ;
+    skos:altLabel "Uppsala, Institut för Arkeologie och Antik historia"@en,
+        "Uppsala, Institut för Arkeologie och Antik historia"@fr,
+        "Uppsala, Institut för Arkeologie och Antik historia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiUppsala, Institut för Arkeologie och Antik historia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Uppsala, Institut för Arkeologie och Antik historia"@de .
+

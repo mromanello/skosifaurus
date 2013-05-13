@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050635> a skos:Concept ;
+    skos:altLabel "Stuttgart-Bad Cannstatt"@en,
+        "Stuttgart-Bad Cannstatt"@fr,
+        "Stuttgart-Bad Cannstatt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075363> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenStuttStuttgart" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stuttgart-Bad Cannstatt"@de .
+

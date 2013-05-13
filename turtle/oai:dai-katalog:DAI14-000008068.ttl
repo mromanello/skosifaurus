@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008068> a skos:Concept ;
+    skos:altLabel "Diehl, Wilhelm Hermann"@en,
+        "Diehl, Wilhelm Hermann"@fr,
+        "Diehl, Wilhelm Hermann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDiehl, Wilhelm Hermann" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Diehl, Wilhelm Hermann"@de .
+

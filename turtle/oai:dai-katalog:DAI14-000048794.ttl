@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048794> a skos:Concept ;
+    skos:altLabel "Brechin, Angus"@en,
+        "Brechin, Angus"@fr,
+        "Brechin, Angus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078508> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotTaysiBrechin," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brechin, Angus"@de .
+

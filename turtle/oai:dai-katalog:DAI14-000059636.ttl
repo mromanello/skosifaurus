@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059636> a skos:Concept ;
+    skos:altLabel "Chrościn"@en,
+        "Chrościn"@fr,
+        "Chrościn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039016> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkWielkChrościn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chrościn"@de .
+

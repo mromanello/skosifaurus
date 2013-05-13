@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003919> a skos:Concept ;
+    skos:altLabel "en général et plusieurs"@fr,
+        "in general or several"@en,
+        "in genere e diversi"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003918> ;
+    skos:hiddenLabel "xReligOrtAllg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "allgemein und mehrere"@de .
+

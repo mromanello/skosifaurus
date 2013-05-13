@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011677> a skos:Concept ;
+    skos:altLabel "Dietler, P. A."@en,
+        "Dietler, P. A."@fr,
+        "Dietler, P. A."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDietler, P. A." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dietler, P. A."@de .
+

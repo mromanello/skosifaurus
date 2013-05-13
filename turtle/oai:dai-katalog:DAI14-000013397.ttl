@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013397> a skos:Concept ;
+    skos:altLabel "Petrografia"@pl,
+        "Petrography"@en,
+        "Pétrographie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013396> ;
+    skos:hiddenLabel "yRGKArch05 - NaturMaterGeste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gesteine"@de .
+

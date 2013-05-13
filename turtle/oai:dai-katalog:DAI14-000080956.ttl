@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080956> a skos:Concept ;
+    skos:altLabel "Sidi Ali ben Ahmed-Thamusida"@en,
+        "Sidi Ali ben Ahmed-Thamusida"@fr,
+        "Sidi Ali ben Ahmed-Thamusida"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039403> ;
+    skos:hiddenLabel "zTopogAfrikNordaMarokSidi Ali" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sidi Ali ben Ahmed-Thamusida"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061951> a skos:Concept ;
+    skos:altLabel "Kleinbösingen"@en,
+        "Kleinbösingen"@fr,
+        "Kleinbösingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039040> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweFreibKleinbösi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kleinbösingen"@de .
+

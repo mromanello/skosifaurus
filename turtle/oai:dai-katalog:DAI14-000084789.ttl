@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084789> a skos:Concept ;
+    skos:altLabel "Tammeküla"@en,
+        "Tammeküla"@fr,
+        "Tammeküla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038700> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiEstlaTammeküla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tammeküla"@de .
+

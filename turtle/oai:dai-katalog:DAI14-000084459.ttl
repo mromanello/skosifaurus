@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084459> a skos:Concept ;
+    skos:altLabel "Byres, James"@en,
+        "Byres, James"@fr,
+        "Byres, James"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoByres, James" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Byres, James"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039113> a skos:Concept ;
+    skos:altLabel "Kardzali"@en,
+        "Kardzali"@fr,
+        "Kardzali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039111> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaPlovdKardz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kardzali"@de .
+

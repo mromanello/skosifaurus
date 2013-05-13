@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079195> a skos:Concept ;
+    skos:altLabel "Floriţoaia Nouă, raj. Ungheni"@en,
+        "Floriţoaia Nouă, raj. Ungheni"@fr,
+        "Floriţoaia Nouă, raj. Ungheni"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaFloriţoai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Floriţoaia Nouă, raj. Ungheni"@de .
+

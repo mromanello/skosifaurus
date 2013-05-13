@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048400> a skos:Concept ;
+    skos:altLabel "West Heslerton, North Yorkshire"@en,
+        "West Heslerton, North Yorkshire"@fr,
+        "West Heslerton, North Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksWest Hesl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "West Heslerton, North Yorkshire"@de .
+

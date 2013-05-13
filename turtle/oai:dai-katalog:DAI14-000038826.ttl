@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038826> a skos:Concept ;
+    skos:altLabel "Languedoc-Roussillon"@en,
+        "Languedoc-Roussillon"@fr,
+        "Languedoc-Roussillon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038722> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLangu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Languedoc-Roussillon"@de .
+

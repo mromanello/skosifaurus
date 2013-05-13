@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049095> a skos:Concept ;
+    skos:altLabel "Strath of Kildonan"@en,
+        "Strath of Kildonan"@fr,
+        "Strath of Kildonan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038843> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotZZ-ScStrath of" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strath of Kildonan"@de .
+

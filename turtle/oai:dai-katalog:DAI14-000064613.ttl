@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064613> a skos:Concept ;
+    skos:altLabel "Vávrovice, okr. Opava"@en,
+        "Vávrovice, okr. Opava"@fr,
+        "Vávrovice, okr. Opava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravVávrovice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vávrovice, okr. Opava"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051948> a skos:Concept ;
+    skos:altLabel "Mindelheim"@en,
+        "Mindelheim"@fr,
+        "Mindelheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075463> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerUnterMindelhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mindelheim"@de .
+

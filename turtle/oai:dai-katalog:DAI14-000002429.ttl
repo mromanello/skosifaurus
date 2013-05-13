@@ -1,0 +1,100 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002429_Ajlun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Ajlun" .
+
+<http://data.dainst.de/zenon/000002429_Ammon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Ammon" .
+
+<http://data.dainst.de/zenon/000002429_Ardel-Kerak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Ard el-Kerak" .
+
+<http://data.dainst.de/zenon/000002429_Bosna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Bosna" .
+
+<http://data.dainst.de/zenon/000002429_Dekapolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Dekapolis" .
+
+<http://data.dainst.de/zenon/000002429_Edom> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Edom" .
+
+<http://data.dainst.de/zenon/000002429_Ghor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Ghor" .
+
+<http://data.dainst.de/zenon/000002429_Gilead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Gilead" .
+
+<http://data.dainst.de/zenon/000002429_Hauran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Hauran" .
+
+<http://data.dainst.de/zenon/000002429_Hisma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Hisma" .
+
+<http://data.dainst.de/zenon/000002429_Moab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Moab" .
+
+<http://data.dainst.de/zenon/000002429_Peraea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Peraea" .
+
+<http://data.dainst.de/zenon/000002429_WadiArab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Arab" .
+
+<http://data.dainst.de/zenon/000002429_WadiBayir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Bayir" .
+
+<http://data.dainst.de/zenon/000002429_WadiFaynan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Faynan" .
+
+<http://data.dainst.de/zenon/000002429_WadiFidan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Fidan" .
+
+<http://data.dainst.de/zenon/000002429_WadiHasa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Hasa" .
+
+<http://data.dainst.de/zenon/000002429_WadiMusa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Musa" .
+
+<http://data.dainst.de/zenon/000002429_WadiZiqlab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi Ziqlab" .
+
+<http://data.dainst.de/zenon/000002429_Wadiel-Hasa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi el-Hasa" .
+
+<http://data.dainst.de/zenon/000002429_Wadiel-Yabis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi el-Yabis" .
+
+<http://data.dainst.de/zenon/000002429_WadiʿAraba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002429> ;
+    skos:prefLabel "Wadi ʿAraba" .
+
+<http://data.dainst.de/zenon/000002429> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002428> ;
+    skos:hiddenLabel "xTopLandJordGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

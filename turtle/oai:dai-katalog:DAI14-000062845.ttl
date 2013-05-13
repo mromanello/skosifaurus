@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062845> a skos:Concept ;
+    skos:altLabel "Plaveč, okr. Stará Lubovňa"@en,
+        "Plaveč, okr. Stará Lubovňa"@fr,
+        "Plaveč, okr. Stará Lubovňa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaPlaveč, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plaveč, okr. Stará Lubovňa"@de .
+

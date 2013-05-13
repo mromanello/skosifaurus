@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033357> a skos:Concept ;
+    skos:altLabel "Charleroi, Collection Chambon"@en,
+        "Charleroi, Collection Chambon"@fr,
+        "Charleroi, Collection Chambon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaCharleroi, Collection Chambon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Charleroi, Collection Chambon"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073322> a skos:Concept ;
+    skos:altLabel "Sanchorreja"@en,
+        "Sanchorreja"@fr,
+        "Sanchorreja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039327> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiAvilaSanchorre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sanchorreja"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049961> a skos:Concept ;
+    skos:altLabel "Sattenbeuren"@en,
+        "Sattenbeuren"@fr,
+        "Sattenbeuren"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075328> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBiberSattenbeu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sattenbeuren"@de .
+

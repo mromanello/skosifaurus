@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028386> a skos:Concept ;
+    skos:altLabel "Lichtenau, Archäologischer Erlebnispark Gabreta"@en,
+        "Lichtenau, Archäologischer Erlebnispark Gabreta"@fr,
+        "Lichtenau, Archäologischer Erlebnispark Gabreta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLichtenau, Archäologischer Erlebnispark Gabreta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lichtenau, Archäologischer Erlebnispark Gabreta"@de .
+

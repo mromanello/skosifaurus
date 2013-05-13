@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049660> a skos:Concept ;
+    skos:altLabel "Neliske, St. Odiliënberg"@en,
+        "Neliske, St. Odiliënberg"@fr,
+        "Neliske, St. Odiliënberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038856> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeLimbuNeliske," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neliske, St. Odiliënberg"@de .
+

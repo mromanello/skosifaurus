@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011398> a skos:Concept ;
+    skos:altLabel "Société des belles-lettres"@en,
+        "Société des belles-lettres"@fr,
+        "Société des belles-lettres"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiSociété des belles-lettres" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Société des belles-lettres"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018054> a skos:Concept ;
+    skos:altLabel "Bassins gravés en bronze"@fr,
+        "Engraved bronze-basins"@en,
+        "Misy brazowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018052> ;
+    skos:hiddenLabel "yRGKArch12 - FundeGefäsMetalBronz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bronzeschalen (auch Hanseschalen)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051137> a skos:Concept ;
+    skos:altLabel "Wettstetten"@en,
+        "Wettstetten"@fr,
+        "Wettstetten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075405> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerEichsWettstett" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wettstetten"@de .
+

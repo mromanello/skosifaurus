@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070527> a skos:Concept ;
+    skos:altLabel "Castelfeder, Gm. Montan"@en,
+        "Castelfeder, Gm. Montan"@fr,
+        "Castelfeder, Gm. Montan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaCastelfed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castelfeder, Gm. Montan"@de .
+

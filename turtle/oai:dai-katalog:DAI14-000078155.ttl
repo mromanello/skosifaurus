@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078155> a skos:Concept ;
+    skos:altLabel "L'Épine"@en,
+        "L'Épine"@fr,
+        "L'Épine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038746> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMarneL'Épine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "L'Épine"@de .
+

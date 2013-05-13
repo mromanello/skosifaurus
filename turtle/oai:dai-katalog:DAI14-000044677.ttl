@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044677> a skos:Concept ;
+    skos:altLabel "Salzuit-Montgebrout"@en,
+        "Salzuit-Montgebrout"@fr,
+        "Salzuit-Montgebrout"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038790> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverHauteSalzuit-M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salzuit-Montgebrout"@de .
+

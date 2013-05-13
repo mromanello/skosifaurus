@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075518> a skos:Concept ;
+    skos:altLabel "Coume de Lias"@en,
+        "Coume de Lias"@fr,
+        "Coume de Lias"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038822> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitHauteCoume de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Coume de Lias"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062740> a skos:Concept ;
+    skos:altLabel "Košice-Šebastovce, okr. Košice"@en,
+        "Košice-Šebastovce, okr. Košice"@fr,
+        "Košice-Šebastovce, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaKošice-Še" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Košice-Šebastovce, okr. Košice"@de .
+

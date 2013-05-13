@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028205> a skos:Concept ;
+    skos:altLabel "Hrubieszów, Muzeum Regionalne"@en,
+        "Hrubieszów, Muzeum Regionalne"@fr,
+        "Hrubieszów, Muzeum Regionalne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuHrubieszów, Muzeum Regionalne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrubieszów, Muzeum Regionalne"@de .
+

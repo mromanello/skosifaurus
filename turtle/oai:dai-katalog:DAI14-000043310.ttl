@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043310> a skos:Concept ;
+    skos:altLabel "Grande Pile"@en,
+        "Grande Pile"@fr,
+        "Grande Pile"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038754> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacZZ--RGrande Pi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grande Pile"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012020> a skos:Concept ;
+    skos:altLabel "Franz, Leonhard C."@en,
+        "Franz, Leonhard C."@fr,
+        "Franz, Leonhard C."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFranz, Leonhard C." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Franz, Leonhard C."@de .
+

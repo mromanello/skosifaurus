@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025145> a skos:Concept ;
+    skos:altLabel "Ulpia Severina"@en,
+        "Ulpia Severina"@fr,
+        "Ulpia Severina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017178> ;
+    skos:hiddenLabel "yRGKArch10 - HistoNumisPräguRömisPrägeUlpia Severina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ulpia Severina"@de .
+

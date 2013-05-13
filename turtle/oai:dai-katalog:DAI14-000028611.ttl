@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028611> a skos:Concept ;
+    skos:altLabel "New York, The Brooklyn Museum"@en,
+        "New York, The Brooklyn Museum"@fr,
+        "New York, The Brooklyn Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuNew York, The Brooklyn Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "New York, The Brooklyn Museum"@de .
+

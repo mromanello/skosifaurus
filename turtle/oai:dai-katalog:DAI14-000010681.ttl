@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010681> a skos:Concept ;
+    skos:altLabel "Sächsischer Verein für Erforschung und Bewahrung vaterländischer Alter"@en,
+        "Sächsischer Verein für Erforschung und Bewahrung vaterländischer Alter"@fr,
+        "Sächsischer Verein für Erforschung und Bewahrung vaterländischer Alter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiSächsischer Verein für Erforschung und Bewahrung vaterländischer Alter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sächsischer Verein für Erforschung und Bewahrung vaterländischer Alter"@de .
+

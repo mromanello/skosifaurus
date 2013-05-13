@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081984> a skos:Concept ;
+    skos:altLabel "Ioton"@en,
+        "Ioton"@fr,
+        "Ioton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038828> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguGardIoton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ioton"@de .
+

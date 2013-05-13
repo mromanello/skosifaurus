@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023183> a skos:Concept ;
+    skos:altLabel "Damona"@en,
+        "Damona"@fr,
+        "Damona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014940> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligGötteDamona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Damona"@de .
+

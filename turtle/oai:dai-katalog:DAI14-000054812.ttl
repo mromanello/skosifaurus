@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054812> a skos:Concept ;
+    skos:altLabel "Kirchlengern-Südlengern"@en,
+        "Kirchlengern-Südlengern"@fr,
+        "Kirchlengern-Südlengern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075643> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHerfoKirchleng" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kirchlengern-Südlengern"@de .
+

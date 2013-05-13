@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012969> a skos:Concept ;
+    skos:altLabel "Naczynia zoomorficzne"@pl,
+        "Vases zoomorphes"@fr,
+        "Zoomorphic vessels"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012968> ;
+    skos:hiddenLabel "yRGKArch05 - FundeGefäsKeramEinzeTierg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiergefässe"@de .
+

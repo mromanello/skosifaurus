@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042037> a skos:Concept ;
+    skos:altLabel "Fère-en-Tardenois"@en,
+        "Fère-en-Tardenois"@fr,
+        "Fère-en-Tardenois"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038724> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dAisneFère-en-T" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fère-en-Tardenois"@de .
+

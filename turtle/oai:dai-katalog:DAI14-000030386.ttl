@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030386> a skos:Concept ;
+    skos:altLabel "Schröder, Ludwig"@en,
+        "Schröder, Ludwig"@fr,
+        "Schröder, Ludwig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaSchröder, Ludwig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schröder, Ludwig"@de .
+

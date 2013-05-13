@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061936> a skos:Concept ;
+    skos:altLabel "Estavayer-le-Gibloux"@en,
+        "Estavayer-le-Gibloux"@fr,
+        "Estavayer-le-Gibloux"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039040> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweFreibEstavayer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Estavayer-le-Gibloux"@de .
+

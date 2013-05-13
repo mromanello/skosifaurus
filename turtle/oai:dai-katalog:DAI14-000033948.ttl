@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033948> a skos:Concept ;
+    skos:altLabel "Xanten, LVR-Römermuseum"@en,
+        "Xanten, LVR-Römermuseum"@fr,
+        "Xanten, LVR-Römermuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuXanten, LVR-Römermuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Xanten, LVR-Römermuseum"@de .
+

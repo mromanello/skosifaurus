@@ -1,0 +1,53 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001063_Ani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Ani" .
+
+<http://data.dainst.de/zenon/000001063_Armavir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Armavir" .
+
+<http://data.dainst.de/zenon/000001063_Artašat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Artašat" .
+
+<http://data.dainst.de/zenon/000001063_Dvin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Dvin" .
+
+<http://data.dainst.de/zenon/000001063_Erevan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Erevan" .
+
+<http://data.dainst.de/zenon/000001063_Garni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Garni" .
+
+<http://data.dainst.de/zenon/000001063_Karmir-Blur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Karmir-Blur" .
+
+<http://data.dainst.de/zenon/000001063_Lori-Berd> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Lori-Berd" .
+
+<http://data.dainst.de/zenon/000001063_Tazakend> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Tazakend" .
+
+<http://data.dainst.de/zenon/000001063_Techut> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Techut" .
+
+<http://data.dainst.de/zenon/000001063_Širak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001063> ;
+    skos:prefLabel "Širak" .
+
+<http://data.dainst.de/zenon/000001063> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.08.03" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Armenien"@de .
+

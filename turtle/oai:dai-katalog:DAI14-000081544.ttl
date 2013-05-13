@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081544> a skos:Concept ;
+    skos:altLabel "Arkovna"@en,
+        "Arkovna"@fr,
+        "Arkovna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039124> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaVarnaVarnaArkovna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arkovna"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002056> a skos:Concept ;
+    skos:altLabel "Orient"@en,
+        "Orient"@fr,
+        "Oriente"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002002> ;
+    skos:hiddenLabel "xPraxBiblOr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orient"@de .
+

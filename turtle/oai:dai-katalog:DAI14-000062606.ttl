@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062606> a skos:Concept ;
+    skos:altLabel "Borša, okr. Trebišov"@en,
+        "Borša, okr. Trebišov"@fr,
+        "Borša, okr. Trebišov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaBorša, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borša, okr. Trebišov"@de .
+

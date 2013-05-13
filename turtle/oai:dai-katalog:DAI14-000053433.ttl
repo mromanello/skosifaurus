@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053433> a skos:Concept ;
+    skos:altLabel "Grevesmühlen-Wotenitz"@en,
+        "Grevesmühlen-Wotenitz"@fr,
+        "Grevesmühlen-Wotenitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075532> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordwGrevesmüh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grevesmühlen-Wotenitz"@de .
+

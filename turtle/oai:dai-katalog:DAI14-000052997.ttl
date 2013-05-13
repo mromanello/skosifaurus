@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052997> a skos:Concept ;
+    skos:altLabel "Eschwege-Oberhone"@en,
+        "Eschwege-Oberhone"@fr,
+        "Eschwege-Oberhone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075508> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWerraEschwege-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eschwege-Oberhone"@de .
+

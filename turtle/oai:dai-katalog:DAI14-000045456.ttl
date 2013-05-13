@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045456> a skos:Concept ;
+    skos:altLabel "Vallée des Merveilles"@en,
+        "Vallée des Merveilles"@fr,
+        "Vallée des Merveilles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RVallée de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vallée des Merveilles"@de .
+

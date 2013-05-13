@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031628> a skos:Concept ;
+    skos:altLabel "Kolníková, Eva"@en,
+        "Kolníková, Eva"@fr,
+        "Kolníková, Eva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliKolníková, Eva" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kolníková, Eva"@de .
+

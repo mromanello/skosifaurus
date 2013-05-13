@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024730> a skos:Concept ;
+    skos:altLabel "Tetricus II."@en,
+        "Tetricus II."@fr,
+        "Tetricus II."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016297> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPräguRömisPrägeTetricus II." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tetricus II."@de .
+

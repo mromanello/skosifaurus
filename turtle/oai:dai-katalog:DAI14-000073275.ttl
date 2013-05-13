@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073275> a skos:Concept ;
+    skos:altLabel "Bará"@en,
+        "Bará"@fr,
+        "Bará"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039324> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCatalTarraBará" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bará"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072746> a skos:Concept ;
+    skos:altLabel "Lomba do Canho"@en,
+        "Lomba do Canho"@fr,
+        "Lomba do Canho"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039288> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuCoimbLomba do" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lomba do Canho"@de .
+

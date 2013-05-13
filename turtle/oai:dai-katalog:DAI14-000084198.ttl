@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084198> a skos:Concept ;
+    skos:altLabel "Twedt-Buschau"@en,
+        "Twedt-Buschau"@fr,
+        "Twedt-Buschau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038984> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleSchleTwedt-Bus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Twedt-Buschau"@de .
+

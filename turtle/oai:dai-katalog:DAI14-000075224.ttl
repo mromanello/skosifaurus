@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075224> a skos:Concept ;
+    skos:altLabel "Djebel El Ahmar"@en,
+        "Djebel El Ahmar"@fr,
+        "Djebel El Ahmar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039402> ;
+    skos:hiddenLabel "zTopogAfrikNordaLibyeDjebel El" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Djebel El Ahmar"@de .
+

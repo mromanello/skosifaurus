@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019645> a skos:Concept ;
+    skos:altLabel "Determinacja wieku/plci"@pl,
+        "Determination of age/sex"@en,
+        "Détermination de l'âge/du sexe"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019644> ;
+    skos:hiddenLabel "yRGKNaturAnthrAlter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alters-/Geschlechtsbestimmung"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015051> a skos:Concept ;
+    skos:altLabel "Cultivation of fruits/vegetables"@en,
+        "Culture de fruits/légumes"@fr,
+        "Uprawa owoców i warzyw"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015047> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsLandwBodenObst-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obst-/Gemüseanbau"@de .
+

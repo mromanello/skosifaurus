@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054432> a skos:Concept ;
+    skos:altLabel "Leerhafe, Stadt Wittmund"@en,
+        "Leerhafe, Stadt Wittmund"@fr,
+        "Leerhafe, Stadt Wittmund"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075552> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWittmLeerhafe," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leerhafe, Stadt Wittmund"@de .
+

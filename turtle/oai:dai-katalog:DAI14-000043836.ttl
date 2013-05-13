@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043836> a skos:Concept ;
+    skos:altLabel "Oisseau-le-Petit"@en,
+        "Oisseau-le-Petit"@fr,
+        "Oisseau-le-Petit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038769> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaSarthOisseau-l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oisseau-le-Petit"@de .
+

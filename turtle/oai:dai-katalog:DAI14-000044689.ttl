@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044689> a skos:Concept ;
+    skos:altLabel "Corent"@en,
+        "Corent"@fr,
+        "Corent"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038791> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverPuy-dCorent" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Corent"@de .
+

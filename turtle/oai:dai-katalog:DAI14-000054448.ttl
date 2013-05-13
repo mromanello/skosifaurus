@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054448> a skos:Concept ;
+    skos:altLabel "Flöthe-Gross Flöthe"@en,
+        "Flöthe-Gross Flöthe"@fr,
+        "Flöthe-Gross Flöthe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075556> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWolfeFlöthe-Gr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Flöthe-Gross Flöthe"@de .
+

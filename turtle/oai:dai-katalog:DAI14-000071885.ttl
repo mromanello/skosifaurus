@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071885> a skos:Concept ;
+    skos:altLabel "Valle dell'Aniene"@en,
+        "Valle dell'Aniene"@fr,
+        "Valle dell'Aniene"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039232> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaZZ--RValle del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle dell'Aniene"@de .
+

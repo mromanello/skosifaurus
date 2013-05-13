@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032697> a skos:Concept ;
+    skos:altLabel "Lemovici"@en,
+        "Lemovici"@fr,
+        "Lemovici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019420> ;
+    skos:hiddenLabel "yRGKEthnKelteLemov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lemovici"@de .
+

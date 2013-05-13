@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032037> a skos:Concept ;
+    skos:altLabel "Wurster, Wolfgang W."@en,
+        "Wurster, Wolfgang W."@fr,
+        "Wurster, Wolfgang W."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliWurster, Wolfgang W." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wurster, Wolfgang W."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048808> a skos:Concept ;
+    skos:altLabel "Carrick Castle, South Argyll"@en,
+        "Carrick Castle, South Argyll"@fr,
+        "Carrick Castle, South Argyll"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078502> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotStratCarrick C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carrick Castle, South Argyll"@de .
+

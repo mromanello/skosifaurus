@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014993> a skos:Concept ;
+    skos:altLabel "Countries and landscapes"@en,
+        "Krajobrazy/zycie na wsi"@pl,
+        "Pays et paysages"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014976> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKunstIkonoProfaLands" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landschaften/Landleben"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060923> a skos:Concept ;
+    skos:altLabel "Kraków-Bieżanów"@en,
+        "Kraków-Bieżanów"@fr,
+        "Kraków-Bieżanów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039029> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopMałopKraków-Bi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kraków-Bieżanów"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055433> a skos:Concept ;
+    skos:altLabel "Graach"@en,
+        "Graach"@fr,
+        "Graach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038914> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinBernkGraach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Graach"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067259> a skos:Concept ;
+    skos:altLabel "Măriuţa, jud. Călăraşi"@en,
+        "Măriuţa, jud. Călăraşi"@fr,
+        "Măriuţa, jud. Călăraşi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenMăriuţa," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Măriuţa, jud. Călăraşi"@de .
+

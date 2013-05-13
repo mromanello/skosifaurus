@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028500> a skos:Concept ;
+    skos:altLabel "Málaga, Museo Loringiano"@en,
+        "Málaga, Museo Loringiano"@fr,
+        "Málaga, Museo Loringiano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMálaga, Museo Loringiano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Málaga, Museo Loringiano"@de .
+

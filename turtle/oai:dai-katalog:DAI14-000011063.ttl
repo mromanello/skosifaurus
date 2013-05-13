@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011063> a skos:Concept ;
+    skos:altLabel "Jeanlin, Micheline"@en,
+        "Jeanlin, Micheline"@fr,
+        "Jeanlin, Micheline"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoJeanlin, Micheline" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jeanlin, Micheline"@de .
+

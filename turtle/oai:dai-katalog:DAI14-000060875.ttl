@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060875> a skos:Concept ;
+    skos:altLabel "Sławskie Jezioro"@en,
+        "Sławskie Jezioro"@fr,
+        "Sławskie Jezioro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039027> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskZZ--RSławskie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sławskie Jezioro"@de .
+

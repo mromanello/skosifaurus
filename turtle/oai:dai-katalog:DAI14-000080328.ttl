@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080328> a skos:Concept ;
+    skos:altLabel "Argenton"@en,
+        "Argenton"@fr,
+        "Argenton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038797> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAlpesArgenton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Argenton"@de .
+

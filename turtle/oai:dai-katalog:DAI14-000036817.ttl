@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036817> a skos:Concept ;
+    skos:altLabel "Nevers 1993"@en,
+        "Nevers 1993"@fr,
+        "Nevers 1993"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNevers 1993" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nevers 1993"@de .
+

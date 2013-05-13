@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026543> a skos:Concept ;
+    skos:altLabel "Klagenfurt 2006"@en,
+        "Klagenfurt 2006"@fr,
+        "Klagenfurt 2006"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstKlagenfurt 2006" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klagenfurt 2006"@de .
+

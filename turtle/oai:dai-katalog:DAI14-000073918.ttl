@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073918> a skos:Concept ;
+    skos:altLabel "Los Nietos"@en,
+        "Los Nietos"@fr,
+        "Los Nietos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039361> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMurciMurciLos Nieto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Los Nietos"@de .
+

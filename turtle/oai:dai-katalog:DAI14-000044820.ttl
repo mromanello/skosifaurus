@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044820> a skos:Concept ;
+    skos:altLabel "Virignin, Pierre-Châtel"@en,
+        "Virignin, Pierre-Châtel"@fr,
+        "Virignin, Pierre-Châtel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038796> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAinVirignin," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Virignin, Pierre-Châtel"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040486> a skos:Concept ;
+    skos:altLabel "Austbø, Rogaland"@en,
+        "Austbø, Rogaland"@fr,
+        "Austbø, Rogaland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweAustbø, R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Austbø, Rogaland"@de .
+

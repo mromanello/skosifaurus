@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047794> a skos:Concept ;
+    skos:altLabel "North Lodge Farm"@en,
+        "North Lodge Farm"@fr,
+        "North Lodge Farm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077700> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthNorth Lod" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "North Lodge Farm"@de .
+

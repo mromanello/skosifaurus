@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021583> a skos:Concept ;
+    skos:altLabel "Geta <Römisches Reich, Kaiser>"@en,
+        "Geta <Römisches Reich, Kaiser>"@fr,
+        "Geta <Römisches Reich, Kaiser>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGeta <Römisches Reich, Kaiser>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geta <Römisches Reich, Kaiser>"@de .
+

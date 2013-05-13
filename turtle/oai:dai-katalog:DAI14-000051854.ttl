@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051854> a skos:Concept ;
+    skos:altLabel "Schwebheim"@en,
+        "Schwebheim"@fr,
+        "Schwebheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075458> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerSchweSchwebhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwebheim"@de .
+

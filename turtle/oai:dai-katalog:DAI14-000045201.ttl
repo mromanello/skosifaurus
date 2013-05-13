@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045201> a skos:Concept ;
+    skos:altLabel "Lyon-Vaise"@en,
+        "Lyon-Vaise"@fr,
+        "Lyon-Vaise"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038805> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveRhôneLyon-Vais" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lyon-Vaise"@de .
+

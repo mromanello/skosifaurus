@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083506> a skos:Concept ;
+    skos:altLabel "Natternberg"@en,
+        "Natternberg"@fr,
+        "Natternberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075393> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDeggeNatternbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Natternberg"@de .
+

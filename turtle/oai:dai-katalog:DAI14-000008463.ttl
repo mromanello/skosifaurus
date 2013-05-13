@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008463> a skos:Concept ;
+    skos:altLabel "Groenman, Willy"@en,
+        "Groenman, Willy"@fr,
+        "Groenman, Willy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGroenman, Willy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Groenman, Willy"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051208> a skos:Concept ;
+    skos:altLabel "Ringelai"@en,
+        "Ringelai"@fr,
+        "Ringelai"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075413> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerFreyuRingelai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ringelai"@de .
+

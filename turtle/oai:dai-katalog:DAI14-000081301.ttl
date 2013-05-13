@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081301> a skos:Concept ;
+    skos:altLabel "Raon-l'Étape"@en,
+        "Raon-l'Étape"@fr,
+        "Raon-l'Étape"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038753> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacVosgeRaon-l'Ét" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Raon-l'Étape"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042003> a skos:Concept ;
+    skos:altLabel "Vlaanderen"@en,
+        "Vlaanderen"@fr,
+        "Vlaanderen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038721> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiZZ--RVlaandere" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vlaanderen"@de .
+

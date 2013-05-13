@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044384> a skos:Concept ;
+    skos:altLabel "Fontaine-la-Gaillarde"@en,
+        "Fontaine-la-Gaillarde"@fr,
+        "Fontaine-la-Gaillarde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038780> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgYonneFontaine-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fontaine-la-Gaillarde"@de .
+

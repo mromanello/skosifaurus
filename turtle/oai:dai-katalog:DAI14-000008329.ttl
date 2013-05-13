@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008329> a skos:Concept ;
+    skos:altLabel "Gaál, István"@en,
+        "Gaál, István"@fr,
+        "Gaál, István"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGaál, István" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gaál, István"@de .
+

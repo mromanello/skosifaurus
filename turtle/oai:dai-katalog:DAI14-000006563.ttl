@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006563> a skos:Concept ;
+    skos:altLabel "Kondakov, N. P."@en,
+        "Kondakov, N. P."@fr,
+        "Kondakov, N. P."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsKondakov, N. P." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kondakov, N. P."@de .
+

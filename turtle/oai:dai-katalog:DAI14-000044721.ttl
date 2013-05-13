@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044721> a skos:Concept ;
+    skos:altLabel "Availles-sur-Chizé"@en,
+        "Availles-sur-Chizé"@fr,
+        "Availles-sur-Chizé"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038792> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverDeux-Availles-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Availles-sur-Chizé"@de .
+

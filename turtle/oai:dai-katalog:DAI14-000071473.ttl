@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071473> a skos:Concept ;
+    skos:altLabel "Monte Cassino"@en,
+        "Monte Cassino"@fr,
+        "Monte Cassino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039227> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioFrosiMonte Cas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte Cassino"@de .
+

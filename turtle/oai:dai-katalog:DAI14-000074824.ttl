@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074824> a skos:Concept ;
+    skos:altLabel "Usak"@en,
+        "Usak"@fr,
+        "Usak"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeUsak" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Usak"@de .
+

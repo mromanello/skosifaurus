@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077845> a skos:Concept ;
+    skos:altLabel "Kozanki Podleśne"@en,
+        "Kozanki Podleśne"@fr,
+        "Kozanki Podleśne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkKozanki P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kozanki Podleśne"@de .
+

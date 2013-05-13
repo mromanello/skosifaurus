@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064362> a skos:Concept ;
+    skos:altLabel "Hrad Frejštejn, Podhradì nad Dyji, okr. Znojmo"@en,
+        "Hrad Frejštejn, Podhradì nad Dyji, okr. Znojmo"@fr,
+        "Hrad Frejštejn, Podhradì nad Dyji, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravHrad Frej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Frejštejn, Podhradì nad Dyji, okr. Znojmo"@de .
+

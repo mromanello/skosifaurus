@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073160> a skos:Concept ;
+    skos:altLabel "Camí de Can Grau, Roca del Va"@en,
+        "Camí de Can Grau, Roca del Va"@fr,
+        "Camí de Can Grau, Roca del Va"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039321> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCatalBarceCamí de C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Camí de Can Grau, Roca del Va"@de .
+

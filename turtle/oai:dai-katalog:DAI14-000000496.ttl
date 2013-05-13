@@ -1,0 +1,2746 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000496_>Lacimurga(Baética)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel ">Lacimurga (Baética)" .
+
+<http://data.dainst.de/zenon/000000496_>Laminium(Alhambra,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel ">Laminium (Alhambra, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_>Lascuta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel ">Lascuta" .
+
+<http://data.dainst.de/zenon/000000496_ColoniaLépidaCelsa(s.auchCelsa,VelilladeEbro,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Colonia Lépida Celsa (s. auch Celsa, Velilla de Ebro, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_L'Albi(Lleida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "L'Albi (Lleida)" .
+
+<http://data.dainst.de/zenon/000000496_L'Arbocer(FontdelaFiguera,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "L'Arbocer (Font de la Figuera, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_L'Escala(Gerona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "L'Escala (Gerona)" .
+
+<http://data.dainst.de/zenon/000000496_L'Hostalot(Vilanovad'Alcolea,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "L'Hostalot (Vilanova d'Alcolea, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaAceña(Huerta,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Aceña (Huerta, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LaAguilera(CampoodeEnmedio,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Aguilera (Campoo de Enmedio, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlbeldadeLitera(Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Albelda de Litera (Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlberca(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Alberca (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlbufereta(Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Albufereta (Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlcantarilla(Carcabuey,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Alcantarilla (Carcabuey, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlcudia(Elche,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Alcudia (Elche, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaAldehuela(Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Aldehuela (Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlgaida(SanlúcardeBarrameda,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Algaida (Sanlúcar de Barrameda, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlmadrava(Setla,Mirarosa,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Almadrava (Setla, Mirarosa, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaAlmanzora(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Almanzora (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaAntipared(MontejodelaVega,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Antipared (Montejo de la Vega, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LaAraña(RincóndelaVictoria,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Araña (Rincón de la Victoria, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalaya(Renieblas,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalaya (Renieblas, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalaya(SantaMartadelosBarros,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalaya (Santa Marta de los Barros, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalaya,cerrode(LaGuardia,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalaya, cerro de (La Guardia, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalaya,necrópolis(Cortes,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalaya, necrópolis (Cortes, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalayuela(Agoncillo,Logroño)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalayuela (Agoncillo, Logroño)" .
+
+<http://data.dainst.de/zenon/000000496_LaAtalayuela(PalmadelCondado,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Atalayuela (Palma del Condado, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaBalsa(Yecla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Balsa (Yecla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaBaltrasa(Toro,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Baltrasa (Toro, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaBarqueta(PalmadelRío,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Barqueta (Palma del Río, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaBarrosa(Chiclana,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Barrosa (Chiclana, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaBastida(Totana,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bastida (Totana, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaBastidadelesAlcuses(Moixent,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bastida de les Alcuses (Moixent, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaBelleza(Aroche,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Belleza (Aroche, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaBerrueza(Mendaza-Acedo,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Berrueza (Mendaza-Acedo, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaBienvenida(AlmodóvardelCampo,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bienvenida (Almodóvar del Campo, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_LaBigorra(SantQuirzedelVallès,Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bigorra (Sant Quirze del Vallès, Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_LaBoatella,necrópolis(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Boatella, necrópolis (Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaBobadilla,necrópolis(Alcaudete,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bobadilla, necrópolis (Alcaudete, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaBobedilla(Benaocaz,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bobedilla (Benaocaz, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaBorracha(Jumilla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Borracha (Jumilla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaBraña-Arintero;cueva(Valdelugueros,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Braña-Arintero; cueva (Valdelugueros, León)" .
+
+<http://data.dainst.de/zenon/000000496_LaBureba(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Bureba (Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabaña(SargentesdeLaLora,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabaña (Sargentes de La Lora, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabaña4(Karrantza,Bizkaia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabaña 4 (Karrantza, Bizkaia)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabañera(VillanuevadeSigena,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabañera (Villanueva de Sigena, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabañeta(BurgodeEbro,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabañeta (Burgo de Ebro, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabañuca(PeñamelleraBaja,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabañuca (Peñamellera Baja, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabezada(LaTorresaviñán,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabezada (La Torresaviñán, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabrera(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabrera (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaCabreracastro(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cabrera castro (León)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalaveruela(FuenteObejuna,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calaveruela (Fuente Obejuna, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalera(Anaga,Tenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calera (Anaga, Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalerilla(Hortuna,Requena)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calerilla (Hortuna, Requena)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalerilla(Requena,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calerilla (Requena, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaCaleta(Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Caleta (Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaCaleta(Valverde,isladeElHierro)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Caleta (Valverde, isla de El Hierro)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalva(Santaella,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calva (Santaella, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaCalzadilla,villae(AlmenaradeAdaja,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Calzadilla, villae (Almenara de Adaja, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaCampiña(Marmolejo,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Campiña (Marmolejo, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaCanal(Alcoi-Xixona,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Canal (Alcoi-Xixona, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaCanal(Medinaceli,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Canal (Medinaceli, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaCanaleja(Montilla,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Canaleja (Montilla, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaCandia(ElHierro,SantaCruzdeTenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Candia (El Hierro, Santa Cruz de Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaCansaladeta(LaRiba,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cansaladeta (La Riba, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaCantueña(Fuenlabrada,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cantueña (Fuenlabrada, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaCapellana(Pinto,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Capellana (Pinto, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaCapellanía(PozueldeAriza,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Capellanía (Pozuel de Ariza, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaCaridad(Caminreal,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Caridad (Caminreal, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarisa;campamentoromano(Aller-Lena,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carisa; campamento romano (Aller-Lena, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarlota(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carlota (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarolina(Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carolina (Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarraposa(RotgláiCorbera,València)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carraposa (Rotglá i Corbera, València)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarrova(Amposta,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carrova (Amposta, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaCarrova,necrópolis(Amposta,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Carrova, necrópolis (Amposta, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaCasadelMonje(Feria,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Casa del Monje (Feria, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaCascajera(Molacillos,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cascajera (Molacillos, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaCaserona(Teba,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Caserona (Teba, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaCastañera,Abrigode(Obregón,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Castañera, Abrigo de (Obregón, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaCativera(ElCatllar,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cativera (El Catllar, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaCava(Luzón,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cava (Luzón, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaCañada(PeraldadelaMata,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cañada (Peralda de la Mata, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LaCañada(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cañada (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaCañadaHonda(Gandul,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cañada Honda (Gandul, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaCañadilla(TorredePeñafiel,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cañadilla (Torre de Peñafiel, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaCentenera(Pinoso,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Centenera (Pinoso, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaCerca(MalpartidadePlasencia,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cerca (Malpartida de Plasencia, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LaCerera(Arucas,GranCanaria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cerera (Arucas, Gran Canaria)" .
+
+<http://data.dainst.de/zenon/000000496_LaCerradadelosSantos(Aragoncillo,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cerrada de los Santos (Aragoncillo, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaChanera(Lagata,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Chanera (Lagata, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaCildad(Sabero,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cildad (Sabero, León)" .
+
+<http://data.dainst.de/zenon/000000496_LaClota(Calaceite,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Clota (Calaceite, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaClota(Creixell,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Clota (Creixell, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoca(Aspe,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coca (Aspe, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaCocina,cueva(DosAguas,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cocina, cueva (Dos Aguas, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaCodera(Fraga,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Codera (Fraga, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaCodoñera(Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Codoñera (Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaCopa(PomardeValdivia,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Copa (Pomar de Valdivia, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoquinera(Obón,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coquinera (Obón, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoraja(Aldeacentenera,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coraja (Aldeacentenera, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LaCorona(FuentesdeEbro,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Corona (Fuentes de Ebro, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaCorona-ElPesadero(ManganesesdelaPolvorosa,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Corona-El Pesadero (Manganeses de la Polvorosa, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoronadeCorporales(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Corona de Corporales (León)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoronilla(MolinadeAragón,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coronilla (Molina de Aragón, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaCoruña:v.también/s.auchACoruña> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coruña: v. también/s. auch A Coruña" .
+
+<http://data.dainst.de/zenon/000000496_LaCoscollosa(Alcañiz,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Coscollosa (Alcañiz, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaCovalta(Albaida,Valencia/Agres,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Covalta (Albaida, Valencia/ Agres, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaCovatilla(Anguita,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Covatilla (Anguita, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaCruzdeltíoIgnacio(BelverdelosMontes,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cruz del tío Ignacio (Belver de los Montes, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaCuevona(Ribadesella,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cuevona (Ribadesella, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaCullalvera,cueva(Ramales,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Cullalvera, cueva (Ramales, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaCustodia(Viana,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Custodia (Viana, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaDehesa(AlcaládeHenares,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Dehesa (Alcalá de Henares, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaDehesa(Ayllón,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Dehesa (Ayllón, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LaDehesa(ElTejadodeBéjar,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Dehesa (El Tejado de Béjar, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LaDehesa(OlmedadeCobeta,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Dehesa (Olmeda de Cobeta, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaDeseada(Rivas-Vaciamadrid,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Deseada (Rivas-Vaciamadrid, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaDevesa(Besalú,Girona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Devesa (Besalú, Girona)" .
+
+<http://data.dainst.de/zenon/000000496_LaDraga(Banyoles,Gerona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Draga (Banyoles, Gerona)" .
+
+<http://data.dainst.de/zenon/000000496_LaEdrada(Cacabelos,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Edrada (Cacabelos, León)" .
+
+<http://data.dainst.de/zenon/000000496_LaEncarnación(Caravaca,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Encarnación (Caravaca, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaEnfermería(PelayosdelaPresa,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Enfermería (Pelayos de la Presa, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaEraAltaMelgardeAbajo,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Era Alta Melgar de Abajo, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaErmita(MelgardeArriba,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ermita (Melgar de Arriba, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaErmita;cueva(Hortigüela,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ermita; cueva (Hortigüela, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaEscarapela(Borox,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Escarapela (Borox, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaEscondilla(Villastar,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Escondilla (Villastar, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaEscudilla(Zucaina,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Escudilla (Zucaina, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaEscuera(SanFulgencio,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Escuera (San Fulgencio, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaEsparragosa(ChiclanadelaFrontera,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Esparragosa (Chiclana de la Frontera, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaEstación,cueva(Sta.IsabeldeQuijas,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Estación, cueva (Sta. Isabel de Quijas, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LaEstrella(Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Estrella (Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaFontanilla(ConildelaFrontera,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fontanilla (Conil de la Frontera, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaFonteta(Guardamar,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fonteta (Guardamar, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaForca,castro(Grado,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Forca, castro (Grado, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaFragua,cueva(Santoña,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fragua, cueva (Santoña, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaFregeneda(Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fregeneda (Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LaFuente(BuenavistadelNorte,Tenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fuente (Buenavista del Norte, Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaFábrica(Teba,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Fábrica (Teba, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaGabardilla(Tauste,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Gabardilla (Tauste, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaGaleota(Ardales,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Galeota (Ardales, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaGallega(ValencinadelaConcepción,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Gallega (Valencina de la Concepción, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaGarma(Omoño,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Garma (Omoño, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaGomera(SantaCruzdeTenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Gomera (Santa Cruz de Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaGraciosa;isla(Lanzarote,IslasCanarias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Graciosa; isla (Lanzarote, Islas Canarias)" .
+
+<http://data.dainst.de/zenon/000000496_LaGranjadeSanIldefonso(Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Granja de San Ildefonso (Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LaGranjuela(ElAlcornocal,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Granjuela (El Alcornocal, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaGuardia(Alcorisa,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Guardia (Alcorisa, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaGuardiadeJaén(Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Guardia de Jaén (Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaHerradura(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Herradura (Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaHiguera(Alcaine,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Higuera (Alcaine, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaHinojosa(Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Hinojosa (Cuenca)" .
+
+<http://data.dainst.de/zenon/000000496_LaHorna(Aspe,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Horna (Aspe, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaHoya(Laguardia,Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Hoya (Laguardia, Alava)" .
+
+<http://data.dainst.de/zenon/000000496_LaHozdeVicente(Minglanilla,Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Hoz de Vicente (Minglanilla, Cuenca)" .
+
+<http://data.dainst.de/zenon/000000496_LaHuelga(Barajas,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Huelga (Barajas, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaHuelga(Dueñas,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Huelga (Dueñas, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaHuerta(Caminomorisco,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Huerta (Caminomorisco, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LaHuesera(Mélida,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Huesera (Mélida, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaIndiana(Pinto,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Indiana (Pinto, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaIsla(Colunga,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Isla (Colunga, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaJana(Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Jana (Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaJaraba(Villarrobledo,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Jaraba (Villarrobledo, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LaJoya(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Joya (Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaJunta(PuebladeGuzmán,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Junta (Puebla de Guzmán, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaLaguna(Tenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Laguna (Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaLanzada(Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Lanzada (Pontevedra)" .
+
+<http://data.dainst.de/zenon/000000496_LaLegoriza(SanMartíndelCastañar,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Legoriza (San Martín del Castañar, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LaLitera(Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Litera (Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaLlagunadeNiévares(Villaviciosa,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Llaguna de Niévares (Villaviciosa, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LaLlana(Labastida,Álava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Llana (Labastida, Álava)" .
+
+<http://data.dainst.de/zenon/000000496_LaLlera;monte(PosadadeLlanes,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Llera; monte (Posada de Llanes, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaLlomaComuna(Castellfort,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Lloma Comuna (Castellfort, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaLluera(SanJuandePriorio,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Lluera (San Juan de Priorio, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LaLoba(Fuenteovejuna,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Loba (Fuenteovejuna, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaLoja,cueva(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Loja, cueva (Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaLoma,castro(SantibáñezdelaPeña,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Loma, castro (Santibáñez de la Peña, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaLomadelEscorial(LosNietos,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Loma del Escorial (Los Nietos, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaLomadelRegadío;villae(UrreadeGaén,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Loma del Regadío; villae (Urrea de Gaén, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaLonguera(ElViso,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Longuera (El Viso, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaLuisiana(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Luisiana (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaLuz(Verdolay,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Luz (Verdolay, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaLuz,santuario(ElPalmar,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Luz, santuario (El Palmar, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaLámpara/PeñadelaAbuela(Ambrona,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Lámpara/Peña de la Abuela (Ambrona, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaMacañorra(Geria,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Macañorra (Geria, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaMaja(Calahorra,Logroño)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Maja (Calahorra, Logroño)" .
+
+<http://data.dainst.de/zenon/000000496_LaMalena(Azuara,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Malena (Azuara, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaMallada,cueva(Perelló,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mallada, cueva (Perelló, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaManguita(SanVitero,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Manguita (San Vitero, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaMaralaga(Sinarcas,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Maralaga (Sinarcas, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaMariblanca(TorresdelaAlameda,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mariblanca (Torres de la Alameda, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaMarismilla(PuebladelRío,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Marismilla (Puebla del Río, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaMata(Campanario,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mata (Campanario, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaMata(Torrevieja,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mata (Torrevieja, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaMercadera(Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mercadera (Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaMesa(ChiclanadelaFrontera,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mesa (Chiclana de la Frontera, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaMesa(Fuente-Tójar,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mesa (Fuente-Tójar, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaMesadeBelorado(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mesa de Belorado (Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaMesilla,castro(Alange,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mesilla, castro (Alange, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaMestilla-Abadón(Anguita,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mestilla-Abadón (Anguita, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaMezquita(CadalsodelosVidrios,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mezquita (Cadalso de los Vidrios, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaMina;dolmen(Molinilla,Álava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mina; dolmen (Molinilla, Álava)" .
+
+<http://data.dainst.de/zenon/000000496_LaMinilla(LaRambla,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Minilla (La Rambla, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaMoletadelRemei(Alcanar,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Moleta del Remei (Alcanar, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaMolineta(PuertodeMazarrón,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Molineta (Puerto de Mazarrón, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaMonaria(Vilches,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Monaria (Vilches, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaMorisca(Calvià,Mallorca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Morisca (Calvià, Mallorca)" .
+
+<http://data.dainst.de/zenon/000000496_LaMorlaca(Villamediana,LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Morlaca (Villamediana, La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_LaMorranda(Ballestar,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Morranda (Ballestar, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaMota(Cartagena)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mota (Cartagena)" .
+
+<http://data.dainst.de/zenon/000000496_LaMota(MedinadelCampo,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Mota (Medina del Campo, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LaMuela(HinojosadeJarque,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Muela (Hinojosa de Jarque, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaMuela,simade(BrievaenCameros,Logroño)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Muela, sima de (Brieva en Cameros, Logroño)" .
+
+<http://data.dainst.de/zenon/000000496_LaMuela;mun.(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Muela; mun. (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaNaba(Castielfabib,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Naba (Castielfabib, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaNava(Valdeaveruelo,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Nava (Valdeaveruelo, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaOliva(Fuerteventura,LasPalmas)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Oliva (Fuerteventura, Las Palmas)" .
+
+<http://data.dainst.de/zenon/000000496_LaOlmeda(PedrosadelaVega,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Olmeda (Pedrosa de la Vega, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaOsera(Chamartín,Avila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Osera (Chamartín, Avila)" .
+
+<http://data.dainst.de/zenon/000000496_LaPaleta(NumanciadelaSagra,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Paleta (Numancia de la Sagra, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaPalma(L'Aldea,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Palma (L'Aldea, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaPalma,isla(SantaCruzdeTenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Palma, isla (Santa Cruz de Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaPaloma(Pantoja,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Paloma (Pantoja, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaPapúa(Zufre/ArroyomolinosdeLeón,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Papúa (Zufre/Arroyomolinos de León, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaPasiega,cueva(PuenteViesgo,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pasiega, cueva (Puente Viesgo, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaPastora,cueva(Alcoy,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pastora, cueva (Alcoy, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaPastora,dolmen(ValencinadelaConcepción,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pastora, dolmen (Valencina de la Concepción, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaPedrera(Tenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pedrera (Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LaPedriza(AlcalálaReal,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pedriza (Alcalá la Real, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LaPedriza(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pedriza (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaPeladilla(Requena,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Peladilla (Requena, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaPena(Torregrossa,Lérida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pena (Torregrossa, Lérida)" .
+
+<http://data.dainst.de/zenon/000000496_LaPeregrina(Calañas,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Peregrina (Calañas, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LaPerla(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Perla (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaPerrona(Gema,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Perrona (Gema, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LaPeña(Marañón,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Peña (Marañón, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaPeñaCastiello(Villaviciosa,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Peña Castiello (Villaviciosa, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LaPeñona,cueva(LaConcha,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Peñona, cueva (La Concha, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LaPicola(SantaPola,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Picola (Santa Pola, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaPijotilla(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pijotilla (Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaPila(Cuchía,Mogro,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pila (Cuchía, Mogro, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LaPila,villa(Altea,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pila, villa (Altea, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaPileta(Benaoján,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pileta (Benaoján, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaPobladeBenifassà(Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Pobla de Benifassà (Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaPolera(Ubierna,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Polera (Ubierna, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaPoza;campamentoromano(CampoodeEnmedio,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Poza; campamento romano (Campoo de Enmedio, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaProfunda;mina(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Profunda; mina (León)" .
+
+<http://data.dainst.de/zenon/000000496_LaPrunera(SantJoanlesFonts,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Prunera (Sant Joan les Fonts, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LaPuerta(Moratalla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Puerta (Moratalla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaQuinta(Antequera,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Quinta (Antequera, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaQuintilla,villae(Lorca,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Quintilla, villae (Lorca, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaQuéjola(SanPedro,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Quéjola (San Pedro, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LaRaiz(SanVicentedelaBarquera,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Raiz (San Vicente de la Barquera, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LaRaja,cueva(Nueno,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Raja, cueva (Nueno, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaRajadeRetuntún(Casarabonela,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Raja de Retuntún (Casarabonela, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaRambla(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rambla (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaRegenta(Burriana,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Regenta (Burriana, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaReguerina(Igüeña,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Reguerina (Igüeña, León)" .
+
+<http://data.dainst.de/zenon/000000496_LaRendija,abrigo(Herencia,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rendija, abrigo (Herencia, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_LaRenke(Santurde,Álava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Renke (Santurde, Álava)" .
+
+<http://data.dainst.de/zenon/000000496_LaRevilla,Cuevade(SierradeAtapuerca,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Revilla, Cueva de (Sierra de Atapuerca, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaRevilladelCampo(Ambrona,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Revilla del Campo (Ambrona, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaRibera(Barajas,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ribera (Barajas, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaRiera(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Riera (Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaRijana(Gualchos,CastelldeFerro,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rijana (Gualchos, Castell de Ferro, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaRisca(Moratalla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Risca (Moratalla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaRocadelsErmitans(SantMateu,Castelló)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Roca dels Ermitans (Sant Mateu, Castelló)" .
+
+<http://data.dainst.de/zenon/000000496_LaRoda(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Roda (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaRoda;mun.(Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Roda; mun. (Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LaRodriga(Fuentelsaz,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rodriga (Fuentelsaz, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaRosilla,necrópolis(Añora,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rosilla, necrópolis (Añora, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaRoureda;abrigo(Vilafranca,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Roureda; abrigo (Vilafranca, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaRoñuela(Brihuega,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Roñuela (Brihuega, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaRubia(AlanísdelaSierra,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rubia (Alanís de la Sierra, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaRàpita(SantaMargarida,Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ràpita (Santa Margarida, Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_LaRábita(GuardamardelSegura,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Rábita (Guardamar del Segura, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaSaetilla(PalmadelRío,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Saetilla (Palma del Río, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LaSalmedina(VilladeVallecas,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Salmedina (Villa de Vallecas, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaSalud(Lorca,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Salud (Lorca, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaSarga(Alcoy,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Sarga (Alcoy, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaSenda(CoimbradelBarrancoAncho,Jumilla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Senda (Coimbra del Barranco Ancho, Jumilla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerena(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serena (Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerrada(AresdelMaestre,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serrada (Ares del Maestre, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerrana,cueva(Urda,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serrana, cueva (Urda, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerreta(Alcoi,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serreta (Alcoi, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerreta(Mazarrón,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serreta (Mazarrón, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaSerreta,cueva(Cieza,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Serreta, cueva (Cieza, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaSevillana(EsparragosadeLares,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Sevillana (Esparragosa de Lares, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaSeña(VillardelArzobispo,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Seña (Villar del Arzobispo, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaSima,Túmulode(MiñodeMedinaceli,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Sima, Túmulo de (Miño de Medinaceli, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LaSolana(Cubelles,Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Solana (Cubelles, Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_LaSolana(ModúbardelaEmparedada,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Solana (Modúbar de la Emparedada, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaSolivella(AlcaládeChivert,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Solivella (Alcalá de Chivert, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaTabladelasCañas(Capilla,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Tabla de las Cañas (Capilla, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaTejada(QuintanilladelaCueza,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Tejada (Quintanilla de la Cueza, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaTienda(Hellín,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Tienda (Hellín, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LaTiesa(Lobón,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Tiesa (Lobón, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LaTorrecilla(ArenasdelRey,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Torrecilla (Arenas del Rey, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaTorrecilla(Getafe,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Torrecilla (Getafe, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaTorrecilla,villae(Corella,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Torrecilla, villae (Corella, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LaTova(Lorca,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Tova (Lorca, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaTraviesa(AlmadéndelaPlata,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Traviesa (Almadén de la Plata, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LaUlaña,castro(Humada,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ulaña, castro (Humada, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaUmbría(Daroca,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Umbría (Daroca, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LaUnión(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Unión (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaUnión(Valld'Uixó,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Unión (Vall d'Uixó, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LaVacada(Castellote,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Vacada (Castellote, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LaValderiacastro(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Valderia castro (León)" .
+
+<http://data.dainst.de/zenon/000000496_LaVaquera,cueva(Torreiglesias,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Vaquera, cueva (Torreiglesias, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LaVega(BoadilladelMonte,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Vega (Boadilla del Monte, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaVeguilla(Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Veguilla (Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LaVelilla(Osorno,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Velilla (Osorno, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaVenta(AlardelRey,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Venta (Alar del Rey, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LaVenta(Orce,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Venta (Orce, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaVentana(Moratalla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ventana (Moratalla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaVentana(Torrelaguna,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ventana (Torrelaguna, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LaVerde(HerreradeCamargo,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Verde (Herrera de Camargo, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LaVispesa(TamaritedelaLitera,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Vispesa (Tamarite de la Litera, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LaVital(Gandia,València)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Vital (Gandia, València)" .
+
+<http://data.dainst.de/zenon/000000496_LaViña(LaManzaneda,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Viña (La Manzaneda, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LaViña(PuertodeSantaMaría,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Viña (Puerto de Santa María, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LaViña(Zafarraya,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Viña (Zafarraya, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaViñuela(Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Viñuela (Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LaXorenga(GrandasdeSalime,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Xorenga (Grandas de Salime, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LaYunta(Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Yunta (Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LaZarcita(SantaBárbaradelaCasa,Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Zarcita (Santa Bárbara de la Casa, Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_LabekoKoba(Arrasate,Guipúzcoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Labeko Koba (Arrasate, Guipúzcoa)" .
+
+<http://data.dainst.de/zenon/000000496_Labitolosa(s.unterCerrodelCalvario,...)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Labitolosa (s. unter Cerro del Calvario,...)" .
+
+<http://data.dainst.de/zenon/000000496_Laboriz(Amarante,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laboriz (Amarante, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lacimurga(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lacimurga (Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_Lacipo(Casares,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lacipo (Casares, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_Ladeira(Barracão,Guarda,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Ladeira (Barracão, Guarda, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Ladoeiro(Idanha-a-Nova,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Ladoeiro (Idanha-a-Nova, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Laelia(CerrodelaCabeza,Olivares,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laelia (Cerro de la Cabeza, Olivares, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LagarVelho(SantaEufémia,Leiria,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lagar Velho (Santa Eufémia, Leiria, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LagedoOuro(Crato,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lage do Ouro (Crato, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lagos(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lagos (Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lagos(Vélez-Málaga,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lagos (Vélez-Málaga, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_Laguardia(Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laguardia (Alava)" .
+
+<http://data.dainst.de/zenon/000000496_LagunadeMedina(JerezdelaFrontera,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laguna de Medina (Jerez de la Frontera, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LagunadelArquillo(Masegoso,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laguna del Arquillo (Masegoso, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LagunadelCampillo(RivasVaciamadrid,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laguna del Campillo (Rivas Vaciamadrid, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LagunitaIII;dolmen(SantiagodeAlcántara,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lagunita III; dolmen (Santiago de Alcántara, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_Laias(Cenlle,Orense)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laias (Cenlle, Orense)" .
+
+<http://data.dainst.de/zenon/000000496_LajedaFechadura(Serta,CasteloBranco)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laje da Fechadura (Serta, Castelo Branco)" .
+
+<http://data.dainst.de/zenon/000000496_LamasdeMoledo(CastroDaire,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lamas de Moledo (Castro Daire, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LamasdeMoreira(AFonsagrada,Lugo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lamas de Moreira (A Fonsagrada, Lugo)" .
+
+<http://data.dainst.de/zenon/000000496_LameiraTravessa(VilaNovadePaiva,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lameira Travessa (Vila Nova de Paiva, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LameiradeCima(Penedono,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lameira de Cima (Penedono, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LameiradoFojo(CoutodeCima,Viseu,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lameira do Fojo (Couto de Cima, Viseu, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lancia(Villasabariego,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lancia (Villasabariego, León)" .
+
+<http://data.dainst.de/zenon/000000496_Langreo(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Langreo (Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_Lanhelas(Caminha,VianadoCastelo,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lanhelas (Caminha, Viana do Castelo, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lanjarón(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lanjarón (Granada)" .
+
+<http://data.dainst.de/zenon/000000496_Lanz(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lanz (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Lanzarote(IslasCanarias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lanzarote (Islas Canarias)" .
+
+<http://data.dainst.de/zenon/000000496_LapadoAnecrial(PortodeMós,Leiria,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa do Anecrial (Porto de Mós, Leiria, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LapadoBugio(Sesimbra,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa do Bugio (Sesimbra, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LapadoPicareiro(Alcanade,Estremadura,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa do Picareiro (Alcanade, Estremadura, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LapadoSaldanha(Pernes,Santarém,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa do Saldanha (Pernes, Santarém, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LapadosCoelhos(CasaisMartanes,TorresNovas,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa dos Coelhos (Casais Martanes, Torres Novas, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LapadosPinheirinhos1(Sesimbra,Setúbal,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapa dos Pinheirinhos 1 (Sesimbra, Setúbal, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lapoblación(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lapoblación (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Larache(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Larache (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LaradelosInfantes(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lara de los Infantes (Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LaranjaldoCabeçodasPias(TorresNovas,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laranjal do Cabeço das Pias (Torres Novas, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Larouco(Orense)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Larouco (Orense)" .
+
+<http://data.dainst.de/zenon/000000496_Larrañaga(Hondarribia,Gipuzkoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Larrañaga (Hondarribia, Gipuzkoa)" .
+
+<http://data.dainst.de/zenon/000000496_LasAgualejas(MonfortedelCid,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Agualejas (Monforte del Cid, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LasAguzaderas(ElCoronil,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Aguzaderas (El Coronil, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LasAlcázaras(Villaquilambre,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Alcázaras (Villaquilambre, León)" .
+
+<http://data.dainst.de/zenon/000000496_LasAngosturas(Gor,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Angosturas (Gor, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LasArañas,cueva(SantaPola,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Arañas, cueva (Santa Pola, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LasArquetas(FregenaldelaSierra,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Arquetas (Fregenal de la Sierra, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LasAtalayuelas,santuario(FuertedelRey-Torredelcampo,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Atalayuelas, santuario (Fuerte del Rey - Torredelcampo, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LasAvispas,cueva(Patones,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Avispas, cueva (Patones, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LasBodeguillas(EsparragosadeLares,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Bodeguillas (Esparragosa de Lares, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LasBojadillas(Nerpio,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Bojadillas (Nerpio, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LasCabezas,Cerrode(Valdepeñas,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cabezas, Cerro de (Valdepeñas, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_LasCabezasdeSanJuan(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cabezas de San Juan (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LasCabrasBlancas,abrigo(Tormón,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cabras Blancas, abrigo (Tormón, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LasCabrillas(Buñol,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cabrillas (Buñol, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LasCalañas(Marmolejo,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Calañas (Marmolejo, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LasCaldas,cueva(Priorio,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Caldas, cueva (Priorio, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LasCamas(Villaverde,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Camas (Villaverde, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LasCarolinas(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Carolinas (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LasCavenes(ElCabaco,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cavenes (El Cabaco, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LasCañamonas(Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cañamonas (Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LasChorreras(Vélez-Málaga,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Chorreras (Vélez-Málaga, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LasCogotas(Cardeñosa,Avila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cogotas (Cardeñosa, Avila)" .
+
+<http://data.dainst.de/zenon/000000496_LasColochas(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Colochas (Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LasCoronas(PallaruelodeMonegros,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Coronas (Pallaruelo de Monegros, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LasCosteras(Formiche,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Costeras (Formiche, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LasCuestas(TudeladeDuero,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cuestas (Tudela de Duero, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LasCuevas(Osuna,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cuevas (Osuna, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LasCuevasdeSoria(QuintanaRedonda,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cuevas de Soria (Quintana Redonda, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LasCumbres(Carmona,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cumbres (Carmona, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LasCumbres(PuertodeSantaMaría,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cumbres (Puerto de Santa María, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LasCáscaras(Ruiloba,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Cáscaras (Ruiloba, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LasEretas,villa(Berbinzana,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Eretas, villa (Berbinzana, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LasErijuelasdeS.Andrés(Cuéllar,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Erijuelas de S. Andrés (Cuéllar, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LasErmitas(Espejo,Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Ermitas (Espejo, Alava)" .
+
+<http://data.dainst.de/zenon/000000496_LasEscuelas(Baeza,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Escuelas (Baeza, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LasEsperillas(SantaCruzdelaZarza,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Esperillas (Santa Cruz de la Zarza, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LasEstalactitas,cueva(SantillanadelMar,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Estalactitas, cueva (Santillana del Mar, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LasForcas(Graus,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Forcas (Graus, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LasFuentecillas(SanFernandodeHenares,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Fuentecillas (San Fernando de Henares, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LasGobas(Laño,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Gobas (Laño, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LasGándarasdeBudiño(Porriño,Pontevedra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Gándaras de Budiño (Porriño, Pontevedra)" .
+
+<http://data.dainst.de/zenon/000000496_LasHenestrosas(Valdeolea,Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Henestrosas (Valdeolea, Santander)" .
+
+<http://data.dainst.de/zenon/000000496_LasHerrerías(CuevasdeAlmanzora,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Herrerías (Cuevas de Almanzora, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LasHerrerías,Lomade(Mazarrón,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Herrerías, Loma de (Mazarrón, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LasHorazas(ElAtance,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Horazas (El Atance, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LasLagunillas(AldeamayordeSanMartín,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Lagunillas (Aldeamayor de San Martín, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LasLastrasdeSanJosé,necrópolis(AlbalatedelArzobispo,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Lastras de San José, necrópolis (Albalate del Arzobispo, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LasLunas(Yuncler,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Lunas (Yuncler, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LasMadrigueras(CarrascosadelCampo,Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Madrigueras (Carrascosa del Campo, Cuenca)" .
+
+<http://data.dainst.de/zenon/000000496_LasMajas(VillarinoTraslaSierra,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Majas (Villarino Tras la Sierra, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LasMaravillas,necrópolis(Bobadilla,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Maravillas, necrópolis (Bobadilla, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LasMartillasIyII(Fuentepinilla,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Martillas I y II (Fuentepinilla, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LasMateas(Cartagena,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Mateas (Cartagena, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LasMatillas(AlcaládeHenares,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Matillas (Alcalá de Henares, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LasMesas(JerezdelaFrontera,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Mesas (Jerez de la Frontera, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LasMinitas(Almendralejo,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Minitas (Almendralejo, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LasMotillas,cerro(Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Motillas, cerro (Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LasMusas,villae(Arellano,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Musas, villae (Arellano, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LasMédulas(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Médulas (León)" .
+
+<http://data.dainst.de/zenon/000000496_LasPalmasdeGranCanaria(GranCanaria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Palmas de Gran Canaria (Gran Canaria)" .
+
+<http://data.dainst.de/zenon/000000496_LasParedejas,Castrode(Medinilla,Ávila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Paredejas, Castro de (Medinilla, Ávila)" .
+
+<http://data.dainst.de/zenon/000000496_LasPeñas(QuiruelasdeVidriales,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Peñas (Quiruelas de Vidriales, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LasPeñetas(Nonaspe,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Peñetas (Nonaspe, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LasPeñicas(Villena,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Peñicas (Villena, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LasPeñuelas(Martos,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Peñuelas (Martos, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LasPilas(Vera,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Pilas (Vera, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LasPizarras(Coca,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Pizarras (Coca, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LasPozas(CasasecadelasChanas,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Pozas (Casaseca de las Chanas, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LasQuintanas(Armenteros,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Quintanas (Armenteros, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LasQuintanas(PadilladeDuero,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Quintanas (Padilla de Duero, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LasQuintanas(Santoyo,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Quintanas (Santoyo, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LasQuintanas(ValorialaBuena,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Quintanas (Valoria la Buena, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LasRabas;castro(Cervatos,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Rabas; castro (Cervatos, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LasRuedas(PadilladeDuero,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Ruedas (Padilla de Duero, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LasSalinas,cueva(SanEstebandeGormaz,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Salinas, cueva (San Esteban de Gormaz, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LasTamujas,villae(MalpicadeTajo,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Tamujas, villae (Malpica de Tajo, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LasTapias(Albelda,LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Tapias (Albelda, La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_LasTenerías(Roa,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Tenerías (Roa, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LasTorrecillas(Alcuéscar,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Torrecillas (Alcuéscar, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LasTorres,villae(Estepona,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Torres, villae (Estepona, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LasToscas(MolinadeSegura,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Toscas (Molina de Segura, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LasToscas(VillalbaBaja,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Toscas (Villalba Baja, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LasTresHermanas(Aspe,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Tres Hermanas (Aspe, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LasTresVentanas,cueva(Corullón,León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Tres Ventanas, cueva (Corullón, León)" .
+
+<http://data.dainst.de/zenon/000000496_LasUces(Valsalabroso,Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Uces (Valsalabroso, Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_LasVentanas,cueva(Piñar,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Ventanas, cueva (Piñar, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LasVinuesas(Loja,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Vinuesas (Loja, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LasViñas,villa(Zamoranos,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Viñas, villa (Zamoranos, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LasViñas,villae(CuevasdelBecerro,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Viñas, villae (Cuevas del Becerro, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LasYurdinas,abrigo(Peñacerrada,Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Las Yurdinas, abrigo (Peñacerrada, Alava)" .
+
+<http://data.dainst.de/zenon/000000496_Laurita(Almuñécar,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laurita (Almuñécar, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LaxedaSartaña(PortodoSon,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Laxe da Sartaña (Porto do Son, A Coruña)" .
+
+<http://data.dainst.de/zenon/000000496_LaÑora(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "La Ñora (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_Lebrija(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lebrija (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_Leceia(Oeiras,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leceia (Oeiras, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lecetxiki;cueva(Mondragón,Guipúzcoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lecetxiki; cueva (Mondragón, Guipúzcoa)" .
+
+<http://data.dainst.de/zenon/000000496_Leciñena(Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leciñena (Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_Ledantes(Santander)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Ledantes (Santander)" .
+
+<http://data.dainst.de/zenon/000000496_Ledesma(Salamanca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Ledesma (Salamanca)" .
+
+<http://data.dainst.de/zenon/000000496_Legintxiki(Etxauri,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Legintxiki (Etxauri, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Leire,Monasteriode(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leire, Monasterio de (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Leiria(Porto,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leiria (Porto, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Leiro(Rianxo,ACoruña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leiro (Rianxo, A Coruña)" .
+
+<http://data.dainst.de/zenon/000000496_Leião(Oeiras,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leião (Oeiras, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lekunberri(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lekunberri (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Lepe(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lepe (Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_Lequeitio-Lekeitio;mun.(Vizcaya)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lequeitio - Lekeitio; mun. (Vizcaya)" .
+
+<http://data.dainst.de/zenon/000000496_Lerma(Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lerma (Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LesCasetes(Villajoyosa,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Casetes (Villajoyosa, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LesCodolles(Crevillent,Alacant)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Codolles (Crevillent, Alacant)" .
+
+<http://data.dainst.de/zenon/000000496_LesGoges,necrópolis(St.JuliàdeRamis,Girona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Goges, necrópolis (St. Julià de Ramis, Girona)" .
+
+<http://data.dainst.de/zenon/000000496_LesGuardies(ElVendrell,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Guardies (El Vendrell, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LesJovades(Cocentaina,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Jovades (Cocentaina, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LesMaioles(Rubió,Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Maioles (Rubió, Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_LesMasiesdeSantMiquel(BanyeresdelPenedès,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Masies de Sant Miquel (Banyeres del Penedès, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LesMoreres(Crevillente,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Moreres (Crevillente, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LesPlanetes(Bítem,Tortosa,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Planetes (Bítem, Tortosa, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LesRaboses(AlbalatdelsTarongers,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Raboses (Albalat dels Tarongers, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LesSorres(Gavà,Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Les Sorres (Gavà, Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_Lesera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lesera" .
+
+<http://data.dainst.de/zenon/000000496_LezadeRíoLeza(LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Leza de Río Leza (La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_Lezetxiki,cueva(Mondragón,Guipúzcoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lezetxiki, cueva (Mondragón, Guipúzcoa)" .
+
+<http://data.dainst.de/zenon/000000496_Lezuza(Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lezuza (Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_León> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "León" .
+
+<http://data.dainst.de/zenon/000000496_Libia(Herramélluri,LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Libia (Herramélluri, La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_Libisosa(s./v.Lezuza,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Libisosa (s./v. Lezuza, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_Liendo(Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Liendo (Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_Linares(Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Linares (Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_Linatzeta;cueva(Lastur,Deba,Gipuzkoa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Linatzeta; cueva (Lastur, Deba, Gipuzkoa)" .
+
+<http://data.dainst.de/zenon/000000496_LindaaPastora(Lisboa,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Linda a Pastora (Lisboa, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Liria(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Liria (Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_Lisboa(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lisboa (Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Liédana(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Liédana (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Liétor(Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Liétor (Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_Llafranc(Palafruguell,Gerona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llafranc (Palafruguell, Gerona)" .
+
+<http://data.dainst.de/zenon/000000496_Llanera(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llanera (Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LlanetedelosMoros(Montoro,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llanete de los Moros (Montoro, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodeOlmedo(Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de Olmedo (Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodePlines(Loja,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de Plines (Loja, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodelaConsolación(MontealegredelCastillo,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de la Consolación (Montealegre del Castillo, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodelaConsolación(Yecla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de la Consolación (Yecla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodelaHorca,el(Santorcaz,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de la Horca, el (Santorcaz, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodelaLámpara(Purchena,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de la Lámpara (Purchena, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LlanodelaVirgen(Coín,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llano de la Virgen (Coín, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LlanádeCerroArdite(Alozaina,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llaná de Cerro Ardite (Alozaina, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_Llardecans(Lérida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llardecans (Lérida)" .
+
+<http://data.dainst.de/zenon/000000496_Llavorsí(Lérida)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llavorsí (Lérida)" .
+
+<http://data.dainst.de/zenon/000000496_Llerena(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llerena (Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LlinarsdelsVallès(Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llinars dels Vallès (Barcelona)" .
+
+<http://data.dainst.de/zenon/000000496_LlitdelaGenerala,dolmen(Roses,Girona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llit de la Generala, dolmen (Roses, Girona)" .
+
+<http://data.dainst.de/zenon/000000496_LlomaComuna(Castellfort,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lloma Comuna (Castellfort, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LlomadeBetxí(Paterna,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lloma de Betxí (Paterna, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_Llonín(Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llonín (Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LloretdeMar(Girona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lloret de Mar (Girona)" .
+
+<http://data.dainst.de/zenon/000000496_Llosa,la(Cambrils,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llosa, la (Cambrils, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_Llosavilla(Cambrils,Tarragona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llosa villa (Cambrils, Tarragona)" .
+
+<http://data.dainst.de/zenon/000000496_LlánavesdelaReina(León)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llánaves de la Reina (León)" .
+
+<http://data.dainst.de/zenon/000000496_Llíria(Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llíria (Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_Llívia(Cerdanya,Cataluña)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Llívia (Cerdanya, Cataluña)" .
+
+<http://data.dainst.de/zenon/000000496_Loarre(Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loarre (Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_Lobios(Ourense)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lobios (Ourense)" .
+
+<http://data.dainst.de/zenon/000000496_Logrosán(Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Logrosán (Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_Logroño> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Logroño" .
+
+<http://data.dainst.de/zenon/000000496_Loja(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loja (Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LomaFonseca(Calasparra/Cieza,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma Fonseca (Calasparra/ Cieza, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LomaLencina(Tobarra,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma Lencina (Tobarra, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LomaLinda(LosOgíjares,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma Linda (Los Ogíjares, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LomadeBenagalbón(RincóndelaVictoria,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de Benagalbón (Rincón de la Victoria, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LomadeCeres,villa(Molvízar,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de Ceres, villa (Molvízar, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LomadeElArteal(CuevasdeAlmanzora,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de El Arteal (Cuevas de Almanzora, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LomadeHuéchar/LaGaribola,necrópolis(SantaFédeMondújar,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de Huéchar/La Garibola, necrópolis (Santa Fé de Mondújar, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LomadelEscorial(LosNietos,Cartagena)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma del Escorial (Los Nietos, Cartagena)" .
+
+<http://data.dainst.de/zenon/000000496_LomadelLomo,La(Cogolludo,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma del Lomo, La (Cogolludo, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LomadelaTejería(Albarracín,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de la Tejería (Albarracín, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LomadelaTerrera(Alberic,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loma de la Terrera (Alberic, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LombadoCanho(Arganil,Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lomba do Canho (Arganil, Port.)" .
+
+<http://data.dainst.de/zenon/000000496_LomoBoyero(IsladeLaPalma,Tenerife)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lomo Boyero (Isla de La Palma, Tenerife)" .
+
+<http://data.dainst.de/zenon/000000496_LomoGranados(SanNicolásdeTolentino,GranCanaria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lomo Granados (San Nicolás de Tolentino, Gran Canaria)" .
+
+<http://data.dainst.de/zenon/000000496_Longar(Viana,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Longar (Viana, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Lopera(Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lopera (Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LoradeEstepa(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lora de Estepa (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LoradelRío(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lora del Río (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_Loranca(Fuenlabrada,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loranca (Fuenlabrada, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_Lorca(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lorca (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosAlgarbes(Tarifa,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Algarbes (Tarifa, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LosAllozos(Montejícar,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Allozos (Montejícar, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosAlmadenes(Hellín,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Almadenes (Hellín, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LosArcos/Curnonium(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Arcos / Curnonium (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LosArenales(Rioseco,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Arenales (Rioseco, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LosArqueros,cueva(Viveda,Cantabria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Arqueros, cueva (Viveda, Cantabria)" .
+
+<http://data.dainst.de/zenon/000000496_LosAzules,cueva(CangasdeOnís,Asturias)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Azules, cueva (Cangas de Onís, Asturias)" .
+
+<http://data.dainst.de/zenon/000000496_LosBajos(VecilladeTrasmonte,Zamora)5> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Bajos (Vecilla de Trasmonte, Zamora)5" .
+
+<http://data.dainst.de/zenon/000000496_LosBaraones(Valdegama,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Baraones (Valdegama, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LosBarreros(Salobreña,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Barreros (Salobreña, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosBarrios(Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Barrios (Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LosBarruecos(MalpartidadeCáceres,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Barruecos (Malpartida de Cáceres, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LosBañales(Uncastillo,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Bañales (Uncastillo, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LosBaños(Ariño,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Baños (Ariño, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LosBañosdelaReina(Calpe,Alicante)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Baños de la Reina (Calpe, Alicante)" .
+
+<http://data.dainst.de/zenon/000000496_LosBeatos(Cartagena,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Beatos (Cartagena, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosBerrocales(Vallecas,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Berrocales (Vallecas, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LosBillares(Zamora,Idem)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Billares (Zamora, Idem)" .
+
+<http://data.dainst.de/zenon/000000496_LosCabañiles(Sucaina,Castellón)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cabañiles (Sucaina, Castellón)" .
+
+<http://data.dainst.de/zenon/000000496_LosCanonigos(ArcasdelVillar,Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Canonigos (Arcas del Villar, Cuenca)" .
+
+<http://data.dainst.de/zenon/000000496_LosCantos,villae(Bullas,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cantos, villae (Bullas, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosCapuchinos,necrópolis(Caudete,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Capuchinos, necrópolis (Caudete, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LosCarriles(Llanes,Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Carriles (Llanes, Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_LosCasarejos(SanMartíndeLosa,Burgos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Casarejos (San Martín de Losa, Burgos)" .
+
+<http://data.dainst.de/zenon/000000496_LosCasares(RibadeSaelices,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Casares (Riba de Saelices, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosCasares,villae(Armuña,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Casares, villae (Armuña, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LosCascajales(SanCebriándeCastro,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cascajales (San Cebrián de Castro, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LosCascajos(Grañón,LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cascajos (Grañón, La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_LosCascajos(LosArcos,Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cascajos (Los Arcos, Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastellares(HerreradelosNavarros,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castellares (Herrera de los Navarros, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastellazos(MedianadeAragón,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castellazos (Mediana de Aragón, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastellets(Mequinenza,Zaragoza)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castellets (Mequinenza, Zaragoza)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastellonesdeCaviedes(Cazorla,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castellones de Caviedes (Cazorla, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillaresdeVillaVieja(Jubera,LaRioja)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillares de Villa Vieja (Jubera, La Rioja)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos(Estepona,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos (Estepona, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos(LaGranjuela,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos (La Granjuela, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos(Montefrío,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos (Montefrío, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos,Castrode(Sanchorreja,Ávila)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos, Castro de (Sanchorreja, Ávila)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos,villae(Magan,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos, villae (Magan, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejos2(FuentedeCantos,Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos 2 (Fuente de Cantos, Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejosdeAlcorrín(Manilva,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos de Alcorrín (Manilva, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejosdeLasPeñasdelosGitanos(Montefrío,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos de Las Peñas de los Gitanos (Montefrío, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejosdePelegrina(Sigüenza,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos de Pelegrina (Sigüenza, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillejosdeTeba(Teba,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillejos de Teba (Teba, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillones(Campillos,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillones (Campillos, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillos(LasHerencias,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillos (Las Herencias, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastillos(VillavezadelAgua,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castillos (Villaveza del Agua, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LosCastrosdeLastra(Caranca,Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Castros de Lastra (Caranca, Alava)" .
+
+<http://data.dainst.de/zenon/000000496_LosCañosdeMeca(Barbate,Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Caños de Meca (Barbate, Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_LosCentenares(Luzaga,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Centenares (Luzaga, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosCercados(Mucientes,Valladolid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cercados (Mucientes, Valladolid)" .
+
+<http://data.dainst.de/zenon/000000496_LosCerrillos(Cogolludo,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cerrillos (Cogolludo, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosCipreses,culturaargárica(LaTorrecilla,Lorca,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cipreses, cultura argárica (La Torrecilla, Lorca, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosCipreses,villae(Jumilla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cipreses, villae (Jumilla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosCollados(Almedinilla,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Collados (Almedinilla, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LosCorrales(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Corrales (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LosCorralones(Gilena,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Corralones (Gilena, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LosCuestosdelaEstación(Benavente,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Cuestos de la Estación (Benavente, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LosDiegos(LosAlcazares,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Diegos (Los Alcazares, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosDoceCantos(HerreradePisuerga,Palencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Doce Cantos (Herrera de Pisuerga, Palencia)" .
+
+<http://data.dainst.de/zenon/000000496_LosDornajos(LaHinojosa,Cuenca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Dornajos (La Hinojosa, Cuenca)" .
+
+<http://data.dainst.de/zenon/000000496_LosEnebralejos(Prádena,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Enebralejos (Prádena, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LosEnebralejos,cueva(Pradena,Segovia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Enebralejos, cueva (Pradena, Segovia)" .
+
+<http://data.dainst.de/zenon/000000496_LosEnebrales(Tamajón,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Enebrales (Tamajón, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosGarres(Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Garres (Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosGavilanes(Mazarrón,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Gavilanes (Mazarrón, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosGrajos(Cieza,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Grajos (Cieza, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosHorcajos,Abrigode(ElVellón,Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Horcajos, Abrigo de (El Vellón, Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LosHusos(Elvillar,Álava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Husos (Elvillar, Álava)" .
+
+<http://data.dainst.de/zenon/000000496_LosLlanos,dolmende(Vitoria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Llanos, dolmen de (Vitoria)" .
+
+<http://data.dainst.de/zenon/000000496_LosMatagallares(Salobreña,Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Matagallares (Salobreña, Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosMillares(SantaFedeMondújar,Almería)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Millares (Santa Fe de Mondújar, Almería)" .
+
+<http://data.dainst.de/zenon/000000496_LosMolares(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Molares (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LosMolinicos(Moratalla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Molinicos (Moratalla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosMolinillos(Baena,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Molinillos (Baena, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LosMolinillos(Benalmádena-costa,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Molinillos (Benalmádena-costa, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosMolinos(Vezdemarbán,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Molinos (Vezdemarbán, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LosMonteses(Jalance,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Monteses (Jalance, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LosMorenos(Corvera,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Morenos (Corvera, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosMorosdeGabasa(Pirineos,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Moros de Gabasa (Pirineos, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496_LosMorrones(Albatana,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Morrones (Albatana, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LosNietos(Cartagena,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Nietos (Cartagena, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosParadores(CaravacadelaCruz,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Paradores (Caravaca de la Cruz, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosParrales(ArenasdeSanJuan,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Parrales (Arenas de San Juan, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_LosPaseíllos(Monturque,Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Paseíllos (Monturque, Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LosPedroches(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Pedroches (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LosPozos(HigueradeArjona,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Pozos (Higuera de Arjona, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LosQuitanares(Rioseco,Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Quitanares (Rioseco, Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LosRodiles(CubillejodelaSierra,Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Rodiles (Cubillejo de la Sierra, Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_LosRonzones(Aljaraque,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Ronzones (Aljaraque, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosRosales(LoradelRío,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Rosales (Lora del Río, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LosRoyos(CaravacadelaCruz,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Royos (Caravaca de la Cruz, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosRumíes(Zieza,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Rumíes (Zieza, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosSantosdeMaimona(Badajoz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Santos de Maimona (Badajoz)" .
+
+<http://data.dainst.de/zenon/000000496_LosSantosdelaHumosa(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Santos de la Humosa (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_LosSilos(LaSolana,CiudadReal)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Silos (La Solana, Ciudad Real)" .
+
+<http://data.dainst.de/zenon/000000496_LosTerreros(Torrebaja,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Terreros (Torrebaja, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LosTolmosdeCaracena(Soria)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Tolmos de Caracena (Soria)" .
+
+<http://data.dainst.de/zenon/000000496_LosTorrejones(Yecla,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Torrejones (Yecla, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosTrepadores,abrigode(Alacón,Teruel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Trepadores, abrigo de (Alacón, Teruel)" .
+
+<http://data.dainst.de/zenon/000000496_LosTérminos,villa(Monroy,Cáceres)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Términos, villa (Monroy, Cáceres)" .
+
+<http://data.dainst.de/zenon/000000496_LosVergeles(Granada)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Vergeles (Granada)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(Andújar,Jaén)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Andújar, Jaén)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(BañosyMendigo,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Baños y Mendigo, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(CaudetedelasFuentes,Valencia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Caudete de las Fuentes, Valencia)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(Gilena,Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Gilena, Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(HoyaGonzalo,Albacete)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Hoya Gonzalo, Albacete)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(Ocaña,Toledo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Ocaña, Toledo)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillares(VillanuevadeAzoague,Zamora)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares (Villanueva de Azoague, Zamora)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillaresdeAlgane(Coín,Málaga)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villares de Algane (Coín, Málaga)" .
+
+<http://data.dainst.de/zenon/000000496_LosVillaricos(CaravacadelaCruz,Murcia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Los Villaricos (Caravaca de la Cruz, Murcia)" .
+
+<http://data.dainst.de/zenon/000000496_Loulé(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loulé (Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Loures(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Loures (Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lourosa(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lourosa (Port.)" .
+
+<http://data.dainst.de/zenon/000000496_Lousada,necrópolis(Xermade,Lugo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lousada, necrópolis (Xermade, Lugo)" .
+
+<http://data.dainst.de/zenon/000000496_Lozoya;mun.(Madrid)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lozoya; mun. (Madrid)" .
+
+<http://data.dainst.de/zenon/000000496_Lucena(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lucena (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_LucenadelPuerto;mun.(Huelva)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lucena del Puerto; mun. (Huelva)" .
+
+<http://data.dainst.de/zenon/000000496_Lucentum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lucentum" .
+
+<http://data.dainst.de/zenon/000000496_Lucenza(Cualedro,Orense)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lucenza (Cualedro, Orense)" .
+
+<http://data.dainst.de/zenon/000000496_Luco(Vitoria-Gasteiz,Alava)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Luco (Vitoria-Gasteiz, Alava)" .
+
+<http://data.dainst.de/zenon/000000496_LucusAugusti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lucus Augusti" .
+
+<http://data.dainst.de/zenon/000000496_Lugo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lugo" .
+
+<http://data.dainst.de/zenon/000000496_LugodeLlanera(Oviedo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lugo de Llanera (Oviedo)" .
+
+<http://data.dainst.de/zenon/000000496_Luisiana(Sevilla)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Luisiana (Sevilla)" .
+
+<http://data.dainst.de/zenon/000000496_Lumbier;mun.(Navarra)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lumbier; mun. (Navarra)" .
+
+<http://data.dainst.de/zenon/000000496_Luque(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Luque (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000496_Luzaga(Guadalajara)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Luzaga (Guadalajara)" .
+
+<http://data.dainst.de/zenon/000000496_Lérida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Lérida" .
+
+<http://data.dainst.de/zenon/000000496_LíneadelaConcepción,La(Cádiz)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "Línea de la Concepción, La (Cádiz)" .
+
+<http://data.dainst.de/zenon/000000496_l'EspinaC(Tàrrega,l'Urgell)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "l'Espina C (Tàrrega, l'Urgell)" .
+
+<http://data.dainst.de/zenon/000000496_lasSillas(Marcén,Huesca)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000496> ;
+    skos:prefLabel "las Sillas (Marcén, Huesca)" .
+
+<http://data.dainst.de/zenon/000000496> a skos:Concept ;
+    skos:altLabel "Lugares, yacimientos La-Lz"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000007> ;
+    skos:hiddenLabel "3.00.01.01.La-Lz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte La-Lz"@de .
+

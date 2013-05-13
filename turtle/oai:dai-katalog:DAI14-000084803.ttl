@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084803> a skos:Concept ;
+    skos:altLabel "Bad Berleburg"@en,
+        "Bad Berleburg"@fr,
+        "Bad Berleburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038898> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrSiegeBad Berleburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Berleburg"@de .
+

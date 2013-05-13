@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080236> a skos:Concept ;
+    skos:altLabel "Galovo"@en,
+        "Galovo"@fr,
+        "Galovo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatGalovo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Galovo"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003708> a skos:Concept ;
+    skos:altLabel "jetons, tessères"@fr,
+        "tesserae"@en,
+        "tessere"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003648> ;
+    skos:hiddenLabel "xNumTess" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tesserae"@de .
+

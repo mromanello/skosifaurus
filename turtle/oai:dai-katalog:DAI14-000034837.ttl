@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034837> a skos:Concept ;
+    skos:altLabel "Hünxe 1992"@en,
+        "Hünxe 1992"@fr,
+        "Hünxe 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstHünxe 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hünxe 1992"@de .
+

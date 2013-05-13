@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072101> a skos:Concept ;
+    skos:altLabel "Madonna del Petto"@en,
+        "Madonna del Petto"@fr,
+        "Madonna del Petto"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039247> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliBariMadonna d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Madonna del Petto"@de .
+

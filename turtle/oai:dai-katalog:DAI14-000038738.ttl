@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038738> a skos:Concept ;
+    skos:altLabel "Hauts-de-Saine"@pl,
+        "Hauts-de-Seine"@en,
+        "Hauts-de-Seine"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000038723> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dHauts" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hauts-de-Seine"@de .
+

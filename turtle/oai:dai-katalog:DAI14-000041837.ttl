@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041837> a skos:Concept ;
+    skos:altLabel "Génimont"@en,
+        "Génimont"@fr,
+        "Génimont"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038719> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiNamurGénimont" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Génimont"@de .
+

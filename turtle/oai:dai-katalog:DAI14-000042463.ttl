@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042463> a skos:Concept ;
+    skos:altLabel "La Chapelle-la-Reine, Bas d'Ury"@en,
+        "La Chapelle-la-Reine, Bas d'Ury"@fr,
+        "La Chapelle-la-Reine, Bas d'Ury"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038733> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineLa Chapel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Chapelle-la-Reine, Bas d'Ury"@de .
+

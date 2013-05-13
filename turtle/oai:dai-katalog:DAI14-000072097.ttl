@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072097> a skos:Concept ;
+    skos:altLabel "Grotta delle Mura"@en,
+        "Grotta delle Mura"@fr,
+        "Grotta delle Mura"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039247> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliBariGrotta de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotta delle Mura"@de .
+

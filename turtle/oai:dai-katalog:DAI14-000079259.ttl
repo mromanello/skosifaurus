@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079259> a skos:Concept ;
+    skos:altLabel "Fontaine-lès-Vervins"@en,
+        "Fontaine-lès-Vervins"@fr,
+        "Fontaine-lès-Vervins"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038724> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dAisneFontaine-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fontaine-lès-Vervins"@de .
+

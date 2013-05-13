@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015468> a skos:Concept ;
+    skos:altLabel "Fibule typu omega"@pl,
+        "Fibules forme Omega"@fr,
+        "Omega fibula"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015460> ;
+    skos:hiddenLabel "yRGKArch09 - FundeKleidFibelOmega" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Omegafibeln"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067090> a skos:Concept ;
+    skos:altLabel "Batasani, jud. Vâlcea"@en,
+        "Batasani, jud. Vâlcea"@fr,
+        "Batasani, jud. Vâlcea"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenBatasani," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Batasani, jud. Vâlcea"@de .
+

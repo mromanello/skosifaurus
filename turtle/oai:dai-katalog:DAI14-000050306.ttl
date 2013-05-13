@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050306> a skos:Concept ;
+    skos:altLabel "Benningen a. Neckar"@en,
+        "Benningen a. Neckar"@fr,
+        "Benningen a. Neckar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075346> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenLudwiBenningen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Benningen a. Neckar"@de .
+

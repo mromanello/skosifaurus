@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066879> a skos:Concept ;
+    skos:altLabel "Sărvăzel, jud. Satu Mare"@en,
+        "Sărvăzel, jud. Satu Mare"@fr,
+        "Sărvăzel, jud. Satu Mare"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSărvăzel," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sărvăzel, jud. Satu Mare"@de .
+

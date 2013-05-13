@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083689> a skos:Concept ;
+    skos:altLabel "Altenstein"@en,
+        "Altenstein"@fr,
+        "Altenstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075416> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerHassbAltenstei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altenstein"@de .
+

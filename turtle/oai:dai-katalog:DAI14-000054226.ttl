@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054226> a skos:Concept ;
+    skos:altLabel "Strückhausen"@en,
+        "Strückhausen"@fr,
+        "Strückhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075568> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeOldenStrückhau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strückhausen"@de .
+

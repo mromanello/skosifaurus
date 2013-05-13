@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020927> a skos:Concept ;
+    skos:altLabel "Villeneuve-Saint-Germain"@en,
+        "Villeneuve-Saint-Germain"@fr,
+        "Villeneuve-Saint-Germain"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Villeneuve-Saint-Germain" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villeneuve-Saint-Germain"@de .
+

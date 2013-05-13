@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048984> a skos:Concept ;
+    skos:altLabel "Sandwick, Orkney"@en,
+        "Sandwick, Orkney"@fr,
+        "Sandwick, Orkney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078652> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkneSandwick," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sandwick, Orkney"@de .
+

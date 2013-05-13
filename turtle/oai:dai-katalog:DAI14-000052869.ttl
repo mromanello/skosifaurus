@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052869> a skos:Concept ;
+    skos:altLabel "Dautphetal-Allendorf"@en,
+        "Dautphetal-Allendorf"@fr,
+        "Dautphetal-Allendorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075501> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMarbuDautpheta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dautphetal-Allendorf"@de .
+

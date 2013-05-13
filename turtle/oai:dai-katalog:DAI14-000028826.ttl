@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028826> a skos:Concept ;
+    skos:altLabel "Remagen, Städtisches Museum"@en,
+        "Remagen, Städtisches Museum"@fr,
+        "Remagen, Städtisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRemagen, Städtisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Remagen, Städtisches Museum"@de .
+

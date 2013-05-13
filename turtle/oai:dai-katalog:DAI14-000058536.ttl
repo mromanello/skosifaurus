@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058536> a skos:Concept ;
+    skos:altLabel "Bergisel, Stadt Innsbruck"@en,
+        "Bergisel, Stadt Innsbruck"@fr,
+        "Bergisel, Stadt Innsbruck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolBergisel," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bergisel, Stadt Innsbruck"@de .
+

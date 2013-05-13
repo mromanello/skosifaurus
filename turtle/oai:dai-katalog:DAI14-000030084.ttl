@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030084> a skos:Concept ;
+    skos:altLabel "Gemona, Soprintendenza Archaeologica per il Veneto"@en,
+        "Gemona, Soprintendenza Archaeologica per il Veneto"@fr,
+        "Gemona, Soprintendenza Archaeologica per il Veneto"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGemona, Soprintendenza Archaeologica per il Veneto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gemona, Soprintendenza Archaeologica per il Veneto"@de .
+

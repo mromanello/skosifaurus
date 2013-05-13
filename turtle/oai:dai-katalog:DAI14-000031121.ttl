@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031121> a skos:Concept ;
+    skos:altLabel "Lanz, München 1993"@en,
+        "Lanz, München 1993"@fr,
+        "Lanz, München 1993"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiLanz, München 1993" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lanz, München 1993"@de .
+

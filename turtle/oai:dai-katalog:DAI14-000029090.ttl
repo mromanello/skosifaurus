@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029090> a skos:Concept ;
+    skos:altLabel "Tărgoviste, Muzej Istoričeski"@en,
+        "Tărgoviste, Muzej Istoričeski"@fr,
+        "Tărgoviste, Muzej Istoričeski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTărgoviste, Muzej Istoričeski" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tărgoviste, Muzej Istoričeski"@de .
+

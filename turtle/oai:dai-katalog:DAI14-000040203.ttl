@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040203> a skos:Concept ;
+    skos:altLabel "Taarnby"@en,
+        "Taarnby"@fr,
+        "Taarnby"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemTaarnby" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Taarnby"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058626> a skos:Concept ;
+    skos:altLabel "Bartholomäberg, VB Bludenz"@en,
+        "Bartholomäberg, VB Bludenz"@fr,
+        "Bartholomäberg, VB Bludenz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039002> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterVorarBartholom" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bartholomäberg, VB Bludenz"@de .
+

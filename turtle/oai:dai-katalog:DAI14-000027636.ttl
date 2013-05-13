@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027636> a skos:Concept ;
+    skos:altLabel "Baden, Landvogteischloss"@en,
+        "Baden, Landvogteischloss"@fr,
+        "Baden, Landvogteischloss"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBaden, Landvogteischloss" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baden, Landvogteischloss"@de .
+

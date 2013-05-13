@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049997> a skos:Concept ;
+    skos:altLabel "Leonberg-Eltingen"@en,
+        "Leonberg-Eltingen"@fr,
+        "Leonberg-Eltingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075332> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBöbliLeonberg-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leonberg-Eltingen"@de .
+

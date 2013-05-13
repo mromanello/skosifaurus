@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028271> a skos:Concept ;
+    skos:altLabel "Kempten, Archäologischer Park Cambodunum"@en,
+        "Kempten, Archäologischer Park Cambodunum"@fr,
+        "Kempten, Archäologischer Park Cambodunum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKempten, Archäologischer Park Cambodunum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kempten, Archäologischer Park Cambodunum"@de .
+

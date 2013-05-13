@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023677> a skos:Concept ;
+    skos:altLabel "Oppius, P."@en,
+        "Oppius, P."@fr,
+        "Oppius, P."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015293> ;
+    skos:hiddenLabel "yRGKArch08 - HistoProsoEinzeOppius, P." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oppius, P."@de .
+

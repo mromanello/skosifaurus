@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030998> a skos:Concept ;
+    skos:altLabel "Stowarzyszenie Naukowe Archeologów Polskich, Oddział w Poznaniu"@en,
+        "Stowarzyszenie Naukowe Archeologów Polskich, Oddział w Poznaniu"@fr,
+        "Stowarzyszenie Naukowe Archeologów Polskich, Oddział w Poznaniu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiStowarzyszenie Naukowe Archeologów Polskich, Oddział w Poznaniu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stowarzyszenie Naukowe Archeologów Polskich, Oddział w Poznaniu"@de .
+

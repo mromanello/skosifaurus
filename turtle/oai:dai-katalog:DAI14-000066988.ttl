@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066988> a skos:Concept ;
+    skos:altLabel "Vetiş, jud. Satu Mare"@en,
+        "Vetiş, jud. Satu Mare"@fr,
+        "Vetiş, jud. Satu Mare"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatVetiş, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vetiş, jud. Satu Mare"@de .
+

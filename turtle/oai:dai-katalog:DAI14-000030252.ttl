@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030252> a skos:Concept ;
+    skos:altLabel "Müller, Hippolyte"@en,
+        "Müller, Hippolyte"@fr,
+        "Müller, Hippolyte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaMüller, Hippolyte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Müller, Hippolyte"@de .
+

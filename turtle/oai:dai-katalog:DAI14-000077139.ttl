@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077139> a skos:Concept ;
+    skos:altLabel "L Abri Fritsch"@en,
+        "L Abri Fritsch"@fr,
+        "L Abri Fritsch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038761> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIndreL Abri Fr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "L Abri Fritsch"@de .
+

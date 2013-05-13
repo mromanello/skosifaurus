@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045550> a skos:Concept ;
+    skos:altLabel "Jouvayrac, com. Martrin"@en,
+        "Jouvayrac, com. Martrin"@fr,
+        "Jouvayrac, com. Martrin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038813> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitAveyrJouvayrac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jouvayrac, com. Martrin"@de .
+

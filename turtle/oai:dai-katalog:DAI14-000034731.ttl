@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034731> a skos:Concept ;
+    skos:altLabel "Aschheim, Geschichtlich-heimatkundliche Sammlung"@en,
+        "Aschheim, Geschichtlich-heimatkundliche Sammlung"@fr,
+        "Aschheim, Geschichtlich-heimatkundliche Sammlung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAschheim, Geschichtlich-heimatkundliche Sammlung" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aschheim, Geschichtlich-heimatkundliche Sammlung"@de .
+

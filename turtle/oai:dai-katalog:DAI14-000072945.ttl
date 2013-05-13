@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072945> a skos:Concept ;
+    skos:altLabel "Serra do Leboreiro"@en,
+        "Serra do Leboreiro"@fr,
+        "Serra do Leboreiro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039304> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniGalicOurenSerra do" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Serra do Leboreiro"@de .
+

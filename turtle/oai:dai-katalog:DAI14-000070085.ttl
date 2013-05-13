@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070085> a skos:Concept ;
+    skos:altLabel "Padania"@en,
+        "Padania"@fr,
+        "Padania"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039171> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliLombaZZ--RPadania" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Padania"@de .
+

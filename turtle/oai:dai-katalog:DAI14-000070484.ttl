@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070484> a skos:Concept ;
+    skos:altLabel "San Gottardo di Udine"@en,
+        "San Gottardo di Udine"@fr,
+        "San Gottardo di Udine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039185> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetFriulUdineSan Gotta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Gottardo di Udine"@de .
+

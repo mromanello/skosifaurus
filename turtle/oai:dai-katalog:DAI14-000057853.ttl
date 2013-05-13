@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057853> a skos:Concept ;
+    skos:altLabel "Maria Saal, VB Klagenfurt Land"@en,
+        "Maria Saal, VB Klagenfurt Land"@fr,
+        "Maria Saal, VB Klagenfurt Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntMaria Saa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maria Saal, VB Klagenfurt Land"@de .
+

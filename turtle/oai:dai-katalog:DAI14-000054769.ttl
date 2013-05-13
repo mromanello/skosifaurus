@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054769> a skos:Concept ;
+    skos:altLabel "Zülpich"@en,
+        "Zülpich"@fr,
+        "Zülpich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075637> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrEuskiZülpich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zülpich"@de .
+

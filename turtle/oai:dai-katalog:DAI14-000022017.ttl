@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022017> a skos:Concept ;
+    skos:altLabel "Matilde <di Canossa>"@en,
+        "Matilde <di Canossa>"@fr,
+        "Matilde <di Canossa>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMatilde <di Canossa>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Matilde <di Canossa>"@de .
+

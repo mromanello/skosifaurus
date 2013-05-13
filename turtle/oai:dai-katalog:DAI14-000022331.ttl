@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022331> a skos:Concept ;
+    skos:altLabel "Rimbertus <Hamburgensis>"@en,
+        "Rimbertus <Hamburgensis>"@fr,
+        "Rimbertus <Hamburgensis>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoRimbertus <Hamburgensis>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rimbertus <Hamburgensis>"@de .
+

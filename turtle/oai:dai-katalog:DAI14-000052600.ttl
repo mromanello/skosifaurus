@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052600> a skos:Concept ;
+    skos:altLabel "Niederlausitz"@en,
+        "Niederlausitz"@fr,
+        "Niederlausitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038871> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandZZ--RNiederlau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niederlausitz"@de .
+

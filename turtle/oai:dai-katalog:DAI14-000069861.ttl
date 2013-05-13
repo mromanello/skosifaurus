@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069861> a skos:Concept ;
+    skos:altLabel "Castelleto Ticino, com. Novara"@en,
+        "Castelleto Ticino, com. Novara"@fr,
+        "Castelleto Ticino, com. Novara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039161> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoNovarCastellet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castelleto Ticino, com. Novara"@de .
+

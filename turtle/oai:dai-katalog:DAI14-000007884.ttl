@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007884> a skos:Concept ;
+    skos:altLabel "Chirilă, Eugen"@en,
+        "Chirilă, Eugen"@fr,
+        "Chirilă, Eugen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoChirilă, Eugen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chirilă, Eugen"@de .
+

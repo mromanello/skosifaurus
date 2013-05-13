@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072019> a skos:Concept ;
+    skos:altLabel "Arenosola"@en,
+        "Arenosola"@fr,
+        "Arenosola"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039242> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaSalerArenosola" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arenosola"@de .
+

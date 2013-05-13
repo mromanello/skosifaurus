@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069516> a skos:Concept ;
+    skos:altLabel "Brescia-Santa Giulia"@en,
+        "Brescia-Santa Giulia"@fr,
+        "Brescia-Santa Giulia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039146> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaBrescBrescia-S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brescia-Santa Giulia"@de .
+

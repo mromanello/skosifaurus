@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030145> a skos:Concept ;
+    skos:altLabel "Iseli, Hans"@en,
+        "Iseli, Hans"@fr,
+        "Iseli, Hans"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaIseli, Hans" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iseli, Hans"@de .
+

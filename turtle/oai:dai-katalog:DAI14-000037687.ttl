@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037687> a skos:Concept ;
+    skos:altLabel "Szombathely-Bozsok 2002"@en,
+        "Szombathely-Bozsok 2002"@fr,
+        "Szombathely-Bozsok 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSzombathely-Bozsok 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Szombathely-Bozsok 2002"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007966> a skos:Concept ;
+    skos:altLabel "Curle, Alexander Ormiston"@en,
+        "Curle, Alexander Ormiston"@fr,
+        "Curle, Alexander Ormiston"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCurle, Alexander Ormiston" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Curle, Alexander Ormiston"@de .
+

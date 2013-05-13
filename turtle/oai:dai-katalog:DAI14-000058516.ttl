@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058516> a skos:Concept ;
+    skos:altLabel "Wetzelsdorfberg, VB Deutschlandsberg"@en,
+        "Wetzelsdorfberg, VB Deutschlandsberg"@fr,
+        "Wetzelsdorfberg, VB Deutschlandsberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieWetzelsdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wetzelsdorfberg, VB Deutschlandsberg"@de .
+

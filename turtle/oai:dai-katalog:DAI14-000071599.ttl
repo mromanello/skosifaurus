@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071599> a skos:Concept ;
+    skos:altLabel "Poggio Smerdarolo-Piana di Rio Fiume"@en,
+        "Poggio Smerdarolo-Piana di Rio Fiume"@fr,
+        "Poggio Smerdarolo-Piana di Rio Fiume"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaPoggio Sm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poggio Smerdarolo-Piana di Rio Fiume"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078986> a skos:Concept ;
+    skos:altLabel "Scandiano"@en,
+        "Scandiano"@fr,
+        "Scandiano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039198> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliReggiScandiano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Scandiano"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044015> a skos:Concept ;
+    skos:altLabel "Vendée"@en,
+        "Vendée"@fr,
+        "Vendée"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RVendée" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vendée"@de .
+

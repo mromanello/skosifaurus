@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074876> a skos:Concept ;
+    skos:altLabel "Lykien"@en,
+        "Lykien"@fr,
+        "Lykien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039392> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeZZ--RLykien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lykien"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012686> a skos:Concept ;
+    skos:altLabel "Blade technique"@en,
+        "Technika wiórowa"@pl,
+        "Technique de lame"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012681> ;
+    skos:hiddenLabel "yRGKArch03 - WirtsHandwProduBearbKling" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klingentechnik"@de .
+

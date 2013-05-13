@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061787> a skos:Concept ;
+    skos:altLabel "Basel-St. Alban-Vorstadt"@en,
+        "Basel-St. Alban-Vorstadt"@fr,
+        "Basel-St. Alban-Vorstadt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039038> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBaselBasel-St." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Basel-St. Alban-Vorstadt"@de .
+

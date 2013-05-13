@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042576> a skos:Concept ;
+    skos:altLabel "Gaillon-sur-Montcient"@en,
+        "Gaillon-sur-Montcient"@fr,
+        "Gaillon-sur-Montcient"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038735> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dYveliGaillon-s" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gaillon-sur-Montcient"@de .
+

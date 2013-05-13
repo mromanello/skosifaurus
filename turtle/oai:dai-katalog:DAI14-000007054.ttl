@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007054> a skos:Concept ;
+    skos:altLabel "Trentini, Johannes Baptist"@en,
+        "Trentini, Johannes Baptist"@fr,
+        "Trentini, Johannes Baptist"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsTrentini, Johannes Baptist" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trentini, Johannes Baptist"@de .
+

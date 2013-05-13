@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052953> a skos:Concept ;
+    skos:altLabel "Homberg an der Efze"@en,
+        "Homberg an der Efze"@fr,
+        "Homberg an der Efze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075505> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseSchwaHomberg a" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Homberg an der Efze"@de .
+

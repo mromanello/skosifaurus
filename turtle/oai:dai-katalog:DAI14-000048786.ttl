@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048786> a skos:Concept ;
+    skos:altLabel "Bharpa Carinish, North Uist, Inverness"@en,
+        "Bharpa Carinish, North Uist, Inverness"@fr,
+        "Bharpa Carinish, North Uist, Inverness"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlBharpa Ca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bharpa Carinish, North Uist, Inverness"@de .
+

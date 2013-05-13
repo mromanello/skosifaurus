@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009952> a skos:Concept ;
+    skos:altLabel "Speck-Scherrer, Josef"@en,
+        "Speck-Scherrer, Josef"@fr,
+        "Speck-Scherrer, Josef"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSpeck-Scherrer, Josef" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Speck-Scherrer, Josef"@de .
+

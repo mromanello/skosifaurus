@@ -1,0 +1,1784 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002497_Acemhöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Acemhöyük" .
+
+<http://data.dainst.de/zenon/000002497_Acmonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Acmonia" .
+
+<http://data.dainst.de/zenon/000002497_Acıpayam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Acıpayam" .
+
+<http://data.dainst.de/zenon/000002497_AdaKőy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ada Kőy" .
+
+<http://data.dainst.de/zenon/000002497_Adada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Adada" .
+
+<http://data.dainst.de/zenon/000002497_Adramyttion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Adramyttion" .
+
+<http://data.dainst.de/zenon/000002497_Adrasan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Adrasan" .
+
+<http://data.dainst.de/zenon/000002497_Adrassos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Adrassos" .
+
+<http://data.dainst.de/zenon/000002497_Afyonkarahisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Afyonkarahisar" .
+
+<http://data.dainst.de/zenon/000002497_Afşin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Afşin" .
+
+<http://data.dainst.de/zenon/000002497_Agartı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Agartı" .
+
+<http://data.dainst.de/zenon/000002497_Ahlat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ahlat" .
+
+<http://data.dainst.de/zenon/000002497_AhlatlıTepecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ahlatlı Tepecik" .
+
+<http://data.dainst.de/zenon/000002497_Ahlatlıbel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ahlatlıbel" .
+
+<http://data.dainst.de/zenon/000002497_Ahmetler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ahmetler" .
+
+<http://data.dainst.de/zenon/000002497_Aigai(Aiolis)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aigai (Aiolis)" .
+
+<http://data.dainst.de/zenon/000002497_Aigeai(Kilikia)vedi:Yumurtalık> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aigeai (Kilikia) vedi: Yumurtalık" .
+
+<http://data.dainst.de/zenon/000002497_Ainosvedi:Enez> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ainos vedi: Enez" .
+
+<http://data.dainst.de/zenon/000002497_Aizanoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aizanoi" .
+
+<http://data.dainst.de/zenon/000002497_Akalan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akalan" .
+
+<http://data.dainst.de/zenon/000002497_AkarçayHöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akarçay Höyük" .
+
+<http://data.dainst.de/zenon/000002497_AkarçayTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akarçay Tepe" .
+
+<http://data.dainst.de/zenon/000002497_Akdam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akdam" .
+
+<http://data.dainst.de/zenon/000002497_Akdağ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akdağ" .
+
+<http://data.dainst.de/zenon/000002497_AkdeğirmenHüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akdeğirmen Hüyük" .
+
+<http://data.dainst.de/zenon/000002497_Akhısar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akhısar" .
+
+<http://data.dainst.de/zenon/000002497_Akkale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akkale" .
+
+<http://data.dainst.de/zenon/000002497_Akkissevedi:Gorgoromeis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akkisse vedi: Gorgoromeis" .
+
+<http://data.dainst.de/zenon/000002497_Akkuzulu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akkuzulu" .
+
+<http://data.dainst.de/zenon/000002497_Aksaray> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aksaray" .
+
+<http://data.dainst.de/zenon/000002497_Aksaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aksaz" .
+
+<http://data.dainst.de/zenon/000002497_Akselendi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akselendi" .
+
+<http://data.dainst.de/zenon/000002497_Aksu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aksu" .
+
+<http://data.dainst.de/zenon/000002497_AktopraklıkHöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aktopraklık Höyük" .
+
+<http://data.dainst.de/zenon/000002497_AkçakaleAda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akçakale Ada" .
+
+<http://data.dainst.de/zenon/000002497_Akçakeçili> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akçakeçili" .
+
+<http://data.dainst.de/zenon/000002497_Akören> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akören" .
+
+<http://data.dainst.de/zenon/000002497_Akşehir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Akşehir" .
+
+<http://data.dainst.de/zenon/000002497_AlaKiliseBükü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ala Kilise Bükü" .
+
+<http://data.dainst.de/zenon/000002497_Alabanda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alabanda" .
+
+<http://data.dainst.de/zenon/000002497_AlacaHöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alaca Höyük" .
+
+<http://data.dainst.de/zenon/000002497_Alahan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alahan" .
+
+<http://data.dainst.de/zenon/000002497_Alahıdır> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alahıdır" .
+
+<http://data.dainst.de/zenon/000002497_Alakilise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alakilise" .
+
+<http://data.dainst.de/zenon/000002497_Alalah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alalah" .
+
+<http://data.dainst.de/zenon/000002497_Alalakh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alalakh" .
+
+<http://data.dainst.de/zenon/000002497_Alanya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alanya" .
+
+<http://data.dainst.de/zenon/000002497_Alazeytin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alazeytin" .
+
+<http://data.dainst.de/zenon/000002497_Alaşehir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alaşehir" .
+
+<http://data.dainst.de/zenon/000002497_AlexandreiaTroas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alexandreia Troas" .
+
+<http://data.dainst.de/zenon/000002497_Alibeyhöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alibeyhöyük" .
+
+<http://data.dainst.de/zenon/000002497_Alibeyli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alibeyli" .
+
+<http://data.dainst.de/zenon/000002497_Alinda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alinda" .
+
+<http://data.dainst.de/zenon/000002497_Alioi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alioi" .
+
+<http://data.dainst.de/zenon/000002497_AlişarHöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alişar Höyük" .
+
+<http://data.dainst.de/zenon/000002497_Allianoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Allianoi" .
+
+<http://data.dainst.de/zenon/000002497_Alniunu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alniunu" .
+
+<http://data.dainst.de/zenon/000002497_Alpu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alpu" .
+
+<http://data.dainst.de/zenon/000002497_Alpullu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Alpullu" .
+
+<http://data.dainst.de/zenon/000002497_Altikulaç> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Altikulaç" .
+
+<http://data.dainst.de/zenon/000002497_Altıntaş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Altıntaş" .
+
+<http://data.dainst.de/zenon/000002497_Altıntepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Altıntepe" .
+
+<http://data.dainst.de/zenon/000002497_Amasra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amasra" .
+
+<http://data.dainst.de/zenon/000002497_Amasya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amasya" .
+
+<http://data.dainst.de/zenon/000002497_Ambar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ambar" .
+
+<http://data.dainst.de/zenon/000002497_Amidavedi:Diyarbakır> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amida vedi: Diyarbakır" .
+
+<http://data.dainst.de/zenon/000002497_Amisosvedi:Samsun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amisos vedi: Samsun" .
+
+<http://data.dainst.de/zenon/000002497_Amorion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amorion" .
+
+<http://data.dainst.de/zenon/000002497_Amos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amos" .
+
+<http://data.dainst.de/zenon/000002497_Amyzon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Amyzon" .
+
+<http://data.dainst.de/zenon/000002497_Anamur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anamur" .
+
+<http://data.dainst.de/zenon/000002497_Anastasiupolisvedi:Dara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anastasiupolis vedi: Dara" .
+
+<http://data.dainst.de/zenon/000002497_Anazarbos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anazarbos" .
+
+<http://data.dainst.de/zenon/000002497_Anbarcık> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anbarcık" .
+
+<http://data.dainst.de/zenon/000002497_Anchiale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anchiale" .
+
+<http://data.dainst.de/zenon/000002497_Ancoz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ancoz" .
+
+<http://data.dainst.de/zenon/000002497_Andriake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Andriake" .
+
+<http://data.dainst.de/zenon/000002497_Anemurion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anemurion" .
+
+<http://data.dainst.de/zenon/000002497_Ani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ani" .
+
+<http://data.dainst.de/zenon/000002497_Anineta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anineta" .
+
+<http://data.dainst.de/zenon/000002497_Ankara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ankara" .
+
+<http://data.dainst.de/zenon/000002497_Ankuwa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ankuwa" .
+
+<http://data.dainst.de/zenon/000002497_Anosenoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anosenoi" .
+
+<http://data.dainst.de/zenon/000002497_Antakya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antakya" .
+
+<http://data.dainst.de/zenon/000002497_Antalya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antalya" .
+
+<http://data.dainst.de/zenon/000002497_Antandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antandros" .
+
+<http://data.dainst.de/zenon/000002497_Antiocheia(Karia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antiocheia (Karia)" .
+
+<http://data.dainst.de/zenon/000002497_Antiocheia(Kragos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antiocheia (Kragos)" .
+
+<http://data.dainst.de/zenon/000002497_Antiocheia(Pisidia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antiocheia (Pisidia)" .
+
+<http://data.dainst.de/zenon/000002497_AntiocheiaadOrontemvedi:Antakya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Antiocheia ad Orontem vedi: Antakya" .
+
+<http://data.dainst.de/zenon/000002497_Anzaf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Anzaf" .
+
+<http://data.dainst.de/zenon/000002497_Apameia(Bithynia)vedi:Mudanya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apameia (Bithynia) vedi: Mudanya" .
+
+<http://data.dainst.de/zenon/000002497_Apameia(Euphrates)vedi:Zeugma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apameia (Euphrates) vedi: Zeugma" .
+
+<http://data.dainst.de/zenon/000002497_ApameiaKibotosvedi:Dinar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apameia Kibotos vedi: Dinar" .
+
+<http://data.dainst.de/zenon/000002497_Aperlai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aperlai" .
+
+<http://data.dainst.de/zenon/000002497_Aphrodisias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aphrodisias" .
+
+<http://data.dainst.de/zenon/000002497_Aphrodisias(Kilikia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aphrodisias (Kilikia)" .
+
+<http://data.dainst.de/zenon/000002497_Apollonia(Lydia)vedi:Tripolis(Lydia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apollonia (Lydia) vedi: Tripolis (Lydia)" .
+
+<http://data.dainst.de/zenon/000002497_Apollonia(Lykia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apollonia (Lykia)" .
+
+<http://data.dainst.de/zenon/000002497_Apollonia(Mysia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apollonia (Mysia)" .
+
+<http://data.dainst.de/zenon/000002497_ApolloniaSalbake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apollonia Salbake" .
+
+<http://data.dainst.de/zenon/000002497_Apollonioucharax> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apollonioucharax" .
+
+<http://data.dainst.de/zenon/000002497_Appia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Appia" .
+
+<http://data.dainst.de/zenon/000002497_Apri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Apri" .
+
+<http://data.dainst.de/zenon/000002497_Arabissosvedi:Afşin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arabissos vedi: Afşin" .
+
+<http://data.dainst.de/zenon/000002497_Arcuaber> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arcuaber" .
+
+<http://data.dainst.de/zenon/000002497_Ariassos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ariassos" .
+
+<http://data.dainst.de/zenon/000002497_Arif> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arif" .
+
+<http://data.dainst.de/zenon/000002497_Armene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Armene" .
+
+<http://data.dainst.de/zenon/000002497_ArpalıkTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arpalık Tepe" .
+
+<http://data.dainst.de/zenon/000002497_Arsada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arsada" .
+
+<http://data.dainst.de/zenon/000002497_Arsameia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arsameia" .
+
+<http://data.dainst.de/zenon/000002497_Arsinoe(Kilikia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arsinoe (Kilikia)" .
+
+<http://data.dainst.de/zenon/000002497_ArslanTaş(Phrygien)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arslan Taş (Phrygien)" .
+
+<http://data.dainst.de/zenon/000002497_Arykanda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Arykanda" .
+
+<http://data.dainst.de/zenon/000002497_AsarTepesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Asar Tepesi" .
+
+<http://data.dainst.de/zenon/000002497_AsarcıkHüyükvedi:Ilica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Asarcık Hüyük vedi: Ilica" .
+
+<http://data.dainst.de/zenon/000002497_Asartaş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Asartaş" .
+
+<http://data.dainst.de/zenon/000002497_Asarönü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Asarönü" .
+
+<http://data.dainst.de/zenon/000002497_Askertepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Askertepe" .
+
+<http://data.dainst.de/zenon/000002497_Aspendos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aspendos" .
+
+<http://data.dainst.de/zenon/000002497_Assesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Assesos" .
+
+<http://data.dainst.de/zenon/000002497_Assos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Assos" .
+
+<http://data.dainst.de/zenon/000002497_Astakos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Astakos" .
+
+<http://data.dainst.de/zenon/000002497_Astra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Astra" .
+
+<http://data.dainst.de/zenon/000002497_Atabey> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Atabey" .
+
+<http://data.dainst.de/zenon/000002497_Atabindi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Atabindi" .
+
+<http://data.dainst.de/zenon/000002497_Atarneus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Atarneus" .
+
+<http://data.dainst.de/zenon/000002497_Attaleia(Lydia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Attaleia (Lydia)" .
+
+<http://data.dainst.de/zenon/000002497_AttuKome> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Attu Kome" .
+
+<http://data.dainst.de/zenon/000002497_AtçılarKöyü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Atçılar Köyü" .
+
+<http://data.dainst.de/zenon/000002497_Augusta(Cilicia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Augusta (Cilicia)" .
+
+<http://data.dainst.de/zenon/000002497_Aulutrene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aulutrene" .
+
+<http://data.dainst.de/zenon/000002497_Avanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Avanos" .
+
+<http://data.dainst.de/zenon/000002497_Avdan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Avdan" .
+
+<http://data.dainst.de/zenon/000002497_Avkat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Avkat" .
+
+<http://data.dainst.de/zenon/000002497_AvşarTepesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Avşar Tepesi" .
+
+<http://data.dainst.de/zenon/000002497_Ayanis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayanis" .
+
+<http://data.dainst.de/zenon/000002497_Ayasofya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayasofya" .
+
+<http://data.dainst.de/zenon/000002497_Ayasören> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayasören" .
+
+<http://data.dainst.de/zenon/000002497_Ayazin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayazin" .
+
+<http://data.dainst.de/zenon/000002497_Ayazviran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayazviran" .
+
+<http://data.dainst.de/zenon/000002497_Aydın> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aydın" .
+
+<http://data.dainst.de/zenon/000002497_Aydıntepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aydıntepe" .
+
+<http://data.dainst.de/zenon/000002497_Ayvalık> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ayvalık" .
+
+<http://data.dainst.de/zenon/000002497_Aznavurtepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aznavurtepe" .
+
+<http://data.dainst.de/zenon/000002497_AğriDaği> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ağri Daği" .
+
+<http://data.dainst.de/zenon/000002497_Ağva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ağva" .
+
+<http://data.dainst.de/zenon/000002497_Ağın> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ağın" .
+
+<http://data.dainst.de/zenon/000002497_AşağıPınar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aşağı Pınar" .
+
+<http://data.dainst.de/zenon/000002497_AşağıZivistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aşağı Zivistan" .
+
+<http://data.dainst.de/zenon/000002497_Aşvan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aşvan" .
+
+<http://data.dainst.de/zenon/000002497_Aşıklı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Aşıklı" .
+
+<http://data.dainst.de/zenon/000002497_Bademağacı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bademağacı" .
+
+<http://data.dainst.de/zenon/000002497_Badınca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Badınca" .
+
+<http://data.dainst.de/zenon/000002497_BafaGölü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bafa Gölü" .
+
+<http://data.dainst.de/zenon/000002497_BaklaTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bakla Tepe" .
+
+<http://data.dainst.de/zenon/000002497_Bakır> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bakır" .
+
+<http://data.dainst.de/zenon/000002497_Balbura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Balbura" .
+
+<http://data.dainst.de/zenon/000002497_BalkanDere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Balkan Dere" .
+
+<http://data.dainst.de/zenon/000002497_BallıDağ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ballı Dağ" .
+
+<http://data.dainst.de/zenon/000002497_BallıkÖren> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ballık Ören" .
+
+<http://data.dainst.de/zenon/000002497_Barata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Barata" .
+
+<http://data.dainst.de/zenon/000002497_Barbaros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Barbaros" .
+
+<http://data.dainst.de/zenon/000002497_Bargylia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bargylia" .
+
+<http://data.dainst.de/zenon/000002497_BasilikaTherma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Basilika Therma" .
+
+<http://data.dainst.de/zenon/000002497_Batman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Batman" .
+
+<http://data.dainst.de/zenon/000002497_Batnai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Batnai" .
+
+<http://data.dainst.de/zenon/000002497_Bayat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bayat" .
+
+<http://data.dainst.de/zenon/000002497_Bel-Kuyu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bel-Kuyu" .
+
+<http://data.dainst.de/zenon/000002497_Belevi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Belevi" .
+
+<http://data.dainst.de/zenon/000002497_Benler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Benler" .
+
+<http://data.dainst.de/zenon/000002497_Besni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Besni" .
+
+<http://data.dainst.de/zenon/000002497_Beycesultan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beycesultan" .
+
+<http://data.dainst.de/zenon/000002497_Beydili> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beydili" .
+
+<http://data.dainst.de/zenon/000002497_Beyköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beyköy" .
+
+<http://data.dainst.de/zenon/000002497_Beylerbeyi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beylerbeyi" .
+
+<http://data.dainst.de/zenon/000002497_Beylerköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beylerköy" .
+
+<http://data.dainst.de/zenon/000002497_Beylikköprü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beylikköprü" .
+
+<http://data.dainst.de/zenon/000002497_Beyşehir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beyşehir" .
+
+<http://data.dainst.de/zenon/000002497_Beçin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beçin" .
+
+<http://data.dainst.de/zenon/000002497_Beşevler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beşevler" .
+
+<http://data.dainst.de/zenon/000002497_Beşik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beşik" .
+
+<http://data.dainst.de/zenon/000002497_Beşkardeş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beşkardeş" .
+
+<http://data.dainst.de/zenon/000002497_Beşköprü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Beşköprü" .
+
+<http://data.dainst.de/zenon/000002497_Biga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Biga" .
+
+<http://data.dainst.de/zenon/000002497_Bilecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bilecik" .
+
+<http://data.dainst.de/zenon/000002497_BinTepevedi:Sardis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bin Tepe vedi: Sardis" .
+
+<http://data.dainst.de/zenon/000002497_Binbirkilisevedi:Karadağ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Binbirkilise vedi: Karadağ" .
+
+<http://data.dainst.de/zenon/000002497_Birccik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Birccik" .
+
+<http://data.dainst.de/zenon/000002497_Birecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Birecik" .
+
+<http://data.dainst.de/zenon/000002497_Bithynionvedi:Bolu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bithynion vedi: Bolu" .
+
+<http://data.dainst.de/zenon/000002497_Bitlis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bitlis" .
+
+<http://data.dainst.de/zenon/000002497_Blaundos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Blaundos" .
+
+<http://data.dainst.de/zenon/000002497_Blukion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Blukion" .
+
+<http://data.dainst.de/zenon/000002497_Bodrum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bodrum" .
+
+<http://data.dainst.de/zenon/000002497_BolkarDağları> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bolkar Dağları" .
+
+<http://data.dainst.de/zenon/000002497_Bolu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bolu" .
+
+<http://data.dainst.de/zenon/000002497_Bozcaada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bozcaada" .
+
+<http://data.dainst.de/zenon/000002497_Bozkırvedi:Isaura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bozkır vedi: Isaura" .
+
+<http://data.dainst.de/zenon/000002497_Bozüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bozüyük" .
+
+<http://data.dainst.de/zenon/000002497_Boğasak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Boğasak" .
+
+<http://data.dainst.de/zenon/000002497_Boğazköyvedi:Hattuša> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Boğazköy vedi: Hattuša" .
+
+<http://data.dainst.de/zenon/000002497_Boşat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Boşat" .
+
+<http://data.dainst.de/zenon/000002497_Brylleionvedi:Mudanya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Brylleion vedi: Mudanya" .
+
+<http://data.dainst.de/zenon/000002497_Bubon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bubon" .
+
+<http://data.dainst.de/zenon/000002497_Buldan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Buldan" .
+
+<http://data.dainst.de/zenon/000002497_Burdur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Burdur" .
+
+<http://data.dainst.de/zenon/000002497_Bursa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bursa" .
+
+<http://data.dainst.de/zenon/000002497_Buruncuk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Buruncuk" .
+
+<http://data.dainst.de/zenon/000002497_Buğduz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Buğduz" .
+
+<http://data.dainst.de/zenon/000002497_Böget> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Böget" .
+
+<http://data.dainst.de/zenon/000002497_BölcekKöyü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Bölcek Köyü" .
+
+<http://data.dainst.de/zenon/000002497_Büyükbelen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Büyükbelen" .
+
+<http://data.dainst.de/zenon/000002497_Büyükorhan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Büyükorhan" .
+
+<http://data.dainst.de/zenon/000002497_BüyüktepeHöyükvedi:İkiztepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Büyüktepe Höyük vedi: İkiztepe" .
+
+<http://data.dainst.de/zenon/000002497_Cabertarar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cabertarar" .
+
+<http://data.dainst.de/zenon/000002497_CanHasan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Can Hasan" .
+
+<http://data.dainst.de/zenon/000002497_Canbazlı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Canbazlı" .
+
+<http://data.dainst.de/zenon/000002497_Cemele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cemele" .
+
+<http://data.dainst.de/zenon/000002497_CennetCehennem> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cennet Cehennem" .
+
+<http://data.dainst.de/zenon/000002497_Ceylanpınar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ceylanpınar" .
+
+<http://data.dainst.de/zenon/000002497_Chalkedonvedi:Kadıköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chalkedon vedi: Kadıköy" .
+
+<http://data.dainst.de/zenon/000002497_Chelai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chelai" .
+
+<http://data.dainst.de/zenon/000002497_Chimaira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chimaira" .
+
+<http://data.dainst.de/zenon/000002497_Chios(Karia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chios (Karia)" .
+
+<http://data.dainst.de/zenon/000002497_Choma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Choma" .
+
+<http://data.dainst.de/zenon/000002497_Chonion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chonion" .
+
+<http://data.dainst.de/zenon/000002497_Chryse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Chryse" .
+
+<http://data.dainst.de/zenon/000002497_Cide> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cide" .
+
+<http://data.dainst.de/zenon/000002497_Cizre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cizre" .
+
+<http://data.dainst.de/zenon/000002497_Claudiopolisvedi:Bolu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Claudiopolis vedi: Bolu" .
+
+<http://data.dainst.de/zenon/000002497_CudiDağ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Cudi Dağ" .
+
+<http://data.dainst.de/zenon/000002497_Dalisandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dalisandros" .
+
+<http://data.dainst.de/zenon/000002497_Daphne(Antiochia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Daphne (Antiochia)" .
+
+<http://data.dainst.de/zenon/000002497_Daphnus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Daphnus" .
+
+<http://data.dainst.de/zenon/000002497_Dara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dara" .
+
+<http://data.dainst.de/zenon/000002497_Dardanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dardanos" .
+
+<http://data.dainst.de/zenon/000002497_Daskyleion(PhrygiaMinor)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Daskyleion (Phrygia Minor)" .
+
+<http://data.dainst.de/zenon/000002497_Daskyleion(Propontis)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Daskyleion (Propontis)" .
+
+<http://data.dainst.de/zenon/000002497_Datça> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Datça" .
+
+<http://data.dainst.de/zenon/000002497_DağPazarı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dağ Pazarı" .
+
+<http://data.dainst.de/zenon/000002497_DedeMezarı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dede Mezarı" .
+
+<http://data.dainst.de/zenon/000002497_DeirZaʿfaran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Deir Zaʿfaran" .
+
+<http://data.dainst.de/zenon/000002497_Demirci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Demirci" .
+
+<http://data.dainst.de/zenon/000002497_Demircihüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Demircihüyük" .
+
+<http://data.dainst.de/zenon/000002497_Demirköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Demirköy" .
+
+<http://data.dainst.de/zenon/000002497_Demirli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Demirli" .
+
+<http://data.dainst.de/zenon/000002497_Denizli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Denizli" .
+
+<http://data.dainst.de/zenon/000002497_Denizli-Çivril> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Denizli-Çivril" .
+
+<http://data.dainst.de/zenon/000002497_Derbe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Derbe" .
+
+<http://data.dainst.de/zenon/000002497_Dereağzı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dereağzı" .
+
+<http://data.dainst.de/zenon/000002497_DerekKale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Derek Kale" .
+
+<http://data.dainst.de/zenon/000002497_Derekutuğun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Derekutuğun" .
+
+<http://data.dainst.de/zenon/000002497_Dereköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dereköy" .
+
+<http://data.dainst.de/zenon/000002497_Derincedere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Derincedere" .
+
+<http://data.dainst.de/zenon/000002497_DeveHüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Deve Hüyük" .
+
+<http://data.dainst.de/zenon/000002497_Devrek> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Devrek" .
+
+<http://data.dainst.de/zenon/000002497_DeyrYakup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Deyr Yakup" .
+
+<http://data.dainst.de/zenon/000002497_Değirmentepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Değirmentepe" .
+
+<http://data.dainst.de/zenon/000002497_Değirmenözü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Değirmenözü" .
+
+<http://data.dainst.de/zenon/000002497_Didyma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Didyma" .
+
+<http://data.dainst.de/zenon/000002497_Digor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Digor" .
+
+<http://data.dainst.de/zenon/000002497_Dilkaya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dilkaya" .
+
+<http://data.dainst.de/zenon/000002497_Dinar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dinar" .
+
+<http://data.dainst.de/zenon/000002497_Diokaisareia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Diokaisareia" .
+
+<http://data.dainst.de/zenon/000002497_Direk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Direk" .
+
+<http://data.dainst.de/zenon/000002497_DirekKale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Direk Kale" .
+
+<http://data.dainst.de/zenon/000002497_Diyarbakır> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Diyarbakır" .
+
+<http://data.dainst.de/zenon/000002497_Dokimeion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dokimeion" .
+
+<http://data.dainst.de/zenon/000002497_Dokuzhöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dokuzhöyük" .
+
+<http://data.dainst.de/zenon/000002497_Doliche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Doliche" .
+
+<http://data.dainst.de/zenon/000002497_DomuzAdası> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Domuz Adası" .
+
+<http://data.dainst.de/zenon/000002497_Domuztepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Domuztepe" .
+
+<http://data.dainst.de/zenon/000002497_Dorylaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dorylaion" .
+
+<http://data.dainst.de/zenon/000002497_Doulopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Doulopolis" .
+
+<http://data.dainst.de/zenon/000002497_Doğubeyazit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Doğubeyazit" .
+
+<http://data.dainst.de/zenon/000002497_Dursunbeyvedi:Hadrianeia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dursunbey vedi: Hadrianeia" .
+
+<http://data.dainst.de/zenon/000002497_Dösene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dösene" .
+
+<http://data.dainst.de/zenon/000002497_DöşemeBoğazı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Döşeme Boğazı" .
+
+<http://data.dainst.de/zenon/000002497_Dülük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Dülük" .
+
+<http://data.dainst.de/zenon/000002497_Düver> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Düver" .
+
+<http://data.dainst.de/zenon/000002497_Düzce> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Düzce" .
+
+<http://data.dainst.de/zenon/000002497_Edessavedi:Urfa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Edessa vedi: Urfa" .
+
+<http://data.dainst.de/zenon/000002497_Edirne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Edirne" .
+
+<http://data.dainst.de/zenon/000002497_EflatunPınar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eflatun Pınar" .
+
+<http://data.dainst.de/zenon/000002497_Efrenköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Efrenköy" .
+
+<http://data.dainst.de/zenon/000002497_Eirenupolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eirenupolis" .
+
+<http://data.dainst.de/zenon/000002497_Elaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elaia" .
+
+<http://data.dainst.de/zenon/000002497_Elaius> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elaius" .
+
+<http://data.dainst.de/zenon/000002497_ElaiussaSebaste> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elaiussa Sebaste" .
+
+<http://data.dainst.de/zenon/000002497_Elazığ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elazığ" .
+
+<http://data.dainst.de/zenon/000002497_Elbeyli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elbeyli" .
+
+<http://data.dainst.de/zenon/000002497_Eldere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eldere" .
+
+<http://data.dainst.de/zenon/000002497_Elecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elecik" .
+
+<http://data.dainst.de/zenon/000002497_Elmalı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Elmalı" .
+
+<http://data.dainst.de/zenon/000002497_Emecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Emecik" .
+
+<http://data.dainst.de/zenon/000002497_Emirzeli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Emirzeli" .
+
+<http://data.dainst.de/zenon/000002497_Encekler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Encekler" .
+
+<http://data.dainst.de/zenon/000002497_Enez> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Enez" .
+
+<http://data.dainst.de/zenon/000002497_Engin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Engin" .
+
+<http://data.dainst.de/zenon/000002497_Ephesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ephesos" .
+
+<http://data.dainst.de/zenon/000002497_ErciyazDağı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erciyaz Dağı" .
+
+<http://data.dainst.de/zenon/000002497_Erdemli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erdemli" .
+
+<http://data.dainst.de/zenon/000002497_Ereğli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ereğli" .
+
+<http://data.dainst.de/zenon/000002497_Ergani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ergani" .
+
+<http://data.dainst.de/zenon/000002497_Eriza> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eriza" .
+
+<http://data.dainst.de/zenon/000002497_Erythrai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erythrai" .
+
+<http://data.dainst.de/zenon/000002497_Erzin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erzin" .
+
+<http://data.dainst.de/zenon/000002497_Erzincan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erzincan" .
+
+<http://data.dainst.de/zenon/000002497_Erzurum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Erzurum" .
+
+<http://data.dainst.de/zenon/000002497_EsenkentHöyükvedi:HanİbrahimŞah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Esenkent Höyük vedi: Han İbrahim Şah" .
+
+<http://data.dainst.de/zenon/000002497_Esentepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Esentepe" .
+
+<http://data.dainst.de/zenon/000002497_Esenyazı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Esenyazı" .
+
+<http://data.dainst.de/zenon/000002497_EskiBalikhane> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Balikhane" .
+
+<http://data.dainst.de/zenon/000002497_EskiDoğubayazit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Doğubayazit" .
+
+<http://data.dainst.de/zenon/000002497_EskiGümüş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Gümüş" .
+
+<http://data.dainst.de/zenon/000002497_EskiHisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Hisar" .
+
+<http://data.dainst.de/zenon/000002497_EskiMalatya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Malatya" .
+
+<http://data.dainst.de/zenon/000002497_EskiManyas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eski Manyas" .
+
+<http://data.dainst.de/zenon/000002497_Eskiahır> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eskiahır" .
+
+<http://data.dainst.de/zenon/000002497_Eskiyapar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eskiyapar" .
+
+<http://data.dainst.de/zenon/000002497_Eskişehir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eskişehir" .
+
+<http://data.dainst.de/zenon/000002497_Etenna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Etenna" .
+
+<http://data.dainst.de/zenon/000002497_Etiyokuşu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Etiyokuşu" .
+
+<http://data.dainst.de/zenon/000002497_Eukarpia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eukarpia" .
+
+<http://data.dainst.de/zenon/000002497_Eulandra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eulandra" .
+
+<http://data.dainst.de/zenon/000002497_Eumenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eumenia" .
+
+<http://data.dainst.de/zenon/000002497_Euromos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Euromos" .
+
+<http://data.dainst.de/zenon/000002497_Euxodias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Euxodias" .
+
+<http://data.dainst.de/zenon/000002497_Evci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Evci" .
+
+<http://data.dainst.de/zenon/000002497_Eğil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Eğil" .
+
+<http://data.dainst.de/zenon/000002497_Fasıllar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fasıllar" .
+
+<http://data.dainst.de/zenon/000002497_Fatmalı-Kalecik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fatmalı-Kalecik" .
+
+<http://data.dainst.de/zenon/000002497_Faustinopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Faustinopolis" .
+
+<http://data.dainst.de/zenon/000002497_Ferhatlı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ferhatlı" .
+
+<http://data.dainst.de/zenon/000002497_Ferzant> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Ferzant" .
+
+<http://data.dainst.de/zenon/000002497_Fethiye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fethiye" .
+
+<http://data.dainst.de/zenon/000002497_FikirTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fikir Tepe" .
+
+<http://data.dainst.de/zenon/000002497_Finik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Finik" .
+
+<http://data.dainst.de/zenon/000002497_Finikevedi:Limyra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Finike vedi: Limyra" .
+
+<http://data.dainst.de/zenon/000002497_FiğlaBurnu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fiğla Burnu" .
+
+<http://data.dainst.de/zenon/000002497_Foça> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Foça" .
+
+<http://data.dainst.de/zenon/000002497_Fraktin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fraktin" .
+
+<http://data.dainst.de/zenon/000002497_Fındık> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Fındık" .
+
+<http://data.dainst.de/zenon/000002497_Gargara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gargara" .
+
+<http://data.dainst.de/zenon/000002497_GaydaKale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gayda Kale" .
+
+<http://data.dainst.de/zenon/000002497_Gazelinİni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gazelin İni" .
+
+<http://data.dainst.de/zenon/000002497_Gaziantep> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gaziantep" .
+
+<http://data.dainst.de/zenon/000002497_Gaziköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gaziköy" .
+
+<http://data.dainst.de/zenon/000002497_Gebiz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gebiz" .
+
+<http://data.dainst.de/zenon/000002497_GeblezTepevedi:Libyssa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Geblez Tepe vedi: Libyssa" .
+
+<http://data.dainst.de/zenon/000002497_Gebze> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gebze" .
+
+<http://data.dainst.de/zenon/000002497_GedikliHüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gedikli Hüyük" .
+
+<http://data.dainst.de/zenon/000002497_Gelidonya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gelidonya" .
+
+<http://data.dainst.de/zenon/000002497_Gelinciktepevedi:Malatya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gelinciktepe vedi: Malatya" .
+
+<http://data.dainst.de/zenon/000002497_GemileAda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gemile Ada" .
+
+<http://data.dainst.de/zenon/000002497_Gemlik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gemlik" .
+
+<http://data.dainst.de/zenon/000002497_GencikTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gencik Tepe" .
+
+<http://data.dainst.de/zenon/000002497_Gerdekkaya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gerdekkaya" .
+
+<http://data.dainst.de/zenon/000002497_Gerede> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gerede" .
+
+<http://data.dainst.de/zenon/000002497_Gerga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gerga" .
+
+<http://data.dainst.de/zenon/000002497_Geriş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Geriş" .
+
+<http://data.dainst.de/zenon/000002497_Germa(Galatia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Germa (Galatia)" .
+
+<http://data.dainst.de/zenon/000002497_Germanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Germanos" .
+
+<http://data.dainst.de/zenon/000002497_GermeyanKöyüvedi:Apri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Germeyan Köyü vedi: Apri" .
+
+<http://data.dainst.de/zenon/000002497_Germia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Germia" .
+
+<http://data.dainst.de/zenon/000002497_Germiyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Germiyan" .
+
+<http://data.dainst.de/zenon/000002497_Geyve> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Geyve" .
+
+<http://data.dainst.de/zenon/000002497_GeçitliKöyü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Geçitli Köyü" .
+
+<http://data.dainst.de/zenon/000002497_Gilindirevedi:Kelenderis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gilindire vedi: Kelenderis" .
+
+<http://data.dainst.de/zenon/000002497_Giremira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Giremira" .
+
+<http://data.dainst.de/zenon/000002497_Giresun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Giresun" .
+
+<http://data.dainst.de/zenon/000002497_Giricano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Giricano" .
+
+<http://data.dainst.de/zenon/000002497_Girikihaciyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Girikihaciyan" .
+
+<http://data.dainst.de/zenon/000002497_Girmeler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Girmeler" .
+
+<http://data.dainst.de/zenon/000002497_Girnavaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Girnavaz" .
+
+<http://data.dainst.de/zenon/000002497_Giyimli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Giyimli" .
+
+<http://data.dainst.de/zenon/000002497_Gordion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gordion" .
+
+<http://data.dainst.de/zenon/000002497_Gorgoromeis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gorgoromeis" .
+
+<http://data.dainst.de/zenon/000002497_GreVirike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gre Virike" .
+
+<http://data.dainst.de/zenon/000002497_Gritille> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gritille" .
+
+<http://data.dainst.de/zenon/000002497_Gryneion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gryneion" .
+
+<http://data.dainst.de/zenon/000002497_Gâvurkalesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gâvurkalesi" .
+
+<http://data.dainst.de/zenon/000002497_Gâvurpazarı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gâvurpazarı" .
+
+<http://data.dainst.de/zenon/000002497_GöbekliTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Göbekli Tepe" .
+
+<http://data.dainst.de/zenon/000002497_GökbezKöyü> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gökbez Köyü" .
+
+<http://data.dainst.de/zenon/000002497_Gökçeadavedi:Imbros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gökçeada vedi: Imbros" .
+
+<http://data.dainst.de/zenon/000002497_Gökçegüney> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gökçegüney" .
+
+<http://data.dainst.de/zenon/000002497_Gökçen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gökçen" .
+
+<http://data.dainst.de/zenon/000002497_Gökçeyazı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gökçeyazı" .
+
+<http://data.dainst.de/zenon/000002497_Gölbent> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gölbent" .
+
+<http://data.dainst.de/zenon/000002497_Gölcük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gölcük" .
+
+<http://data.dainst.de/zenon/000002497_Gölenye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gölenye" .
+
+<http://data.dainst.de/zenon/000002497_Göllüdağ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Göllüdağ" .
+
+<http://data.dainst.de/zenon/000002497_Gölmarmara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gölmarmara" .
+
+<http://data.dainst.de/zenon/000002497_Göltepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Göltepe" .
+
+<http://data.dainst.de/zenon/000002497_Gönen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gönen" .
+
+<http://data.dainst.de/zenon/000002497_Gördes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gördes" .
+
+<http://data.dainst.de/zenon/000002497_Göreme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Göreme" .
+
+<http://data.dainst.de/zenon/000002497_Göztepesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Göztepesi" .
+
+<http://data.dainst.de/zenon/000002497_GüllüDere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güllü Dere" .
+
+<http://data.dainst.de/zenon/000002497_Gülpınarvedi:Chryse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gülpınar vedi: Chryse" .
+
+<http://data.dainst.de/zenon/000002497_Gülşehri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gülşehri" .
+
+<http://data.dainst.de/zenon/000002497_Gümüşhane> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gümüşhane" .
+
+<http://data.dainst.de/zenon/000002497_Gümüşyuva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gümüşyuva" .
+
+<http://data.dainst.de/zenon/000002497_Gümüşçay> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gümüşçay" .
+
+<http://data.dainst.de/zenon/000002497_Güre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güre" .
+
+<http://data.dainst.de/zenon/000002497_Gürkuyu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gürkuyu" .
+
+<http://data.dainst.de/zenon/000002497_Gürses> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Gürses" .
+
+<http://data.dainst.de/zenon/000002497_Güvercinkayası> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güvercinkayası" .
+
+<http://data.dainst.de/zenon/000002497_Güvercinlik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güvercinlik" .
+
+<http://data.dainst.de/zenon/000002497_Güzelbeyli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güzelbeyli" .
+
+<http://data.dainst.de/zenon/000002497_Güzelova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güzelova" .
+
+<http://data.dainst.de/zenon/000002497_Güzelpınar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güzelpınar" .
+
+<http://data.dainst.de/zenon/000002497_Güzeltepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Güzeltepe" .
+
+<http://data.dainst.de/zenon/000002497_ÇadırHöyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çadır Höyük" .
+
+<http://data.dainst.de/zenon/000002497_Çakırsaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çakırsaz" .
+
+<http://data.dainst.de/zenon/000002497_Çalapverdi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çalapverdi" .
+
+<http://data.dainst.de/zenon/000002497_Çaltılar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çaltılar" .
+
+<http://data.dainst.de/zenon/000002497_Çambaşı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çambaşı" .
+
+<http://data.dainst.de/zenon/000002497_Çamlibel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çamlibel" .
+
+<http://data.dainst.de/zenon/000002497_Çamlıdere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çamlıdere" .
+
+<http://data.dainst.de/zenon/000002497_Çan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çan" .
+
+<http://data.dainst.de/zenon/000002497_Çanakkale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çanakkale" .
+
+<http://data.dainst.de/zenon/000002497_Çandarlı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çandarlı" .
+
+<http://data.dainst.de/zenon/000002497_Çankırı> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çankırı" .
+
+<http://data.dainst.de/zenon/000002497_ÇanlıKilise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çanlı Kilise" .
+
+<http://data.dainst.de/zenon/000002497_ÇatalHüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çatal Hüyük" .
+
+<http://data.dainst.de/zenon/000002497_ÇavdarliHüyük> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavdarli Hüyük" .
+
+<http://data.dainst.de/zenon/000002497_ÇaviTarlası> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavi Tarlası" .
+
+<http://data.dainst.de/zenon/000002497_Çavlum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavlum" .
+
+<http://data.dainst.de/zenon/000002497_Çavusköy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavusköy" .
+
+<http://data.dainst.de/zenon/000002497_Çavuşin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavuşin" .
+
+<http://data.dainst.de/zenon/000002497_Çavuştepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çavuştepe" .
+
+<http://data.dainst.de/zenon/000002497_Çayköz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çayköz" .
+
+<http://data.dainst.de/zenon/000002497_ÇayönüTepesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çayönü Tepesi" .
+
+<http://data.dainst.de/zenon/000002497_Çağlayan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çağlayan" .
+
+<http://data.dainst.de/zenon/000002497_Çelikli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çelikli" .
+
+<http://data.dainst.de/zenon/000002497_Çesme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çesme" .
+
+<http://data.dainst.de/zenon/000002497_Çiftlik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çiftlik" .
+
+<http://data.dainst.de/zenon/000002497_Çömleksaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çömleksaz" .
+
+<http://data.dainst.de/zenon/000002497_Çınaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002497> ;
+    skos:prefLabel "Çınaz" .
+
+<http://data.dainst.de/zenon/000002497> a skos:Concept ;
+    skos:altLabel "lieux A-G"@fr,
+        "luoghi A-G"@it,
+        "sites A-G"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002494> ;
+    skos:hiddenLabel "xTopLandTkOrtA-G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte A-G"@de .
+

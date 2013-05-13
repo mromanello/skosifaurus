@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080083> a skos:Concept ;
+    skos:altLabel "Sigmaringen-Gutenstein"@en,
+        "Sigmaringen-Gutenstein"@fr,
+        "Sigmaringen-Gutenstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075362> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenSigmaSigmaring" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sigmaringen-Gutenstein"@de .
+

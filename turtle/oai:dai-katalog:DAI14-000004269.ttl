@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004269> a skos:Concept ;
+    skos:altLabel "piante"@it,
+        "plantes"@fr,
+        "plants"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004258> ;
+    skos:hiddenLabel "xRkKypAntPflanz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pflanzen"@de .
+

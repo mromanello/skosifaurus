@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079184> a skos:Concept ;
+    skos:altLabel "Prusiny, okr. Plzeň-jih"@en,
+        "Prusiny, okr. Plzeň-jih"@fr,
+        "Prusiny, okr. Plzeň-jih"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPrusiny," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prusiny, okr. Plzeň-jih"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032962> a skos:Concept ;
+    skos:altLabel "Natural scientific texts"@en,
+        "Teksty naukowe"@pl,
+        "Textes des sciences physiques et naturelles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012489> ;
+    skos:hiddenLabel "yRGKArch02 - SchriNatur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Naturwissenschaftliche Texte"@de .
+

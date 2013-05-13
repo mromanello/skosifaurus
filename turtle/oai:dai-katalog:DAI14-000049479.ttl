@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049479> a skos:Concept ;
+    skos:altLabel "Schokland"@en,
+        "Schokland"@fr,
+        "Schokland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038852> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeFlevoSchokland" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schokland"@de .
+

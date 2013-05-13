@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079078> a skos:Concept ;
+    skos:altLabel "Dettingen unter Teck"@en,
+        "Dettingen unter Teck"@fr,
+        "Dettingen unter Teck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075336> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenEssliDettingen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dettingen unter Teck"@de .
+

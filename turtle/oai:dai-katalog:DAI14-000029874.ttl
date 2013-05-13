@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029874> a skos:Concept ;
+    skos:altLabel "Agostini, Leonardo"@en,
+        "Agostini, Leonardo"@fr,
+        "Agostini, Leonardo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaAgostini, Leonardo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Agostini, Leonardo"@de .
+

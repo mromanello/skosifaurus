@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071944> a skos:Concept ;
+    skos:altLabel "Calvi Risorta"@en,
+        "Calvi Risorta"@fr,
+        "Calvi Risorta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039240> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaCaserCalvi Ris" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Calvi Risorta"@de .
+

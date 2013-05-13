@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083058> a skos:Concept ;
+    skos:altLabel "Muro d'Alcoi"@en,
+        "Muro d'Alcoi"@fr,
+        "Muro d'Alcoi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039344> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenAlicaMuro d'Al" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Muro d'Alcoi"@de .
+

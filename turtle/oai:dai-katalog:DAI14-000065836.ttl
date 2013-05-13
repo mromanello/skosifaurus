@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065836> a skos:Concept ;
+    skos:altLabel "Mezdra"@en,
+        "Mezdra"@fr,
+        "Mezdra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039104> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaSofijVracaMezdra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mezdra"@de .
+

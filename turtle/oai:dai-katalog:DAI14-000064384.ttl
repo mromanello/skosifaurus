@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064384> a skos:Concept ;
+    skos:altLabel "Ivančice, okr. Brno-venkov"@en,
+        "Ivančice, okr. Brno-venkov"@fr,
+        "Ivančice, okr. Brno-venkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravIvančice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivančice, okr. Brno-venkov"@de .
+

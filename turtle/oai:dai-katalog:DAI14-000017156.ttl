@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017156> a skos:Concept ;
+    skos:altLabel "Funerary inscriptions"@en,
+        "Inscriptions sépulcrales"@fr,
+        "Inskrypcje grobowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017149> ;
+    skos:hiddenLabel "yRGKArch10 - HistoEpigrInschGrabi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grabinschriften"@de .
+

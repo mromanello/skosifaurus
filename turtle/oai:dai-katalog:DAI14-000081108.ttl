@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081108> a skos:Concept ;
+    skos:altLabel "Tromsø, Troms"@en,
+        "Tromsø, Troms"@fr,
+        "Tromsø, Troms"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweTromsø, T" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tromsø, Troms"@de .
+

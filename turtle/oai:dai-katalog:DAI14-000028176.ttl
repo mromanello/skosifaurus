@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028176> a skos:Concept ;
+    skos:altLabel "Havanna, Museo Nacional de Bellas Artes"@en,
+        "Havanna, Museo Nacional de Bellas Artes"@fr,
+        "Havanna, Museo Nacional de Bellas Artes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuHavanna, Museo Nacional de Bellas Artes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Havanna, Museo Nacional de Bellas Artes"@de .
+

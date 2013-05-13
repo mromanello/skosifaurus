@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081772> a skos:Concept ;
+    skos:altLabel "Göktepe"@en,
+        "Göktepe"@fr,
+        "Göktepe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeGöktepe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Göktepe"@de .
+

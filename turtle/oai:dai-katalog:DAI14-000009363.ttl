@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009363> a skos:Concept ;
+    skos:altLabel "Neumair, Erwin"@en,
+        "Neumair, Erwin"@fr,
+        "Neumair, Erwin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNeumair, Erwin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neumair, Erwin"@de .
+

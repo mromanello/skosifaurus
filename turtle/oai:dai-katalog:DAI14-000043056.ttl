@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043056> a skos:Concept ;
+    skos:altLabel "Gondrecourt-le-Château"@en,
+        "Gondrecourt-le-Château"@fr,
+        "Gondrecourt-le-Château"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038749> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMeuseGondrecou" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gondrecourt-le-Château"@de .
+

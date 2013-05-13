@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028752> a skos:Concept ;
+    skos:altLabel "Plzeň, Muzeum"@en,
+        "Plzeň, Muzeum"@fr,
+        "Plzeň, Muzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPlzeň, Muzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plzeň, Muzeum"@de .
+

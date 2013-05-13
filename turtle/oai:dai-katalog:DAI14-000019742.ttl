@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019742> a skos:Concept ;
+    skos:altLabel "Ceramics/clay"@en,
+        "Ceramika"@pl,
+        "Céramique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019723> ;
+    skos:hiddenLabel "yRGKNaturMaterKeram" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keramik/Ton"@de .
+

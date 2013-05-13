@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030007> a skos:Concept ;
+    skos:altLabel "Costa Ferrer Picarol, José"@en,
+        "Costa Ferrer Picarol, José"@fr,
+        "Costa Ferrer Picarol, José"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaCosta Ferrer Picarol, José" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Costa Ferrer Picarol, José"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055758> a skos:Concept ;
+    skos:altLabel "Bad Ems"@en,
+        "Bad Ems"@fr,
+        "Bad Ems"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038934> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinRheinBad Ems" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Ems"@de .
+

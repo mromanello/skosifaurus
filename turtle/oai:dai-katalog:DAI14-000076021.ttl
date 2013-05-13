@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076021> a skos:Concept ;
+    skos:altLabel "Podon'e"@en,
+        "Podon'e"@fr,
+        "Podon'e"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077452> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiPodon'e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Podon'e"@de .
+

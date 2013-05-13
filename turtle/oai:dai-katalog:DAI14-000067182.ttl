@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067182> a skos:Concept ;
+    skos:altLabel "Dridu, jud. Ialomiţa"@en,
+        "Dridu, jud. Ialomiţa"@fr,
+        "Dridu, jud. Ialomiţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenDridu, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dridu, jud. Ialomiţa"@de .
+

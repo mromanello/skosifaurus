@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009188> a skos:Concept ;
+    skos:altLabel "Matini Morricone, Maria Luisa"@en,
+        "Matini Morricone, Maria Luisa"@fr,
+        "Matini Morricone, Maria Luisa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMatini Morricone, Maria Luisa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Matini Morricone, Maria Luisa"@de .
+

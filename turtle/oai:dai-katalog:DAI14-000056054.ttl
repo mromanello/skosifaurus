@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056054> a skos:Concept ;
+    skos:altLabel "Oybin"@en,
+        "Oybin"@fr,
+        "Oybin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038950> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsGörliOybin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oybin"@de .
+

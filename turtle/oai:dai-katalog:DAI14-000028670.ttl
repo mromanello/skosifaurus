@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028670> a skos:Concept ;
+    skos:altLabel "Olten, Historisches Museum"@en,
+        "Olten, Historisches Museum"@fr,
+        "Olten, Historisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuOlten, Historisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Olten, Historisches Museum"@de .
+

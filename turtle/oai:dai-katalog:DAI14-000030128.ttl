@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030128> a skos:Concept ;
+    skos:altLabel "Hermet, Frédéric"@en,
+        "Hermet, Frédéric"@fr,
+        "Hermet, Frédéric"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaHermet, Frédéric" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hermet, Frédéric"@de .
+

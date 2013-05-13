@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081980> a skos:Concept ;
+    skos:altLabel "Valle Leventina"@en,
+        "Valle Leventina"@fr,
+        "Valle Leventina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039052> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweTessiValle Lev" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle Leventina"@de .
+

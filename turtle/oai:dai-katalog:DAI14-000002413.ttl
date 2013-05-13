@@ -1,0 +1,676 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002413_AbuHabbahvedi:Sippar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Abu Habbah vedi: Sippar" .
+
+<http://data.dainst.de/zenon/000002413_AbuSalabikh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Abu Salabikh" .
+
+<http://data.dainst.de/zenon/000002413_AbuSkhair> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Abu Skhair" .
+
+<http://data.dainst.de/zenon/000002413_Agade> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Agade" .
+
+<http://data.dainst.de/zenon/000002413_AlMadaʿinvedi:Seleukeia(Tigris)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Al Madaʿin vedi: Seleukeia (Tigris)" .
+
+<http://data.dainst.de/zenon/000002413_AlMutabbaq> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Al Mutabbaq" .
+
+<http://data.dainst.de/zenon/000002413_AlTar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Al Tar" .
+
+<http://data.dainst.de/zenon/000002413_AlʿUbaid> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Al ʿUbaid" .
+
+<http://data.dainst.de/zenon/000002413_AqarQufvedi:DurKurigalzu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Aqar Quf vedi: Dur Kurigalzu" .
+
+<http://data.dainst.de/zenon/000002413_Arbil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Arbil" .
+
+<http://data.dainst.de/zenon/000002413_Arpachiyah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Arpachiyah" .
+
+<http://data.dainst.de/zenon/000002413_Assur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Assur" .
+
+<http://data.dainst.de/zenon/000002413_Babylon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Babylon" .
+
+<http://data.dainst.de/zenon/000002413_Bad-Tibira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Bad-Tibira" .
+
+<http://data.dainst.de/zenon/000002413_Bagdad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Bagdad" .
+
+<http://data.dainst.de/zenon/000002413_Baiğan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Baiğan" .
+
+<http://data.dainst.de/zenon/000002413_Balawat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Balawat" .
+
+<http://data.dainst.de/zenon/000002413_Batas-Herir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Batas-Herir" .
+
+<http://data.dainst.de/zenon/000002413_Bidjan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Bidjan" .
+
+<http://data.dainst.de/zenon/000002413_Borsippa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Borsippa" .
+
+<http://data.dainst.de/zenon/000002413_Calhuvedi:Kalhu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Calhu vedi: Kalhu" .
+
+<http://data.dainst.de/zenon/000002413_Choche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Choche" .
+
+<http://data.dainst.de/zenon/000002413_Darband-iGaur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Darband-i Gaur" .
+
+<http://data.dainst.de/zenon/000002413_DjamdatNasr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Djamdat Nasr" .
+
+<http://data.dainst.de/zenon/000002413_Djarmo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Djarmo" .
+
+<http://data.dainst.de/zenon/000002413_DurKurigalzu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Dur Kurigalzu" .
+
+<http://data.dainst.de/zenon/000002413_DurSharrukin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Dur Sharrukin" .
+
+<http://data.dainst.de/zenon/000002413_Durum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Durum" .
+
+<http://data.dainst.de/zenon/000002413_Erbil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Erbil" .
+
+<http://data.dainst.de/zenon/000002413_Eridu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Eridu" .
+
+<http://data.dainst.de/zenon/000002413_Fanavedi:Shuruppak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Fana vedi: Shuruppak" .
+
+<http://data.dainst.de/zenon/000002413_Ganibatim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ganibatim" .
+
+<http://data.dainst.de/zenon/000002413_Girsuvedi:Tello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Girsu vedi: Tello" .
+
+<http://data.dainst.de/zenon/000002413_Hablal-Sahr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Habl al-Sahr" .
+
+<http://data.dainst.de/zenon/000002413_Haradum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Haradum" .
+
+<http://data.dainst.de/zenon/000002413_Hatara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Hatara" .
+
+<http://data.dainst.de/zenon/000002413_Hatra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Hatra" .
+
+<http://data.dainst.de/zenon/000002413_Horel-Hammar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Hor el-Hammar" .
+
+<http://data.dainst.de/zenon/000002413_Idu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Idu" .
+
+<http://data.dainst.de/zenon/000002413_IshanBahriyatvedi:Isin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ishan Bahriyat vedi: Isin" .
+
+<http://data.dainst.de/zenon/000002413_Isin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Isin" .
+
+<http://data.dainst.de/zenon/000002413_Kalhu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kalhu" .
+
+<http://data.dainst.de/zenon/000002413_KarShalmaneservedi:TellAhmar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kar Shalmaneser vedi: Tell Ahmar" .
+
+<http://data.dainst.de/zenon/000002413_KarTukultiNinurta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kar Tukulti Ninurta" .
+
+<http://data.dainst.de/zenon/000002413_Karanavedi:Tellal-Rimah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Karana vedi: Tell al-Rimah" .
+
+<http://data.dainst.de/zenon/000002413_KarimShahir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Karim Shahir" .
+
+<http://data.dainst.de/zenon/000002413_Karkar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Karkar" .
+
+<http://data.dainst.de/zenon/000002413_Khafajah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Khafajah" .
+
+<http://data.dainst.de/zenon/000002413_KheitQasim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kheit Qasim" .
+
+<http://data.dainst.de/zenon/000002413_KhirbetJaddalah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Khirbet Jaddalah" .
+
+<http://data.dainst.de/zenon/000002413_Khirbetel-Diniye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Khirbet el-Diniye" .
+
+<http://data.dainst.de/zenon/000002413_Khorsabadvedi:DurSharrukin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Khorsabad vedi: Dur Sharrukin" .
+
+<http://data.dainst.de/zenon/000002413_Kifrin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kifrin" .
+
+<http://data.dainst.de/zenon/000002413_Kirkuk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kirkuk" .
+
+<http://data.dainst.de/zenon/000002413_Kish> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kish" .
+
+<http://data.dainst.de/zenon/000002413_Ktesiphon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ktesiphon" .
+
+<http://data.dainst.de/zenon/000002413_Kufa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kufa" .
+
+<http://data.dainst.de/zenon/000002413_KulTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kul Tepe" .
+
+<http://data.dainst.de/zenon/000002413_Kutha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Kutha" .
+
+<http://data.dainst.de/zenon/000002413_Lagaba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Lagaba" .
+
+<http://data.dainst.de/zenon/000002413_Larsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Larsa" .
+
+<http://data.dainst.de/zenon/000002413_Maišan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Maišan" .
+
+<http://data.dainst.de/zenon/000002413_Maltai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Maltai" .
+
+<http://data.dainst.de/zenon/000002413_MilaMergi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Mila Mergi" .
+
+<http://data.dainst.de/zenon/000002413_Mossoul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Mossoul" .
+
+<http://data.dainst.de/zenon/000002413_Mudjesir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Mudjesir" .
+
+<http://data.dainst.de/zenon/000002413_Musasir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Musasir" .
+
+<http://data.dainst.de/zenon/000002413_Natunia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Natunia" .
+
+<http://data.dainst.de/zenon/000002413_Negub> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Negub" .
+
+<http://data.dainst.de/zenon/000002413_Nimrudvedi:Kalhu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Nimrud vedi: Kalhu" .
+
+<http://data.dainst.de/zenon/000002413_Ninive> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ninive" .
+
+<http://data.dainst.de/zenon/000002413_Nippur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Nippur" .
+
+<http://data.dainst.de/zenon/000002413_Nuqratal-Salman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Nuqrat al-Salman" .
+
+<http://data.dainst.de/zenon/000002413_Nuzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Nuzi" .
+
+<http://data.dainst.de/zenon/000002413_Paikuli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Paikuli" .
+
+<http://data.dainst.de/zenon/000002413_Pird-iKinachan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Pird-i Kinachan" .
+
+<http://data.dainst.de/zenon/000002413_Qadisiya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Qadisiya" .
+
+<http://data.dainst.de/zenon/000002413_QasrSerij> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Qasr Serij" .
+
+<http://data.dainst.de/zenon/000002413_Qasrij> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Qasrij" .
+
+<http://data.dainst.de/zenon/000002413_Qizqapan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Qizqapan" .
+
+<http://data.dainst.de/zenon/000002413_Rasal-ʿAmiya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ras al-ʿAmiya" .
+
+<http://data.dainst.de/zenon/000002413_Sapîratum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Sapîratum" .
+
+<http://data.dainst.de/zenon/000002413_Sayala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Sayala" .
+
+<http://data.dainst.de/zenon/000002413_SehQubba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Seh Qubba" .
+
+<http://data.dainst.de/zenon/000002413_Seleukeia(Tigris)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Seleukeia (Tigris)" .
+
+<http://data.dainst.de/zenon/000002413_Shuruppak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Shuruppak" .
+
+<http://data.dainst.de/zenon/000002413_Sippar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Sippar" .
+
+<http://data.dainst.de/zenon/000002413_Suleimaniyah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Suleimaniyah" .
+
+<http://data.dainst.de/zenon/000002413_TchogaMami> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tchoga Mami" .
+
+<http://data.dainst.de/zenon/000002413_Tell'Anza> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell 'Anza" .
+
+<http://data.dainst.de/zenon/000002413_TellAbabra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Ababra" .
+
+<http://data.dainst.de/zenon/000002413_TellAbada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abada" .
+
+<http://data.dainst.de/zenon/000002413_TellAbqaʿ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abqaʿ" .
+
+<http://data.dainst.de/zenon/000002413_TellAbuDhahir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abu Dhahir" .
+
+<http://data.dainst.de/zenon/000002413_TellAbuDuwari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abu Duwari" .
+
+<http://data.dainst.de/zenon/000002413_TellAbuHusaini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abu Husaini" .
+
+<http://data.dainst.de/zenon/000002413_TellAbuShahreinvedi:Eridu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Abu Shahrein vedi: Eridu" .
+
+<http://data.dainst.de/zenon/000002413_TellAhmadal-Hattu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Ahmad al-Hattu" .
+
+<http://data.dainst.de/zenon/000002413_TellAhmar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Ahmar" .
+
+<http://data.dainst.de/zenon/000002413_TellAsmar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Asmar" .
+
+<http://data.dainst.de/zenon/000002413_TellAswad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Aswad" .
+
+<http://data.dainst.de/zenon/000002413_TellAyyash> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Ayyash" .
+
+<http://data.dainst.de/zenon/000002413_TellBarudavedi:Choche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Baruda vedi: Choche" .
+
+<http://data.dainst.de/zenon/000002413_TellBasmusian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Basmusian" .
+
+<http://data.dainst.de/zenon/000002413_TellBrak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Brak" .
+
+<http://data.dainst.de/zenon/000002413_TellDurdara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Durdara" .
+
+<http://data.dainst.de/zenon/000002413_TellHamadAga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Hamad Aga" .
+
+<http://data.dainst.de/zenon/000002413_TellHassan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Hassan" .
+
+<http://data.dainst.de/zenon/000002413_TellHassuna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Hassuna" .
+
+<http://data.dainst.de/zenon/000002413_TellImlihiye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Imlihiye" .
+
+<http://data.dainst.de/zenon/000002413_TellJikan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Jikan" .
+
+<http://data.dainst.de/zenon/000002413_TellKarrana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Karrana" .
+
+<http://data.dainst.de/zenon/000002413_TellKashkashok> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Kashkashok" .
+
+<http://data.dainst.de/zenon/000002413_TellKhirbetSalih> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Khirbet Salih" .
+
+<http://data.dainst.de/zenon/000002413_TellKhwaris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Khwaris" .
+
+<http://data.dainst.de/zenon/000002413_TellMadhhur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Madhhur" .
+
+<http://data.dainst.de/zenon/000002413_TellMadinehvedi:Bad-Tibira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Madineh vedi: Bad-Tibira" .
+
+<http://data.dainst.de/zenon/000002413_TellMagzalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Magzalia" .
+
+<http://data.dainst.de/zenon/000002413_TellMahuz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Mahuz" .
+
+<http://data.dainst.de/zenon/000002413_TellMismar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Mismar" .
+
+<http://data.dainst.de/zenon/000002413_TellMohammedʿArab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Mohammed ʿArab" .
+
+<http://data.dainst.de/zenon/000002413_TellOweissat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Oweissat" .
+
+<http://data.dainst.de/zenon/000002413_TellRaffan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Raffan" .
+
+<http://data.dainst.de/zenon/000002413_TellRazuk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Razuk" .
+
+<http://data.dainst.de/zenon/000002413_TellRijim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Rijim" .
+
+<http://data.dainst.de/zenon/000002413_TellShimshara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Shimshara" .
+
+<http://data.dainst.de/zenon/000002413_TellSotto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Sotto" .
+
+<http://data.dainst.de/zenon/000002413_TellTaya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Taya" .
+
+<http://data.dainst.de/zenon/000002413_TellUgayr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Ugayr" .
+
+<http://data.dainst.de/zenon/000002413_TellWaqqaf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Waqqaf" .
+
+<http://data.dainst.de/zenon/000002413_TellYelkhi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Yelkhi" .
+
+<http://data.dainst.de/zenon/000002413_TellZubeidi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell Zubeidi" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Deir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Deir" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Fakhar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Fakhar" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Rimah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Rimah" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Sarah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Sarah" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Sawwan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Sawwan" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-Seman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-Seman" .
+
+<http://data.dainst.de/zenon/000002413_Tellal-ʿAqar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell al-ʿAqar" .
+
+<http://data.dainst.de/zenon/000002413_Tellel-Dhibaʿi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell el-Dhibaʿi" .
+
+<http://data.dainst.de/zenon/000002413_Tellel-Hawa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell el-Hawa" .
+
+<http://data.dainst.de/zenon/000002413_Tellel-Wilajah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell el-Wilajah" .
+
+<http://data.dainst.de/zenon/000002413_Tellel-ʿOueili> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tell el-ʿOueili" .
+
+<http://data.dainst.de/zenon/000002413_Tello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tello" .
+
+<http://data.dainst.de/zenon/000002413_Telulal-Rihan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Telul al-Rihan" .
+
+<http://data.dainst.de/zenon/000002413_Telulel-Thalathat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Telul el-Thalathat" .
+
+<http://data.dainst.de/zenon/000002413_Tema> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tema" .
+
+<http://data.dainst.de/zenon/000002413_TepeChenchi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tepe Chenchi" .
+
+<http://data.dainst.de/zenon/000002413_TepeGawra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Tepe Gawra" .
+
+<http://data.dainst.de/zenon/000002413_TilBarsibvedi:TellAhmar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Til Barsib vedi: Tell Ahmar" .
+
+<http://data.dainst.de/zenon/000002413_UmmDabaghiyah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Umm Dabaghiyah" .
+
+<http://data.dainst.de/zenon/000002413_UmmRus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Umm Rus" .
+
+<http://data.dainst.de/zenon/000002413_Ummel-Jir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Umm el-Jir" .
+
+<http://data.dainst.de/zenon/000002413_Ur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Ur" .
+
+<http://data.dainst.de/zenon/000002413_Uruk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Uruk" .
+
+<http://data.dainst.de/zenon/000002413_VehArdaširvedi:Choche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Veh Ardašir vedi: Choche" .
+
+<http://data.dainst.de/zenon/000002413_Vologesias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Vologesias" .
+
+<http://data.dainst.de/zenon/000002413_WadiHussainiyat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Wadi Hussainiyat" .
+
+<http://data.dainst.de/zenon/000002413_Wadial-Tharthar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Wadi al-Tharthar" .
+
+<http://data.dainst.de/zenon/000002413_Warkavedi:Uruk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Warka vedi: Uruk" .
+
+<http://data.dainst.de/zenon/000002413_YarimTepe(Iraq)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Yarim Tepe (Iraq)" .
+
+<http://data.dainst.de/zenon/000002413_Zairwan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Zairwan" .
+
+<http://data.dainst.de/zenon/000002413_ÜçTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Üç Tepe" .
+
+<http://data.dainst.de/zenon/000002413_Šušan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "Šušan" .
+
+<http://data.dainst.de/zenon/000002413_ʿAinSinu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "ʿAin Sinu" .
+
+<http://data.dainst.de/zenon/000002413_ʿAna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002413> ;
+    skos:prefLabel "ʿAna" .
+
+<http://data.dainst.de/zenon/000002413> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002411> ;
+    skos:hiddenLabel "xTopLandIraqOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

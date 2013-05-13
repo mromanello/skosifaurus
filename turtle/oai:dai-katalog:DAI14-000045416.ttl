@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045416> a skos:Concept ;
+    skos:altLabel "La Bresse"@en,
+        "La Bresse"@fr,
+        "La Bresse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RLa Bresse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Bresse"@de .
+

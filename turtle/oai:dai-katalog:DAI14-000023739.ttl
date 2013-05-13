@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023739> a skos:Concept ;
+    skos:altLabel "Legio I Adiutrix"@en,
+        "Legio I Adiutrix"@fr,
+        "Legio I Adiutrix"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeLegio I Adiutrix" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Legio I Adiutrix"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063864> a skos:Concept ;
+    skos:altLabel "Podrażnice, okr. Domażlice"@en,
+        "Podrażnice, okr. Domażlice"@fr,
+        "Podrażnice, okr. Domażlice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPodrażnic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Podrażnice, okr. Domażlice"@de .
+

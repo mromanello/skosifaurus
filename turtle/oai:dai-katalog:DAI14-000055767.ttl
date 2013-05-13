@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055767> a skos:Concept ;
+    skos:altLabel "Marienfels"@en,
+        "Marienfels"@fr,
+        "Marienfels"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038934> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinRheinMarienfel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marienfels"@de .
+

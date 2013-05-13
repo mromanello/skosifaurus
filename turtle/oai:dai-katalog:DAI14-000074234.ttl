@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074234> a skos:Concept ;
+    skos:altLabel "Hamadan"@en,
+        "Hamadan"@fr,
+        "Hamadan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039385> ;
+    skos:hiddenLabel "zTopogAsienVordeIranHamadan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hamadan"@de .
+

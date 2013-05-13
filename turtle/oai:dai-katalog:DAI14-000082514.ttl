@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082514> a skos:Concept ;
+    skos:altLabel "Cergy"@en,
+        "Cergy"@fr,
+        "Cergy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038741> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dVal-dCergy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cergy"@de .
+

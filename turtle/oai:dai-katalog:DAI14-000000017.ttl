@@ -1,0 +1,1014 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000017_ACoruña,MuseoArqueolóxicoeHistóricoCastelodeSanAntón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "A Coruña, Museo Arqueolóxico e Histórico Castelo de San Antón" .
+
+<http://data.dainst.de/zenon/000000017_Alava,MuseodeArqueología> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alava, Museo de Arqueología" .
+
+<http://data.dainst.de/zenon/000000017_Albacete,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Albacete, Museo" .
+
+<http://data.dainst.de/zenon/000000017_AlcaládeHenares,MuseoArqueológicoRegional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alcalá de Henares, Museo Arqueológico Regional" .
+
+<http://data.dainst.de/zenon/000000017_Alcañiz,ColecciónArq.P.P.Escolapios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alcañiz, Colección Arq. P.P. Escolapios" .
+
+<http://data.dainst.de/zenon/000000017_Alcoi,MuseoCamiloVisedo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alcoi, Museo Camilo Visedo" .
+
+<http://data.dainst.de/zenon/000000017_Alcoi,MuseuArqueològicMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alcoi, Museu Arqueològic Municipal" .
+
+<http://data.dainst.de/zenon/000000017_AlcácerdoSal,MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alcácer do Sal, Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Alenquer(Lisboa),MuseuMunicipalHipólitoCabaço> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alenquer (Lisboa), Museu Municipal Hipólito Cabaço" .
+
+<http://data.dainst.de/zenon/000000017_Algeciras,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Algeciras, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Alicante,ColecciónJoséMaríaSoler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alicante, Colección José María Soler" .
+
+<http://data.dainst.de/zenon/000000017_Alicante,MuseoArqueológicoProv.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alicante, Museo Arqueológico Prov." .
+
+<http://data.dainst.de/zenon/000000017_Alicante,MuseodeSanFulgencio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alicante, Museo de San Fulgencio" .
+
+<http://data.dainst.de/zenon/000000017_Alicante,MuseodelaUniversidad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Alicante, Museo de la Universidad" .
+
+<http://data.dainst.de/zenon/000000017_Almassora,MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Almassora, Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Almedinilla(Córdoba),MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Almedinilla (Córdoba), Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Almería,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Almería, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Almodóvar(Port.),MuseudaEscritadoSudoeste> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Almodóvar (Port.), Museu da Escrita do Sudoeste" .
+
+<http://data.dainst.de/zenon/000000017_Altamira,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Altamira, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Amposta,MuseudelMontsià> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Amposta, Museu del Montsià" .
+
+<http://data.dainst.de/zenon/000000017_Antequera,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Antequera, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Aranjuez,CasadelLabrador> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Aranjuez, Casa del Labrador" .
+
+<http://data.dainst.de/zenon/000000017_Arisgotas(Orgaz,Toledo),MuseodeArteVisigodo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Arisgotas (Orgaz, Toledo), Museo de Arte Visigodo" .
+
+<http://data.dainst.de/zenon/000000017_Astorga,MuseoRomano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Astorga, Museo Romano" .
+
+<http://data.dainst.de/zenon/000000017_Avila,MuseoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Avila, Museo Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Badajoz,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Badajoz, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Badalona,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Badalona, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Baena(Córdoba),MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Baena (Córdoba), Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Balaguer,MuseudeLaNoguera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Balaguer, Museu de La Noguera" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,MuseuFredericMarès> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museu Frederic Marès" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,MuseuNacionald'ArtdeCatalunya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museu Nacional d'Art de Catalunya" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,MuseuProvinciald'Antiguitats> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museu Provincial d'Antiguitats" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,Museud'ArqueologiadeCatalunya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museu d'Arqueologia de Catalunya" .
+
+<http://data.dainst.de/zenon/000000017_Barcelona,Museud'HistòriadelaCiutat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelona, Museu d'Història de la Ciutat" .
+
+<http://data.dainst.de/zenon/000000017_Barcelos,MuseuArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Barcelos, Museu Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Beja,MuseuRegional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Beja, Museu Regional" .
+
+<http://data.dainst.de/zenon/000000017_Belmez(Córdoba),MuseoHistóricoydelTerritorioMinero> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Belmez (Córdoba), Museo Histórico y del Territorio Minero" .
+
+<http://data.dainst.de/zenon/000000017_Benidorm,Colección-Ayuntamiento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Benidorm, Colección - Ayuntamiento" .
+
+<http://data.dainst.de/zenon/000000017_Braga,MuseuRegionaldeArqueologiadeD.DiogodeSousa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Braga, Museu Regional de Arqueologia de D. Diogo de Sousa" .
+
+<http://data.dainst.de/zenon/000000017_Bruxelles,CollectionSiret> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Bruxelles, Collection Siret" .
+
+<http://data.dainst.de/zenon/000000017_Burgos,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Burgos, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Burriana,MuseuArqueològicComarcaldelaPlanaBaixa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Burriana, Museu Arqueològic Comarcal de la Plana Baixa" .
+
+<http://data.dainst.de/zenon/000000017_Cabra,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cabra, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Cacabelos(León),MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cacabelos (León), Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Calaceite,MuseoJuanCabré> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Calaceite, Museo Juan Cabré" .
+
+<http://data.dainst.de/zenon/000000017_CaldesdeMontbui,Thermàlia-Museu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Caldes de Montbui, Thermàlia-Museu" .
+
+<http://data.dainst.de/zenon/000000017_Carranque(Toledo),ParqueArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Carranque (Toledo), Parque Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Cartagena,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cartagena, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Cartagena,MuseoNac.deArqueologíaMarítima> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cartagena, Museo Nac. de Arqueología Marítima" .
+
+<http://data.dainst.de/zenon/000000017_Cartagena,MuseodelTeatroRomano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cartagena, Museo del Teatro Romano" .
+
+<http://data.dainst.de/zenon/000000017_Cascais,Museu-BibliotecaCondesdeCastroGuimarães> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cascais, Museu-Biblioteca Condes de Castro Guimarães" .
+
+<http://data.dainst.de/zenon/000000017_CastrodeRei,MuseodoCastrodeViladonga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Castro de Rei, Museo do Castro de Viladonga" .
+
+<http://data.dainst.de/zenon/000000017_CañetedelasTorres,MuseoHistóricoMun.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cañete de las Torres, Museo Histórico Mun." .
+
+<http://data.dainst.de/zenon/000000017_Ceuta,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ceuta, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_CiudadReal,ColecciónTello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ciudad Real, Colección Tello" .
+
+<http://data.dainst.de/zenon/000000017_CiudadReal,MuseoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ciudad Real, Museo Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Coimbra-Penela,Espaço-MuseudoRabaçal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Coimbra-Penela, Espaço-Museu do Rabaçal" .
+
+<http://data.dainst.de/zenon/000000017_Conimbriga,MuseoMonográfico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Conimbriga, Museo Monográfico" .
+
+<http://data.dainst.de/zenon/000000017_Coruche,MuseuMunicipal(Port.)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Coruche, Museu Municipal (Port.)" .
+
+<http://data.dainst.de/zenon/000000017_Crevillente,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Crevillente, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Cuenca,ColecciónVicenteMartínezMillán> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cuenca, Colección Vicente Martínez Millán" .
+
+<http://data.dainst.de/zenon/000000017_Cuenca,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cuenca, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Cáceres,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cáceres, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Cádiz,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cádiz, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Cádiz,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Cádiz, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Córdoba,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Córdoba, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Córdoba,MuseoArqueológicoyEtnológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Córdoba, Museo Arqueológico y Etnológico" .
+
+<http://data.dainst.de/zenon/000000017_Córdoba,MuseoJulioRomerodeTorres> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Córdoba, Museo Julio Romero de Torres" .
+
+<http://data.dainst.de/zenon/000000017_DoñaMencía,MuseoHistórico-ArqueológicoLocal(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Doña Mencía, Museo Histórico-Arqueológico Local (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000017_Ecija,FundaciónAlhonoz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ecija, Fundación Alhonoz" .
+
+<http://data.dainst.de/zenon/000000017_Elche,MuseoArq.Mun.AlejandroRamosFolqués> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Elche, Museo Arq. Mun. Alejandro Ramos Folqués" .
+
+<http://data.dainst.de/zenon/000000017_Elche,MuseoMonográficodeLaAlcudia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Elche, Museo Monográfico de La Alcudia" .
+
+<http://data.dainst.de/zenon/000000017_Elda,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Elda, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Elvas,MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Elvas, Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Empúries,Museud'ArqueologiadeCatalunya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Empúries, Museu d'Arqueologia de Catalunya" .
+
+<http://data.dainst.de/zenon/000000017_Enguera(Valencia),MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Enguera (Valencia), Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Evora,MuseuRegional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Evora, Museu Regional" .
+
+<http://data.dainst.de/zenon/000000017_FigueiradaFoz,MuseuMun.Dr.SantosRocha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Figueira da Foz, Museu Mun. Dr. Santos Rocha" .
+
+<http://data.dainst.de/zenon/000000017_Fuente-Tójar,MuseoHistóricoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Fuente-Tójar, Museo Histórico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Gerona,MuseuArqueològic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Gerona, Museu Arqueològic" .
+
+<http://data.dainst.de/zenon/000000017_Gijón,TorredelReloj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Gijón, Torre del Reloj" .
+
+<http://data.dainst.de/zenon/000000017_Granada,InstitutoGómezMoreno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Granada, Instituto Gómez Moreno" .
+
+<http://data.dainst.de/zenon/000000017_Granada,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Granada, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Granollers,Museu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Granollers, Museu" .
+
+<http://data.dainst.de/zenon/000000017_Guimarães,MuseudaSociedadeMartinsSarmento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Guimarães, Museu da Sociedade Martins Sarmento" .
+
+<http://data.dainst.de/zenon/000000017_Guissona,Museu"EduardCamps"> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Guissona, Museu \"Eduard Camps\"" .
+
+<http://data.dainst.de/zenon/000000017_HerreradePisuerga,ParqueArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Herrera de Pisuerga, Parque Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Huelva,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Huelva, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Huesca,ColecciónBalaguer(Ayuntamiento)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Huesca, Colección Balaguer (Ayuntamiento)" .
+
+<http://data.dainst.de/zenon/000000017_Huesca,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Huesca, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Ibiza,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ibiza, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Jaén,MuseoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Jaén, Museo Provincial" .
+
+<http://data.dainst.de/zenon/000000017_JerezdelaFrontera,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Jerez de la Frontera, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Jumilla,MuseoMunicipalJerónimoMolina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Jumilla, Museo Municipal Jerónimo Molina" .
+
+<http://data.dainst.de/zenon/000000017_LaCarlota(Córdoba),MuseoHistóricoLocal"JuanBernier"> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "La Carlota (Córdoba), Museo Histórico Local \"Juan Bernier\"" .
+
+<http://data.dainst.de/zenon/000000017_Laguardia,SociedaddeAmigosdeLaguardia(Colección)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Laguardia, Sociedad de Amigos de Laguardia (Colección)" .
+
+<http://data.dainst.de/zenon/000000017_LasPalmasdeGranCanaria,MuseoCanario> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Las Palmas de Gran Canaria, Museo Canario" .
+
+<http://data.dainst.de/zenon/000000017_Leiria,MuseudoSeminário> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Leiria, Museu do Seminário" .
+
+<http://data.dainst.de/zenon/000000017_León,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "León, Museo" .
+
+<http://data.dainst.de/zenon/000000017_León,MuseoDiocesano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "León, Museo Diocesano" .
+
+<http://data.dainst.de/zenon/000000017_Linares,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Linares, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,MuseuEtnológicoPortuguês> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Museu Etnológico Português" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,MuseuMunicipaldaVidaSubaquáticaedaHistóriaSubmersa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Museu Municipal da Vida Subaquática e da História Submersa" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,MuseuNac.deArqueologiaeEtnologia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Museu Nac. de Arqueologia e Etnologia" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,MuseudaCidadedeLisboa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Museu da Cidade de Lisboa" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,MuseudoCarmo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Museu do Carmo" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa,RuadosCorreeiros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa, Rua dos Correeiros" .
+
+<http://data.dainst.de/zenon/000000017_Lisboa/Porto,InstitutoGeológicoeMineiro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lisboa/Porto, Instituto Geológico e Mineiro" .
+
+<http://data.dainst.de/zenon/000000017_Lorca,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lorca, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Lugo,MuseoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lugo, Museo Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Lérida,MuseoArq.delInst.deEstudiosIlerdenses> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Lérida, Museo Arq. del Inst. de Estudios Ilerdenses" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,BibliotecaNacional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Biblioteca Nacional" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,ColecciónAzara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Colección Azara" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,ColecciónD.RicardoMarsal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Colección D. Ricardo Marsal" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,ColecciónHotelVillaReal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Colección Hotel Villa Real" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,InstitutoValenciadeDonJuan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Instituto Valencia de Don Juan" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoArqueológicoNacional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Arqueológico Nacional" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoCerralbo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Cerralbo" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoHistóricoMineroD.FelipedeBorbónyGrecia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Histórico Minero D. Felipe de Borbón y Grecia" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoLázaroGaldiano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Lázaro Galdiano" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoNacionaldeArtesDecorativas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Nacional de Artes Decorativas" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoNacionaldeCienciasNaturales> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Nacional de Ciencias Naturales" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoNacionaldeReproduccionesArtísticas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Nacional de Reproducciones Artísticas" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseoSorolla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo Sorolla" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseodeSanIsidro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo de San Isidro" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseodelEjército> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo del Ejército" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,MuseodelPrado> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Museo del Prado" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,PalacioReal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Palacio Real" .
+
+<http://data.dainst.de/zenon/000000017_Madrid,RealAcademiadelaHistoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid, Real Academia de la Historia" .
+
+<http://data.dainst.de/zenon/000000017_Madrid1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid 1997" .
+
+<http://data.dainst.de/zenon/000000017_Madridu.a.,ColecciónMarquésdelCarpio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Madrid u.a., Colección Marqués del Carpio" .
+
+<http://data.dainst.de/zenon/000000017_Mainz,Römisch-GermanischesZentralmuseum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mainz, Römisch-Germanisches Zentralmuseum" .
+
+<http://data.dainst.de/zenon/000000017_Mallorca,ColecciónDespuig> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mallorca, Colección Despuig" .
+
+<http://data.dainst.de/zenon/000000017_Mallorca,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mallorca, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Mallorca,coleccionesprivadas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mallorca, colecciones privadas" .
+
+<http://data.dainst.de/zenon/000000017_Manresa,MuseuComarcal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Manresa, Museu Comarcal" .
+
+<http://data.dainst.de/zenon/000000017_Martos,MuseoArqueológicodelColegioFranciscano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Martos, Museo Arqueológico del Colegio Franciscano" .
+
+<http://data.dainst.de/zenon/000000017_Mataró,MuseuComarcaldelMaresme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mataró, Museu Comarcal del Maresme" .
+
+<http://data.dainst.de/zenon/000000017_Melilla,MuseodeArqueologíaeHistoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Melilla, Museo de Arqueología e Historia" .
+
+<http://data.dainst.de/zenon/000000017_Milán,CivicheRaccolteNumismatiche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Milán, Civiche Raccolte Numismatiche" .
+
+<http://data.dainst.de/zenon/000000017_Miróbriga[ruinas-museo]> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Miróbriga [ruinas-museo]" .
+
+<http://data.dainst.de/zenon/000000017_Montilla(Córdoba),MuseoHistóricoLocal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Montilla (Córdoba), Museo Histórico Local" .
+
+<http://data.dainst.de/zenon/000000017_Montmeló(Barcelona)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Montmeló (Barcelona)" .
+
+<http://data.dainst.de/zenon/000000017_Montoro(Córdoba),MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Montoro (Córdoba), Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Monturque,MuseoHistóricoLocal(Córdoba)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Monturque, Museo Histórico Local (Córdoba)" .
+
+<http://data.dainst.de/zenon/000000017_Moura,MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Moura, Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Mula,MuseodeElCigarralejo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mula, Museo de El Cigarralejo" .
+
+<http://data.dainst.de/zenon/000000017_Murcia,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Murcia, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Murcia,MuseoProvincialdeBellasArtes(1922-1935)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Murcia, Museo Provincial de Bellas Artes (1922-1935)" .
+
+<http://data.dainst.de/zenon/000000017_Murcia,MuseodelaCienciayelAgua> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Murcia, Museo de la Ciencia y el Agua" .
+
+<http://data.dainst.de/zenon/000000017_Málaga,ColecciónGómez-Moreno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Málaga, Colección Gómez-Moreno" .
+
+<http://data.dainst.de/zenon/000000017_Málaga,CuevadelTesoro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Málaga, Cueva del Tesoro" .
+
+<http://data.dainst.de/zenon/000000017_Málaga,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Málaga, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Málaga,MuseoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Málaga, Museo Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Mérida,MuseoNacionaldeArteRomano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mérida, Museo Nacional de Arte Romano" .
+
+<http://data.dainst.de/zenon/000000017_Mértola,Museu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Mértola, Museu" .
+
+<http://data.dainst.de/zenon/000000017_NewYork,AmericanNumismaticSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "New York, American Numismatic Society" .
+
+<http://data.dainst.de/zenon/000000017_NewYork,HispanicSocietyofAmerica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "New York, Hispanic Society of America" .
+
+<http://data.dainst.de/zenon/000000017_Novelda,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Novelda, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_NuevaYork,MetropolitanMuseum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Nueva York, Metropolitan Museum" .
+
+<http://data.dainst.de/zenon/000000017_Numancia,MuseoNumantino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Numancia, Museo Numantino" .
+
+<http://data.dainst.de/zenon/000000017_Orense,MuseoArqueolóxicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Orense, Museo Arqueolóxico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Orense,MuseoCatedralicio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Orense, Museo Catedralicio" .
+
+<http://data.dainst.de/zenon/000000017_Osuna,MuseoArqueológicode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Osuna, Museo Arqueológico de" .
+
+<http://data.dainst.de/zenon/000000017_Oviedo,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Oviedo, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Palencia,ColecciónFontaneda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Palencia, Colección Fontaneda" .
+
+<http://data.dainst.de/zenon/000000017_Palencia,MuseoArqueológicoProv.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Palencia, Museo Arqueológico Prov." .
+
+<http://data.dainst.de/zenon/000000017_PalmadeMallorca,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Palma de Mallorca, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Pamplona,MuseodeNavarra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Pamplona, Museo de Navarra" .
+
+<http://data.dainst.de/zenon/000000017_Paris,PittRiversMuseum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Paris, Pitt Rivers Museum" .
+
+<http://data.dainst.de/zenon/000000017_Paterna,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Paterna, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Plasencia,PalacioMarquésdeMirabel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Plasencia, Palacio Marqués de Mirabel" .
+
+<http://data.dainst.de/zenon/000000017_Ponferrada,MuseoRegionaldelBierzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ponferrada, Museo Regional del Bierzo" .
+
+<http://data.dainst.de/zenon/000000017_Ponteareas,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ponteareas, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Pontevedra,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Pontevedra, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Porto,MuseuEng.AntóniodeAlmeida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Porto, Museu Eng. António de Almeida" .
+
+<http://data.dainst.de/zenon/000000017_PriegodeCórdoba,MuseoHistóricoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Priego de Córdoba, Museo Histórico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_PuenteGenil,MuseoArqueológicoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Puente Genil, Museo Arqueológico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_PóvoadeVarzim,MuseuMunicipaldeEtnologiaeHistória> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Póvoa de Varzim, Museu Municipal de Etnologia e História" .
+
+<http://data.dainst.de/zenon/000000017_Reus,MuseuComarcalSalvadorVilaseca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Reus, Museu Comarcal Salvador Vilaseca" .
+
+<http://data.dainst.de/zenon/000000017_RodadeTer,MuseuArqueològicdel'Esquerda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Roda de Ter, Museu Arqueològic de l'Esquerda" .
+
+<http://data.dainst.de/zenon/000000017_Roma,EscuelaEspañoladeHistoriayArqueología> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Roma, Escuela Española de Historia y Arqueología" .
+
+<http://data.dainst.de/zenon/000000017_Sabadell,Museud'Història> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sabadell, Museu d'Història" .
+
+<http://data.dainst.de/zenon/000000017_Sabugal,MuseudoSabugal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sabugal, Museu do Sabugal" .
+
+<http://data.dainst.de/zenon/000000017_Sagunto,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sagunto, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Saint-Germain-en-Laye,MuséedesAntiquitésNationales> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Saint-Germain-en-Laye, Musée des Antiquités Nationales" .
+
+<http://data.dainst.de/zenon/000000017_Salamanca,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Salamanca, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_SantFeliudeCodines,MuseuArqueològicMun.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sant Feliu de Codines, Museu Arqueològic Mun." .
+
+<http://data.dainst.de/zenon/000000017_SantaPola,MuseoMun.Arqueológico-Pesquero..> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santa Pola, Museo Mun. Arqueológico-Pesquero.." .
+
+<http://data.dainst.de/zenon/000000017_Santaella,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santaella, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Santander,MuseoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santander, Museo Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Santander,MuseodePrehistoriayArqueología> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santander, Museo de Prehistoria y Arqueología" .
+
+<http://data.dainst.de/zenon/000000017_Santarém,MuseuArqueológicodeSãoJoãodeAlporão> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santarém, Museu Arqueológico de São João de Alporão" .
+
+<http://data.dainst.de/zenon/000000017_SantiagodeCompostela,ColecciónBlanco-Cicerón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santiago de Compostela, Colección Blanco-Cicerón" .
+
+<http://data.dainst.de/zenon/000000017_SantiagodeCompostela,MuseodeTierraSanta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santiago de Compostela, Museo de Tierra Santa" .
+
+<http://data.dainst.de/zenon/000000017_SantiagodeCompostela,PalaciodeGelmirezu.a.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santiago de Compostela, Palacio de Gelmirez u.a." .
+
+<http://data.dainst.de/zenon/000000017_SantillanadelMar,MuseodeAltamira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santillana del Mar, Museo de Altamira" .
+
+<http://data.dainst.de/zenon/000000017_SantoTirso,AbadePedrosa,MunicipalMuseum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Santo Tirso, Abade Pedrosa, Municipal Museum" .
+
+<http://data.dainst.de/zenon/000000017_Segobriga,ParqueArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Segobriga, Parque Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Segovia,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Segovia, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Setúbal,MuseudeArqueologia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Setúbal, Museu de Arqueologia" .
+
+<http://data.dainst.de/zenon/000000017_Sevilla,CasadePilatos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sevilla, Casa de Pilatos" .
+
+<http://data.dainst.de/zenon/000000017_Sevilla,ColecciónJorgeBonsor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sevilla, Colección Jorge Bonsor" .
+
+<http://data.dainst.de/zenon/000000017_Sevilla,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sevilla, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Sevilla,Universidad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sevilla, Universidad" .
+
+<http://data.dainst.de/zenon/000000017_Silves,MuseuMunicipaldeArqueologia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Silves, Museu Municipal de Arqueologia" .
+
+<http://data.dainst.de/zenon/000000017_Sines,MuseuArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sines, Museu Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Sintra,MuseuRegional> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Sintra, Museu Regional" .
+
+<http://data.dainst.de/zenon/000000017_Solsona,MuseuDiocesàiComarcal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Solsona, Museu Diocesà i Comarcal" .
+
+<http://data.dainst.de/zenon/000000017_Soria,MuseoNumantino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Soria, Museo Numantino" .
+
+<http://data.dainst.de/zenon/000000017_Tarragona,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Tarragona, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Tarragona,MuseuNacionald'Arqueologia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Tarragona, Museu Nacional d'Arqueologia" .
+
+<http://data.dainst.de/zenon/000000017_Teba,MuseoHistóricoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Teba, Museo Histórico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_Tenerife,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Tenerife, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Toledo,MuseoSefardí> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Toledo, Museo Sefardí" .
+
+<http://data.dainst.de/zenon/000000017_Toledo,MuseodeSantaCruz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Toledo, Museo de Santa Cruz" .
+
+<http://data.dainst.de/zenon/000000017_Tomar,parqueplurinucleado> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Tomar, parque plurinucleado" .
+
+<http://data.dainst.de/zenon/000000017_Torrecampo(Córdoba),Casa-Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Torrecampo (Córdoba), Casa-Museo" .
+
+<http://data.dainst.de/zenon/000000017_TorresVedras,MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Torres Vedras, Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_TorroelladeMontgrí,MuseudelMontgrí> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Torroella de Montgrí, Museu del Montgrí" .
+
+<http://data.dainst.de/zenon/000000017_Ulía,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Ulía, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Valencia,ColeccióndelaUniversitatdeValència> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valencia, Colección de la Universitat de València" .
+
+<http://data.dainst.de/zenon/000000017_Valencia,MuseoHistóricodelaCiudad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valencia, Museo Histórico de la Ciudad" .
+
+<http://data.dainst.de/zenon/000000017_Valencia,MuseodePrehistoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valencia, Museo de Prehistoria" .
+
+<http://data.dainst.de/zenon/000000017_Valencia,MuseodePrehistoriaDomingoFletcherValls> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valencia, Museo de Prehistoria Domingo Fletcher Valls" .
+
+<http://data.dainst.de/zenon/000000017_Valencia,MuseodePrehistoriadelaDiputación> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valencia, Museo de Prehistoria de la Diputación" .
+
+<http://data.dainst.de/zenon/000000017_Valladolid,FundaciónCristóbalGabarrón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valladolid, Fundación Cristóbal Gabarrón" .
+
+<http://data.dainst.de/zenon/000000017_Valladolid,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Valladolid, Museo" .
+
+<http://data.dainst.de/zenon/000000017_València,Museud'HistòriadeValència(MHV)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "València, Museu d'Història de València (MHV)" .
+
+<http://data.dainst.de/zenon/000000017_Vic,MuseuEpiscopal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vic, Museu Episcopal" .
+
+<http://data.dainst.de/zenon/000000017_Vigo,MuseoQuiñonesdeLeón> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vigo, Museo Quiñones de León" .
+
+<http://data.dainst.de/zenon/000000017_Vila-Real,MuseuEtnològic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vila-Real, Museu Etnològic" .
+
+<http://data.dainst.de/zenon/000000017_VilaJoiosa(Alacant),MuseuMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vila Joiosa (Alacant), Museu Municipal" .
+
+<http://data.dainst.de/zenon/000000017_VilaNovadeFoz,CentroNacionaldeArteRupestre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vila Nova de Foz, Centro Nacional de Arte Rupestre" .
+
+<http://data.dainst.de/zenon/000000017_VilaViçosa,MuseuArq.doPaçoDucal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vila Viçosa, Museu Arq. do Paço Ducal" .
+
+<http://data.dainst.de/zenon/000000017_Viladonga,Castrode(Lugo)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Viladonga, Castro de (Lugo)" .
+
+<http://data.dainst.de/zenon/000000017_Viladonga,MuseodelCastrode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Viladonga, Museo del Castro de" .
+
+<http://data.dainst.de/zenon/000000017_VilafrancadelPenedès,Museu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vilafranca del Penedès, Museu" .
+
+<http://data.dainst.de/zenon/000000017_VilafrancadelPenedès,MuseudelVi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Vilafranca del Penedès, Museu del Vi" .
+
+<http://data.dainst.de/zenon/000000017_VilladelRío(Córdoba),MuseoHistóricoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Villa del Río (Córdoba), Museo Histórico Municipal" .
+
+<http://data.dainst.de/zenon/000000017_VillafrancadelBierzo,MuseodelosPP.Paules> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Villafranca del Bierzo, Museo de los PP. Paules" .
+
+<http://data.dainst.de/zenon/000000017_Villena,MuseoArqueológico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Villena, Museo Arqueológico" .
+
+<http://data.dainst.de/zenon/000000017_Washington,SmithsonianInstitution> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Washington, Smithsonian Institution" .
+
+<http://data.dainst.de/zenon/000000017_Xàbia,MuseuArqueològiciEtnogràfic"SolerBlasco"> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Xàbia, Museu Arqueològic i Etnogràfic \"Soler Blasco\"" .
+
+<http://data.dainst.de/zenon/000000017_Yecla(Murcia),MuseoArqueológicoMunicipal"CayetanodeMergelina"> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Yecla (Murcia), Museo Arqueológico Municipal \"Cayetano de Mergelina\"" .
+
+<http://data.dainst.de/zenon/000000017_ZalameadelaSerana,CentrodeInterpretacióndeCanchoRoano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Zalamea de la Serana, Centro de Interpretación de Cancho Roano" .
+
+<http://data.dainst.de/zenon/000000017_Zamora,MuseoArqueológicoProvincial> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Zamora, Museo Arqueológico Provincial" .
+
+<http://data.dainst.de/zenon/000000017_Zamora,Museode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Zamora, Museo de" .
+
+<http://data.dainst.de/zenon/000000017_Zaragoza,Museo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Zaragoza, Museo" .
+
+<http://data.dainst.de/zenon/000000017_Écija,MuseoHistóricoMunicipal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000000017> ;
+    skos:prefLabel "Écija, Museo Histórico Municipal" .
+
+<http://data.dainst.de/zenon/000000017> a skos:Concept ;
+    skos:altLabel "Lugares, yacimientos"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000014> ;
+    skos:hiddenLabel "3.01.05.02" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

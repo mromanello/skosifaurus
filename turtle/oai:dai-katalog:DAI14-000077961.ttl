@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077961> a skos:Concept ;
+    skos:altLabel "Beckford"@en,
+        "Beckford"@fr,
+        "Beckford"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077691> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHerefBeckford" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beckford"@de .
+

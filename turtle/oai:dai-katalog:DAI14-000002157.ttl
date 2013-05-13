@@ -1,0 +1,1420 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002157_Quasten,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Quasten, J." .
+
+<http://data.dainst.de/zenon/000002157_Quispel,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Quispel, G." .
+
+<http://data.dainst.de/zenon/000002157_Raddatz,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Raddatz, K." .
+
+<http://data.dainst.de/zenon/000002157_Radke,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Radke, G." .
+
+<http://data.dainst.de/zenon/000002157_Radmilli,A.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Radmilli, A.M." .
+
+<http://data.dainst.de/zenon/000002157_Radnóti-Alföldi,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Radnóti-Alföldi, M." .
+
+<http://data.dainst.de/zenon/000002157_Rahn,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rahn, H." .
+
+<http://data.dainst.de/zenon/000002157_Rahtz,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rahtz, P." .
+
+<http://data.dainst.de/zenon/000002157_RaspiSerra,Joselita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Raspi Serra, Joselita" .
+
+<http://data.dainst.de/zenon/000002157_Raubitschek,A.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Raubitschek, A.E." .
+
+<http://data.dainst.de/zenon/000002157_Recasens,J.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Recasens, J.M." .
+
+<http://data.dainst.de/zenon/000002157_RecioVeganzones,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Recio Veganzones, A." .
+
+<http://data.dainst.de/zenon/000002157_Redford,DonaldB.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Redford, Donald B." .
+
+<http://data.dainst.de/zenon/000002157_Reekmans,L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Reekmans, L." .
+
+<http://data.dainst.de/zenon/000002157_Renard,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Renard, M." .
+
+<http://data.dainst.de/zenon/000002157_Renfrew,C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Renfrew, C." .
+
+<http://data.dainst.de/zenon/000002157_Restle,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Restle, M." .
+
+<http://data.dainst.de/zenon/000002157_Reverdin,O.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Reverdin, O." .
+
+<http://data.dainst.de/zenon/000002157_Rey-Coquais,Jean-Paul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rey-Coquais, Jean-Paul" .
+
+<http://data.dainst.de/zenon/000002157_Reynolds,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Reynolds, J." .
+
+<http://data.dainst.de/zenon/000002157_Ribezzo,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ribezzo, F." .
+
+<http://data.dainst.de/zenon/000002157_Ribuoli,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ribuoli, R." .
+
+<http://data.dainst.de/zenon/000002157_Rice,D.T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rice, D.T." .
+
+<http://data.dainst.de/zenon/000002157_Richardson,H.N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Richardson, H.N." .
+
+<http://data.dainst.de/zenon/000002157_Richardson,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Richardson, P." .
+
+<http://data.dainst.de/zenon/000002157_Richter,H.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Richter, H.A." .
+
+<http://data.dainst.de/zenon/000002157_Ricke,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ricke, H." .
+
+<http://data.dainst.de/zenon/000002157_Rickman,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rickman, G." .
+
+<http://data.dainst.de/zenon/000002157_Ridgway,B.S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ridgway, B.S." .
+
+<http://data.dainst.de/zenon/000002157_Ridgway,David> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ridgway, David" .
+
+<http://data.dainst.de/zenon/000002157_Rieks,Rudolf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rieks, Rudolf" .
+
+<http://data.dainst.de/zenon/000002157_Riis,P.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Riis, P.J." .
+
+<http://data.dainst.de/zenon/000002157_Rilinger,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rilinger, R." .
+
+<http://data.dainst.de/zenon/000002157_Riposati,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Riposati, B." .
+
+<http://data.dainst.de/zenon/000002157_Risch,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Risch, E." .
+
+<http://data.dainst.de/zenon/000002157_RittatoreVonwiller,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rittatore Vonwiller, F." .
+
+<http://data.dainst.de/zenon/000002157_Rix,Helmut> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rix, Helmut" .
+
+<http://data.dainst.de/zenon/000002157_Rizza,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rizza, G." .
+
+<http://data.dainst.de/zenon/000002157_Robert,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Robert, F." .
+
+<http://data.dainst.de/zenon/000002157_Robin,C.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Robin, C.J." .
+
+<http://data.dainst.de/zenon/000002157_Robinson,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Robinson, S." .
+
+<http://data.dainst.de/zenon/000002157_Roca-Puig,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Roca-Puig, R." .
+
+<http://data.dainst.de/zenon/000002157_Roesch,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Roesch, P." .
+
+<http://data.dainst.de/zenon/000002157_Rohde,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rohde, G." .
+
+<http://data.dainst.de/zenon/000002157_Rolle,Renate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rolle, Renate" .
+
+<http://data.dainst.de/zenon/000002157_Romanini,A.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Romanini, A.M." .
+
+<http://data.dainst.de/zenon/000002157_Ronconi,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ronconi, A." .
+
+<http://data.dainst.de/zenon/000002157_Rosenmeyer,ThomasG.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rosenmeyer, Thomas G." .
+
+<http://data.dainst.de/zenon/000002157_RossHolloway,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ross Holloway, R." .
+
+<http://data.dainst.de/zenon/000002157_RossiTaibbi,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rossi Taibbi, G." .
+
+<http://data.dainst.de/zenon/000002157_Rossini,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rossini, G." .
+
+<http://data.dainst.de/zenon/000002157_Rostagni,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rostagni, A." .
+
+<http://data.dainst.de/zenon/000002157_Roth,Helmut> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Roth, Helmut" .
+
+<http://data.dainst.de/zenon/000002157_Rotili,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rotili, M." .
+
+<http://data.dainst.de/zenon/000002157_Roux,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Roux, G." .
+
+<http://data.dainst.de/zenon/000002157_Roxan,M.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Roxan, M.M." .
+
+<http://data.dainst.de/zenon/000002157_Rtveladze,Ė.V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rtveladze, Ė.V." .
+
+<http://data.dainst.de/zenon/000002157_Rubin,Zeev> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rubin, Zeev" .
+
+<http://data.dainst.de/zenon/000002157_Rudhardt,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rudhardt, J." .
+
+<http://data.dainst.de/zenon/000002157_Rufino,AntonioCaballos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rufino, Antonio Caballos" .
+
+<http://data.dainst.de/zenon/000002157_Rutter,JeremyB.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rutter, Jeremy B." .
+
+<http://data.dainst.de/zenon/000002157_Ruysschaert,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ruysschaert, J." .
+
+<http://data.dainst.de/zenon/000002157_Ruzé,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ruzé, F." .
+
+<http://data.dainst.de/zenon/000002157_Rydén,L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Rydén, L." .
+
+<http://data.dainst.de/zenon/000002157_Sachs,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sachs, A." .
+
+<http://data.dainst.de/zenon/000002157_Saidah,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Saidah, R." .
+
+<http://data.dainst.de/zenon/000002157_SainteCroix,G.E.M.de> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sainte Croix, G.E.M. de" .
+
+<http://data.dainst.de/zenon/000002157_Salama,Pierre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Salama, Pierre" .
+
+<http://data.dainst.de/zenon/000002157_Salin,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Salin, E." .
+
+<http://data.dainst.de/zenon/000002157_Salmon,E.T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Salmon, E.T." .
+
+<http://data.dainst.de/zenon/000002157_Salonen,A.I.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Salonen, A.I." .
+
+<http://data.dainst.de/zenon/000002157_Salvatore,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Salvatore, A." .
+
+<http://data.dainst.de/zenon/000002157_Sancisi-Weerdenburg,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sancisi-Weerdenburg, H." .
+
+<http://data.dainst.de/zenon/000002157_Sanders,Gabriel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sanders, Gabriel" .
+
+<http://data.dainst.de/zenon/000002157_Sanfilippo,C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sanfilippo, C." .
+
+<http://data.dainst.de/zenon/000002157_SantaMaria,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Santa Maria, M." .
+
+<http://data.dainst.de/zenon/000002157_Saporetti,C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Saporetti, C." .
+
+<http://data.dainst.de/zenon/000002157_Sarkady,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sarkady, J." .
+
+<http://data.dainst.de/zenon/000002157_Sartori,Franco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sartori, Franco" .
+
+<http://data.dainst.de/zenon/000002157_Sas-Zaloziecky,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sas-Zaloziecky, W." .
+
+<http://data.dainst.de/zenon/000002157_Sauer,J.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sauer, J.A." .
+
+<http://data.dainst.de/zenon/000002157_Sauneron,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sauneron, S." .
+
+<http://data.dainst.de/zenon/000002157_Saxer,V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Saxer, V." .
+
+<http://data.dainst.de/zenon/000002157_Scerrato,U.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Scerrato, U." .
+
+<http://data.dainst.de/zenon/000002157_Schachermeyr,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schachermeyr, F." .
+
+<http://data.dainst.de/zenon/000002157_Schadewaldt,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schadewaldt, W." .
+
+<http://data.dainst.de/zenon/000002157_Schamp,Jacques> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schamp, Jacques" .
+
+<http://data.dainst.de/zenon/000002157_Schaub,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schaub, J." .
+
+<http://data.dainst.de/zenon/000002157_Schauenburg,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schauenburg, K." .
+
+<http://data.dainst.de/zenon/000002157_Schefold,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schefold, K." .
+
+<http://data.dainst.de/zenon/000002157_Schenke,H.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schenke, H.M." .
+
+<http://data.dainst.de/zenon/000002157_Scherer,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Scherer, A." .
+
+<http://data.dainst.de/zenon/000002157_Schiller,A.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schiller, A.A." .
+
+<http://data.dainst.de/zenon/000002157_Schilling,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schilling, R." .
+
+<http://data.dainst.de/zenon/000002157_Schindler,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schindler, W." .
+
+<http://data.dainst.de/zenon/000002157_Schmidt-Colinet,Andreas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schmidt-Colinet, Andreas" .
+
+<http://data.dainst.de/zenon/000002157_Schmitt,H.H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schmitt, H.H." .
+
+<http://data.dainst.de/zenon/000002157_Schmitz,Bettina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schmitz, Bettina" .
+
+<http://data.dainst.de/zenon/000002157_Schneider,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schneider, A." .
+
+<http://data.dainst.de/zenon/000002157_Schnur,H.C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schnur, H.C." .
+
+<http://data.dainst.de/zenon/000002157_Schoder,R.V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schoder, R.V." .
+
+<http://data.dainst.de/zenon/000002157_Scholl,Reinhold> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Scholl, Reinhold" .
+
+<http://data.dainst.de/zenon/000002157_Schott,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schott, S." .
+
+<http://data.dainst.de/zenon/000002157_Schramm,P.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schramm, P.E." .
+
+<http://data.dainst.de/zenon/000002157_Schreckenberg,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schreckenberg, H." .
+
+<http://data.dainst.de/zenon/000002157_Schreiner,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schreiner, P." .
+
+<http://data.dainst.de/zenon/000002157_Schretter,Manfred> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schretter, Manfred" .
+
+<http://data.dainst.de/zenon/000002157_Schuchhardt,W.H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schuchhardt, W.H." .
+
+<http://data.dainst.de/zenon/000002157_Schudt,L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schudt, L." .
+
+<http://data.dainst.de/zenon/000002157_Schwartz,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schwartz, B." .
+
+<http://data.dainst.de/zenon/000002157_Schwarz,Gerda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schwarz, Gerda" .
+
+<http://data.dainst.de/zenon/000002157_Schäfer,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schäfer, J." .
+
+<http://data.dainst.de/zenon/000002157_Schönert-Geiss,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schönert-Geiss, E." .
+
+<http://data.dainst.de/zenon/000002157_Schüle,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Schüle, W." .
+
+<http://data.dainst.de/zenon/000002157_Scott,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Scott, R." .
+
+<http://data.dainst.de/zenon/000002157_Segert,Stanislav> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Segert, Stanislav" .
+
+<http://data.dainst.de/zenon/000002157_Seidl,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Seidl, E." .
+
+<http://data.dainst.de/zenon/000002157_Seidmann,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Seidmann, G." .
+
+<http://data.dainst.de/zenon/000002157_Sellwood,David> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sellwood, David" .
+
+<http://data.dainst.de/zenon/000002157_Senghor,LéopoldSédar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Senghor, Léopold Sédar" .
+
+<http://data.dainst.de/zenon/000002157_Serbat,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Serbat, G." .
+
+<http://data.dainst.de/zenon/000002157_SerraRidgway,FrancescaRomana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Serra Ridgway, Francesca Romana" .
+
+<http://data.dainst.de/zenon/000002157_Seston,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Seston, W." .
+
+<http://data.dainst.de/zenon/000002157_Shaw,J.W> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Shaw, J.W" .
+
+<http://data.dainst.de/zenon/000002157_Shaw,M.C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Shaw, M.C." .
+
+<http://data.dainst.de/zenon/000002157_Shefton,B.B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Shefton, B.B." .
+
+<http://data.dainst.de/zenon/000002157_Sicherl,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sicherl, M." .
+
+<http://data.dainst.de/zenon/000002157_Simon,Erika> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Simon, Erika" .
+
+<http://data.dainst.de/zenon/000002157_Simon,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Simon, M." .
+
+<http://data.dainst.de/zenon/000002157_Simson,O.v.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Simson, O.v." .
+
+<http://data.dainst.de/zenon/000002157_Siret,L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Siret, L." .
+
+<http://data.dainst.de/zenon/000002157_Skjærvø,ProdsOktor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Skjærvø, Prods Oktor" .
+
+<http://data.dainst.de/zenon/000002157_Skutsch,O.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Skutsch, O." .
+
+<http://data.dainst.de/zenon/000002157_Skydsgaard,J.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Skydsgaard, J.E." .
+
+<http://data.dainst.de/zenon/000002157_Slater,W.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Slater, W.J." .
+
+<http://data.dainst.de/zenon/000002157_Smith,H.S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Smith, H.S." .
+
+<http://data.dainst.de/zenon/000002157_Smith,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Smith, M." .
+
+<http://data.dainst.de/zenon/000002157_Smolla,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Smolla, G." .
+
+<http://data.dainst.de/zenon/000002157_Snell,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Snell, B." .
+
+<http://data.dainst.de/zenon/000002157_Soden,W.v.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Soden, W.v." .
+
+<http://data.dainst.de/zenon/000002157_Soproni,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Soproni, S." .
+
+<http://data.dainst.de/zenon/000002157_Soubiran,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Soubiran, J." .
+
+<http://data.dainst.de/zenon/000002157_Spaer,Arnold> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Spaer, Arnold" .
+
+<http://data.dainst.de/zenon/000002157_Spanò,Antonella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Spanò, Antonella" .
+
+<http://data.dainst.de/zenon/000002157_Sparkes,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sparkes, B." .
+
+<http://data.dainst.de/zenon/000002157_Speiser,E.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Speiser, E.A." .
+
+<http://data.dainst.de/zenon/000002157_Speyer,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Speyer, W." .
+
+<http://data.dainst.de/zenon/000002157_Spranger,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Spranger, E." .
+
+<http://data.dainst.de/zenon/000002157_Spruit,J.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Spruit, J.E." .
+
+<http://data.dainst.de/zenon/000002157_Spuler,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Spuler, B." .
+
+<http://data.dainst.de/zenon/000002157_Stadelmann,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stadelmann, R." .
+
+<http://data.dainst.de/zenon/000002157_Stampfli,H.R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stampfli, H.R." .
+
+<http://data.dainst.de/zenon/000002157_Stark,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stark, R." .
+
+<http://data.dainst.de/zenon/000002157_Starr,C.G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Starr, C.G." .
+
+<http://data.dainst.de/zenon/000002157_Steinby,EvaMargareta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Steinby, Eva Margareta" .
+
+<http://data.dainst.de/zenon/000002157_Steinmetz,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Steinmetz, P." .
+
+<http://data.dainst.de/zenon/000002157_Stella,L.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stella, L.A." .
+
+<http://data.dainst.de/zenon/000002157_Stern,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stern, H." .
+
+<http://data.dainst.de/zenon/000002157_Stettler,Michael> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stettler, Michael" .
+
+<http://data.dainst.de/zenon/000002157_Steuer,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Steuer, H." .
+
+<http://data.dainst.de/zenon/000002157_Steve,M.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Steve, M.J." .
+
+<http://data.dainst.de/zenon/000002157_Stevens,C.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stevens, C.E." .
+
+<http://data.dainst.de/zenon/000002157_Stevenson,R.B.K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stevenson, R.B.K." .
+
+<http://data.dainst.de/zenon/000002157_Stibbe,C.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stibbe, C.M." .
+
+<http://data.dainst.de/zenon/000002157_Stier,H.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stier, H.E." .
+
+<http://data.dainst.de/zenon/000002157_Stratos,A.N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stratos, A.N." .
+
+<http://data.dainst.de/zenon/000002157_Straub,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Straub, J." .
+
+<http://data.dainst.de/zenon/000002157_Striker,CecilL.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Striker, Cecil L." .
+
+<http://data.dainst.de/zenon/000002157_Strommenger,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Strommenger, E." .
+
+<http://data.dainst.de/zenon/000002157_Struve,V.V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Struve, V.V." .
+
+<http://data.dainst.de/zenon/000002157_Strycker,E.de> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Strycker, E. de" .
+
+<http://data.dainst.de/zenon/000002157_Stucchi,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stucchi, S." .
+
+<http://data.dainst.de/zenon/000002157_Stuiber,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stuiber, A." .
+
+<http://data.dainst.de/zenon/000002157_Stylow,ArminU.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Stylow, Armin U." .
+
+<http://data.dainst.de/zenon/000002157_SuayMartínez,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Suay Martínez, F." .
+
+<http://data.dainst.de/zenon/000002157_Sundwall,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sundwall, J." .
+
+<http://data.dainst.de/zenon/000002157_Susini,Giancarlo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Susini, Giancarlo" .
+
+<http://data.dainst.de/zenon/000002157_Sutherland,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sutherland, H." .
+
+<http://data.dainst.de/zenon/000002157_Swan,Vivien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Swan, Vivien" .
+
+<http://data.dainst.de/zenon/000002157_Swoboda,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Swoboda, E." .
+
+<http://data.dainst.de/zenon/000002157_Swoboda,K.N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Swoboda, K.N." .
+
+<http://data.dainst.de/zenon/000002157_Säve-Söderbergh,T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Säve-Söderbergh, T." .
+
+<http://data.dainst.de/zenon/000002157_Sühnel,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Sühnel, R." .
+
+<http://data.dainst.de/zenon/000002157_Tackenberg,Kurt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tackenberg, Kurt" .
+
+<http://data.dainst.de/zenon/000002157_Tadmor,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tadmor, H." .
+
+<http://data.dainst.de/zenon/000002157_Taillardat,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Taillardat, J." .
+
+<http://data.dainst.de/zenon/000002157_Tarditi,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tarditi, G." .
+
+<http://data.dainst.de/zenon/000002157_Tatton-Brown,Veronica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tatton-Brown, Veronica" .
+
+<http://data.dainst.de/zenon/000002157_Tawfik,SayedAhmed> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tawfik, Sayed Ahmed" .
+
+<http://data.dainst.de/zenon/000002157_Tejral,Jaroslav> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tejral, Jaroslav" .
+
+<http://data.dainst.de/zenon/000002157_Terzaghi,N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Terzaghi, N." .
+
+<http://data.dainst.de/zenon/000002157_Teržan,Biba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Teržan, Biba" .
+
+<http://data.dainst.de/zenon/000002157_Thelamon,Françoise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thelamon, Françoise" .
+
+<http://data.dainst.de/zenon/000002157_Theochares,D.R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Theochares, D.R." .
+
+<http://data.dainst.de/zenon/000002157_Thiele,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thiele, W." .
+
+<http://data.dainst.de/zenon/000002157_Thierfelder,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thierfelder, A." .
+
+<http://data.dainst.de/zenon/000002157_Thimme,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thimme, J." .
+
+<http://data.dainst.de/zenon/000002157_Thoen,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thoen, H." .
+
+<http://data.dainst.de/zenon/000002157_Thomas,H.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thomas, H.L." .
+
+<http://data.dainst.de/zenon/000002157_Thomas,J.D.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thomas, J.D." .
+
+<http://data.dainst.de/zenon/000002157_Thompson,E.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thompson, E.A." .
+
+<http://data.dainst.de/zenon/000002157_Thompson,H.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thompson, H.A." .
+
+<http://data.dainst.de/zenon/000002157_Thompson,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thompson, M." .
+
+<http://data.dainst.de/zenon/000002157_Thomsen,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thomsen, R." .
+
+<http://data.dainst.de/zenon/000002157_Thomson,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thomson, G." .
+
+<http://data.dainst.de/zenon/000002157_Thraede,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thraede, K." .
+
+<http://data.dainst.de/zenon/000002157_Théodoridès,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Théodoridès, A." .
+
+<http://data.dainst.de/zenon/000002157_Thümmel,H.G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Thümmel, H.G." .
+
+<http://data.dainst.de/zenon/000002157_Tiberi,C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tiberi, C." .
+
+<http://data.dainst.de/zenon/000002157_Tiné,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tiné, S." .
+
+<http://data.dainst.de/zenon/000002157_Tisserant,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tisserant, E." .
+
+<http://data.dainst.de/zenon/000002157_Tite,Michael> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tite, Michael" .
+
+<http://data.dainst.de/zenon/000002157_Tjumenev,A.I.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tjumenev, A.I." .
+
+<http://data.dainst.de/zenon/000002157_Tjäder,J.O.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tjäder, J.O." .
+
+<http://data.dainst.de/zenon/000002157_TocchettiPollini,U.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tocchetti Pollini, U." .
+
+<http://data.dainst.de/zenon/000002157_Tombolani,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tombolani, M." .
+
+<http://data.dainst.de/zenon/000002157_Tomičić,Željko> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tomičić, Željko" .
+
+<http://data.dainst.de/zenon/000002157_Torelli,Mario> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Torelli, Mario" .
+
+<http://data.dainst.de/zenon/000002157_Touratsoglou,Ioannis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Touratsoglou, Ioannis" .
+
+<http://data.dainst.de/zenon/000002157_Tovar,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tovar, A." .
+
+<http://data.dainst.de/zenon/000002157_Toynbee,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Toynbee, J." .
+
+<http://data.dainst.de/zenon/000002157_Traglia,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Traglia, A." .
+
+<http://data.dainst.de/zenon/000002157_Trahman,C.R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Trahman, C.R." .
+
+<http://data.dainst.de/zenon/000002157_TrantamTinh,V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tran tam Tinh, V." .
+
+<http://data.dainst.de/zenon/000002157_Traversari,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Traversari, G." .
+
+<http://data.dainst.de/zenon/000002157_Trell,B.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Trell, B.L." .
+
+<http://data.dainst.de/zenon/000002157_Trendall,A.D.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Trendall, A.D." .
+
+<http://data.dainst.de/zenon/000002157_Trentini,J.B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Trentini, J.B." .
+
+<http://data.dainst.de/zenon/000002157_Treves,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Treves, P." .
+
+<http://data.dainst.de/zenon/000002157_Triantes,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Triantes, S." .
+
+<http://data.dainst.de/zenon/000002157_Trillmich,Walter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Trillmich, Walter" .
+
+<http://data.dainst.de/zenon/000002157_Tréheux,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tréheux, J." .
+
+<http://data.dainst.de/zenon/000002157_Tschiedel,HansJürgen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tschiedel, Hans Jürgen" .
+
+<http://data.dainst.de/zenon/000002157_Tucci,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tucci, G." .
+
+<http://data.dainst.de/zenon/000002157_Tudor,D.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tudor, D." .
+
+<http://data.dainst.de/zenon/000002157_Tufnell,O.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tufnell, O." .
+
+<http://data.dainst.de/zenon/000002157_Turcan,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Turcan, R." .
+
+<http://data.dainst.de/zenon/000002157_Turfa,JeanMacIntosh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Turfa, Jean MacIntosh" .
+
+<http://data.dainst.de/zenon/000002157_Turolla,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Turolla, E." .
+
+<http://data.dainst.de/zenon/000002157_Turyn,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Turyn, A." .
+
+<http://data.dainst.de/zenon/000002157_Tusa,V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tusa, V." .
+
+<http://data.dainst.de/zenon/000002157_Tzachou-Alexandre,O.E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Tzachou-Alexandre, O.E." .
+
+<http://data.dainst.de/zenon/000002157_Ucko,PeterJ.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ucko, Peter J." .
+
+<http://data.dainst.de/zenon/000002157_Ulbert,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ulbert, G." .
+
+<http://data.dainst.de/zenon/000002157_Ulbert,T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ulbert, T." .
+
+<http://data.dainst.de/zenon/000002157_Ullman,B.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ullman, B.L." .
+
+<http://data.dainst.de/zenon/000002157_Unger,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Unger, E." .
+
+<http://data.dainst.de/zenon/000002157_Untermann,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Untermann, J." .
+
+<http://data.dainst.de/zenon/000002157_Untersteiner,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Untersteiner, M." .
+
+<http://data.dainst.de/zenon/000002157_Unverzagt,Wilhelm> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Unverzagt, Wilhelm" .
+
+<http://data.dainst.de/zenon/000002157_Vaklinova,Margarita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vaklinova, Margarita" .
+
+<http://data.dainst.de/zenon/000002157_VandenBerghe,L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vanden Berghe, L." .
+
+<http://data.dainst.de/zenon/000002157_Vanderpool,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vanderpool, E." .
+
+<http://data.dainst.de/zenon/000002157_Varagnac,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Varagnac, A." .
+
+<http://data.dainst.de/zenon/000002157_Vaufrey,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vaufrey, R." .
+
+<http://data.dainst.de/zenon/000002157_Vercoutter,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vercoutter, J." .
+
+<http://data.dainst.de/zenon/000002157_Veremans,JozefRenaatMaria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Veremans, Jozef Renaat Maria" .
+
+<http://data.dainst.de/zenon/000002157_Verlinde,ArieDirk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Verlinde, Arie Dirk" .
+
+<http://data.dainst.de/zenon/000002157_Vermaseren,M.J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vermaseren, M.J." .
+
+<http://data.dainst.de/zenon/000002157_Vermeule,E.T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vermeule, E.T." .
+
+<http://data.dainst.de/zenon/000002157_Versnel,H.S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Versnel, H.S." .
+
+<http://data.dainst.de/zenon/000002157_Verzone,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Verzone, P." .
+
+<http://data.dainst.de/zenon/000002157_Vetters,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vetters, H." .
+
+<http://data.dainst.de/zenon/000002157_Viljamaa,T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Viljamaa, T." .
+
+<http://data.dainst.de/zenon/000002157_Vitale,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vitale, M." .
+
+<http://data.dainst.de/zenon/000002157_Vittinghoff,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vittinghoff, F." .
+
+<http://data.dainst.de/zenon/000002157_Vivan,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vivan, F." .
+
+<http://data.dainst.de/zenon/000002157_Vivarelli,Roberto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vivarelli, Roberto" .
+
+<http://data.dainst.de/zenon/000002157_Vivona,Salvatore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vivona, Salvatore" .
+
+<http://data.dainst.de/zenon/000002157_Vogt,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vogt, E." .
+
+<http://data.dainst.de/zenon/000002157_Vokotopoulou,I.P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vokotopoulou, I.P." .
+
+<http://data.dainst.de/zenon/000002157_Volbach,W.F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Volbach, W.F." .
+
+<http://data.dainst.de/zenon/000002157_Vollenweider,M.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vollenweider, M.L." .
+
+<http://data.dainst.de/zenon/000002157_Volterra,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Volterra, E." .
+
+<http://data.dainst.de/zenon/000002157_Vourveres,K.I.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vourveres, K.I." .
+
+<http://data.dainst.de/zenon/000002157_Vretska,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Vretska, K." .
+
+<http://data.dainst.de/zenon/000002157_Wacher,J.S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wacher, J.S." .
+
+<http://data.dainst.de/zenon/000002157_Waele,J.de> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Waele, J. de" .
+
+<http://data.dainst.de/zenon/000002157_Waggoner,N.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Waggoner, N.M." .
+
+<http://data.dainst.de/zenon/000002157_Wagner,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wagner, F." .
+
+<http://data.dainst.de/zenon/000002157_Wal,N.vander> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wal, N. van der" .
+
+<http://data.dainst.de/zenon/000002157_Waldstein,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Waldstein, W." .
+
+<http://data.dainst.de/zenon/000002157_Walser,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Walser, G." .
+
+<http://data.dainst.de/zenon/000002157_Warren,Peter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Warren, Peter" .
+
+<http://data.dainst.de/zenon/000002157_Wasmuth,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wasmuth, G." .
+
+<http://data.dainst.de/zenon/000002157_Waywell,Geoffrey> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Waywell, Geoffrey" .
+
+<http://data.dainst.de/zenon/000002157_Weber,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Weber, E." .
+
+<http://data.dainst.de/zenon/000002157_Webster,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Webster, G." .
+
+<http://data.dainst.de/zenon/000002157_Webster,T.B.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Webster, T.B.L." .
+
+<http://data.dainst.de/zenon/000002157_Wegner,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wegner, M." .
+
+<http://data.dainst.de/zenon/000002157_Weiler,Ingomar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Weiler, Ingomar" .
+
+<http://data.dainst.de/zenon/000002157_Weische,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Weische, A." .
+
+<http://data.dainst.de/zenon/000002157_Weisgerber,Gerd> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Weisgerber, Gerd" .
+
+<http://data.dainst.de/zenon/000002157_Weitzmann,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Weitzmann, K." .
+
+<http://data.dainst.de/zenon/000002157_Welles,C.B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Welles, C.B." .
+
+<http://data.dainst.de/zenon/000002157_Welwei,K.W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Welwei, K.W." .
+
+<http://data.dainst.de/zenon/000002157_Werner,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Werner, J." .
+
+<http://data.dainst.de/zenon/000002157_Werner,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Werner, R." .
+
+<http://data.dainst.de/zenon/000002157_Wesenberg,Burkhardt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wesenberg, Burkhardt" .
+
+<http://data.dainst.de/zenon/000002157_Wessel,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wessel, K." .
+
+<http://data.dainst.de/zenon/000002157_Wessetzky,V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wessetzky, V." .
+
+<http://data.dainst.de/zenon/000002157_Westendorf,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Westendorf, W." .
+
+<http://data.dainst.de/zenon/000002157_Westerink,L.G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Westerink, L.G." .
+
+<http://data.dainst.de/zenon/000002157_Westermark,U.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Westermark, U." .
+
+<http://data.dainst.de/zenon/000002157_Wheeler,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wheeler, M." .
+
+<http://data.dainst.de/zenon/000002157_Widengren,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Widengren, G." .
+
+<http://data.dainst.de/zenon/000002157_Wieacker,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wieacker, F." .
+
+<http://data.dainst.de/zenon/000002157_Wiegartz,H.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wiegartz, H." .
+
+<http://data.dainst.de/zenon/000002157_Wiegels,R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wiegels, R." .
+
+<http://data.dainst.de/zenon/000002157_Wilhelm,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wilhelm, A." .
+
+<http://data.dainst.de/zenon/000002157_Wili,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wili, W." .
+
+<http://data.dainst.de/zenon/000002157_Will,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Will, W." .
+
+<http://data.dainst.de/zenon/000002157_Willoughby,H.R.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Willoughby, H.R." .
+
+<http://data.dainst.de/zenon/000002157_Wilson,J.A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wilson, J.A." .
+
+<http://data.dainst.de/zenon/000002157_Wilson,R.M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wilson, R.M." .
+
+<http://data.dainst.de/zenon/000002157_Winkel,Harald> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Winkel, Harald" .
+
+<http://data.dainst.de/zenon/000002157_Winkler,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Winkler, G." .
+
+<http://data.dainst.de/zenon/000002157_Winnett,F.V.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Winnett, F.V." .
+
+<http://data.dainst.de/zenon/000002157_Winter,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Winter, A." .
+
+<http://data.dainst.de/zenon/000002157_Winter,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Winter, E." .
+
+<http://data.dainst.de/zenon/000002157_Wirth,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wirth, G." .
+
+<http://data.dainst.de/zenon/000002157_Wiseman,T.P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wiseman, T.P." .
+
+<http://data.dainst.de/zenon/000002157_WolffMetternich,F.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wolff Metternich, F." .
+
+<http://data.dainst.de/zenon/000002157_Wolski,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wolski, J." .
+
+<http://data.dainst.de/zenon/000002157_Woude,A.S.vander> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Woude, A.S. van der" .
+
+<http://data.dainst.de/zenon/000002157_Woźniak,Zenon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Woźniak, Zenon" .
+
+<http://data.dainst.de/zenon/000002157_Wuilleumier,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wuilleumier, P." .
+
+<http://data.dainst.de/zenon/000002157_Wyss,B.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wyss, B." .
+
+<http://data.dainst.de/zenon/000002157_Wöhrle,G.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Wöhrle, G." .
+
+<http://data.dainst.de/zenon/000002157_Yarshater,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yarshater, E." .
+
+<http://data.dainst.de/zenon/000002157_Yavetz,Z.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yavetz, Z." .
+
+<http://data.dainst.de/zenon/000002157_Yaylalı,Abdullah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yaylalı, Abdullah" .
+
+<http://data.dainst.de/zenon/000002157_Yeivin,S.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yeivin, S." .
+
+<http://data.dainst.de/zenon/000002157_YeloTemplado,A.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yelo Templado, A." .
+
+<http://data.dainst.de/zenon/000002157_Yon,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Yon, M." .
+
+<http://data.dainst.de/zenon/000002157_Youtie,H.C.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Youtie, H.C." .
+
+<http://data.dainst.de/zenon/000002157_Zadoks-JosephusJitta,A.N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zadoks-Josephus Jitta, A.N." .
+
+<http://data.dainst.de/zenon/000002157_Zambelli,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zambelli, M." .
+
+<http://data.dainst.de/zenon/000002157_Zampetti,P.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zampetti, P." .
+
+<http://data.dainst.de/zenon/000002157_Zandee,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zandee, J." .
+
+<http://data.dainst.de/zenon/000002157_Zanker,Paul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zanker, Paul" .
+
+<http://data.dainst.de/zenon/000002157_Zapheiropoulos,N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zapheiropoulos, N." .
+
+<http://data.dainst.de/zenon/000002157_Zawadzki,T.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zawadzki, T." .
+
+<http://data.dainst.de/zenon/000002157_Zeitlin,Froma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zeitlin, Froma" .
+
+<http://data.dainst.de/zenon/000002157_Zinn,E.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zinn, E." .
+
+<http://data.dainst.de/zenon/000002157_Zovatto,P.L.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zovatto, P.L." .
+
+<http://data.dainst.de/zenon/000002157_Zschietzschmann,W.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zschietzschmann, W." .
+
+<http://data.dainst.de/zenon/000002157_Zuffa,M.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Zuffa, M." .
+
+<http://data.dainst.de/zenon/000002157_Śliwa,J.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Śliwa, J." .
+
+<http://data.dainst.de/zenon/000002157_Ševčenko,I.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ševčenko, I." .
+
+<http://data.dainst.de/zenon/000002157_Škorpil,K.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Škorpil, K." .
+
+<http://data.dainst.de/zenon/000002157_Ščeglov,A.N.> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002157> ;
+    skos:prefLabel "Ščeglov, A.N." .
+
+<http://data.dainst.de/zenon/000002157> a skos:Concept ;
+    skos:altLabel "mélanges en hommage Q-Z"@fr,
+        "scritti in onore Q-Z"@it,
+        "studies in honour of ...Q-Z"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002150> ;
+    skos:hiddenLabel "xSlbdFestschrQ-Z" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Festschriften Q-Z"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036520> a skos:Concept ;
+    skos:altLabel "Łódź 2002"@en,
+        "Łódź 2002"@fr,
+        "Łódź 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrŁódź 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Łódź 2002"@de .
+

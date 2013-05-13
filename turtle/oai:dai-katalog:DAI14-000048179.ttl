@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048179> a skos:Concept ;
+    skos:altLabel "Stockton-on-Tees"@en,
+        "Stockton-on-Tees"@fr,
+        "Stockton-on-Tees"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksStockton-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockton-on-Tees"@de .
+

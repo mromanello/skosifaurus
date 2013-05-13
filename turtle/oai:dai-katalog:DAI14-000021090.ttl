@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021090> a skos:Concept ;
+    skos:altLabel "Allectus <Römisches Reich, Kaiser, Gegenkaiser>"@en,
+        "Allectus <Römisches Reich, Kaiser, Gegenkaiser>"@fr,
+        "Allectus <Römisches Reich, Kaiser, Gegenkaiser>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAllectus <Römisches Reich, Kaiser, Gegenkaiser>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Allectus <Römisches Reich, Kaiser, Gegenkaiser>"@de .
+

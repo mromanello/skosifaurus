@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060085> a skos:Concept ;
+    skos:altLabel "Żdżarów"@en,
+        "Żdżarów"@fr,
+        "Żdżarów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkŻdżarów" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Żdżarów"@de .
+

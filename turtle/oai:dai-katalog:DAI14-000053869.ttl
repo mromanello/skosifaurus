@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053869> a skos:Concept ;
+    skos:altLabel "Knesebeck, Gde. Wittingen"@en,
+        "Knesebeck, Gde. Wittingen"@fr,
+        "Knesebeck, Gde. Wittingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075557> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGifhoKnesebeck" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Knesebeck, Gde. Wittingen"@de .
+

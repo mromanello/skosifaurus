@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034556> a skos:Concept ;
+    skos:altLabel "Nauk, Instytut Archeologii i Etnologii Polskiej"@en,
+        "Nauk, Instytut Archeologii i Etnologii Polskiej"@fr,
+        "Nauk, Instytut Archeologii i Etnologii Polskiej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiNauk, Instytut Archeologii i Etnologii Polskiej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nauk, Instytut Archeologii i Etnologii Polskiej"@de .
+

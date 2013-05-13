@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006443> a skos:Concept ;
+    skos:altLabel "Hartel, Guilelmo de"@en,
+        "Hartel, Guilelmo de"@fr,
+        "Hartel, Guilelmo de"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHartel, Guilelmo de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hartel, Guilelmo de"@de .
+

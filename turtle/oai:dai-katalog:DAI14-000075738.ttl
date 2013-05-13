@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075738> a skos:Concept ;
+    skos:altLabel "Seini, jud. Maramureş"@en,
+        "Seini, jud. Maramureş"@fr,
+        "Seini, jud. Maramureş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSeini, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seini, jud. Maramureş"@de .
+

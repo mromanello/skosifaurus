@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076179> a skos:Concept ;
+    skos:altLabel "Suchynia"@en,
+        "Suchynia"@fr,
+        "Suchynia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelSuchynia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Suchynia"@de .
+

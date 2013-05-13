@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010609> a skos:Concept ;
+    skos:altLabel "Marburg, Philipps-Universität"@en,
+        "Marburg, Philipps-Universität"@fr,
+        "Marburg, Philipps-Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiMarburg, Philipps-Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marburg, Philipps-Universität"@de .
+

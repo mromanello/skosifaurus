@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037800> a skos:Concept ;
+    skos:altLabel "Traunstein 1990"@en,
+        "Traunstein 1990"@fr,
+        "Traunstein 1990"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrTraunstein 1990" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Traunstein 1990"@de .
+

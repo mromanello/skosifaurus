@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004789> a skos:Concept ;
+    skos:altLabel "esperienze individuali (1956 - 1997)"@it,
+        "expériences individuelles (1956 - 1997)"@fr,
+        "individual experiences (1956 - 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004780> ;
+    skos:hiddenLabel "xÄgAntIndivid" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "individuelles Erleben (1956 - 1997)"@de .
+

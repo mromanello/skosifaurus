@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021738> a skos:Concept ;
+    skos:altLabel "Peçevi, Ibrahim"@en,
+        "Peçevi, Ibrahim"@fr,
+        "Peçevi, Ibrahim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPeçevi, Ibrahim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Peçevi, Ibrahim"@de .
+

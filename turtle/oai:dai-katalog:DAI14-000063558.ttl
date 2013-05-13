@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063558> a skos:Concept ;
+    skos:altLabel "Hraběšín, okr. Kutná Hora"@en,
+        "Hraběšín, okr. Kutná Hora"@fr,
+        "Hraběšín, okr. Kutná Hora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHraběšín," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hraběšín, okr. Kutná Hora"@de .
+

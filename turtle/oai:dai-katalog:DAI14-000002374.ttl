@@ -1,0 +1,32 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002374_AlHajar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002374> ;
+    skos:prefLabel "Al Hajar" .
+
+<http://data.dainst.de/zenon/000002374_Bahrain> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002374> ;
+    skos:prefLabel "Bahrain" .
+
+<http://data.dainst.de/zenon/000002374_Oman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002374> ;
+    skos:prefLabel "Oman" .
+
+<http://data.dainst.de/zenon/000002374_Tihama> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002374> ;
+    skos:prefLabel "Tihama" .
+
+<http://data.dainst.de/zenon/000002374_Yemen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002374> ;
+    skos:prefLabel "Yemen" .
+
+<http://data.dainst.de/zenon/000002374> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002373> ;
+    skos:hiddenLabel "xTopLandArabGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065027> a skos:Concept ;
+    skos:altLabel "Zalakomár"@en,
+        "Zalakomár"@fr,
+        "Zalakomár"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaZalakomár" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zalakomár"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060051> a skos:Concept ;
+    skos:altLabel "Sulejów-Piaski"@en,
+        "Sulejów-Piaski"@fr,
+        "Sulejów-Piaski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkSulejów-P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sulejów-Piaski"@de .
+

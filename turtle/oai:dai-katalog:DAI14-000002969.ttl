@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002969> a skos:Concept ;
+    skos:altLabel "discobole et discophore"@fr,
+        "discobolo e discophoro"@it,
+        "discobolus and discophorus"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002953> ;
+    skos:hiddenLabel "xPlastRundplStDisko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Diskobol und Diskophor"@de .
+

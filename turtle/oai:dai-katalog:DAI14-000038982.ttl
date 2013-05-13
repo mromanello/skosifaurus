@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038982> a skos:Concept ;
+    skos:altLabel "Plön"@en,
+        "Plön"@fr,
+        "Plön"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038972> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchlePlön" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plön"@de .
+

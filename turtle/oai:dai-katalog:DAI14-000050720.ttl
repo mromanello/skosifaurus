@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050720> a skos:Concept ;
+    skos:altLabel "Burladingen"@en,
+        "Burladingen"@fr,
+        "Burladingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075368> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenZolleBurlading" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burladingen"@de .
+

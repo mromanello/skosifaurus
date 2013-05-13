@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072357> a skos:Concept ;
+    skos:altLabel "Aidone"@en,
+        "Aidone"@fr,
+        "Aidone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039263> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilEnnaAidone" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aidone"@de .
+

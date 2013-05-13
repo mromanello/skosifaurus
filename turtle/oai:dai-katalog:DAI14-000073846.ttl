@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073846> a skos:Concept ;
+    skos:altLabel "Carambolo, Camas"@en,
+        "Carambolo, Camas"@fr,
+        "Carambolo, Camas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039358> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalSevilCarambolo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carambolo, Camas"@de .
+

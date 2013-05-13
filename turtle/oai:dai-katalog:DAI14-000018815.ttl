@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018815> a skos:Concept ;
+    skos:altLabel "Ecclesiastical history and history of religious orders"@en,
+        "Histoire de l'église"@fr,
+        "Historia Kosciola i zakonów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018809> ;
+    skos:hiddenLabel "yRGKArch12 - GeschKirch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kirchen- und Ordensgeschichte"@de .
+

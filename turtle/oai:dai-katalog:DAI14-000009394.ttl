@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009394> a skos:Concept ;
+    skos:altLabel "Norberg-Schulz, Christian"@en,
+        "Norberg-Schulz, Christian"@fr,
+        "Norberg-Schulz, Christian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNorberg-Schulz, Christian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Norberg-Schulz, Christian"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030295> a skos:Concept ;
+    skos:altLabel "Passau, Sammlung Thun"@en,
+        "Passau, Sammlung Thun"@fr,
+        "Passau, Sammlung Thun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPassau, Sammlung Thun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Passau, Sammlung Thun"@de .
+

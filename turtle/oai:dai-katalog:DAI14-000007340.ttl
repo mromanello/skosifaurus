@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007340> a skos:Concept ;
+    skos:altLabel "Gatto, Ludovico"@en,
+        "Gatto, Ludovico"@fr,
+        "Gatto, Ludovico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsGatto, Ludovico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gatto, Ludovico"@de .
+

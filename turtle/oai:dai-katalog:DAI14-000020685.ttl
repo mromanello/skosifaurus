@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020685> a skos:Concept ;
+    skos:altLabel "Rhein-Weser-germanische Kultur"@en,
+        "Rhein-Weser-germanische Kultur"@fr,
+        "Rhein-Weser-germanische Kultur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Rhein-Weser-germanische Kultur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rhein-Weser-germanische Kultur"@de .
+

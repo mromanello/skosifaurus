@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050591> a skos:Concept ;
+    skos:altLabel "Rot am See-Hausen am Bach"@en,
+        "Rot am See-Hausen am Bach"@fr,
+        "Rot am See-Hausen am Bach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075361> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenSchwäRot am Se" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rot am See-Hausen am Bach"@de .
+

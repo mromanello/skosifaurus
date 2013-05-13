@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048891> a skos:Concept ;
+    skos:altLabel "Kebister, Shetland"@en,
+        "Kebister, Shetland"@fr,
+        "Kebister, Shetland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078653> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotShetlKebister," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kebister, Shetland"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062159> a skos:Concept ;
+    skos:altLabel "Mels-Castels"@en,
+        "Mels-Castels"@fr,
+        "Mels-Castels"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039048> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweSt. GMels-Cast" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mels-Castels"@de .
+

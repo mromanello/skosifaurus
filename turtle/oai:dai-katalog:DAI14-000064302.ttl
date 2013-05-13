@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064302> a skos:Concept ;
+    skos:altLabel "Brtnice, okr. Jihlava"@en,
+        "Brtnice, okr. Jihlava"@fr,
+        "Brtnice, okr. Jihlava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravBrtnice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brtnice, okr. Jihlava"@de .
+

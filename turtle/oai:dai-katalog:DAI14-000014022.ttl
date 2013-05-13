@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014022> a skos:Concept ;
+    skos:altLabel "Fibule a navicella"@pl,
+        "Fibules a navicella"@fr,
+        "Navicella fibula"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014018> ;
+    skos:hiddenLabel "yRGKArch07 - FundeKleidFibelKahnf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kahnfibeln"@de .
+

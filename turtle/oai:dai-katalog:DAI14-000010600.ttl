@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010600> a skos:Concept ;
+    skos:altLabel "Łódź, Muzeum Archeologiczne i Etnograficzne"@en,
+        "Łódź, Muzeum Archeologiczne i Etnograficzne"@fr,
+        "Łódź, Muzeum Archeologiczne i Etnograficzne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiŁódź, Muzeum Archeologiczne i Etnograficzne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Łódź, Muzeum Archeologiczne i Etnograficzne"@de .
+

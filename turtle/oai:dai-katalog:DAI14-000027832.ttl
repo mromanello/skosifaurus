@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027832> a skos:Concept ;
+    skos:altLabel "Cairo, Ägyptisches Museum"@en,
+        "Cairo, Ägyptisches Museum"@fr,
+        "Cairo, Ägyptisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCairo, Ägyptisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cairo, Ägyptisches Museum"@de .
+

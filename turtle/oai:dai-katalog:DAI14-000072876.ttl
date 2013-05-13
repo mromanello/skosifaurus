@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072876> a skos:Concept ;
+    skos:altLabel "Alfarrobeira (S. Bartolomeu de Messines)"@en,
+        "Alfarrobeira (S. Bartolomeu de Messines)"@fr,
+        "Alfarrobeira (S. Bartolomeu de Messines)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039296> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuFaroAlfarrobe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alfarrobeira (S. Bartolomeu de Messines)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056905> a skos:Concept ;
+    skos:altLabel "Kosackenberg, Bad Frankenhausen"@en,
+        "Kosackenberg, Bad Frankenhausen"@fr,
+        "Kosackenberg, Bad Frankenhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075608> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriKyffhKosackenb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kosackenberg, Bad Frankenhausen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044447> a skos:Concept ;
+    skos:altLabel "Dijonnais"@en,
+        "Dijonnais"@fr,
+        "Dijonnais"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038782> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgZZ--RDijonnais" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dijonnais"@de .
+

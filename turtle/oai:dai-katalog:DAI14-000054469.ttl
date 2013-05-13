@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054469> a skos:Concept ;
+    skos:altLabel "Fallersleben"@en,
+        "Fallersleben"@fr,
+        "Fallersleben"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075587> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWolfsFallersle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fallersleben"@de .
+

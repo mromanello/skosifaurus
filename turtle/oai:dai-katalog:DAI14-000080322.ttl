@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080322> a skos:Concept ;
+    skos:altLabel "Batilly-en-Gâtinais"@en,
+        "Batilly-en-Gâtinais"@fr,
+        "Batilly-en-Gâtinais"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038765> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoireBatilly-e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Batilly-en-Gâtinais"@de .
+

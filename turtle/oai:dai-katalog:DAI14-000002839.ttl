@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002839> a skos:Concept ;
+    skos:altLabel "ateliers et boutiques"@fr,
+        "botteghe ed officine"@it,
+        "industrial buildings and shops"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002808> ;
+    skos:hiddenLabel "xArchitBauGewerb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gewerbebauten"@de .
+

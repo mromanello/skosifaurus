@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075280> a skos:Concept ;
+    skos:altLabel "Wangen-Rembrechts"@en,
+        "Wangen-Rembrechts"@fr,
+        "Wangen-Rembrechts"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075355> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRavenWangen-Re" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wangen-Rembrechts"@de .
+

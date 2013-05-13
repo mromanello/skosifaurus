@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054314> a skos:Concept ;
+    skos:altLabel "Salzgitter-Fredenberg"@en,
+        "Salzgitter-Fredenberg"@fr,
+        "Salzgitter-Fredenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075555> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeSalzgSalzgitte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salzgitter-Fredenberg"@de .
+

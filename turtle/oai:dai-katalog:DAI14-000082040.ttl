@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082040> a skos:Concept ;
+    skos:altLabel "Bajo Aragón"@en,
+        "Bajo Aragón"@fr,
+        "Bajo Aragón"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039317> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóTerueBajo Arag" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bajo Aragón"@de .
+

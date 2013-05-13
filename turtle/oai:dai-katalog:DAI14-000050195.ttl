@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050195> a skos:Concept ;
+    skos:altLabel "Schwaigern-Stetten a.H."@en,
+        "Schwaigern-Stetten a.H."@fr,
+        "Schwaigern-Stetten a.H."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075342> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeilbSchwaiger" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwaigern-Stetten a.H."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069738> a skos:Concept ;
+    skos:altLabel "Andevenno di Castione"@en,
+        "Andevenno di Castione"@fr,
+        "Andevenno di Castione"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039154> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaSondrAndevenno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Andevenno di Castione"@de .
+

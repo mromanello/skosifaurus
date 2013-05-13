@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019032> a skos:Concept ;
+    skos:altLabel "Manieryzm"@pl,
+        "Maniérisme"@fr,
+        "Mannerism"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019030> ;
+    skos:hiddenLabel "yRGKArch13 - GeselKunstStilManie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Manierismus"@de .
+

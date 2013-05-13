@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072701> a skos:Concept ;
+    skos:altLabel "Picoto da Muralha Grande (Valpaços)"@en,
+        "Picoto da Muralha Grande (Valpaços)"@fr,
+        "Picoto da Muralha Grande (Valpaços)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039282> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuVila Picoto da" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Picoto da Muralha Grande (Valpaços)"@de .
+

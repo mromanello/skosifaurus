@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027610> a skos:Concept ;
+    skos:altLabel "Attimis, Museo della Terra dei Nove Castelli"@en,
+        "Attimis, Museo della Terra dei Nove Castelli"@fr,
+        "Attimis, Museo della Terra dei Nove Castelli"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAttimis, Museo della Terra dei Nove Castelli" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Attimis, Museo della Terra dei Nove Castelli"@de .
+

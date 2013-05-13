@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051076> a skos:Concept ;
+    skos:altLabel "Mertingen-Burghöfe"@en,
+        "Mertingen-Burghöfe"@fr,
+        "Mertingen-Burghöfe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075398> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDonauMertingen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mertingen-Burghöfe"@de .
+

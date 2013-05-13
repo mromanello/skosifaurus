@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044469> a skos:Concept ;
+    skos:altLabel "Sénonais"@en,
+        "Sénonais"@fr,
+        "Sénonais"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038782> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgZZ--RSénonais" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sénonais"@de .
+

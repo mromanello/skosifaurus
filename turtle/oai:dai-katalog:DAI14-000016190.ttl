@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016190> a skos:Concept ;
+    skos:altLabel "Blown glass"@en,
+        "Souffler de vetro"@fr,
+        "Wydmuchiwanie szkla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016187> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwProduHerstGlasb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glasblasen"@de .
+

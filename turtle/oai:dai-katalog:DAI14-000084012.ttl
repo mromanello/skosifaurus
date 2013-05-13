@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084012> a skos:Concept ;
+    skos:altLabel "Montfaucon"@en,
+        "Montfaucon"@fr,
+        "Montfaucon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038775> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgDoubsMontfauco" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montfaucon"@de .
+

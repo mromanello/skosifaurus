@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012448> a skos:Concept ;
+    skos:altLabel "Gümpell, Jean (1868-1914)"@en,
+        "Gümpell, Jean (1868-1914)"@fr,
+        "Gümpell, Jean (1868-1914)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGümpell, Jean (1868-1914)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gümpell, Jean (1868-1914)"@de .
+

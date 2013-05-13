@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006086> a skos:Concept ;
+    skos:altLabel "Bellido, García"@en,
+        "Bellido, García"@fr,
+        "Bellido, García"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBellido, García" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bellido, García"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029167> a skos:Concept ;
+    skos:altLabel "Ulm, Museum der Brotkultur"@en,
+        "Ulm, Museum der Brotkultur"@fr,
+        "Ulm, Museum der Brotkultur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuUlm, Museum der Brotkultur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ulm, Museum der Brotkultur"@de .
+

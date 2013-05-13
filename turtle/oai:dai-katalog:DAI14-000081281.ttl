@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081281> a skos:Concept ;
+    skos:altLabel "Místo, okr. Chomutov"@en,
+        "Místo, okr. Chomutov"@fr,
+        "Místo, okr. Chomutov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyMísto, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Místo, okr. Chomutov"@de .
+

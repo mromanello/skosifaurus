@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011595> a skos:Concept ;
+    skos:altLabel "Moskau, Moskovskij literaturno-hudožestvennyj kružok"@en,
+        "Moskau, Moskovskij literaturno-hudožestvennyj kružok"@fr,
+        "Moskau, Moskovskij literaturno-hudožestvennyj kružok"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiMoskau, Moskovskij literaturno-hudožestvennyj kružok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moskau, Moskovskij literaturno-hudožestvennyj kružok"@de .
+

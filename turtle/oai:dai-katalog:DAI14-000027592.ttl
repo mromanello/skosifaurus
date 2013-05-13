@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027592> a skos:Concept ;
+    skos:altLabel "Aschaffenburg, Stiftsmuseum"@en,
+        "Aschaffenburg, Stiftsmuseum"@fr,
+        "Aschaffenburg, Stiftsmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAschaffenburg, Stiftsmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aschaffenburg, Stiftsmuseum"@de .
+

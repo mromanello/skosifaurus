@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019713> a skos:Concept ;
+    skos:altLabel "Entomologia"@pl,
+        "Entomologie"@fr,
+        "Entomology"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019688> ;
+    skos:hiddenLabel "yRGKNaturPaläoEntom" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Entomologie"@de .
+

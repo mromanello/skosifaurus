@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031994> a skos:Concept ;
+    skos:altLabel "Vatin, Claude"@en,
+        "Vatin, Claude"@fr,
+        "Vatin, Claude"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliVatin, Claude" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vatin, Claude"@de .
+

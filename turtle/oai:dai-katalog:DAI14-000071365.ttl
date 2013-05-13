@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071365> a skos:Concept ;
+    skos:altLabel "Tolentino"@en,
+        "Tolentino"@fr,
+        "Tolentino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039219> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchMacerTolentino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tolentino"@de .
+

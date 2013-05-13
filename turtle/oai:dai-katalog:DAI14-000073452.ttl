@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073452> a skos:Concept ;
+    skos:altLabel "Jarama"@en,
+        "Jarama"@fr,
+        "Jarama"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039337> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMadriJarama" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jarama"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058812> a skos:Concept ;
+    skos:altLabel "Dzierżęcin"@en,
+        "Dzierżęcin"@fr,
+        "Dzierżęcin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039007> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZachoDzierżęci" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dzierżęcin"@de .
+

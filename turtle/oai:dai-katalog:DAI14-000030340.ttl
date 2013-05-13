@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030340> a skos:Concept ;
+    skos:altLabel "Rivers, Pitt"@en,
+        "Rivers, Pitt"@fr,
+        "Rivers, Pitt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaRivers, Pitt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rivers, Pitt"@de .
+

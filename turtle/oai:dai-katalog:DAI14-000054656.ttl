@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054656> a skos:Concept ;
+    skos:altLabel "Inden-Pier"@en,
+        "Inden-Pier"@fr,
+        "Inden-Pier"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075632> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrDürenInden-Pie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Inden-Pier"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042344> a skos:Concept ;
+    skos:altLabel "Auxi-le-Château"@en,
+        "Auxi-le-Château"@fr,
+        "Auxi-le-Château"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038731> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dPas-dAuxi-le-C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Auxi-le-Château"@de .
+

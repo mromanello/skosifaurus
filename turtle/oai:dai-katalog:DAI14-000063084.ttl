@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063084> a skos:Concept ;
+    skos:altLabel "Breżec"@en,
+        "Breżec"@fr,
+        "Breżec"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039063> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweBreżec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Breżec"@de .
+

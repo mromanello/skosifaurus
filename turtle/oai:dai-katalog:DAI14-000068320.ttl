@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068320> a skos:Concept ;
+    skos:altLabel "Novi Sad"@en,
+        "Novi Sad"@fr,
+        "Novi Sad"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiNovi Sad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Novi Sad"@de .
+

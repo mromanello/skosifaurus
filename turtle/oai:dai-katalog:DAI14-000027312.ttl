@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027312> a skos:Concept ;
+    skos:altLabel "Tittmoning 1997"@en,
+        "Tittmoning 1997"@fr,
+        "Tittmoning 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstTittmoning 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tittmoning 1997"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073931> a skos:Concept ;
+    skos:altLabel "Ca Na Costa"@en,
+        "Ca Na Costa"@fr,
+        "Ca Na Costa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039363> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniIslasIbizaCa Na Cos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ca Na Costa"@de .
+

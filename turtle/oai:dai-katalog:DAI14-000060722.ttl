@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060722> a skos:Concept ;
+    skos:altLabel "Bielsko-Biała"@en,
+        "Bielsko-Biała"@fr,
+        "Bielsko-Biała"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039026> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskSlaskBielsko-B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bielsko-Biała"@de .
+

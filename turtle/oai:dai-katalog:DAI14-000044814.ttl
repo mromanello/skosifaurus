@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044814> a skos:Concept ;
+    skos:altLabel "Saint-Maurice-de-Gourdan"@en,
+        "Saint-Maurice-de-Gourdan"@fr,
+        "Saint-Maurice-de-Gourdan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038796> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAinSaint-Mau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Maurice-de-Gourdan"@de .
+

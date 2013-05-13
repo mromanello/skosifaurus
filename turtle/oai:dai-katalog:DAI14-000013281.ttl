@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013281> a skos:Concept ;
+    skos:altLabel "Legumes"@fr,
+        "Rosliny straczkowe/warzywa"@pl,
+        "Vegetables"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013279> ;
+    skos:hiddenLabel "yRGKArch05 - WirtsSubsiBodenKultuHülse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hülsenfrüchte/Gemüse"@de .
+

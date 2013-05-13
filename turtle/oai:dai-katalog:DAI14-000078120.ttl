@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078120> a skos:Concept ;
+    skos:altLabel "Strzelce Opolskie"@en,
+        "Strzelce Opolskie"@fr,
+        "Strzelce Opolskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsStrzelce" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strzelce Opolskie"@de .
+

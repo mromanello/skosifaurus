@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010923> a skos:Concept ;
+    skos:altLabel "Stothard, Charles"@en,
+        "Stothard, Charles"@fr,
+        "Stothard, Charles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoStothard, Charles" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stothard, Charles"@de .
+

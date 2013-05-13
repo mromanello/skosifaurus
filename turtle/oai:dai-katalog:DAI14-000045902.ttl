@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045902> a skos:Concept ;
+    skos:altLabel "Grotte de Cougnac"@en,
+        "Grotte de Cougnac"@fr,
+        "Grotte de Cougnac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038819> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLotGrotte de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotte de Cougnac"@de .
+

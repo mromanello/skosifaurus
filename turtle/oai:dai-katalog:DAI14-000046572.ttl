@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046572> a skos:Concept ;
+    skos:altLabel "Fiumorbu"@en,
+        "Fiumorbu"@fr,
+        "Fiumorbu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038836> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankCorseZZ--RFiumorbu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fiumorbu"@de .
+

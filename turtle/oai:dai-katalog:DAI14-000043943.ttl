@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043943> a skos:Concept ;
+    skos:altLabel "Archipel de Bréhat"@en,
+        "Archipel de Bréhat"@fr,
+        "Archipel de Bréhat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RArchipel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Archipel de Bréhat"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029891> a skos:Concept ;
+    skos:altLabel "Arnal, Jean"@en,
+        "Arnal, Jean"@fr,
+        "Arnal, Jean"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaArnal, Jean" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arnal, Jean"@de .
+

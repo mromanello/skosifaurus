@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081032> a skos:Concept ;
+    skos:altLabel "Allendorf (Eder)"@en,
+        "Allendorf (Eder)"@fr,
+        "Allendorf (Eder)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075507> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWaldeAllendorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Allendorf (Eder)"@de .
+

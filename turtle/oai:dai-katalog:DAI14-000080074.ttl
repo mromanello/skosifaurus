@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080074> a skos:Concept ;
+    skos:altLabel "Torčec-Međuriče"@en,
+        "Torčec-Međuriče"@fr,
+        "Torčec-Međuriče"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatTorčec-Me" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Torčec-Međuriče"@de .
+

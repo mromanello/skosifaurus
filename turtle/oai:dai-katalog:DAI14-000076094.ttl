@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076094> a skos:Concept ;
+    skos:altLabel "Bakhtiari"@en,
+        "Bakhtiari"@fr,
+        "Bakhtiari"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039386> ;
+    skos:hiddenLabel "zTopogAsienVordeIranZZ--RBakhtiari" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bakhtiari"@de .
+

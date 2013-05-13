@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052313> a skos:Concept ;
+    skos:altLabel "Klein Jauer"@en,
+        "Klein Jauer"@fr,
+        "Klein Jauer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075477> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandObersKlein Jau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klein Jauer"@de .
+

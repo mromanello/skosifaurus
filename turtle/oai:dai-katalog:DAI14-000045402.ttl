@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045402> a skos:Concept ;
+    skos:altLabel "Étang de Berre"@en,
+        "Étang de Berre"@fr,
+        "Étang de Berre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RÉtang de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Étang de Berre"@de .
+

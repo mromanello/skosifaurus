@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006572> a skos:Concept ;
+    skos:altLabel "Kötting, Bernhard"@en,
+        "Kötting, Bernhard"@fr,
+        "Kötting, Bernhard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsKötting, Bernhard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kötting, Bernhard"@de .
+

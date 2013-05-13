@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071180> a skos:Concept ;
+    skos:altLabel "San Vincenzo"@en,
+        "San Vincenzo"@fr,
+        "San Vincenzo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039206> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaLivorSan Vince" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Vincenzo"@de .
+

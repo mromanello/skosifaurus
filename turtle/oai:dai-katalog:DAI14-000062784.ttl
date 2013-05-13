@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062784> a skos:Concept ;
+    skos:altLabel "Malé Raškovce, okr. Michalovce"@en,
+        "Malé Raškovce, okr. Michalovce"@fr,
+        "Malé Raškovce, okr. Michalovce"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaMalé Rašk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Malé Raškovce, okr. Michalovce"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010234> a skos:Concept ;
+    skos:altLabel "Vortisch, Heinrich"@en,
+        "Vortisch, Heinrich"@fr,
+        "Vortisch, Heinrich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoVortisch, Heinrich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vortisch, Heinrich"@de .
+

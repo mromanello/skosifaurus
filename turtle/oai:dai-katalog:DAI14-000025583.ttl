@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025583> a skos:Concept ;
+    skos:altLabel "Swithun"@en,
+        "Swithun"@fr,
+        "Swithun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018550> ;
+    skos:hiddenLabel "yRGKArch12 - GeselReligReligChrisHeiliHeiliSwithun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Swithun"@de .
+

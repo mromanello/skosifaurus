@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081443> a skos:Concept ;
+    skos:altLabel "Knonau-Wisengrund"@en,
+        "Knonau-Wisengrund"@fr,
+        "Knonau-Wisengrund"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039057> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüricKnonau-Wi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Knonau-Wisengrund"@de .
+

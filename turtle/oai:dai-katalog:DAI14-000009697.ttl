@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009697> a skos:Concept ;
+    skos:altLabel "Rivail, Aymar du"@en,
+        "Rivail, Aymar du"@fr,
+        "Rivail, Aymar du"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoRivail, Aymar du" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rivail, Aymar du"@de .
+

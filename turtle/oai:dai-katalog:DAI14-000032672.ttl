@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032672> a skos:Concept ;
+    skos:altLabel "Durotriges"@en,
+        "Durotriges"@fr,
+        "Durotriges"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019420> ;
+    skos:hiddenLabel "yRGKEthnKelteDurot" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Durotriges"@de .
+

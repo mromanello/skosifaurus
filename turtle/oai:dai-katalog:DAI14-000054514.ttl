@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054514> a skos:Concept ;
+    skos:altLabel "Mittelweser"@en,
+        "Mittelweser"@fr,
+        "Mittelweser"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038877> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeZZ--RMittelwes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mittelweser"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003632> a skos:Concept ;
+    skos:altLabel "cachets et sceaux"@fr,
+        "seals"@en,
+        "sigilli"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003600> ;
+    skos:hiddenLabel "xAntWirtschObjSieg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siegel"@de .
+

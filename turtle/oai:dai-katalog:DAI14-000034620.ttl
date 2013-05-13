@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034620> a skos:Concept ;
+    skos:altLabel "Fitzke, Jan"@en,
+        "Fitzke, Jan"@fr,
+        "Fitzke, Jan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliFitzke, Jan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fitzke, Jan"@de .
+

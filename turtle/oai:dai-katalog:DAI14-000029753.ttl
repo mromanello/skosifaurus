@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029753> a skos:Concept ;
+    skos:altLabel "Sofia, Archäologisches Museum"@en,
+        "Sofia, Archäologisches Museum"@fr,
+        "Sofia, Archäologisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSofia, Archäologisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sofia, Archäologisches Museum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028898> a skos:Concept ;
+    skos:altLabel "Rostock, Arch. Sammlung der Universität"@en,
+        "Rostock, Arch. Sammlung der Universität"@fr,
+        "Rostock, Arch. Sammlung der Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRostock, Arch. Sammlung der Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rostock, Arch. Sammlung der Universität"@de .
+

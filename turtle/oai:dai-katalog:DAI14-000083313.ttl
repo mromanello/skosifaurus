@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083313> a skos:Concept ;
+    skos:altLabel "Grossalbershof"@en,
+        "Grossalbershof"@fr,
+        "Grossalbershof"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075372> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAmberGrossalbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossalbershof"@de .
+

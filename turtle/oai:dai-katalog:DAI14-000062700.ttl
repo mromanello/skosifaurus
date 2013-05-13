@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062700> a skos:Concept ;
+    skos:altLabel "Hričovské Podhradie, okr. Žilina"@en,
+        "Hričovské Podhradie, okr. Žilina"@fr,
+        "Hričovské Podhradie, okr. Žilina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaHričovské" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hričovské Podhradie, okr. Žilina"@de .
+

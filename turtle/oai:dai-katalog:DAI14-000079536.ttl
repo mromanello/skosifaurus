@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079536> a skos:Concept ;
+    skos:altLabel "Brad, jud. Hunedoara"@en,
+        "Brad, jud. Hunedoara"@fr,
+        "Brad, jud. Hunedoara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatBrad, jud" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brad, jud. Hunedoara"@de .
+

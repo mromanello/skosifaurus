@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057958> a skos:Concept ;
+    skos:altLabel "Gösing, MG Fels am Wagram, VB Tulln"@en,
+        "Gösing, MG Fels am Wagram, VB Tulln"@fr,
+        "Gösing, MG Fels am Wagram, VB Tulln"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeGösing, M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gösing, MG Fels am Wagram, VB Tulln"@de .
+

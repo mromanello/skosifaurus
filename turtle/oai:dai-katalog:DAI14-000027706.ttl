@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027706> a skos:Concept ;
+    skos:altLabel "Berlin, Vorderasiatisches Museum"@en,
+        "Berlin, Vorderasiatisches Museum"@fr,
+        "Berlin, Vorderasiatisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBerlin, Vorderasiatisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berlin, Vorderasiatisches Museum"@de .
+

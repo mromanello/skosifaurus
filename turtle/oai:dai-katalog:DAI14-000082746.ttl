@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082746> a skos:Concept ;
+    skos:altLabel "Pico Ramos"@en,
+        "Pico Ramos"@fr,
+        "Pico Ramos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039312> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniBaskeVizcaPico Ramo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pico Ramos"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055045> a skos:Concept ;
+    skos:altLabel "Wipperfürth-Jostberg"@en,
+        "Wipperfürth-Jostberg"@fr,
+        "Wipperfürth-Jostberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038889> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrOberbWipperfür" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wipperfürth-Jostberg"@de .
+

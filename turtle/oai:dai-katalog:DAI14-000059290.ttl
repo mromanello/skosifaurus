@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059290> a skos:Concept ;
+    skos:altLabel "Parsęta"@en,
+        "Parsęta"@fr,
+        "Parsęta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039010> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZZ--RParsęta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Parsęta"@de .
+

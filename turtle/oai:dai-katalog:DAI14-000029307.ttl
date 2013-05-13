@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029307> a skos:Concept ;
+    skos:altLabel "Xanten, Regionalmuseum"@en,
+        "Xanten, Regionalmuseum"@fr,
+        "Xanten, Regionalmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuXanten, Regionalmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Xanten, Regionalmuseum"@de .
+

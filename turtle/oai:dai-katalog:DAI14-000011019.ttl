@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011019> a skos:Concept ;
+    skos:altLabel "Hedeager, Lotte"@en,
+        "Hedeager, Lotte"@fr,
+        "Hedeager, Lotte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHedeager, Lotte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hedeager, Lotte"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026606> a skos:Concept ;
+    skos:altLabel "Lausanne 1975"@en,
+        "Lausanne 1975"@fr,
+        "Lausanne 1975"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLausanne 1975" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lausanne 1975"@de .
+

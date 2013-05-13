@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006029> a skos:Concept ;
+    skos:altLabel "Anthropologische Staatssammlung München"@en,
+        "Anthropologische Staatssammlung München"@fr,
+        "Anthropologische Staatssammlung München"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsAnthropologische Staatssammlung München" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anthropologische Staatssammlung München"@de .
+

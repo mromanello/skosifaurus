@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011451> a skos:Concept ;
+    skos:altLabel "Fita Colomé, Fidel"@en,
+        "Fita Colomé, Fidel"@fr,
+        "Fita Colomé, Fidel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFita Colomé, Fidel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fita Colomé, Fidel"@de .
+

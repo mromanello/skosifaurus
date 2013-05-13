@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048407> a skos:Concept ;
+    skos:altLabel "Westbury"@en,
+        "Westbury"@fr,
+        "Westbury"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077680> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCambrWestbury" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Westbury"@de .
+

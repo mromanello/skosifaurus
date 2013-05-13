@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003742> a skos:Concept ;
+    skos:altLabel "firme di scultori e scalpellini (fino al 1997)"@it,
+        "inscriptions of sculptors and stone-masons (untill 1997)"@en,
+        "signatures de sculpteurs et tâcherons (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003741> ;
+    skos:hiddenLabel "xEpigrGrActaPrivBildh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bildhauer-, Koroplasten- und Steinmetzinschriften (bis 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029944> a skos:Concept ;
+    skos:altLabel "Bolzano, Collezione Muri-Gries"@en,
+        "Bolzano, Collezione Muri-Gries"@fr,
+        "Bolzano, Collezione Muri-Gries"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaBolzano, Collezione Muri-Gries" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bolzano, Collezione Muri-Gries"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030307> a skos:Concept ;
+    skos:altLabel "Pick, Gretel"@en,
+        "Pick, Gretel"@fr,
+        "Pick, Gretel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPick, Gretel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pick, Gretel"@de .
+

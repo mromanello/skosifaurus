@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076772> a skos:Concept ;
+    skos:altLabel "Dortmund-Marten"@en,
+        "Dortmund-Marten"@fr,
+        "Dortmund-Marten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075631> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrDortmDortmund-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dortmund-Marten"@de .
+

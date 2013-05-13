@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016205> a skos:Concept ;
+    skos:altLabel "Damasquinure"@fr,
+        "Dziwerowanie"@pl,
+        "Inlaid metalwork"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016199> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwProduVerziTausc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tauschieren"@de .
+

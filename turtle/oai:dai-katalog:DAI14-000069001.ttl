@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069001> a skos:Concept ;
+    skos:altLabel "Sosnovka, obl. Zaporoż'e"@en,
+        "Sosnovka, obl. Zaporoż'e"@fr,
+        "Sosnovka, obl. Zaporoż'e"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiSosnovka," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sosnovka, obl. Zaporoż'e"@de .
+

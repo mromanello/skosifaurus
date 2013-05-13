@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023506> a skos:Concept ;
+    skos:altLabel "Gallia Comata"@en,
+        "Gallia Comata"@fr,
+        "Gallia Comata"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015181> ;
+    skos:hiddenLabel "yRGKArch08 - GeschRömisGebieGallia Comata" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gallia Comata"@de .
+

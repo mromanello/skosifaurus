@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021970> a skos:Concept ;
+    skos:altLabel "Acilius Glabiro, Marcus"@en,
+        "Acilius Glabiro, Marcus"@fr,
+        "Acilius Glabiro, Marcus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAcilius Glabiro, Marcus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Acilius Glabiro, Marcus"@de .
+

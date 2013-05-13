@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074312> a skos:Concept ;
+    skos:altLabel "Madaba, Jordanien"@en,
+        "Madaba, Jordanien"@fr,
+        "Madaba, Jordanien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeMadaba, J" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Madaba, Jordanien"@de .
+

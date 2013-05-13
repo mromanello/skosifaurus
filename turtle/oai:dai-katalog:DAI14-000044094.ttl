@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044094> a skos:Concept ;
+    skos:altLabel "Pothières"@en,
+        "Pothières"@fr,
+        "Pothières"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Pothières" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pothières"@de .
+

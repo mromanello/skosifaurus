@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037710> a skos:Concept ;
+    skos:altLabel "Taranto 2000"@en,
+        "Taranto 2000"@fr,
+        "Taranto 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrTaranto 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Taranto 2000"@de .
+

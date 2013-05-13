@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026908> a skos:Concept ;
+    skos:altLabel "Neuss 1984"@en,
+        "Neuss 1984"@fr,
+        "Neuss 1984"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNeuss 1984" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuss 1984"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055873> a skos:Concept ;
+    skos:altLabel "Wincheringen"@en,
+        "Wincheringen"@fr,
+        "Wincheringen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038941> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinTrierWincherin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wincheringen"@de .
+

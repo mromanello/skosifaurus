@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002526> a skos:Concept ;
+    skos:altLabel "Campo Marzio"@en,
+        "Campo Marzio"@it,
+        "Champ de Mars"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002513> ;
+    skos:hiddenLabel "xTopRAIRomCampMarz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Campo Marzio"@de .
+

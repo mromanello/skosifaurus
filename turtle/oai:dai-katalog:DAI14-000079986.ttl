@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079986> a skos:Concept ;
+    skos:altLabel "Troed y Rhiw"@en,
+        "Troed y Rhiw"@fr,
+        "Troed y Rhiw"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078200> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesCeredTroed y R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Troed y Rhiw"@de .
+

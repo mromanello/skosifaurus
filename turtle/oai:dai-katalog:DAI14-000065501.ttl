@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065501> a skos:Concept ;
+    skos:altLabel "Körös-Tisza-Maros"@en,
+        "Körös-Tisza-Maros"@fr,
+        "Körös-Tisza-Maros"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039091> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunZZ--RKörös-Tis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Körös-Tisza-Maros"@de .
+

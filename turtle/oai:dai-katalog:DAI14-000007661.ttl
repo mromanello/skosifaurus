@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007661> a skos:Concept ;
+    skos:altLabel "Birley, Eric"@en,
+        "Birley, Eric"@fr,
+        "Birley, Eric"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBirley, Eric" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Birley, Eric"@de .
+

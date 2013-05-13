@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004454> a skos:Concept ;
+    skos:altLabel "sarcofagi ed urne"@it,
+        "sarcophages et urnes"@fr,
+        "sarcophagi and urns"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004440> ;
+    skos:hiddenLabel "xEtrSark" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarkophage und Urnen"@de .
+

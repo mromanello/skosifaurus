@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070851> a skos:Concept ;
+    skos:altLabel "Valle d'Isarco"@en,
+        "Valle d'Isarco"@fr,
+        "Valle d'Isarco"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039189> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliVenetZZ--RValle d'I" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valle d'Isarco"@de .
+

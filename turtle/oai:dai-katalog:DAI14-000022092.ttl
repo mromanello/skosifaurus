@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022092> a skos:Concept ;
+    skos:altLabel "Nicephorus <Chrysoberges>"@en,
+        "Nicephorus <Chrysoberges>"@fr,
+        "Nicephorus <Chrysoberges>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoNicephorus <Chrysoberges>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nicephorus <Chrysoberges>"@de .
+

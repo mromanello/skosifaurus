@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043733> a skos:Concept ;
+    skos:altLabel "Alleuds-Les Pichelots"@en,
+        "Alleuds-Les Pichelots"@fr,
+        "Alleuds-Les Pichelots"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038766> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaMaineAlleuds-L" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alleuds-Les Pichelots"@de .
+

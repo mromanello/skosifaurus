@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045706> a skos:Concept ;
+    skos:altLabel "Neuvic-sur-l'Isle"@en,
+        "Neuvic-sur-l'Isle"@fr,
+        "Neuvic-sur-l'Isle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038814> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitDordoNeuvic-su" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuvic-sur-l'Isle"@de .
+

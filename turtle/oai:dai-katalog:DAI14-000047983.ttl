@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047983> a skos:Concept ;
+    skos:altLabel "Rowbury Copse"@en,
+        "Rowbury Copse"@fr,
+        "Rowbury Copse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077712> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWiltsRowbury C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rowbury Copse"@de .
+

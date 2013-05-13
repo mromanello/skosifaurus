@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025525> a skos:Concept ;
+    skos:altLabel "Heilige Drei Könige"@en,
+        "Heilige Drei Könige"@fr,
+        "Heilige Drei Könige"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018550> ;
+    skos:hiddenLabel "yRGKArch12 - GeselReligReligChrisHeiliHeiliHeilige Drei Könige" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heilige Drei Könige"@de .
+

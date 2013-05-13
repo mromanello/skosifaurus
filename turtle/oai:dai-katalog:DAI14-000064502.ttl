@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064502> a skos:Concept ;
+    skos:altLabel "Ostrava, okr. Ostrava-město"@en,
+        "Ostrava, okr. Ostrava-město"@fr,
+        "Ostrava, okr. Ostrava-město"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravOstrava," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ostrava, okr. Ostrava-město"@de .
+

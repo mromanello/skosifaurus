@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021371> a skos:Concept ;
+    skos:altLabel "Cyprianus, Thascius Caecilius"@en,
+        "Cyprianus, Thascius Caecilius"@fr,
+        "Cyprianus, Thascius Caecilius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCyprianus, Thascius Caecilius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cyprianus, Thascius Caecilius"@de .
+

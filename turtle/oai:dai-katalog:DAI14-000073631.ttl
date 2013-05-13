@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073631> a skos:Concept ;
+    skos:altLabel "Alconchel-Cheles"@en,
+        "Alconchel-Cheles"@fr,
+        "Alconchel-Cheles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039348> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniExtreBadajAlconchel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alconchel-Cheles"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031804> a skos:Concept ;
+    skos:altLabel "Pérez Casas, Jesús Ángel"@en,
+        "Pérez Casas, Jesús Ángel"@fr,
+        "Pérez Casas, Jesús Ángel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliPérez Casas, Jesús Ángel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pérez Casas, Jesús Ángel"@de .
+

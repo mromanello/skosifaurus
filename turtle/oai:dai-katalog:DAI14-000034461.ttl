@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034461> a skos:Concept ;
+    skos:altLabel "Leontius <Byzantinus>"@en,
+        "Leontius <Byzantinus>"@fr,
+        "Leontius <Byzantinus>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoLeontius <Byzantinus>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leontius <Byzantinus>"@de .
+

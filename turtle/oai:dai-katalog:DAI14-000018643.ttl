@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018643> a skos:Concept ;
+    skos:altLabel "Carriers of diseases/parasits"@en,
+        "Contaminateurs/parasites"@fr,
+        "Przenoszenie chorób/pasozyty"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018642> ;
+    skos:hiddenLabel "yRGKArch12 - GeselMedizHygieKrank" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krankheitsüberträger/Parasiten"@de .
+

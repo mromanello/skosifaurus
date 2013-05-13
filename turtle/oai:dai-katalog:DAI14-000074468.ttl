@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074468> a skos:Concept ;
+    skos:altLabel "Tell Masaikh, Syrien"@en,
+        "Tell Masaikh, Syrien"@fr,
+        "Tell Masaikh, Syrien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000074492> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieTell Masa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tell Masaikh, Syrien"@de .
+

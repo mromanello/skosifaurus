@@ -1,0 +1,2312 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002399_Hadrianupolis(Makedonia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hadrianupolis (Makedonia)" .
+
+<http://data.dainst.de/zenon/000002399_HagiaKyriake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Kyriake" .
+
+<http://data.dainst.de/zenon/000002399_HagiaMarina(Kopais)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Marina (Kopais)" .
+
+<http://data.dainst.de/zenon/000002399_HagiaMarina(Phokis)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Marina (Phokis)" .
+
+<http://data.dainst.de/zenon/000002399_HagiaParaskeueThessalonikes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Paraskeue Thessalonikes" .
+
+<http://data.dainst.de/zenon/000002399_HagiaPelagiaHerakleiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Pelagia Herakleiu" .
+
+<http://data.dainst.de/zenon/000002399_HagiaPhotia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Photia" .
+
+<http://data.dainst.de/zenon/000002399_HagiaTriada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Triada" .
+
+<http://data.dainst.de/zenon/000002399_HagiaVarvaravedi:Mallia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagia Varvara vedi: Mallia" .
+
+<http://data.dainst.de/zenon/000002399_HagionPneuma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagion Pneuma" .
+
+<http://data.dainst.de/zenon/000002399_HagiosAthanasios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Athanasios" .
+
+<http://data.dainst.de/zenon/000002399_HagiosDimitrios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Dimitrios" .
+
+<http://data.dainst.de/zenon/000002399_HagiosEliasvedi:Ithoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Elias vedi: Ithoria" .
+
+<http://data.dainst.de/zenon/000002399_HagiosGeorgiosLarises> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Georgios Larises" .
+
+<http://data.dainst.de/zenon/000002399_HagiosGeorgiosMaroneias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Georgios Maroneias" .
+
+<http://data.dainst.de/zenon/000002399_HagiosGeorgiosSeteias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Georgios Seteias" .
+
+<http://data.dainst.de/zenon/000002399_HagiosIoannes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Ioannes" .
+
+<http://data.dainst.de/zenon/000002399_HagiosKosmas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Kosmas" .
+
+<http://data.dainst.de/zenon/000002399_HagiosKyrillos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Kyrillos" .
+
+<http://data.dainst.de/zenon/000002399_HagiosMamas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Mamas" .
+
+<http://data.dainst.de/zenon/000002399_HagiosMyron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Myron" .
+
+<http://data.dainst.de/zenon/000002399_HagiosNikolaos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Nikolaos" .
+
+<http://data.dainst.de/zenon/000002399_HagiosPhokas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Phokas" .
+
+<http://data.dainst.de/zenon/000002399_HagiosSostes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Sostes" .
+
+<http://data.dainst.de/zenon/000002399_HagiosStephanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hagios Stephanos" .
+
+<http://data.dainst.de/zenon/000002399_Haimoniai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Haimoniai" .
+
+<http://data.dainst.de/zenon/000002399_Halai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Halai" .
+
+<http://data.dainst.de/zenon/000002399_Haliartos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Haliartos" .
+
+<http://data.dainst.de/zenon/000002399_Halieis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Halieis" .
+
+<http://data.dainst.de/zenon/000002399_Halonnesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Halonnesos" .
+
+<http://data.dainst.de/zenon/000002399_Halos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Halos" .
+
+<http://data.dainst.de/zenon/000002399_Helike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Helike" .
+
+<http://data.dainst.de/zenon/000002399_Heliokastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Heliokastro" .
+
+<http://data.dainst.de/zenon/000002399_Heraia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Heraia" .
+
+<http://data.dainst.de/zenon/000002399_Heraion(Argos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Heraion (Argos)" .
+
+<http://data.dainst.de/zenon/000002399_Heraion(Korinthos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Heraion (Korinthos)" .
+
+<http://data.dainst.de/zenon/000002399_Herakleia(Elis)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Herakleia (Elis)" .
+
+<http://data.dainst.de/zenon/000002399_HerakleiaLyncestis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Herakleia Lyncestis" .
+
+<http://data.dainst.de/zenon/000002399_HerakleiaTrachinia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Herakleia Trachinia" .
+
+<http://data.dainst.de/zenon/000002399_Herakleion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Herakleion" .
+
+<http://data.dainst.de/zenon/000002399_Hermione> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hermione" .
+
+<http://data.dainst.de/zenon/000002399_Hermopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hermopolis" .
+
+<http://data.dainst.de/zenon/000002399_Hexalophos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hexalophos" .
+
+<http://data.dainst.de/zenon/000002399_Hierapetra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hierapetra" .
+
+<http://data.dainst.de/zenon/000002399_Hierapytnavedi:Hierapetra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hierapytna vedi: Hierapetra" .
+
+<http://data.dainst.de/zenon/000002399_HieronOros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hieron Oros" .
+
+<http://data.dainst.de/zenon/000002399_Hippola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hippola" .
+
+<http://data.dainst.de/zenon/000002399_Horraon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Horraon" .
+
+<http://data.dainst.de/zenon/000002399_Hyampolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hyampolis" .
+
+<http://data.dainst.de/zenon/000002399_Hydra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hydra" .
+
+<http://data.dainst.de/zenon/000002399_Hyettos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hyettos" .
+
+<http://data.dainst.de/zenon/000002399_Hymettos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hymettos" .
+
+<http://data.dainst.de/zenon/000002399_Hypate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hypate" .
+
+<http://data.dainst.de/zenon/000002399_Hyrtakina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Hyrtakina" .
+
+<http://data.dainst.de/zenon/000002399_Ialysos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ialysos" .
+
+<http://data.dainst.de/zenon/000002399_Iasos(Lakonia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Iasos (Lakonia)" .
+
+<http://data.dainst.de/zenon/000002399_Ida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ida" .
+
+<http://data.dainst.de/zenon/000002399_Ikaria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ikaria" .
+
+<http://data.dainst.de/zenon/000002399_Ikarion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ikarion" .
+
+<http://data.dainst.de/zenon/000002399_Iklaina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Iklaina" .
+
+<http://data.dainst.de/zenon/000002399_Imathia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Imathia" .
+
+<http://data.dainst.de/zenon/000002399_Inemea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Inemea" .
+
+<http://data.dainst.de/zenon/000002399_Ioannina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ioannina" .
+
+<http://data.dainst.de/zenon/000002399_Iolkosvedi:Dimeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Iolkos vedi: Dimeni" .
+
+<http://data.dainst.de/zenon/000002399_Ios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ios" .
+
+<http://data.dainst.de/zenon/000002399_Iria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Iria" .
+
+<http://data.dainst.de/zenon/000002399_Isthmia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Isthmia" .
+
+<http://data.dainst.de/zenon/000002399_Isthmos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Isthmos" .
+
+<http://data.dainst.de/zenon/000002399_Istron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Istron" .
+
+<http://data.dainst.de/zenon/000002399_Itanos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Itanos" .
+
+<http://data.dainst.de/zenon/000002399_Itea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Itea" .
+
+<http://data.dainst.de/zenon/000002399_Ithake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ithake" .
+
+<http://data.dainst.de/zenon/000002399_Ithoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ithoria" .
+
+<http://data.dainst.de/zenon/000002399_Kabeirionvedi:Thebai(Boiotia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kabeirion vedi: Thebai (Boiotia)" .
+
+<http://data.dainst.de/zenon/000002399_Kaiadas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaiadas" .
+
+<http://data.dainst.de/zenon/000002399_Kaisareia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaisareia" .
+
+<http://data.dainst.de/zenon/000002399_Kakosivedi:Thisbe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kakosi vedi: Thisbe" .
+
+<http://data.dainst.de/zenon/000002399_Kakovatos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kakovatos" .
+
+<http://data.dainst.de/zenon/000002399_Kalamaki(NomosLarisa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalamaki (Nomos Larisa)" .
+
+<http://data.dainst.de/zenon/000002399_Kalamion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalamion" .
+
+<http://data.dainst.de/zenon/000002399_Kalamotouvedi:Kalindoia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalamotou vedi: Kalindoia" .
+
+<http://data.dainst.de/zenon/000002399_Kalapodivedi:Hyampolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalapodi vedi: Hyampolis" .
+
+<http://data.dainst.de/zenon/000002399_Kalasarna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalasarna" .
+
+<http://data.dainst.de/zenon/000002399_Kalaureia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalaureia" .
+
+<http://data.dainst.de/zenon/000002399_KaleVryse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kale Vryse" .
+
+<http://data.dainst.de/zenon/000002399_Kalindoia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalindoia" .
+
+<http://data.dainst.de/zenon/000002399_Kalliani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalliani" .
+
+<http://data.dainst.de/zenon/000002399_Kallindoia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallindoia" .
+
+<http://data.dainst.de/zenon/000002399_Kallion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallion" .
+
+<http://data.dainst.de/zenon/000002399_Kallipolisvedi:Kallion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallipolis vedi: Kallion" .
+
+<http://data.dainst.de/zenon/000002399_Kallithea(Achaia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithea (Achaia)" .
+
+<http://data.dainst.de/zenon/000002399_Kallithea(Attika)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithea (Attika)" .
+
+<http://data.dainst.de/zenon/000002399_Kallithea(Boiotia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithea (Boiotia)" .
+
+<http://data.dainst.de/zenon/000002399_Kallithea(Chalkidike)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithea (Chalkidike)" .
+
+<http://data.dainst.de/zenon/000002399_KallitheaPatron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithea Patron" .
+
+<http://data.dainst.de/zenon/000002399_Kallithera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kallithera" .
+
+<http://data.dainst.de/zenon/000002399_KaloiLimenes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaloi Limenes" .
+
+<http://data.dainst.de/zenon/000002399_Kalu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalu" .
+
+<http://data.dainst.de/zenon/000002399_Kalydon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalydon" .
+
+<http://data.dainst.de/zenon/000002399_Kalymnos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalymnos" .
+
+<http://data.dainst.de/zenon/000002399_Kalyva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalyva" .
+
+<http://data.dainst.de/zenon/000002399_KalyviaSochas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalyvia Sochas" .
+
+<http://data.dainst.de/zenon/000002399_KalyviaThoriku> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kalyvia Thoriku" .
+
+<http://data.dainst.de/zenon/000002399_Kameiros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kameiros" .
+
+<http://data.dainst.de/zenon/000002399_Kamilari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kamilari" .
+
+<http://data.dainst.de/zenon/000002399_KaminiaPylias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaminia Pylias" .
+
+<http://data.dainst.de/zenon/000002399_Kaminospilio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaminospilio" .
+
+<http://data.dainst.de/zenon/000002399_KapKefali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kap Kefali" .
+
+<http://data.dainst.de/zenon/000002399_Kaphyai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kaphyai" .
+
+<http://data.dainst.de/zenon/000002399_Karabournaki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karabournaki" .
+
+<http://data.dainst.de/zenon/000002399_Karla-Seevedi:Boebeis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karla-See vedi: Boebeis" .
+
+<http://data.dainst.de/zenon/000002399_Karpathos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karpathos" .
+
+<http://data.dainst.de/zenon/000002399_Karphi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karphi" .
+
+<http://data.dainst.de/zenon/000002399_Karpophora> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karpophora" .
+
+<http://data.dainst.de/zenon/000002399_KarteraKomevedi:Tirida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kartera Kome vedi: Tirida" .
+
+<http://data.dainst.de/zenon/000002399_Karystos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karystos" .
+
+<http://data.dainst.de/zenon/000002399_Karyupolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Karyupolis" .
+
+<http://data.dainst.de/zenon/000002399_Kasos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kasos" .
+
+<http://data.dainst.de/zenon/000002399_Kassandreiavedi:Poteidaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kassandreia vedi: Poteidaia" .
+
+<http://data.dainst.de/zenon/000002399_Kassope> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kassope" .
+
+<http://data.dainst.de/zenon/000002399_Kastanas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastanas" .
+
+<http://data.dainst.de/zenon/000002399_KastelliChanionvedi:Chania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastelli Chanion vedi: Chania" .
+
+<http://data.dainst.de/zenon/000002399_KastelliKisamouvedi:Kisamos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastelli Kisamou vedi: Kisamos" .
+
+<http://data.dainst.de/zenon/000002399_KastelliPediadas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastelli Pediadas" .
+
+<http://data.dainst.de/zenon/000002399_KastelliVarypetru> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastelli Varypetru" .
+
+<http://data.dainst.de/zenon/000002399_Kastellorizo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastellorizo" .
+
+<http://data.dainst.de/zenon/000002399_Kastoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastoria" .
+
+<http://data.dainst.de/zenon/000002399_Kastraki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastraki" .
+
+<http://data.dainst.de/zenon/000002399_Kastri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastri" .
+
+<http://data.dainst.de/zenon/000002399_Kastri(Thessalia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastri (Thessalia)" .
+
+<http://data.dainst.de/zenon/000002399_KastriPotamias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastri Potamias" .
+
+<http://data.dainst.de/zenon/000002399_Kastrion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastrion" .
+
+<http://data.dainst.de/zenon/000002399_Kastrokephala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastrokephala" .
+
+<http://data.dainst.de/zenon/000002399_KastrontesKalogriasvedi:TeichosDymaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kastron tes Kalogrias vedi: Teichos Dymaion" .
+
+<http://data.dainst.de/zenon/000002399_Katalimatavedi:Monasterakion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Katalimata vedi: Monasterakion" .
+
+<http://data.dainst.de/zenon/000002399_Katerina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Katerina" .
+
+<http://data.dainst.de/zenon/000002399_KatoVasilike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kato Vasilike" .
+
+<http://data.dainst.de/zenon/000002399_KatoZakrosvedi:Zakros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kato Zakros vedi: Zakros" .
+
+<http://data.dainst.de/zenon/000002399_Katsampas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Katsampas" .
+
+<http://data.dainst.de/zenon/000002399_Katuna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Katuna" .
+
+<http://data.dainst.de/zenon/000002399_Kavala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kavala" .
+
+<http://data.dainst.de/zenon/000002399_Kavrochori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kavrochori" .
+
+<http://data.dainst.de/zenon/000002399_Kavusi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kavusi" .
+
+<http://data.dainst.de/zenon/000002399_Kazarma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kazarma" .
+
+<http://data.dainst.de/zenon/000002399_Kenchreai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kenchreai" .
+
+<http://data.dainst.de/zenon/000002399_Keos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keos" .
+
+<http://data.dainst.de/zenon/000002399_Kephala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kephala" .
+
+<http://data.dainst.de/zenon/000002399_Kephalari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kephalari" .
+
+<http://data.dainst.de/zenon/000002399_Kephale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kephale" .
+
+<http://data.dainst.de/zenon/000002399_Kephallenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kephallenia" .
+
+<http://data.dainst.de/zenon/000002399_Kephalos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kephalos" .
+
+<http://data.dainst.de/zenon/000002399_Kepia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kepia" .
+
+<http://data.dainst.de/zenon/000002399_Kepion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kepion" .
+
+<http://data.dainst.de/zenon/000002399_Kerateavedi:Kephale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keratea vedi: Kephale" .
+
+<http://data.dainst.de/zenon/000002399_Keratokampos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keratokampos" .
+
+<http://data.dainst.de/zenon/000002399_Keratsini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keratsini" .
+
+<http://data.dainst.de/zenon/000002399_Keressos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keressos" .
+
+<http://data.dainst.de/zenon/000002399_Kerinthos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kerinthos" .
+
+<http://data.dainst.de/zenon/000002399_Kerkyra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kerkyra" .
+
+<http://data.dainst.de/zenon/000002399_Keros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keros" .
+
+<http://data.dainst.de/zenon/000002399_Kerteze> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kerteze" .
+
+<http://data.dainst.de/zenon/000002399_Keryneia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Keryneia" .
+
+<http://data.dainst.de/zenon/000002399_Khostiavedi:Chorsiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Khostia vedi: Chorsiai" .
+
+<http://data.dainst.de/zenon/000002399_KiaphaThiti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kiapha Thiti" .
+
+<http://data.dainst.de/zenon/000002399_Kierion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kierion" .
+
+<http://data.dainst.de/zenon/000002399_Kilkis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kilkis" .
+
+<http://data.dainst.de/zenon/000002399_Kimolos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kimolos" .
+
+<http://data.dainst.de/zenon/000002399_Kionia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kionia" .
+
+<http://data.dainst.de/zenon/000002399_Kipere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kipere" .
+
+<http://data.dainst.de/zenon/000002399_Kirrha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kirrha" .
+
+<http://data.dainst.de/zenon/000002399_Kisamos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kisamos" .
+
+<http://data.dainst.de/zenon/000002399_Kissos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kissos" .
+
+<http://data.dainst.de/zenon/000002399_Kitros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kitros" .
+
+<http://data.dainst.de/zenon/000002399_Klausion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Klausion" .
+
+<http://data.dainst.de/zenon/000002399_Kleidi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kleidi" .
+
+<http://data.dainst.de/zenon/000002399_Kleitor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kleitor" .
+
+<http://data.dainst.de/zenon/000002399_Kleonai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kleonai" .
+
+<http://data.dainst.de/zenon/000002399_Klimax> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Klimax" .
+
+<http://data.dainst.de/zenon/000002399_Klopede> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Klopede" .
+
+<http://data.dainst.de/zenon/000002399_Knossos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Knossos" .
+
+<http://data.dainst.de/zenon/000002399_Kokla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kokla" .
+
+<http://data.dainst.de/zenon/000002399_Kolchida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kolchida" .
+
+<http://data.dainst.de/zenon/000002399_Kolias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kolias" .
+
+<http://data.dainst.de/zenon/000002399_Kolonnavedi:Aigina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kolonna vedi: Aigina" .
+
+<http://data.dainst.de/zenon/000002399_Kolympia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kolympia" .
+
+<http://data.dainst.de/zenon/000002399_Komara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Komara" .
+
+<http://data.dainst.de/zenon/000002399_Kombothekra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kombothekra" .
+
+<http://data.dainst.de/zenon/000002399_Kommos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kommos" .
+
+<http://data.dainst.de/zenon/000002399_Konstantia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Konstantia" .
+
+<http://data.dainst.de/zenon/000002399_Kopai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kopai" .
+
+<http://data.dainst.de/zenon/000002399_Kopanaki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kopanaki" .
+
+<http://data.dainst.de/zenon/000002399_Kopia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kopia" .
+
+<http://data.dainst.de/zenon/000002399_Koraku> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Koraku" .
+
+<http://data.dainst.de/zenon/000002399_Korinos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korinos" .
+
+<http://data.dainst.de/zenon/000002399_Korinthos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korinthos" .
+
+<http://data.dainst.de/zenon/000002399_Korion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korion" .
+
+<http://data.dainst.de/zenon/000002399_Korone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korone" .
+
+<http://data.dainst.de/zenon/000002399_Koroneia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Koroneia" .
+
+<http://data.dainst.de/zenon/000002399_Koroni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Koroni" .
+
+<http://data.dainst.de/zenon/000002399_Korope> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korope" .
+
+<http://data.dainst.de/zenon/000002399_KorykionAntron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Korykion Antron" .
+
+<http://data.dainst.de/zenon/000002399_Koryphasion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Koryphasion" .
+
+<http://data.dainst.de/zenon/000002399_Kos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kos" .
+
+<http://data.dainst.de/zenon/000002399_Kotronas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kotronas" .
+
+<http://data.dainst.de/zenon/000002399_Kozane> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kozane" .
+
+<http://data.dainst.de/zenon/000002399_Krannon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Krannon" .
+
+<http://data.dainst.de/zenon/000002399_Krene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Krene" .
+
+<http://data.dainst.de/zenon/000002399_Kreusis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kreusis" .
+
+<http://data.dainst.de/zenon/000002399_Kritsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kritsa" .
+
+<http://data.dainst.de/zenon/000002399_Krokeai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Krokeai" .
+
+<http://data.dainst.de/zenon/000002399_Kromnus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kromnus" .
+
+<http://data.dainst.de/zenon/000002399_Krya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Krya" .
+
+<http://data.dainst.de/zenon/000002399_Kukunara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kukunara" .
+
+<http://data.dainst.de/zenon/000002399_Kumasa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kumasa" .
+
+<http://data.dainst.de/zenon/000002399_Kumoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kumoi" .
+
+<http://data.dainst.de/zenon/000002399_Kuphonesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kuphonesi" .
+
+<http://data.dainst.de/zenon/000002399_Kuveli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kuveli" .
+
+<http://data.dainst.de/zenon/000002399_Kydoniavedi:Chania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kydonia vedi: Chania" .
+
+<http://data.dainst.de/zenon/000002399_Kyllene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyllene" .
+
+<http://data.dainst.de/zenon/000002399_Kyme(Euboia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyme (Euboia)" .
+
+<http://data.dainst.de/zenon/000002399_Kynos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kynos" .
+
+<http://data.dainst.de/zenon/000002399_Kyparissi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyparissi" .
+
+<http://data.dainst.de/zenon/000002399_KyparissiHerakleiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyparissi Herakleiu" .
+
+<http://data.dainst.de/zenon/000002399_Kyparissia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyparissia" .
+
+<http://data.dainst.de/zenon/000002399_Kyparissos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyparissos" .
+
+<http://data.dainst.de/zenon/000002399_Kyprianon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyprianon" .
+
+<http://data.dainst.de/zenon/000002399_Kypsele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kypsele" .
+
+<http://data.dainst.de/zenon/000002399_Kyriakion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kyriakion" .
+
+<http://data.dainst.de/zenon/000002399_Kythera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kythera" .
+
+<http://data.dainst.de/zenon/000002399_Kytherros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kytherros" .
+
+<http://data.dainst.de/zenon/000002399_Kythnos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Kythnos" .
+
+<http://data.dainst.de/zenon/000002399_Lade> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lade" .
+
+<http://data.dainst.de/zenon/000002399_Lakkoma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lakkoma" .
+
+<http://data.dainst.de/zenon/000002399_Lamia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lamia" .
+
+<http://data.dainst.de/zenon/000002399_Lamptrai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lamptrai" .
+
+<http://data.dainst.de/zenon/000002399_Lappa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lappa" .
+
+<http://data.dainst.de/zenon/000002399_Larisa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Larisa" .
+
+<http://data.dainst.de/zenon/000002399_Larymna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Larymna" .
+
+<http://data.dainst.de/zenon/000002399_Lasaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lasaia" .
+
+<http://data.dainst.de/zenon/000002399_Lasythi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lasythi" .
+
+<http://data.dainst.de/zenon/000002399_Lathouresavedi:Anagyrus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lathouresa vedi: Anagyrus" .
+
+<http://data.dainst.de/zenon/000002399_Lato> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lato" .
+
+<http://data.dainst.de/zenon/000002399_Laurion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Laurion" .
+
+<http://data.dainst.de/zenon/000002399_Lavdavedi:Theisoa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lavda vedi: Theisoa" .
+
+<http://data.dainst.de/zenon/000002399_Lebadeia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lebadeia" .
+
+<http://data.dainst.de/zenon/000002399_Lebena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lebena" .
+
+<http://data.dainst.de/zenon/000002399_Lechaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lechaion" .
+
+<http://data.dainst.de/zenon/000002399_Lefkandivedi:Leukanti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lefkandi vedi: Leukanti" .
+
+<http://data.dainst.de/zenon/000002399_Legrena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Legrena" .
+
+<http://data.dainst.de/zenon/000002399_Leibethra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leibethra" .
+
+<http://data.dainst.de/zenon/000002399_Lemnos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lemnos" .
+
+<http://data.dainst.de/zenon/000002399_Lenos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lenos" .
+
+<http://data.dainst.de/zenon/000002399_Leontion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leontion" .
+
+<http://data.dainst.de/zenon/000002399_Lepreon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lepreon" .
+
+<http://data.dainst.de/zenon/000002399_Lera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lera" .
+
+<http://data.dainst.de/zenon/000002399_Lerna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lerna" .
+
+<http://data.dainst.de/zenon/000002399_Leros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leros" .
+
+<http://data.dainst.de/zenon/000002399_Lesini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lesini" .
+
+<http://data.dainst.de/zenon/000002399_Lete> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lete" .
+
+<http://data.dainst.de/zenon/000002399_Leukanti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leukanti" .
+
+<http://data.dainst.de/zenon/000002399_Leukas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leukas" .
+
+<http://data.dainst.de/zenon/000002399_Leuke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leuke" .
+
+<http://data.dainst.de/zenon/000002399_Leukopetra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Leukopetra" .
+
+<http://data.dainst.de/zenon/000002399_Lidoriki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lidoriki" .
+
+<http://data.dainst.de/zenon/000002399_Ligurio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ligurio" .
+
+<http://data.dainst.de/zenon/000002399_Lilianu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lilianu" .
+
+<http://data.dainst.de/zenon/000002399_LimaniPasa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Limani Pasa" .
+
+<http://data.dainst.de/zenon/000002399_LimenMesogaiasvedi:Prasiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Limen Mesogaias vedi: Prasiai" .
+
+<http://data.dainst.de/zenon/000002399_Limenaria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Limenaria" .
+
+<http://data.dainst.de/zenon/000002399_Limne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Limne" .
+
+<http://data.dainst.de/zenon/000002399_Lindos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lindos" .
+
+<http://data.dainst.de/zenon/000002399_Liopesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Liopesi" .
+
+<http://data.dainst.de/zenon/000002399_Lipsia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lipsia" .
+
+<http://data.dainst.de/zenon/000002399_Lissos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lissos" .
+
+<http://data.dainst.de/zenon/000002399_Lithares> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lithares" .
+
+<http://data.dainst.de/zenon/000002399_LithovouniMakryneias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lithovouni Makryneias" .
+
+<http://data.dainst.de/zenon/000002399_Livadeia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Livadeia" .
+
+<http://data.dainst.de/zenon/000002399_Livanates> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Livanates" .
+
+<http://data.dainst.de/zenon/000002399_Livanatoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Livanatoi" .
+
+<http://data.dainst.de/zenon/000002399_Luku> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Luku" .
+
+<http://data.dainst.de/zenon/000002399_Lusoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lusoi" .
+
+<http://data.dainst.de/zenon/000002399_LutraHypates> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lutra Hypates" .
+
+<http://data.dainst.de/zenon/000002399_Lutsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lutsa" .
+
+<http://data.dainst.de/zenon/000002399_Lyka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lyka" .
+
+<http://data.dainst.de/zenon/000002399_Lykosura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lykosura" .
+
+<http://data.dainst.de/zenon/000002399_Lyrkeion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lyrkeion" .
+
+<http://data.dainst.de/zenon/000002399_Lyttos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Lyttos" .
+
+<http://data.dainst.de/zenon/000002399_Magnesia(Pelion)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Magnesia (Pelion)" .
+
+<http://data.dainst.de/zenon/000002399_MagulaOrgozinos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Magula Orgozinos" .
+
+<http://data.dainst.de/zenon/000002399_MagulaOtzaki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Magula Otzaki" .
+
+<http://data.dainst.de/zenon/000002399_MagulaPeukakia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Magula Peukakia" .
+
+<http://data.dainst.de/zenon/000002399_Makre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makre" .
+
+<http://data.dainst.de/zenon/000002399_Makregianne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makregianne" .
+
+<http://data.dainst.de/zenon/000002399_Makrisia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makrisia" .
+
+<http://data.dainst.de/zenon/000002399_Makronesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makronesos" .
+
+<http://data.dainst.de/zenon/000002399_Makrygialos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makrygialos" .
+
+<http://data.dainst.de/zenon/000002399_Makyneia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Makyneia" .
+
+<http://data.dainst.de/zenon/000002399_Malandreni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Malandreni" .
+
+<http://data.dainst.de/zenon/000002399_Maleme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Maleme" .
+
+<http://data.dainst.de/zenon/000002399_Mallia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mallia" .
+
+<http://data.dainst.de/zenon/000002399_Malthi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Malthi" .
+
+<http://data.dainst.de/zenon/000002399_Manolada> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Manolada" .
+
+<http://data.dainst.de/zenon/000002399_Mantineia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mantineia" .
+
+<http://data.dainst.de/zenon/000002399_Marathi(Paros)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Marathi (Paros)" .
+
+<http://data.dainst.de/zenon/000002399_Marathon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Marathon" .
+
+<http://data.dainst.de/zenon/000002399_Markopulo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Markopulo" .
+
+<http://data.dainst.de/zenon/000002399_Maroneia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Maroneia" .
+
+<http://data.dainst.de/zenon/000002399_Maroneia(Attike)vedi:Laurion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Maroneia (Attike) vedi: Laurion" .
+
+<http://data.dainst.de/zenon/000002399_Maschalitsi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Maschalitsi" .
+
+<http://data.dainst.de/zenon/000002399_Matala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Matala" .
+
+<http://data.dainst.de/zenon/000002399_Mati> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mati" .
+
+<http://data.dainst.de/zenon/000002399_Mauromation> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mauromation" .
+
+<http://data.dainst.de/zenon/000002399_Maurovuni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Maurovuni" .
+
+<http://data.dainst.de/zenon/000002399_Mavrokastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mavrokastro" .
+
+<http://data.dainst.de/zenon/000002399_Mavropege> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mavropege" .
+
+<http://data.dainst.de/zenon/000002399_Mazarakata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mazarakata" .
+
+<http://data.dainst.de/zenon/000002399_MaziEleiasvedi:MaziSkilluntias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mazi Eleias vedi: Mazi Skilluntias" .
+
+<http://data.dainst.de/zenon/000002399_MaziOlympiasvedi:MaziSkilluntias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mazi Olympias vedi: Mazi Skilluntias" .
+
+<http://data.dainst.de/zenon/000002399_MaziSkilluntias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mazi Skilluntias" .
+
+<http://data.dainst.de/zenon/000002399_Medeon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Medeon" .
+
+<http://data.dainst.de/zenon/000002399_MegaleVolve> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Megale Volve" .
+
+<http://data.dainst.de/zenon/000002399_Megalopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Megalopolis" .
+
+<http://data.dainst.de/zenon/000002399_Megara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Megara" .
+
+<http://data.dainst.de/zenon/000002399_Mekyberna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mekyberna" .
+
+<http://data.dainst.de/zenon/000002399_Meliboia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Meliboia" .
+
+<http://data.dainst.de/zenon/000002399_Melidoni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Melidoni" .
+
+<http://data.dainst.de/zenon/000002399_Melitaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Melitaia" .
+
+<http://data.dainst.de/zenon/000002399_Melos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Melos" .
+
+<http://data.dainst.de/zenon/000002399_Mende> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mende" .
+
+<http://data.dainst.de/zenon/000002399_Meneis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Meneis" .
+
+<http://data.dainst.de/zenon/000002399_Merendavedi:Myrrhinus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Merenda vedi: Myrrhinus" .
+
+<http://data.dainst.de/zenon/000002399_Mesa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mesa" .
+
+<http://data.dainst.de/zenon/000002399_Mesanagros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mesanagros" .
+
+<http://data.dainst.de/zenon/000002399_Mesara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mesara" .
+
+<http://data.dainst.de/zenon/000002399_Mesembria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mesembria" .
+
+<http://data.dainst.de/zenon/000002399_Messa(Lesbos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Messa (Lesbos)" .
+
+<http://data.dainst.de/zenon/000002399_Messapeai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Messapeai" .
+
+<http://data.dainst.de/zenon/000002399_Messene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Messene" .
+
+<http://data.dainst.de/zenon/000002399_Methana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Methana" .
+
+<http://data.dainst.de/zenon/000002399_Methone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Methone" .
+
+<http://data.dainst.de/zenon/000002399_Methone(Makedonia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Methone (Makedonia)" .
+
+<http://data.dainst.de/zenon/000002399_Methymna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Methymna" .
+
+<http://data.dainst.de/zenon/000002399_Metochi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Metochi" .
+
+<http://data.dainst.de/zenon/000002399_Metropolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Metropolis" .
+
+<http://data.dainst.de/zenon/000002399_Michalitsi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Michalitsi" .
+
+<http://data.dainst.de/zenon/000002399_Midea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Midea" .
+
+<http://data.dainst.de/zenon/000002399_MikreSanda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mikre Sanda" .
+
+<http://data.dainst.de/zenon/000002399_Minoa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Minoa" .
+
+<http://data.dainst.de/zenon/000002399_Minoa(Amorgos)vedi:Amorgos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Minoa (Amorgos) vedi: Amorgos" .
+
+<http://data.dainst.de/zenon/000002399_Miraka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Miraka" .
+
+<http://data.dainst.de/zenon/000002399_Mitrou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mitrou" .
+
+<http://data.dainst.de/zenon/000002399_Mochlos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mochlos" .
+
+<http://data.dainst.de/zenon/000002399_Molaoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Molaoi" .
+
+<http://data.dainst.de/zenon/000002399_Molykreion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Molykreion" .
+
+<http://data.dainst.de/zenon/000002399_Monasterakion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Monasterakion" .
+
+<http://data.dainst.de/zenon/000002399_Monemvasia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Monemvasia" .
+
+<http://data.dainst.de/zenon/000002399_Monodendri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Monodendri" .
+
+<http://data.dainst.de/zenon/000002399_Monolithos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Monolithos" .
+
+<http://data.dainst.de/zenon/000002399_Mopsion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mopsion" .
+
+<http://data.dainst.de/zenon/000002399_Morrylos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Morrylos" .
+
+<http://data.dainst.de/zenon/000002399_Moschaton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Moschaton" .
+
+<http://data.dainst.de/zenon/000002399_Mothone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mothone" .
+
+<http://data.dainst.de/zenon/000002399_Mykenai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mykenai" .
+
+<http://data.dainst.de/zenon/000002399_Mykonos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mykonos" .
+
+<http://data.dainst.de/zenon/000002399_Myrrhinus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Myrrhinus" .
+
+<http://data.dainst.de/zenon/000002399_MyrsiniAspropilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Myrsini Aspropilia" .
+
+<http://data.dainst.de/zenon/000002399_Myrtos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Myrtos" .
+
+<http://data.dainst.de/zenon/000002399_Mytikas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mytikas" .
+
+<http://data.dainst.de/zenon/000002399_Mytilene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Mytilene" .
+
+<http://data.dainst.de/zenon/000002399_Napevedi:Laurion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nape vedi: Laurion" .
+
+<http://data.dainst.de/zenon/000002399_Narthakion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Narthakion" .
+
+<http://data.dainst.de/zenon/000002399_Nasos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nasos" .
+
+<http://data.dainst.de/zenon/000002399_Naupaktos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Naupaktos" .
+
+<http://data.dainst.de/zenon/000002399_Nauplia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nauplia" .
+
+<http://data.dainst.de/zenon/000002399_Nausa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nausa" .
+
+<http://data.dainst.de/zenon/000002399_Naxos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Naxos" .
+
+<http://data.dainst.de/zenon/000002399_NeaAnchialos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Anchialos" .
+
+<http://data.dainst.de/zenon/000002399_NeaIonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Ionia" .
+
+<http://data.dainst.de/zenon/000002399_NeaKallikrateia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Kallikrateia" .
+
+<http://data.dainst.de/zenon/000002399_NeaMechaniona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Mechaniona" .
+
+<http://data.dainst.de/zenon/000002399_NeaOrestias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Orestias" .
+
+<http://data.dainst.de/zenon/000002399_NeaPhiladelpheia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Philadelpheia" .
+
+<http://data.dainst.de/zenon/000002399_NeaRhoda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Rhoda" .
+
+<http://data.dainst.de/zenon/000002399_NeaSyllata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Syllata" .
+
+<http://data.dainst.de/zenon/000002399_NeaZoe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nea Zoe" .
+
+<http://data.dainst.de/zenon/000002399_Neleia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neleia" .
+
+<http://data.dainst.de/zenon/000002399_Nemea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nemea" .
+
+<http://data.dainst.de/zenon/000002399_Nemesis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nemesis" .
+
+<http://data.dainst.de/zenon/000002399_NeoMonastiri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neo Monastiri" .
+
+<http://data.dainst.de/zenon/000002399_Neochori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neochori" .
+
+<http://data.dainst.de/zenon/000002399_NeosSkopos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neos Skopos" .
+
+<http://data.dainst.de/zenon/000002399_Neraida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neraida" .
+
+<http://data.dainst.de/zenon/000002399_Nerokuru> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nerokuru" .
+
+<http://data.dainst.de/zenon/000002399_Neromyloi-Prodromos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Neromyloi-Prodromos" .
+
+<http://data.dainst.de/zenon/000002399_NesiAlexandreias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nesi Alexandreias" .
+
+<http://data.dainst.de/zenon/000002399_Nestorio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nestorio" .
+
+<http://data.dainst.de/zenon/000002399_Nichoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nichoria" .
+
+<http://data.dainst.de/zenon/000002399_Nikesiane> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nikesiane" .
+
+<http://data.dainst.de/zenon/000002399_Nikete> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nikete" .
+
+<http://data.dainst.de/zenon/000002399_Nikopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nikopolis" .
+
+<http://data.dainst.de/zenon/000002399_Nipedeto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nipedeto" .
+
+<http://data.dainst.de/zenon/000002399_Nisaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nisaia" .
+
+<http://data.dainst.de/zenon/000002399_Nisyros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nisyros" .
+
+<http://data.dainst.de/zenon/000002399_Nonakris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nonakris" .
+
+<http://data.dainst.de/zenon/000002399_NymphaionPenteles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Nymphaion Penteles" .
+
+<http://data.dainst.de/zenon/000002399_Oche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oche" .
+
+<http://data.dainst.de/zenon/000002399_Oiniadai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oiniadai" .
+
+<http://data.dainst.de/zenon/000002399_Oinoe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oinoe" .
+
+<http://data.dainst.de/zenon/000002399_Oisyme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oisyme" .
+
+<http://data.dainst.de/zenon/000002399_Olus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Olus" .
+
+<http://data.dainst.de/zenon/000002399_Olympia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Olympia" .
+
+<http://data.dainst.de/zenon/000002399_Olynthos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Olynthos" .
+
+<http://data.dainst.de/zenon/000002399_Omphake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Omphake" .
+
+<http://data.dainst.de/zenon/000002399_Oneion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oneion" .
+
+<http://data.dainst.de/zenon/000002399_Oraiokastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oraiokastro" .
+
+<http://data.dainst.de/zenon/000002399_Orchomenos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orchomenos" .
+
+<http://data.dainst.de/zenon/000002399_Orchomenos(Arkadia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orchomenos (Arkadia)" .
+
+<http://data.dainst.de/zenon/000002399_Oreine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oreine" .
+
+<http://data.dainst.de/zenon/000002399_Oreioi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oreioi" .
+
+<http://data.dainst.de/zenon/000002399_Oreoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oreoi" .
+
+<http://data.dainst.de/zenon/000002399_Oresthasion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oresthasion" .
+
+<http://data.dainst.de/zenon/000002399_Orestias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orestias" .
+
+<http://data.dainst.de/zenon/000002399_Orneai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orneai" .
+
+<http://data.dainst.de/zenon/000002399_Oropos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Oropos" .
+
+<http://data.dainst.de/zenon/000002399_Orphani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orphani" .
+
+<http://data.dainst.de/zenon/000002399_Orraon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orraon" .
+
+<http://data.dainst.de/zenon/000002399_Orthagoria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Orthagoria" .
+
+<http://data.dainst.de/zenon/000002399_Ossa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ossa" .
+
+<http://data.dainst.de/zenon/000002399_Othonoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Othonoi" .
+
+<http://data.dainst.de/zenon/000002399_Ouranopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ouranopolis" .
+
+<http://data.dainst.de/zenon/000002399_Ovriokastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ovriokastro" .
+
+<http://data.dainst.de/zenon/000002399_Paiania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Paiania" .
+
+<http://data.dainst.de/zenon/000002399_Pakota> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pakota" .
+
+<http://data.dainst.de/zenon/000002399_Palaikastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palaikastro" .
+
+<http://data.dainst.de/zenon/000002399_Palaiochora> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palaiochora" .
+
+<http://data.dainst.de/zenon/000002399_Palairos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palairos" .
+
+<http://data.dainst.de/zenon/000002399_Palatianon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palatianon" .
+
+<http://data.dainst.de/zenon/000002399_Palatitsavedi:Vergina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palatitsa vedi: Vergina" .
+
+<http://data.dainst.de/zenon/000002399_Palatitsia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Palatitsia" .
+
+<http://data.dainst.de/zenon/000002399_Paliampela> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Paliampela" .
+
+<http://data.dainst.de/zenon/000002399_Pallantion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pallantion" .
+
+<http://data.dainst.de/zenon/000002399_Pallene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pallene" .
+
+<http://data.dainst.de/zenon/000002399_Pambotadai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pambotadai" .
+
+<http://data.dainst.de/zenon/000002399_PanagiaPrebezes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Panagia Prebezes" .
+
+<http://data.dainst.de/zenon/000002399_Panakton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Panakton" .
+
+<http://data.dainst.de/zenon/000002399_Pandosia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pandosia" .
+
+<http://data.dainst.de/zenon/000002399_Pankalochori> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pankalochori" .
+
+<http://data.dainst.de/zenon/000002399_Panopeus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Panopeus" .
+
+<http://data.dainst.de/zenon/000002399_Panormos-Apolloniavedi:HagiaPelagiaHerakleiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Panormos-Apollonia vedi: Hagia Pelagia Herakleiu" .
+
+<http://data.dainst.de/zenon/000002399_Papulia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Papulia" .
+
+<http://data.dainst.de/zenon/000002399_Papura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Papura" .
+
+<http://data.dainst.de/zenon/000002399_Paramythia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Paramythia" .
+
+<http://data.dainst.de/zenon/000002399_Parapola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parapola" .
+
+<http://data.dainst.de/zenon/000002399_Parapotamioi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parapotamioi" .
+
+<http://data.dainst.de/zenon/000002399_Parapotamos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parapotamos" .
+
+<http://data.dainst.de/zenon/000002399_Parga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parga" .
+
+<http://data.dainst.de/zenon/000002399_Parnassos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parnassos" .
+
+<http://data.dainst.de/zenon/000002399_Parnes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Parnes" .
+
+<http://data.dainst.de/zenon/000002399_Paros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Paros" .
+
+<http://data.dainst.de/zenon/000002399_PaterasOros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pateras Oros" .
+
+<http://data.dainst.de/zenon/000002399_Patmos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Patmos" .
+
+<http://data.dainst.de/zenon/000002399_Patrai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Patrai" .
+
+<http://data.dainst.de/zenon/000002399_Patrikies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Patrikies" .
+
+<http://data.dainst.de/zenon/000002399_Paulopetre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Paulopetre" .
+
+<http://data.dainst.de/zenon/000002399_PegaiVoiranes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pegai Voiranes" .
+
+<http://data.dainst.de/zenon/000002399_Peiraieus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Peiraieus" .
+
+<http://data.dainst.de/zenon/000002399_Pelinna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pelinna" .
+
+<http://data.dainst.de/zenon/000002399_Pella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pella" .
+
+<http://data.dainst.de/zenon/000002399_Pellana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pellana" .
+
+<http://data.dainst.de/zenon/000002399_Pellion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pellion" .
+
+<http://data.dainst.de/zenon/000002399_Peparethosvedi:Skopelos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Peparethos vedi: Skopelos" .
+
+<http://data.dainst.de/zenon/000002399_Perachoravedi:Heraion(Korinthos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perachora vedi: Heraion (Korinthos)" .
+
+<http://data.dainst.de/zenon/000002399_Perate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perate" .
+
+<http://data.dainst.de/zenon/000002399_Perdikkas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perdikkas" .
+
+<http://data.dainst.de/zenon/000002399_Pergamia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pergamia" .
+
+<http://data.dainst.de/zenon/000002399_Peristeria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Peristeria" .
+
+<http://data.dainst.de/zenon/000002399_PerivoliPhthiotidos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perivoli Phthiotidos" .
+
+<http://data.dainst.de/zenon/000002399_Perivolia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perivolia" .
+
+<http://data.dainst.de/zenon/000002399_PerivoliaKydonias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Perivolia Kydonias" .
+
+<http://data.dainst.de/zenon/000002399_Petra(Thessalia)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petra (Thessalia)" .
+
+<http://data.dainst.de/zenon/000002399_Petras> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petras" .
+
+<http://data.dainst.de/zenon/000002399_PetresFlorines> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petres Florines" .
+
+<http://data.dainst.de/zenon/000002399_PetriNemeas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petri Nemeas" .
+
+<http://data.dainst.de/zenon/000002399_Petrochorion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petrochorion" .
+
+<http://data.dainst.de/zenon/000002399_PetroporoTrikalonvedi:Pelinna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petroporo Trikalon vedi: Pelinna" .
+
+<http://data.dainst.de/zenon/000002399_Petsophasvedi:Palaikastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Petsophas vedi: Palaikastro" .
+
+<http://data.dainst.de/zenon/000002399_Peuke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Peuke" .
+
+<http://data.dainst.de/zenon/000002399_Phagres> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phagres" .
+
+<http://data.dainst.de/zenon/000002399_Phaistos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phaistos" .
+
+<http://data.dainst.de/zenon/000002399_Phalasarna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phalasarna" .
+
+<http://data.dainst.de/zenon/000002399_Phanoteus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phanoteus" .
+
+<http://data.dainst.de/zenon/000002399_Pharai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pharai" .
+
+<http://data.dainst.de/zenon/000002399_Pharatsi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pharatsi" .
+
+<http://data.dainst.de/zenon/000002399_Pharsala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pharsala" .
+
+<http://data.dainst.de/zenon/000002399_Phegaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phegaia" .
+
+<http://data.dainst.de/zenon/000002399_Pheia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pheia" .
+
+<http://data.dainst.de/zenon/000002399_Pheneos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pheneos" .
+
+<http://data.dainst.de/zenon/000002399_Pherai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pherai" .
+
+<http://data.dainst.de/zenon/000002399_Pherai(Thrake)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pherai (Thrake)" .
+
+<http://data.dainst.de/zenon/000002399_Phere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phere" .
+
+<http://data.dainst.de/zenon/000002399_Pherma> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pherma" .
+
+<http://data.dainst.de/zenon/000002399_Phigalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phigalia" .
+
+<http://data.dainst.de/zenon/000002399_Philia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Philia" .
+
+<http://data.dainst.de/zenon/000002399_Philiatra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Philiatra" .
+
+<http://data.dainst.de/zenon/000002399_Philippias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Philippias" .
+
+<http://data.dainst.de/zenon/000002399_Philippoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Philippoi" .
+
+<http://data.dainst.de/zenon/000002399_Philotas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Philotas" .
+
+<http://data.dainst.de/zenon/000002399_Phlius> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phlius" .
+
+<http://data.dainst.de/zenon/000002399_Phlorina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phlorina" .
+
+<http://data.dainst.de/zenon/000002399_Phoinika> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phoinika" .
+
+<http://data.dainst.de/zenon/000002399_Phoitiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phoitiai" .
+
+<http://data.dainst.de/zenon/000002399_Phokikon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phokikon" .
+
+<http://data.dainst.de/zenon/000002399_Pholegandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pholegandros" .
+
+<http://data.dainst.de/zenon/000002399_Phrearrhioi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phrearrhioi" .
+
+<http://data.dainst.de/zenon/000002399_Phthia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phthia" .
+
+<http://data.dainst.de/zenon/000002399_PhthiotidesThebaivedi:NeaAnchialos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phthiotides Thebai vedi: Nea Anchialos" .
+
+<http://data.dainst.de/zenon/000002399_Phurkari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phurkari" .
+
+<http://data.dainst.de/zenon/000002399_Phurnoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phurnoi" .
+
+<http://data.dainst.de/zenon/000002399_Phurnospilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phurnospilia" .
+
+<http://data.dainst.de/zenon/000002399_PhurnuKoryphevedi:Myrtos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phurnu Koryphe vedi: Myrtos" .
+
+<http://data.dainst.de/zenon/000002399_Phylla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Phylla" .
+
+<http://data.dainst.de/zenon/000002399_Pieria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pieria" .
+
+<http://data.dainst.de/zenon/000002399_Pikermi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pikermi" .
+
+<http://data.dainst.de/zenon/000002399_Plataiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Plataiai" .
+
+<http://data.dainst.de/zenon/000002399_Platamonas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Platamonas" .
+
+<http://data.dainst.de/zenon/000002399_Platania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Platania" .
+
+<http://data.dainst.de/zenon/000002399_Platanistos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Platanistos" .
+
+<http://data.dainst.de/zenon/000002399_Plati> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Plati" .
+
+<http://data.dainst.de/zenon/000002399_Platystomo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Platystomo" .
+
+<http://data.dainst.de/zenon/000002399_Pleuron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pleuron" .
+
+<http://data.dainst.de/zenon/000002399_Plotinopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Plotinopolis" .
+
+<http://data.dainst.de/zenon/000002399_Plytravedi:Asopos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Plytra vedi: Asopos" .
+
+<http://data.dainst.de/zenon/000002399_Polichne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polichne" .
+
+<http://data.dainst.de/zenon/000002399_Polychrono> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polychrono" .
+
+<http://data.dainst.de/zenon/000002399_Polykastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polykastro" .
+
+<http://data.dainst.de/zenon/000002399_Polymylos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polymylos" .
+
+<http://data.dainst.de/zenon/000002399_Polynerio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polynerio" .
+
+<http://data.dainst.de/zenon/000002399_Polyrrhenia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Polyrrhenia" .
+
+<http://data.dainst.de/zenon/000002399_Pompia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pompia" .
+
+<http://data.dainst.de/zenon/000002399_Pontolibado> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pontolibado" .
+
+<http://data.dainst.de/zenon/000002399_Poros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Poros" .
+
+<http://data.dainst.de/zenon/000002399_PorosHerakleiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Poros Herakleiu" .
+
+<http://data.dainst.de/zenon/000002399_PortoChelivedi:Halieis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Porto Cheli vedi: Halieis" .
+
+<http://data.dainst.de/zenon/000002399_PortoLombardo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Porto Lombardo" .
+
+<http://data.dainst.de/zenon/000002399_PortoRaphtivedi:Prasiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Porto Raphti vedi: Prasiai" .
+
+<http://data.dainst.de/zenon/000002399_Poseidi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Poseidi" .
+
+<http://data.dainst.de/zenon/000002399_Potamoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Potamoi" .
+
+<http://data.dainst.de/zenon/000002399_Poteidaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Poteidaia" .
+
+<http://data.dainst.de/zenon/000002399_Praisos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Praisos" .
+
+<http://data.dainst.de/zenon/000002399_Prasiai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prasiai" .
+
+<http://data.dainst.de/zenon/000002399_Prasidaki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prasidaki" .
+
+<http://data.dainst.de/zenon/000002399_Prinias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prinias" .
+
+<http://data.dainst.de/zenon/000002399_Prionia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prionia" .
+
+<http://data.dainst.de/zenon/000002399_Probalinthos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Probalinthos" .
+
+<http://data.dainst.de/zenon/000002399_Prodromi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prodromi" .
+
+<http://data.dainst.de/zenon/000002399_Proerna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Proerna" .
+
+<http://data.dainst.de/zenon/000002399_Prospalta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prospalta" .
+
+<http://data.dainst.de/zenon/000002399_Prosymna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prosymna" .
+
+<http://data.dainst.de/zenon/000002399_Prote> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Prote" .
+
+<http://data.dainst.de/zenon/000002399_Psari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Psari" .
+
+<http://data.dainst.de/zenon/000002399_Pseira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pseira" .
+
+<http://data.dainst.de/zenon/000002399_Psophis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Psophis" .
+
+<http://data.dainst.de/zenon/000002399_Psoris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Psoris" .
+
+<http://data.dainst.de/zenon/000002399_Psyttaleia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Psyttaleia" .
+
+<http://data.dainst.de/zenon/000002399_Ptoion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Ptoion" .
+
+<http://data.dainst.de/zenon/000002399_Pydna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pydna" .
+
+<http://data.dainst.de/zenon/000002399_Pylos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pylos" .
+
+<http://data.dainst.de/zenon/000002399_PylosEleias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pylos Eleias" .
+
+<http://data.dainst.de/zenon/000002399_Pyra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pyra" .
+
+<http://data.dainst.de/zenon/000002399_Pyrasosvedi:NeaAnchialos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pyrasos vedi: Nea Anchialos" .
+
+<http://data.dainst.de/zenon/000002399_Pyrgoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pyrgoi" .
+
+<http://data.dainst.de/zenon/000002399_Pyrgouthi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pyrgouthi" .
+
+<http://data.dainst.de/zenon/000002399_Pyrrha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pyrrha" .
+
+<http://data.dainst.de/zenon/000002399_Pýrrōlos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "Pýrrōlos" .
+
+<http://data.dainst.de/zenon/000002399_kipia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002399> ;
+    skos:prefLabel "kipia" .
+
+<http://data.dainst.de/zenon/000002399> a skos:Concept ;
+    skos:altLabel "lieux H-P"@fr,
+        "luoghi H-P"@it,
+        "sites H-P"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002395> ;
+    skos:hiddenLabel "xTopLandGrOrtH-P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte H-P"@de .
+

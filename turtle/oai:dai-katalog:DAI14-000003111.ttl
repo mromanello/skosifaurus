@@ -1,0 +1,212 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003111_Achilleus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Achilleus" .
+
+<http://data.dainst.de/zenon/000003111_Adonis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Adonis" .
+
+<http://data.dainst.de/zenon/000003111_Aeneas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Aeneas" .
+
+<http://data.dainst.de/zenon/000003111_Aktaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Aktaion" .
+
+<http://data.dainst.de/zenon/000003111_Alkestis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Alkestis" .
+
+<http://data.dainst.de/zenon/000003111_Amazones> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Amazones" .
+
+<http://data.dainst.de/zenon/000003111_Annona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Annona" .
+
+<http://data.dainst.de/zenon/000003111_Apollon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Apollon" .
+
+<http://data.dainst.de/zenon/000003111_AresundAphrodite> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Ares und Aphrodite" .
+
+<http://data.dainst.de/zenon/000003111_Artyanax> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Artyanax" .
+
+<http://data.dainst.de/zenon/000003111_Bellerophon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Bellerophon" .
+
+<http://data.dainst.de/zenon/000003111_Chiron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Chiron" .
+
+<http://data.dainst.de/zenon/000003111_DaidalosundIkaros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Daidalos und Ikaros" .
+
+<http://data.dainst.de/zenon/000003111_Dionysiaka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Dionysiaka" .
+
+<http://data.dainst.de/zenon/000003111_Endymion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Endymion" .
+
+<http://data.dainst.de/zenon/000003111_Erotes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Erotes" .
+
+<http://data.dainst.de/zenon/000003111_Ganymedes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Ganymedes" .
+
+<http://data.dainst.de/zenon/000003111_Gigantomachie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Gigantomachie" .
+
+<http://data.dainst.de/zenon/000003111_Grazien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Grazien" .
+
+<http://data.dainst.de/zenon/000003111_Hektor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Hektor" .
+
+<http://data.dainst.de/zenon/000003111_Herakles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Herakles" .
+
+<http://data.dainst.de/zenon/000003111_Hesione> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Hesione" .
+
+<http://data.dainst.de/zenon/000003111_Hippolytos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Hippolytos" .
+
+<http://data.dainst.de/zenon/000003111_Iphigeneia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Iphigeneia" .
+
+<http://data.dainst.de/zenon/000003111_Kentauroi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Kentauroi" .
+
+<http://data.dainst.de/zenon/000003111_Kleobis-Biton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Kleobis - Biton" .
+
+<http://data.dainst.de/zenon/000003111_Leda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Leda" .
+
+<http://data.dainst.de/zenon/000003111_Leukippiden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Leukippiden" .
+
+<http://data.dainst.de/zenon/000003111_Marsyas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Marsyas" .
+
+<http://data.dainst.de/zenon/000003111_Medea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Medea" .
+
+<http://data.dainst.de/zenon/000003111_Meleagros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Meleagros" .
+
+<http://data.dainst.de/zenon/000003111_Musai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Musai" .
+
+<http://data.dainst.de/zenon/000003111_Niobiden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Niobiden" .
+
+<http://data.dainst.de/zenon/000003111_Odysseus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Odysseus" .
+
+<http://data.dainst.de/zenon/000003111_Omphale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Omphale" .
+
+<http://data.dainst.de/zenon/000003111_Orestes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Orestes" .
+
+<http://data.dainst.de/zenon/000003111_Orpheus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Orpheus" .
+
+<http://data.dainst.de/zenon/000003111_Paris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Paris" .
+
+<http://data.dainst.de/zenon/000003111_Peleus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Peleus" .
+
+<http://data.dainst.de/zenon/000003111_Pelops> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Pelops" .
+
+<http://data.dainst.de/zenon/000003111_Persephone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Persephone" .
+
+<http://data.dainst.de/zenon/000003111_Phaethon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Phaethon" .
+
+<http://data.dainst.de/zenon/000003111_Polyxene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Polyxene" .
+
+<http://data.dainst.de/zenon/000003111_Prometheus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Prometheus" .
+
+<http://data.dainst.de/zenon/000003111_Protesilaos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Protesilaos" .
+
+<http://data.dainst.de/zenon/000003111_Romulus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Romulus" .
+
+<http://data.dainst.de/zenon/000003111_Telephos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Telephos" .
+
+<http://data.dainst.de/zenon/000003111_Theseus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Theseus" .
+
+<http://data.dainst.de/zenon/000003111_Triptolemos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Triptolemos" .
+
+<http://data.dainst.de/zenon/000003111_Troia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003111> ;
+    skos:prefLabel "Troia" .
+
+<http://data.dainst.de/zenon/000003111> a skos:Concept ;
+    skos:altLabel "dei e miti"@it,
+        "dieux et mythes"@fr,
+        "gods and myths"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003109> ;
+    skos:hiddenLabel "xSarkSteinBthGMyth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Götter und Mythen"@de .
+

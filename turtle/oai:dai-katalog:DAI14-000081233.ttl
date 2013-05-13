@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081233> a skos:Concept ;
+    skos:altLabel "Breidenbach"@en,
+        "Breidenbach"@fr,
+        "Breidenbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075501> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMarbuBreidenba" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Breidenbach"@de .
+

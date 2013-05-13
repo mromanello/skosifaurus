@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075945> a skos:Concept ;
+    skos:altLabel "Herneacova, com. Recaş, jud. Timiş"@en,
+        "Herneacova, com. Recaş, jud. Timiş"@fr,
+        "Herneacova, com. Recaş, jud. Timiş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatHerneacov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herneacova, com. Recaş, jud. Timiş"@de .
+

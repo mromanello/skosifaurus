@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054903> a skos:Concept ;
+    skos:altLabel "Bad Salzuflen"@en,
+        "Bad Salzuflen"@fr,
+        "Bad Salzuflen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038881> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrLippeBad Salzu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Salzuflen"@de .
+

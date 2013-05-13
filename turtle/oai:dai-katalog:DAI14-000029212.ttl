@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029212> a skos:Concept ;
+    skos:altLabel "Vibo Valentia, Museo Statale \"Vito Capialbi\""@en,
+        "Vibo Valentia, Museo Statale \"Vito Capialbi\""@fr,
+        "Vibo Valentia, Museo Statale \"Vito Capialbi\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVibo Valentia, Museo Statale \"Vito Capialbi\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vibo Valentia, Museo Statale \"Vito Capialbi\""@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059431> a skos:Concept ;
+    skos:altLabel "Starzykowo Małe"@en,
+        "Starzykowo Małe"@fr,
+        "Starzykowo Małe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039012> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazurWarmiStarzykow" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Starzykowo Małe"@de .
+

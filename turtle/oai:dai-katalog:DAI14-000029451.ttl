@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029451> a skos:Concept ;
+    skos:altLabel "Dresden, Japanisches Palais"@en,
+        "Dresden, Japanisches Palais"@fr,
+        "Dresden, Japanisches Palais"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuDresden, Japanisches Palais" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dresden, Japanisches Palais"@de .
+

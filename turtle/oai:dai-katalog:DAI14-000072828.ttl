@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072828> a skos:Concept ;
+    skos:altLabel "Aldeia da Mata"@en,
+        "Aldeia da Mata"@fr,
+        "Aldeia da Mata"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039293> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuPortaAldeia da" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aldeia da Mata"@de .
+

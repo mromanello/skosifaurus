@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065472> a skos:Concept ;
+    skos:altLabel "Tiszavasvári"@en,
+        "Tiszavasvári"@fr,
+        "Tiszavasvári"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039090> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunSzaboTiszavasv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiszavasvári"@de .
+

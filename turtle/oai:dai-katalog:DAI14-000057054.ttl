@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057054> a skos:Concept ;
+    skos:altLabel "Grossromstedt"@en,
+        "Grossromstedt"@fr,
+        "Grossromstedt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075620> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriWeimaGrossroms" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossromstedt"@de .
+

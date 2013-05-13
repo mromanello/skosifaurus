@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033005> a skos:Concept ;
+    skos:altLabel "Agatharchides <Cnidius>"@en,
+        "Agatharchides <Cnidius>"@fr,
+        "Agatharchides <Cnidius>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAgatharchides <Cnidius>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Agatharchides <Cnidius>"@de .
+

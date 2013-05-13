@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062387> a skos:Concept ;
+    skos:altLabel "Bülach"@en,
+        "Bülach"@fr,
+        "Bülach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039057> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüricBülach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bülach"@de .
+

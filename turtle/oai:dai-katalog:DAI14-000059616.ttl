@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059616> a skos:Concept ;
+    skos:altLabel "Bieganowo"@en,
+        "Bieganowo"@fr,
+        "Bieganowo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039016> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkWielkBieganowo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bieganowo"@de .
+

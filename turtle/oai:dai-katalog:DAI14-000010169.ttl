@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010169> a skos:Concept ;
+    skos:altLabel "Undset, Ingvald Martin"@en,
+        "Undset, Ingvald Martin"@fr,
+        "Undset, Ingvald Martin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoUndset, Ingvald Martin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Undset, Ingvald Martin"@de .
+

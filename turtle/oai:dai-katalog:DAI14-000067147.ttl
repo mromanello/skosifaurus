@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067147> a skos:Concept ;
+    skos:altLabel "Chirnogi, jud. Călăraşi"@en,
+        "Chirnogi, jud. Călăraşi"@fr,
+        "Chirnogi, jud. Călăraşi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenChirnogi," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chirnogi, jud. Călăraşi"@de .
+

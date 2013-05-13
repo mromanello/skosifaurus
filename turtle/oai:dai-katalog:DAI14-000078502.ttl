@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078502> a skos:Concept ;
+    skos:altLabel "Strathclyde"@en,
+        "Strathclyde (Argyll and Bute)"@fr,
+        "Strathclyde (Argyll and Bute)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038842> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotStrathcly" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strathclyde (Argyll and Bute)"@de .
+

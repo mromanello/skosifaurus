@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047240> a skos:Concept ;
+    skos:altLabel "Great Massingham"@en,
+        "Great Massingham"@fr,
+        "Great Massingham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077699> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorfoGreat Mas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Great Massingham"@de .
+

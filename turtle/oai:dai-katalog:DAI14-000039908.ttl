@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039908> a skos:Concept ;
+    skos:altLabel "Havndal, Jylland"@en,
+        "Havndal, Jylland"@fr,
+        "Havndal, Jylland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemHavndal," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Havndal, Jylland"@de .
+

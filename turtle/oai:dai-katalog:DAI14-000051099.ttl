@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051099> a skos:Concept ;
+    skos:altLabel "Donauwörth-Schäfstall"@en,
+        "Donauwörth-Schäfstall"@fr,
+        "Donauwörth-Schäfstall"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075398> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDonauDonauwört" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Donauwörth-Schäfstall"@de .
+

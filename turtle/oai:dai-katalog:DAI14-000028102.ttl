@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028102> a skos:Concept ;
+    skos:altLabel "Ghent, Universiteit"@en,
+        "Ghent, Universiteit"@fr,
+        "Ghent, Universiteit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGhent, Universiteit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ghent, Universiteit"@de .
+

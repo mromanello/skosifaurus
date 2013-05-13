@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021246> a skos:Concept ;
+    skos:altLabel "Boemund <von Saarbrücken>"@en,
+        "Boemund <von Saarbrücken>"@fr,
+        "Boemund <von Saarbrücken>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoBoemund <von Saarbrücken>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boemund <von Saarbrücken>"@de .
+

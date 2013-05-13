@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037839> a skos:Concept ;
+    skos:altLabel "Tübingen 1979"@en,
+        "Tübingen 1979"@fr,
+        "Tübingen 1979"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrTübingen 1979" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tübingen 1979"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082187> a skos:Concept ;
+    skos:altLabel "Marolterode"@en,
+        "Marolterode"@fr,
+        "Marolterode"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075617> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriUnstrMaroltero" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marolterode"@de .
+

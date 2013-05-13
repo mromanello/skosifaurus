@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003312> a skos:Concept ;
+    skos:altLabel "Rumania"@en,
+        "Rumania"@it,
+        "Rumanie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003297> ;
+    skos:hiddenLabel "xGefTonGebrRum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rumänien"@de .
+

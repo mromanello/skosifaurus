@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079419> a skos:Concept ;
+    skos:altLabel "Riparo Mezzena"@en,
+        "Riparo Mezzena"@fr,
+        "Riparo Mezzena"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronRiparo Me" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Riparo Mezzena"@de .
+

@@ -1,0 +1,121 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001062_Abchasien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Abchasien" .
+
+<http://data.dainst.de/zenon/000001062_Boržomi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Boržomi" .
+
+<http://data.dainst.de/zenon/000001062_Chevi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Chevi" .
+
+<http://data.dainst.de/zenon/000001062_Dapnari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Dapnari" .
+
+<http://data.dainst.de/zenon/000001062_Kacheti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Kacheti" .
+
+<http://data.dainst.de/zenon/000001062_Kartli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Kartli" .
+
+<http://data.dainst.de/zenon/000001062_Kutaisi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Kutaisi" .
+
+<http://data.dainst.de/zenon/000001062_KvemoKartli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Kvemo Kartli" .
+
+<http://data.dainst.de/zenon/000001062_LamaziGora> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Lamazi Gora" .
+
+<http://data.dainst.de/zenon/000001062_Marneuli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Marneuli" .
+
+<http://data.dainst.de/zenon/000001062_Mccheta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Mccheta" .
+
+<http://data.dainst.de/zenon/000001062_Megreli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Megreli" .
+
+<http://data.dainst.de/zenon/000001062_Meschet-Džavacheti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Meschet-Džavacheti" .
+
+<http://data.dainst.de/zenon/000001062_Mescheti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Mescheti" .
+
+<http://data.dainst.de/zenon/000001062_Nokalakevi/Nakalakevi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Nokalakevi/Nakalakevi" .
+
+<http://data.dainst.de/zenon/000001062_Picunda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Picunda" .
+
+<http://data.dainst.de/zenon/000001062_Rustavi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Rustavi" .
+
+<http://data.dainst.de/zenon/000001062_Sagaredžo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Sagaredžo" .
+
+<http://data.dainst.de/zenon/000001062_Samadlo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Samadlo" .
+
+<http://data.dainst.de/zenon/000001062_Svaneti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Svaneti" .
+
+<http://data.dainst.de/zenon/000001062_Südossetien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Südossetien" .
+
+<http://data.dainst.de/zenon/000001062_Tbilisi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Tbilisi" .
+
+<http://data.dainst.de/zenon/000001062_Telavi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Telavi" .
+
+<http://data.dainst.de/zenon/000001062_Tli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Tli" .
+
+<http://data.dainst.de/zenon/000001062_Trialeti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Trialeti" .
+
+<http://data.dainst.de/zenon/000001062_Vani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Vani" .
+
+<http://data.dainst.de/zenon/000001062_ŠidaKartli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Šida Kartli" .
+
+<http://data.dainst.de/zenon/000001062_Žinvali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001062> ;
+    skos:prefLabel "Žinvali" .
+
+<http://data.dainst.de/zenon/000001062> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.08.02" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Georgien"@de .
+

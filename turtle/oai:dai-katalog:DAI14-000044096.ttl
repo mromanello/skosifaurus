@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044096> a skos:Concept ;
+    skos:altLabel "Prusly-sur-Ource"@en,
+        "Prusly-sur-Ource"@fr,
+        "Prusly-sur-Ource"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Prusly-su" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prusly-sur-Ource"@de .
+

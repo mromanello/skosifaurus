@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062741> a skos:Concept ;
+    skos:altLabel "Košická Belá, okr. Košice"@en,
+        "Košická Belá, okr. Košice"@fr,
+        "Košická Belá, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaKošická B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Košická Belá, okr. Košice"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081649> a skos:Concept ;
+    skos:altLabel "Sormás-Török-Földek"@en,
+        "Sormás-Török-Földek"@fr,
+        "Sormás-Török-Földek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaSormás-Tö" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sormás-Török-Földek"@de .
+

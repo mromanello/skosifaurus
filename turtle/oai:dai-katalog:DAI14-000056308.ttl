@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056308> a skos:Concept ;
+    skos:altLabel "Bad Kösen, Burg Rudelsburg"@en,
+        "Bad Kösen, Burg Rudelsburg"@fr,
+        "Bad Kösen, Burg Rudelsburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038962> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsBurgeBad Kösen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Kösen, Burg Rudelsburg"@de .
+

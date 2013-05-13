@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081635> a skos:Concept ;
+    skos:altLabel "Grotte de la Salpêtriére"@en,
+        "Grotte de la Salpêtriére"@fr,
+        "Grotte de la Salpêtriére"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038828> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguGardGrotte de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotte de la Salpêtriére"@de .
+

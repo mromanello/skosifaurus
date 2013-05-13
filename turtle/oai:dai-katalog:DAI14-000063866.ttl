@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063866> a skos:Concept ;
+    skos:altLabel "Polepy, okr. Litoměřice"@en,
+        "Polepy, okr. Litoměřice"@fr,
+        "Polepy, okr. Litoměřice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPolepy, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polepy, okr. Litoměřice"@de .
+

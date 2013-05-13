@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045185> a skos:Concept ;
+    skos:altLabel "Saut-du Perron"@en,
+        "Saut-du Perron"@fr,
+        "Saut-du Perron"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038804> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveLoireSaut-du P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saut-du Perron"@de .
+

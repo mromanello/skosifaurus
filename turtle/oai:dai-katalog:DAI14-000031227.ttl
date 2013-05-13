@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031227> a skos:Concept ;
+    skos:altLabel "Weizinger, München 1918"@en,
+        "Weizinger, München 1918"@fr,
+        "Weizinger, München 1918"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiWeizinger, München 1918" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Weizinger, München 1918"@de .
+

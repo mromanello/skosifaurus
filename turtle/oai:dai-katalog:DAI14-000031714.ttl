@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031714> a skos:Concept ;
+    skos:altLabel "McCann, Anna Marguerite"@en,
+        "McCann, Anna Marguerite"@fr,
+        "McCann, Anna Marguerite"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliMcCann, Anna Marguerite" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "McCann, Anna Marguerite"@de .
+

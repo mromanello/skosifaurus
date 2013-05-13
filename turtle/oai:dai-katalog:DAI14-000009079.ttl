@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009079> a skos:Concept ;
+    skos:altLabel "Lorange, Anders Lund"@en,
+        "Lorange, Anders Lund"@fr,
+        "Lorange, Anders Lund"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLorange, Anders Lund" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lorange, Anders Lund"@de .
+

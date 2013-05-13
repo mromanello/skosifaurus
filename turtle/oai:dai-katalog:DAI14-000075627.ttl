@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075627> a skos:Concept ;
+    skos:altLabel "Bonn"@en,
+        "Bonn"@fr,
+        "Bonn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038878> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrBonn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonn"@de .
+

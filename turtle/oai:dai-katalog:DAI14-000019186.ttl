@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019186> a skos:Concept ;
+    skos:altLabel "Circonstance de la découvertes"@fr,
+        "Find circumstances"@en,
+        "Miejsce znalezienia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019185> ;
+    skos:hiddenLabel "yRGKArch14 - DeponFundu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fundumstände"@de .
+

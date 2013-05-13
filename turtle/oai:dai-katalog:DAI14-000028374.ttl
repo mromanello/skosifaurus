@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028374> a skos:Concept ;
+    skos:altLabel "Leipzig, Antikenmuseum der Universität"@en,
+        "Leipzig, Antikenmuseum der Universität"@fr,
+        "Leipzig, Antikenmuseum der Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLeipzig, Antikenmuseum der Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leipzig, Antikenmuseum der Universität"@de .
+

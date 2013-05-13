@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084263> a skos:Concept ;
+    skos:altLabel "Instituto Arqueológo Alemão de Madrid"@en,
+        "Instituto Arqueológo Alemão de Madrid"@fr,
+        "Instituto Arqueológo Alemão de Madrid"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiInstituto Arqueológo Alemão de Madrid" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Instituto Arqueológo Alemão de Madrid"@de .
+

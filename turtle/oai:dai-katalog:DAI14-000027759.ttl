@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027759> a skos:Concept ;
+    skos:altLabel "Bourges, Musée du Berry"@en,
+        "Bourges, Musée du Berry"@fr,
+        "Bourges, Musée du Berry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBourges, Musée du Berry" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bourges, Musée du Berry"@de .
+

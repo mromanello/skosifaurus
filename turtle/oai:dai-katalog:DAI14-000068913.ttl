@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068913> a skos:Concept ;
+    skos:altLabel "Orechovo, obl. Lugansk"@en,
+        "Orechovo, obl. Lugansk"@fr,
+        "Orechovo, obl. Lugansk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiOrechovo," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orechovo, obl. Lugansk"@de .
+

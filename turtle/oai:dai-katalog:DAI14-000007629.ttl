@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007629> a skos:Concept ;
+    skos:altLabel "Berger, Arthur"@en,
+        "Berger, Arthur"@fr,
+        "Berger, Arthur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBerger, Arthur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berger, Arthur"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052571> a skos:Concept ;
+    skos:altLabel "Röpersdorf"@en,
+        "Röpersdorf"@fr,
+        "Röpersdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075484> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandUckerRöpersdor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Röpersdorf"@de .
+

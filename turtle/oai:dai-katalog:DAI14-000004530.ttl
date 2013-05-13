@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004530> a skos:Concept ;
+    skos:altLabel "necropoli"@it,
+        "necropolises"@en,
+        "nécropoles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004528> ;
+    skos:hiddenLabel "xItalSizSizNek" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nekropolen"@de .
+

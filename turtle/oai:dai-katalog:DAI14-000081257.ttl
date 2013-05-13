@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081257> a skos:Concept ;
+    skos:altLabel "Osny"@en,
+        "Osny"@fr,
+        "Osny"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038741> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dVal-dOsny" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osny"@de .
+

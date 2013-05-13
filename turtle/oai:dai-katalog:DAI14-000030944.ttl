@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030944> a skos:Concept ;
+    skos:altLabel "Oslo, Universität"@en,
+        "Oslo, Universität"@fr,
+        "Oslo, Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiOslo, Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oslo, Universität"@de .
+

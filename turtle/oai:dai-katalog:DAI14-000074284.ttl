@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074284> a skos:Concept ;
+    skos:altLabel "El Khiam"@en,
+        "El Khiam"@fr,
+        "El Khiam"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeEl Khiam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "El Khiam"@de .
+

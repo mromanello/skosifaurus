@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077892> a skos:Concept ;
+    skos:altLabel "Ścinawa-Jeżów"@en,
+        "Ścinawa-Jeżów"@fr,
+        "Ścinawa-Jeżów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoŚcinawa-J" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ścinawa-Jeżów"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033003> a skos:Concept ;
+    skos:altLabel "Marw"@en,
+        "Marw"@fr,
+        "Marw"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017184> ;
+    skos:hiddenLabel "yRGKArch10 - HistoNumisPrägeMarw" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marw"@de .
+

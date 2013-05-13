@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003260> a skos:Concept ;
+    skos:altLabel "Gallia meridionale (fino al 1997)"@it,
+        "Gaule méridionale (jusqu'à 1997)"@fr,
+        "Southern Gaul (untill 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003258> ;
+    skos:hiddenLabel "xGefTonTSGallSüd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Süd-Gallien (bis 1997)"@de .
+

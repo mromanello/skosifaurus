@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045375> a skos:Concept ;
+    skos:altLabel "Venasque"@en,
+        "Venasque"@fr,
+        "Venasque"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038809> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVauclVenasque" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Venasque"@de .
+

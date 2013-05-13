@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066190> a skos:Concept ;
+    skos:altLabel "Medven"@en,
+        "Medven"@fr,
+        "Medven"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039128> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaBurgaSliveMedven" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Medven"@de .
+

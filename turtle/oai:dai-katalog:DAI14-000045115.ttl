@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045115> a skos:Concept ;
+    skos:altLabel "Saint-Vincent"@en,
+        "Saint-Vincent"@fr,
+        "Saint-Vincent"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômeSaint-Vin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Vincent"@de .
+

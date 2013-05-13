@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083142> a skos:Concept ;
+    skos:altLabel "Chornice, okr. Svitavy"@en,
+        "Chornice, okr. Svitavy"@fr,
+        "Chornice, okr. Svitavy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravChornice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chornice, okr. Svitavy"@de .
+

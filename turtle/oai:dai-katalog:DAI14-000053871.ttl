@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053871> a skos:Concept ;
+    skos:altLabel "Rethen"@en,
+        "Rethen"@fr,
+        "Rethen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075557> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGifhoRethen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rethen"@de .
+

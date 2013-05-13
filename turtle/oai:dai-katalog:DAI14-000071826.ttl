@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071826> a skos:Concept ;
+    skos:altLabel "Montana Peligna"@en,
+        "Montana Peligna"@fr,
+        "Montana Peligna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039232> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaZZ--RMontana P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montana Peligna"@de .
+

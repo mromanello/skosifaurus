@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040595> a skos:Concept ;
+    skos:altLabel "Lygremarka, Rogaland"@en,
+        "Lygremarka, Rogaland"@fr,
+        "Lygremarka, Rogaland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweLygremark" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lygremarka, Rogaland"@de .
+

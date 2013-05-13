@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028608> a skos:Concept ;
+    skos:altLabel "Neuville-aux-Bois, Musée archéologique"@en,
+        "Neuville-aux-Bois, Musée archéologique"@fr,
+        "Neuville-aux-Bois, Musée archéologique"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuNeuville-aux-Bois, Musée archéologique" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuville-aux-Bois, Musée archéologique"@de .
+

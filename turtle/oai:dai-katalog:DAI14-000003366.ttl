@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003366> a skos:Concept ;
+    skos:altLabel "perirrhanteria and loutheria"@en,
+        "perirrhanteria e loutheria"@it,
+        "perirrhanteria et loutheria"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003335> ;
+    skos:hiddenLabel "xGerPeri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Perirrhanteria und Loutheria"@de .
+

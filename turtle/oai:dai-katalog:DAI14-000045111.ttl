@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045111> a skos:Concept ;
+    skos:altLabel "Saint-Agnan-en-Vercors"@en,
+        "Saint-Agnan-en-Vercors"@fr,
+        "Saint-Agnan-en-Vercors"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômeSaint-Agn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Agnan-en-Vercors"@de .
+

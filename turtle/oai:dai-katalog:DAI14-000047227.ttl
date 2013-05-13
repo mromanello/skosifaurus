@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047227> a skos:Concept ;
+    skos:altLabel "Great Bedwyn"@en,
+        "Great Bedwyn"@fr,
+        "Great Bedwyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077712> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWiltsGreat Bed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Great Bedwyn"@de .
+

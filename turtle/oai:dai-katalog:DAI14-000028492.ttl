@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028492> a skos:Concept ;
+    skos:altLabel "Martigues, Musée Ziem"@en,
+        "Martigues, Musée Ziem"@fr,
+        "Martigues, Musée Ziem"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMartigues, Musée Ziem" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Martigues, Musée Ziem"@de .
+

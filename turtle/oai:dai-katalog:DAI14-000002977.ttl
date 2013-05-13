@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002977> a skos:Concept ;
+    skos:altLabel "cacciatorij"@it,
+        "chasseurs"@fr,
+        "hunters"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002953> ;
+    skos:hiddenLabel "xPlastRundplStJäger" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jäger"@de .
+

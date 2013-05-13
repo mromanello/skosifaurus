@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058417> a skos:Concept ;
+    skos:altLabel "Krumpenthal, VB Leoben"@en,
+        "Krumpenthal, VB Leoben"@fr,
+        "Krumpenthal, VB Leoben"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieKrumpenth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krumpenthal, VB Leoben"@de .
+

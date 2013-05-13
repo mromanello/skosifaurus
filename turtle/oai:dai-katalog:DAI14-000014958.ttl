@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014958> a skos:Concept ;
+    skos:altLabel "Chamanisme"@fr,
+        "Shamanism"@en,
+        "Szamanizm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014938> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligScham" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schamanismus"@de .
+

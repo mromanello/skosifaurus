@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069617> a skos:Concept ;
+    skos:altLabel "Vicomoscano, com. Casalmaggiore"@en,
+        "Vicomoscano, com. Casalmaggiore"@fr,
+        "Vicomoscano, com. Casalmaggiore"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039148> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaCremoVicomosca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vicomoscano, com. Casalmaggiore"@de .
+

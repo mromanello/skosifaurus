@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079411> a skos:Concept ;
+    skos:altLabel "Dumeşti, jud. Vaslui"@en,
+        "Dumeşti, jud. Vaslui"@fr,
+        "Dumeşti, jud. Vaslui"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoDumeşti," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dumeşti, jud. Vaslui"@de .
+

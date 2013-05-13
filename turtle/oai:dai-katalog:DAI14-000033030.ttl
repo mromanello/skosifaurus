@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033030> a skos:Concept ;
+    skos:altLabel "Gălăbnik"@en,
+        "Gălăbnik"@fr,
+        "Gălăbnik"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Gălăbnik" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gălăbnik"@de .
+

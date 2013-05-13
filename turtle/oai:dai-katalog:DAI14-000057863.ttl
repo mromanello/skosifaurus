@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057863> a skos:Concept ;
+    skos:altLabel "Oberwietingberg, VB St. Veit an der Glan"@en,
+        "Oberwietingberg, VB St. Veit an der Glan"@fr,
+        "Oberwietingberg, VB St. Veit an der Glan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntOberwieti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oberwietingberg, VB St. Veit an der Glan"@de .
+

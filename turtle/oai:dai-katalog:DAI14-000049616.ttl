@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049616> a skos:Concept ;
+    skos:altLabel "Veendam"@en,
+        "Veendam"@fr,
+        "Veendam"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038855> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeGroniVeendam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Veendam"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030300> a skos:Concept ;
+    skos:altLabel "Peek, Werner"@en,
+        "Peek, Werner"@fr,
+        "Peek, Werner"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPeek, Werner" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Peek, Werner"@de .
+

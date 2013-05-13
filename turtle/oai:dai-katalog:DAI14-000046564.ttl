@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046564> a skos:Concept ;
+    skos:altLabel "Rescamone"@en,
+        "Rescamone"@fr,
+        "Rescamone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038835> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankCorseHauteRescamone" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rescamone"@de .
+

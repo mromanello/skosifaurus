@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041967> a skos:Concept ;
+    skos:altLabel "Sainte-Cécile"@en,
+        "Sainte-Cécile"@fr,
+        "Sainte-Cécile"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038720> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLuxemSainte-Cé" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sainte-Cécile"@de .
+

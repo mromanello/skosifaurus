@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041955> a skos:Concept ;
+    skos:altLabel "Montaigu-Saint-Thibaut, com. Marcourt"@en,
+        "Montaigu-Saint-Thibaut, com. Marcourt"@fr,
+        "Montaigu-Saint-Thibaut, com. Marcourt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038720> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLuxemMontaigu-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montaigu-Saint-Thibaut, com. Marcourt"@de .
+

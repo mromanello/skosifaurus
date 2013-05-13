@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004140> a skos:Concept ;
+    skos:altLabel "Europa settentrionale (fino al 1997)"@it,
+        "Europe septentrional (jusqu'au 1997)"@fr,
+        "Northern Europe (untill 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgN-Eur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nord-Europa (bis 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019896> a skos:Concept ;
+    skos:altLabel "Bjelomor"@en,
+        "Bjelomor"@fr,
+        "Bjelomor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Bjelomor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bjelomor"@de .
+

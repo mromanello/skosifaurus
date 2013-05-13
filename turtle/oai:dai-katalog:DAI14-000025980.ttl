@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025980> a skos:Concept ;
+    skos:altLabel "Avon 1969"@en,
+        "Avon 1969"@fr,
+        "Avon 1969"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstAvon 1969" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Avon 1969"@de .
+

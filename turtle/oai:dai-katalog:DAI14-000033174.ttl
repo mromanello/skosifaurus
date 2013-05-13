@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033174> a skos:Concept ;
+    skos:altLabel "Kamenz, Museum der Westlausitz"@en,
+        "Kamenz, Museum der Westlausitz"@fr,
+        "Kamenz, Museum der Westlausitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKamenz, Museum der Westlausitz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kamenz, Museum der Westlausitz"@de .
+

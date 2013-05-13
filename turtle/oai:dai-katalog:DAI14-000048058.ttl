@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048058> a skos:Concept ;
+    skos:altLabel "Sherburn, East Yorkshire"@en,
+        "Sherburn, East Yorkshire"@fr,
+        "Sherburn, East Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksSherburn," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sherburn, East Yorkshire"@de .
+

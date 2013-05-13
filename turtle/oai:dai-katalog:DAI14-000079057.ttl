@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079057> a skos:Concept ;
+    skos:altLabel "Velká Rużínská jaskyňa, okr. Košice"@en,
+        "Velká Rużínská jaskyňa, okr. Košice"@fr,
+        "Velká Rużínská jaskyňa, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaVelká Ruż" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Velká Rużínská jaskyňa, okr. Košice"@de .
+

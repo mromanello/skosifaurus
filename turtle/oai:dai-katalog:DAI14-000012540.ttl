@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012540> a skos:Concept ;
+    skos:altLabel "Federmesser"@en,
+        "Pointe à dos courbe (Federmesser)"@fr,
+        "Tylczaki Federmesser/pelnolukowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012535> ;
+    skos:hiddenLabel "yRGKArch03 - FundeGerätSteinAbschFeder" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Federmesser"@de .
+

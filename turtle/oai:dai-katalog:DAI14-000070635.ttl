@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070635> a skos:Concept ;
+    skos:altLabel "Seiser Alm, com. Bolzano"@en,
+        "Seiser Alm, com. Bolzano"@fr,
+        "Seiser Alm, com. Bolzano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaSeiser Al" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seiser Alm, com. Bolzano"@de .
+

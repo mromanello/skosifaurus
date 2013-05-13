@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068504> a skos:Concept ;
+    skos:altLabel "Pomoravlje"@en,
+        "Pomoravlje"@fr,
+        "Pomoravlje"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077454> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiPomoravlj" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pomoravlje"@de .
+

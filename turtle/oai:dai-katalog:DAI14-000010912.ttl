@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010912> a skos:Concept ;
+    skos:altLabel "Domańska, Ewa"@en,
+        "Domańska, Ewa"@fr,
+        "Domańska, Ewa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDomańska, Ewa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Domańska, Ewa"@de .
+

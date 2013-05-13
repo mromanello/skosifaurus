@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057771> a skos:Concept ;
+    skos:altLabel "Dörfl, VB Oberpullendorf"@en,
+        "Dörfl, VB Oberpullendorf"@fr,
+        "Dörfl, VB Oberpullendorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038995> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterBurgeDörfl, VB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dörfl, VB Oberpullendorf"@de .
+

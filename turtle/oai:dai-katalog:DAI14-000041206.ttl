@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041206> a skos:Concept ;
+    skos:altLabel "Vrå, Uppland"@en,
+        "Vrå, Uppland"@fr,
+        "Vrå, Uppland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Vrå, Uppl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vrå, Uppland"@de .
+

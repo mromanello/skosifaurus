@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007775> a skos:Concept ;
+    skos:altLabel "Brøgger, Anton Wilhelm"@en,
+        "Brøgger, Anton Wilhelm"@fr,
+        "Brøgger, Anton Wilhelm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBrøgger, Anton Wilhelm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brøgger, Anton Wilhelm"@de .
+

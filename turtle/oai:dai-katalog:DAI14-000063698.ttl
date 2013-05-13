@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063698> a skos:Concept ;
+    skos:altLabel "Křiżatky, okr. Most"@en,
+        "Křiżatky, okr. Most"@fr,
+        "Křiżatky, okr. Most"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKřiżatky," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Křiżatky, okr. Most"@de .
+

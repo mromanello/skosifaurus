@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022995> a skos:Concept ;
+    skos:altLabel "Historia Regum Anglorum"@en,
+        "Historia Regum Anglorum"@fr,
+        "Historia Regum Anglorum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012490> ;
+    skos:hiddenLabel "yRGKArch02 - SchriHistoHistoria Regum Anglorum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Historia Regum Anglorum"@de .
+

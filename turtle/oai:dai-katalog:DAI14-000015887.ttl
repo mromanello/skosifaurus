@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015887> a skos:Concept ;
+    skos:altLabel "Kwestorzy"@pl,
+        "Quaestorship"@en,
+        "Questure"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015884> ;
+    skos:hiddenLabel "yRGKArch09 - GeselGeselSoziaRömisAmtstQuäst" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quästoren"@de .
+

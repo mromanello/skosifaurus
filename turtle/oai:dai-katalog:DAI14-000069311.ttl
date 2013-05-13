@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069311> a skos:Concept ;
+    skos:altLabel "Khania, Kriti"@en,
+        "Khania, Kriti"@fr,
+        "Khania, Kriti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039141> ;
+    skos:hiddenLabel "zTopogEuropSüdeuGriecKhania, K" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Khania, Kriti"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076572> a skos:Concept ;
+    skos:altLabel "Eynan (Ain Mallaha), Israel"@en,
+        "Eynan (Ain Mallaha), Israel"@fr,
+        "Eynan (Ain Mallaha), Israel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeEynan (Ai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eynan (Ain Mallaha), Israel"@de .
+

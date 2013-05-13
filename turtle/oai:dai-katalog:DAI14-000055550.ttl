@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055550> a skos:Concept ;
+    skos:altLabel "Kobern, Nieder- und Oberburg"@en,
+        "Kobern, Nieder- und Oberburg"@fr,
+        "Kobern, Nieder- und Oberburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038923> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKobleKobern, N" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kobern, Nieder- und Oberburg"@de .
+

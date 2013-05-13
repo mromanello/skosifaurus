@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029739> a skos:Concept ;
+    skos:altLabel "Sarmizegetusa, Muzeul de Arheologie"@en,
+        "Sarmizegetusa, Muzeul de Arheologie"@fr,
+        "Sarmizegetusa, Muzeul de Arheologie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSarmizegetusa, Muzeul de Arheologie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarmizegetusa, Muzeul de Arheologie"@de .
+

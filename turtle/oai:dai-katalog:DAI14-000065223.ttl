@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065223> a skos:Concept ;
+    skos:altLabel "Nagytöke"@en,
+        "Nagytöke"@fr,
+        "Nagytöke"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039084> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunCsongNagytöke" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nagytöke"@de .
+

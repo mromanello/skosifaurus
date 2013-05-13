@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030965> a skos:Concept ;
+    skos:altLabel "Prehistoric Society"@en,
+        "Prehistoric Society"@fr,
+        "Prehistoric Society"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiPrehistoric Society" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prehistoric Society"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003026> a skos:Concept ;
+    skos:altLabel "barbares"@fr,
+        "barbari"@it,
+        "barbars"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003022> ;
+    skos:hiddenLabel "xPlastRundplKopfBarb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barbaren"@de .
+

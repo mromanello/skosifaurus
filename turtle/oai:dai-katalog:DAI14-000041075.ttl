@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041075> a skos:Concept ;
+    skos:altLabel "Sandeplan, Skåne"@en,
+        "Sandeplan, Skåne"@fr,
+        "Sandeplan, Skåne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Sandeplan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sandeplan, Skåne"@de .
+

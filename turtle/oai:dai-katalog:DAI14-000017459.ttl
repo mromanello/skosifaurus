@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017459> a skos:Concept ;
+    skos:altLabel "Funerary reliefs"@en,
+        "Plaques tombales et pierres tombales"@fr,
+        "Plyty i kamienie nagrobne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017454> ;
+    skos:hiddenLabel "yRGKArch11 - FundeKunstRelieGrabp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grabplatten und Grabsteine"@de .
+

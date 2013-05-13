@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084062> a skos:Concept ;
+    skos:altLabel "Niedertraubling"@en,
+        "Niedertraubling"@fr,
+        "Niedertraubling"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075451> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRegenNiedertra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niedertraubling"@de .
+

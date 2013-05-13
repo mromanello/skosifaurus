@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013217> a skos:Concept ;
+    skos:altLabel "Children"@en,
+        "Dzieci"@pl,
+        "Enfants"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013215> ;
+    skos:hiddenLabel "yRGKArch05 - GeselGeselKinde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kinder"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007401> a skos:Concept ;
+    skos:altLabel "Archeologia chrześcijaństwa"@pl,
+        "Archéologie chrétienne"@fr,
+        "Christian archaeology"@en ;
+    skos:broader <http://data.dainst.de/zenon/000007395> ;
+    skos:hiddenLabel "yForschWisseArchäChris" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Christliche Archäologie"@de .
+

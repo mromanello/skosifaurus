@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075248> a skos:Concept ;
+    skos:altLabel "Tinmal"@en,
+        "Tinmal"@fr,
+        "Tinmal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039403> ;
+    skos:hiddenLabel "zTopogAfrikNordaMarokTinmal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tinmal"@de .
+

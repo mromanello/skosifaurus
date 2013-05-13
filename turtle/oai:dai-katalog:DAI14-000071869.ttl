@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071869> a skos:Concept ;
+    skos:altLabel "Valdera"@en,
+        "Valdera"@fr,
+        "Valdera"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039232> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaZZ--RValdera" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valdera"@de .
+

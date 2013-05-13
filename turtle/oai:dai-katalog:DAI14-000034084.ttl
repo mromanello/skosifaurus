@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034084> a skos:Concept ;
+    skos:altLabel "Cartagena 2009/2010"@en,
+        "Cartagena 2009/2010"@fr,
+        "Cartagena 2009/2010"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstCartagena 2009/2010" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cartagena 2009/2010"@de .
+

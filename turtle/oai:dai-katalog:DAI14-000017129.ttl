@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017129> a skos:Concept ;
+    skos:altLabel "Seismologie/tremblements de terre"@fr,
+        "Seismology/earthquakes"@en,
+        "Sejsmologia/trzesienia ziemi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017127> ;
+    skos:hiddenLabel "yRGKArch10 - NaturGeoloSeism" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seismologie/Erdbeben"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075965> a skos:Concept ;
+    skos:altLabel "Širokij Mys"@en,
+        "Širokij Mys"@fr,
+        "Širokij Mys"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiŠirokij M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Širokij Mys"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074210> a skos:Concept ;
+    skos:altLabel "Udabno"@en,
+        "Udabno"@fr,
+        "Udabno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039383> ;
+    skos:hiddenLabel "zTopogAsienVordeGeorgUdabno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Udabno"@de .
+

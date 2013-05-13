@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084826> a skos:Concept ;
+    skos:altLabel "Katymár-téglagyári"@en,
+        "Katymár-téglagyári"@fr,
+        "Katymár-téglagyári"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039081> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBács-Katymár-téglagyári" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Katymár-téglagyári"@de .
+

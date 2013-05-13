@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055423> a skos:Concept ;
+    skos:altLabel "Meisenheim am Glan"@en,
+        "Meisenheim am Glan"@fr,
+        "Meisenheim am Glan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038913> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinBad KMeisenhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meisenheim am Glan"@de .
+

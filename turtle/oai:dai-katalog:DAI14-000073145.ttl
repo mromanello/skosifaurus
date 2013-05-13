@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073145> a skos:Concept ;
+    skos:altLabel "Velilla de Ebro"@en,
+        "Velilla de Ebro"@fr,
+        "Velilla de Ebro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039318> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóZaragVelilla d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Velilla de Ebro"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049034> a skos:Concept ;
+    skos:altLabel "Barra (Isle, Outer Hebrides)"@en,
+        "Barra (Isle, Outer Hebrides)"@fr,
+        "Barra (Isle, Outer Hebrides)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlBarra (Is" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barra (Isle, Outer Hebrides)"@de .
+

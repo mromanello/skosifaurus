@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062869> a skos:Concept ;
+    skos:altLabel "Rišňovce, okr. Nitra"@en,
+        "Rišňovce, okr. Nitra"@fr,
+        "Rišňovce, okr. Nitra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaRišňovce," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rišňovce, okr. Nitra"@de .
+

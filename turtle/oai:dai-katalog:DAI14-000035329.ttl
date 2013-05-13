@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035329> a skos:Concept ;
+    skos:altLabel "Bonn/ Herford 1989/ 90"@en,
+        "Bonn/ Herford 1989/ 90"@fr,
+        "Bonn/ Herford 1989/ 90"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBonn/ Herford 1989/ 90" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonn/ Herford 1989/ 90"@de .
+

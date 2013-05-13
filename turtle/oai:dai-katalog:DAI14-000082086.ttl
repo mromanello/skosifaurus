@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082086> a skos:Concept ;
+    skos:altLabel "Niederdonven-Schaed"@en,
+        "Niederdonven-Schaed"@fr,
+        "Niederdonven-Schaed"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038847> ;
+    skos:hiddenLabel "zTopogEuropWesteLuxemNiederdon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niederdonven-Schaed"@de .
+

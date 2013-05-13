@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029667> a skos:Concept ;
+    skos:altLabel "Odense So, Fyns Oldtid-Hollufgård"@en,
+        "Odense So, Fyns Oldtid-Hollufgård"@fr,
+        "Odense So, Fyns Oldtid-Hollufgård"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuOdense So, Fyns Oldtid-Hollufgård" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Odense So, Fyns Oldtid-Hollufgård"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039086> a skos:Concept ;
+    skos:altLabel "Heves"@en,
+        "Heves"@fr,
+        "Heves"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039080> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunHeves" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heves"@de .
+

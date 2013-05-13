@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060232> a skos:Concept ;
+    skos:altLabel "Sochaczew-Trojanów"@en,
+        "Sochaczew-Trojanów"@fr,
+        "Sochaczew-Trojanów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039020> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowMazowSochaczew" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sochaczew-Trojanów"@de .
+

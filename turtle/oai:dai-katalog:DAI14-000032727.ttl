@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032727> a skos:Concept ;
+    skos:altLabel "Nymphe"@en,
+        "Nymphe"@fr,
+        "Nymphe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016916> ;
+    skos:hiddenLabel "yRGKArch10 - GeselKunstIkonoSakraMythoMythoNymphe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nymphe"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073860> a skos:Concept ;
+    skos:altLabel "Mairena de Alcor"@en,
+        "Mairena de Alcor"@fr,
+        "Mairena de Alcor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039358> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalSevilMairena d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mairena de Alcor"@de .
+

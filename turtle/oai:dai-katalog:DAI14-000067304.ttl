@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067304> a skos:Concept ;
+    skos:altLabel "Piatra-Sat, jud. Olt"@en,
+        "Piatra-Sat, jud. Olt"@fr,
+        "Piatra-Sat, jud. Olt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenPiatra-Sa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Piatra-Sat, jud. Olt"@de .
+

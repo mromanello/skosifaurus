@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023457> a skos:Concept ;
+    skos:altLabel "Ptolemäer"@en,
+        "Ptolemäer"@fr,
+        "Ptolemäer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014981> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKunstIkonoProfaMenscPortrPtolemäer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ptolemäer"@de .
+

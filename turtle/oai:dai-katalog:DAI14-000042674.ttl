@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042674> a skos:Concept ;
+    skos:altLabel "Étiolles"@en,
+        "Étiolles"@fr,
+        "Étiolles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038737> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEssonÉtiolles" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Étiolles"@de .
+

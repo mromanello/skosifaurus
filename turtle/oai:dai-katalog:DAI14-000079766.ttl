@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079766> a skos:Concept ;
+    skos:altLabel "Contrada Stretto-Partanna"@en,
+        "Contrada Stretto-Partanna"@fr,
+        "Contrada Stretto-Partanna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039268> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilTrapaContrada" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Contrada Stretto-Partanna"@de .
+

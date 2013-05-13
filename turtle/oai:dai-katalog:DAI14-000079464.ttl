@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079464> a skos:Concept ;
+    skos:altLabel "Saint-Gabriel"@en,
+        "Saint-Gabriel"@fr,
+        "Saint-Gabriel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchSaint-Gab" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Gabriel"@de .
+

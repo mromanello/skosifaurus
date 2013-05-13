@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072848> a skos:Concept ;
+    skos:altLabel "Monte da Tumba"@en,
+        "Monte da Tumba"@fr,
+        "Monte da Tumba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039294> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuSetúbMonte da" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte da Tumba"@de .
+

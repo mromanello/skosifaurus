@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065874> a skos:Concept ;
+    skos:altLabel "Umarevci"@en,
+        "Umarevci"@fr,
+        "Umarevci"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039107> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaVelikLovecUmarevci" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Umarevci"@de .
+

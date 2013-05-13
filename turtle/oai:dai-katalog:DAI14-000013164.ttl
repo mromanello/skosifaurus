@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013164> a skos:Concept ;
+    skos:altLabel "Burials in crouched position"@en,
+        "Corps repliés"@fr,
+        "Pochówki w pozycji siedzacej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013163> ;
+    skos:hiddenLabel "yRGKArch05 - GräbeBestaKörpeHocke" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hockerbestattungen"@de .
+

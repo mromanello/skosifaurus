@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010687> a skos:Concept ;
+    skos:altLabel "Seengen, \"Steinzeitwerkstätte\""@en,
+        "Seengen, \"Steinzeitwerkstätte\""@fr,
+        "Seengen, \"Steinzeitwerkstätte\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiSeengen, \"Steinzeitwerkstätte\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seengen, \"Steinzeitwerkstätte\""@de .
+

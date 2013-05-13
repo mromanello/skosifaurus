@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004921> a skos:Concept ;
+    skos:altLabel "Gran-Bretagna"@it,
+        "Grande-Bretagne"@fr,
+        "Great Britain"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003753> ;
+    skos:hiddenLabel "xEpigrGrEWGGB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gross-Britannien"@de .
+

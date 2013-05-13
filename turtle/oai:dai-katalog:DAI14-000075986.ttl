@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075986> a skos:Concept ;
+    skos:altLabel "Hoopte, Stadt Winsen"@en,
+        "Hoopte, Stadt Winsen"@fr,
+        "Hoopte, Stadt Winsen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075585> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHarbuHoopte, S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hoopte, Stadt Winsen"@de .
+

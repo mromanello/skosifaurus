@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074385> a skos:Concept ;
+    skos:altLabel "Abu Halka, Libanon"@en,
+        "Abu Halka, Libanon"@fr,
+        "Abu Halka, Libanon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039389> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieAbu Halka" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Abu Halka, Libanon"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043568> a skos:Concept ;
+    skos:altLabel "Issoudun"@en,
+        "Issoudun"@fr,
+        "Issoudun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038761> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIndreIssoudun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Issoudun"@de .
+

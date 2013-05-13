@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047181> a skos:Concept ;
+    skos:altLabel "Frampton-on-Severn"@en,
+        "Frampton-on-Severn"@fr,
+        "Frampton-on-Severn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077689> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaGloucFrampton-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frampton-on-Severn"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006690> a skos:Concept ;
+    skos:altLabel "Mercklin, Eugen v."@en,
+        "Mercklin, Eugen v."@fr,
+        "Mercklin, Eugen v."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsMercklin, Eugen v." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mercklin, Eugen v."@de .
+

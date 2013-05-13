@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027584> a skos:Concept ;
+    skos:altLabel "Arles, Musée Archéologique"@en,
+        "Arles, Musée Archéologique"@fr,
+        "Arles, Musée Archéologique"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuArles, Musée Archéologique" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arles, Musée Archéologique"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011785> a skos:Concept ;
+    skos:altLabel "Prieto Martínez, M. Pilar"@en,
+        "Prieto Martínez, M. Pilar"@fr,
+        "Prieto Martínez, M. Pilar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPrieto Martínez, M. Pilar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prieto Martínez, M. Pilar"@de .
+

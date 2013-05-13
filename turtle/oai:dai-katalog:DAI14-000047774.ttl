@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047774> a skos:Concept ;
+    skos:altLabel "Newquay-Trethallan Farm"@en,
+        "Newquay-Trethallan Farm"@fr,
+        "Newquay-Trethallan Farm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077682> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCornwNewquay-T" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Newquay-Trethallan Farm"@de .
+

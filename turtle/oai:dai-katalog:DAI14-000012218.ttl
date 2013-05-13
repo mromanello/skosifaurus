@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012218> a skos:Concept ;
+    skos:altLabel "Gelzer, Thomas"@en,
+        "Gelzer, Thomas"@fr,
+        "Gelzer, Thomas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGelzer, Thomas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gelzer, Thomas"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021343> a skos:Concept ;
+    skos:altLabel "Coenwulf <of Mercia>"@en,
+        "Coenwulf <of Mercia>"@fr,
+        "Coenwulf <of Mercia>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCoenwulf <of Mercia>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Coenwulf <of Mercia>"@de .
+

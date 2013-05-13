@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028088> a skos:Concept ;
+    skos:altLabel "Gan Hashlosha, Museum of Mediterranean Archaeology Nir David"@en,
+        "Gan Hashlosha, Museum of Mediterranean Archaeology Nir David"@fr,
+        "Gan Hashlosha, Museum of Mediterranean Archaeology Nir David"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGan Hashlosha, Museum of Mediterranean Archaeology Nir David" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gan Hashlosha, Museum of Mediterranean Archaeology Nir David"@de .
+

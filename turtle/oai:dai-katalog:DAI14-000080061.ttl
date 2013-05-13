@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080061> a skos:Concept ;
+    skos:altLabel "Riedling, Gde. Oberschneiding"@en,
+        "Riedling, Gde. Oberschneiding"@fr,
+        "Riedling, Gde. Oberschneiding"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075460> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerStrauRiedling," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Riedling, Gde. Oberschneiding"@de .
+

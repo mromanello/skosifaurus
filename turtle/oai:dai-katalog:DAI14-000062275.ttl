@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062275> a skos:Concept ;
+    skos:altLabel "Champex"@en,
+        "Champex"@fr,
+        "Champex"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039055> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweWalliChampex" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Champex"@de .
+

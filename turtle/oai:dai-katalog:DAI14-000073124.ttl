@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073124> a skos:Concept ;
+    skos:altLabel "Calatayud"@en,
+        "Calatayud"@fr,
+        "Calatayud"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039318> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóZaragCalatayud" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Calatayud"@de .
+

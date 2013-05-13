@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012228> a skos:Concept ;
+    skos:altLabel "Hohenlimburg, Museum, Abteilung Ur- und Frühgeschichte"@en,
+        "Hohenlimburg, Museum, Abteilung Ur- und Frühgeschichte"@fr,
+        "Hohenlimburg, Museum, Abteilung Ur- und Frühgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiHohenlimburg, Museum, Abteilung Ur- und Frühgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hohenlimburg, Museum, Abteilung Ur- und Frühgeschichte"@de .
+

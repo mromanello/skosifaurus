@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039807> a skos:Concept ;
+    skos:altLabel "Danevirke"@en,
+        "Danevirke"@fr,
+        "Danevirke"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemDanevirke" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Danevirke"@de .
+

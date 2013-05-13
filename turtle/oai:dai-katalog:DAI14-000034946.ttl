@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034946> a skos:Concept ;
+    skos:altLabel "Aalen 1998"@en,
+        "Aalen 1998"@fr,
+        "Aalen 1998"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrAalen 1998" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aalen 1998"@de .
+

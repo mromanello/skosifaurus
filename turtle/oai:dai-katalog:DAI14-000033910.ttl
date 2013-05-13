@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033910> a skos:Concept ;
+    skos:altLabel "Eukratidas <Baktrien, König>"@en,
+        "Eukratidas <Baktrien, König>"@fr,
+        "Eukratidas <Baktrien, König>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEukratidas <Baktrien, König>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eukratidas <Baktrien, König>"@de .
+

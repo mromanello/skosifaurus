@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010407> a skos:Concept ;
+    skos:altLabel "Zindel, Christian"@en,
+        "Zindel, Christian"@fr,
+        "Zindel, Christian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZindel, Christian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zindel, Christian"@de .
+

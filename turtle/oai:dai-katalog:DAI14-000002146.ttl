@@ -1,0 +1,1080 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002146_Quercy1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Quercy 1979" .
+
+<http://data.dainst.de/zenon/000002146_Québec1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Québec 1984" .
+
+<http://data.dainst.de/zenon/000002146_Québec1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Québec 1994" .
+
+<http://data.dainst.de/zenon/000002146_Québec1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Québec 1997" .
+
+<http://data.dainst.de/zenon/000002146_Québec2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Québec 2003" .
+
+<http://data.dainst.de/zenon/000002146_Québec2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Québec 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rabat2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rabat 2004" .
+
+<http://data.dainst.de/zenon/000002146_Racine1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Racine 1961" .
+
+<http://data.dainst.de/zenon/000002146_Ragusa1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ragusa 1986" .
+
+<http://data.dainst.de/zenon/000002146_Ragusa1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ragusa 1998" .
+
+<http://data.dainst.de/zenon/000002146_Ragusa2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ragusa 2002" .
+
+<http://data.dainst.de/zenon/000002146_Ragusa2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ragusa 2003" .
+
+<http://data.dainst.de/zenon/000002146_Ragusa2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ragusa 2012" .
+
+<http://data.dainst.de/zenon/000002146_Raito1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Raito 1993" .
+
+<http://data.dainst.de/zenon/000002146_Raito1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Raito 1994" .
+
+<http://data.dainst.de/zenon/000002146_RamatGan2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ramat Gan 2001" .
+
+<http://data.dainst.de/zenon/000002146_Rapallo1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rapallo 1978" .
+
+<http://data.dainst.de/zenon/000002146_Ratzeburg1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ratzeburg 1983" .
+
+<http://data.dainst.de/zenon/000002146_Rauischholzhausen1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rauischholzhausen 1998" .
+
+<http://data.dainst.de/zenon/000002146_Rauischholzhausen2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rauischholzhausen 2003" .
+
+<http://data.dainst.de/zenon/000002146_Rauischholzhausen2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rauischholzhausen 2004" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1985" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1986" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1987" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1988" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1989" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1989-90> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1989-90" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1990" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1991" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1992" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1993" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1994" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1996" .
+
+<http://data.dainst.de/zenon/000002146_Ravello1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 1997" .
+
+<http://data.dainst.de/zenon/000002146_Ravello2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravello 2005" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1956> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1956" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1957" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1958" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1959> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1959" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1960" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1961" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1962" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1963" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1964" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1965" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1966" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1967" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1968" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1969" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1970" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1971" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1972" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1973" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1974" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1975" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1976" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1977" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1978" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1979" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1980" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1981" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1982" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1983" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1984" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1985" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1986" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1987" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1988" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1989" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1990" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1991" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1992" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1993" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1994" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1995" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1997" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1998" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 1999" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2000" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2001" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2002" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2004" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2006" .
+
+<http://data.dainst.de/zenon/000002146_Ravenna2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenna 2007" .
+
+<http://data.dainst.de/zenon/000002146_Ravenstein2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ravenstein 2008" .
+
+<http://data.dainst.de/zenon/000002146_Razgrad1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Razgrad 1985" .
+
+<http://data.dainst.de/zenon/000002146_Razgrad1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Razgrad 1987" .
+
+<http://data.dainst.de/zenon/000002146_Reading1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reading 1995" .
+
+<http://data.dainst.de/zenon/000002146_Reading2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reading 2000" .
+
+<http://data.dainst.de/zenon/000002146_Reading2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reading 2008" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1957" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1984" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1992" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1993" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1994" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 1998" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 2000" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 2001" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 2002" .
+
+<http://data.dainst.de/zenon/000002146_Regensburg2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Regensburg 2009" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1964" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1969" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1977" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1985" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1986" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1988" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 1999" .
+
+<http://data.dainst.de/zenon/000002146_ReggioCalabria2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reggio Calabria 2004" .
+
+<http://data.dainst.de/zenon/000002146_Reichenau1976-77> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reichenau 1976-77" .
+
+<http://data.dainst.de/zenon/000002146_Reims1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 1970" .
+
+<http://data.dainst.de/zenon/000002146_Reims1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 1981" .
+
+<http://data.dainst.de/zenon/000002146_Reims1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 1985" .
+
+<http://data.dainst.de/zenon/000002146_Reims1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 1992" .
+
+<http://data.dainst.de/zenon/000002146_Reims1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 1996" .
+
+<http://data.dainst.de/zenon/000002146_Reims2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reims 2008" .
+
+<http://data.dainst.de/zenon/000002146_Reinhausen1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reinhausen 1968" .
+
+<http://data.dainst.de/zenon/000002146_Reinhausen1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Reinhausen 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rende1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rende 1993" .
+
+<http://data.dainst.de/zenon/000002146_Rende2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rende 2002" .
+
+<http://data.dainst.de/zenon/000002146_Rennes1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 1966" .
+
+<http://data.dainst.de/zenon/000002146_Rennes1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rennes1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 1977" .
+
+<http://data.dainst.de/zenon/000002146_Rennes1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 1985" .
+
+<http://data.dainst.de/zenon/000002146_Rennes1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 1999" .
+
+<http://data.dainst.de/zenon/000002146_Rennes2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 2001" .
+
+<http://data.dainst.de/zenon/000002146_Rennes2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 2003" .
+
+<http://data.dainst.de/zenon/000002146_Rennes2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rennes 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rethymnon1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rethymnon 1997" .
+
+<http://data.dainst.de/zenon/000002146_Rethymnon2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rethymnon 2002" .
+
+<http://data.dainst.de/zenon/000002146_Rheda1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rheda 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rheinfelden1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rheinfelden 1957" .
+
+<http://data.dainst.de/zenon/000002146_Rhethymnon1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhethymnon 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rhethymnon2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhethymnon 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 1989" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 1999" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 2001" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 2002" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rhodos2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rhodos 2005" .
+
+<http://data.dainst.de/zenon/000002146_Richmond2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Richmond 2003" .
+
+<http://data.dainst.de/zenon/000002146_Rieti1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rieti 1974" .
+
+<http://data.dainst.de/zenon/000002146_Rieti1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rieti 1979" .
+
+<http://data.dainst.de/zenon/000002146_Rieti1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rieti 1981" .
+
+<http://data.dainst.de/zenon/000002146_Rieti1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rieti 1991" .
+
+<http://data.dainst.de/zenon/000002146_Rieti1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rieti 1993" .
+
+<http://data.dainst.de/zenon/000002146_Riggisberg1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Riggisberg 1991" .
+
+<http://data.dainst.de/zenon/000002146_Riggisberg2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Riggisberg 2001" .
+
+<http://data.dainst.de/zenon/000002146_RilskiMonastir1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rilski Monastir 1977" .
+
+<http://data.dainst.de/zenon/000002146_Rimini1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 1962" .
+
+<http://data.dainst.de/zenon/000002146_Rimini1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 1992" .
+
+<http://data.dainst.de/zenon/000002146_Rimini1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 1993" .
+
+<http://data.dainst.de/zenon/000002146_Rimini1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 1994" .
+
+<http://data.dainst.de/zenon/000002146_Rimini2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 2002" .
+
+<http://data.dainst.de/zenon/000002146_Rimini2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rimini 2007" .
+
+<http://data.dainst.de/zenon/000002146_Ringberg1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ringberg 1985" .
+
+<http://data.dainst.de/zenon/000002146_Ripoll1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ripoll 1968" .
+
+<http://data.dainst.de/zenon/000002146_RivadelGarda1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Riva del Garda 1998" .
+
+<http://data.dainst.de/zenon/000002146_RivadelGarda2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Riva del Garda 2009" .
+
+<http://data.dainst.de/zenon/000002146_Riyadh1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Riyadh 1977" .
+
+<http://data.dainst.de/zenon/000002146_Roanne1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roanne 1963" .
+
+<http://data.dainst.de/zenon/000002146_Roma1955> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1955" .
+
+<http://data.dainst.de/zenon/000002146_Roma1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1957" .
+
+<http://data.dainst.de/zenon/000002146_Roma1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1958" .
+
+<http://data.dainst.de/zenon/000002146_Roma1959> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1959" .
+
+<http://data.dainst.de/zenon/000002146_Roma1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1961" .
+
+<http://data.dainst.de/zenon/000002146_Roma1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1962" .
+
+<http://data.dainst.de/zenon/000002146_Roma1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1963" .
+
+<http://data.dainst.de/zenon/000002146_Roma1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1965" .
+
+<http://data.dainst.de/zenon/000002146_Roma1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1966" .
+
+<http://data.dainst.de/zenon/000002146_Roma1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1967" .
+
+<http://data.dainst.de/zenon/000002146_Roma1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1968" .
+
+<http://data.dainst.de/zenon/000002146_Roma1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1969" .
+
+<http://data.dainst.de/zenon/000002146_Roma1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1970" .
+
+<http://data.dainst.de/zenon/000002146_Roma1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1971" .
+
+<http://data.dainst.de/zenon/000002146_Roma1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1972" .
+
+<http://data.dainst.de/zenon/000002146_Roma1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1973" .
+
+<http://data.dainst.de/zenon/000002146_Roma1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1974" .
+
+<http://data.dainst.de/zenon/000002146_Roma1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1975" .
+
+<http://data.dainst.de/zenon/000002146_Roma1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1976" .
+
+<http://data.dainst.de/zenon/000002146_Roma1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1977" .
+
+<http://data.dainst.de/zenon/000002146_Roma1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1978" .
+
+<http://data.dainst.de/zenon/000002146_Roma1978-79> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1978-79" .
+
+<http://data.dainst.de/zenon/000002146_Roma1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1979" .
+
+<http://data.dainst.de/zenon/000002146_Roma1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1980" .
+
+<http://data.dainst.de/zenon/000002146_Roma1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1981" .
+
+<http://data.dainst.de/zenon/000002146_Roma1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1982" .
+
+<http://data.dainst.de/zenon/000002146_Roma1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1983" .
+
+<http://data.dainst.de/zenon/000002146_Roma1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1984" .
+
+<http://data.dainst.de/zenon/000002146_Roma1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1985" .
+
+<http://data.dainst.de/zenon/000002146_Roma1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1986" .
+
+<http://data.dainst.de/zenon/000002146_Roma1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1987" .
+
+<http://data.dainst.de/zenon/000002146_Roma1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1988" .
+
+<http://data.dainst.de/zenon/000002146_Roma1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1989" .
+
+<http://data.dainst.de/zenon/000002146_Roma1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1990" .
+
+<http://data.dainst.de/zenon/000002146_Roma1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1991" .
+
+<http://data.dainst.de/zenon/000002146_Roma1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1992" .
+
+<http://data.dainst.de/zenon/000002146_Roma1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1993" .
+
+<http://data.dainst.de/zenon/000002146_Roma1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1994" .
+
+<http://data.dainst.de/zenon/000002146_Roma1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1995" .
+
+<http://data.dainst.de/zenon/000002146_Roma1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1996" .
+
+<http://data.dainst.de/zenon/000002146_Roma1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1997" .
+
+<http://data.dainst.de/zenon/000002146_Roma1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1998" .
+
+<http://data.dainst.de/zenon/000002146_Roma1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 1999" .
+
+<http://data.dainst.de/zenon/000002146_Roma2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2000" .
+
+<http://data.dainst.de/zenon/000002146_Roma2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2001" .
+
+<http://data.dainst.de/zenon/000002146_Roma2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2002" .
+
+<http://data.dainst.de/zenon/000002146_Roma2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2003" .
+
+<http://data.dainst.de/zenon/000002146_Roma2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2004" .
+
+<http://data.dainst.de/zenon/000002146_Roma2004-05> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2004-05" .
+
+<http://data.dainst.de/zenon/000002146_Roma2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2005" .
+
+<http://data.dainst.de/zenon/000002146_Roma2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2006" .
+
+<http://data.dainst.de/zenon/000002146_Roma2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2007" .
+
+<http://data.dainst.de/zenon/000002146_Roma2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2008" .
+
+<http://data.dainst.de/zenon/000002146_Roma2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2009" .
+
+<http://data.dainst.de/zenon/000002146_Roma2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2010" .
+
+<http://data.dainst.de/zenon/000002146_Roma2011> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roma 2011" .
+
+<http://data.dainst.de/zenon/000002146_Rosenheim1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rosenheim 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rosenheim2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rosenheim 2000" .
+
+<http://data.dainst.de/zenon/000002146_Roskilde1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roskilde 1984" .
+
+<http://data.dainst.de/zenon/000002146_Roskilde1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roskilde 1991" .
+
+<http://data.dainst.de/zenon/000002146_Roskilde2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Roskilde 2003" .
+
+<http://data.dainst.de/zenon/000002146_Rossano1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rossano 1978" .
+
+<http://data.dainst.de/zenon/000002146_Rossano1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rossano 1992" .
+
+<http://data.dainst.de/zenon/000002146_Rossano1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rossano 1994" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1965" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1968" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1969" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1973" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1978" .
+
+<http://data.dainst.de/zenon/000002146_Rostock1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 1992" .
+
+<http://data.dainst.de/zenon/000002146_Rostock2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 2001" .
+
+<http://data.dainst.de/zenon/000002146_Rostock2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rostock2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 2005" .
+
+<http://data.dainst.de/zenon/000002146_Rostock2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostock 2008" .
+
+<http://data.dainst.de/zenon/000002146_Rostov1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rostov 1971" .
+
+<http://data.dainst.de/zenon/000002146_Rotenburg1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rotenburg 1984" .
+
+<http://data.dainst.de/zenon/000002146_Rothenberge1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rothenberge 1994" .
+
+<http://data.dainst.de/zenon/000002146_Rottenburga.N.1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rottenburg a.N. 1988" .
+
+<http://data.dainst.de/zenon/000002146_Rotterdam1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rotterdam 1984" .
+
+<http://data.dainst.de/zenon/000002146_Rotterdam2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rotterdam 2001" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1956> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1956" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1975" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1982" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1983" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1987" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1991" .
+
+<http://data.dainst.de/zenon/000002146_Rouen1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 1998" .
+
+<http://data.dainst.de/zenon/000002146_Rouen2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rouen 2000" .
+
+<http://data.dainst.de/zenon/000002146_Rovereto1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovereto 1977" .
+
+<http://data.dainst.de/zenon/000002146_Rovereto1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovereto 1978" .
+
+<http://data.dainst.de/zenon/000002146_Rovereto1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovereto 1990" .
+
+<http://data.dainst.de/zenon/000002146_Rovereto2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovereto 2000" .
+
+<http://data.dainst.de/zenon/000002146_Rovigno1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovigno 1986" .
+
+<http://data.dainst.de/zenon/000002146_Rovigo1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovigo 1972" .
+
+<http://data.dainst.de/zenon/000002146_Rovigo1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovigo 1974" .
+
+<http://data.dainst.de/zenon/000002146_Rovigo1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rovigo 1989" .
+
+<http://data.dainst.de/zenon/000002146_Royaumont1955> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Royaumont 1955" .
+
+<http://data.dainst.de/zenon/000002146_Rully1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rully 1983" .
+
+<http://data.dainst.de/zenon/000002146_Rungsted1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rungsted 1995" .
+
+<http://data.dainst.de/zenon/000002146_Ruse1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ruse 1977" .
+
+<http://data.dainst.de/zenon/000002146_Russi1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Russi 1970" .
+
+<http://data.dainst.de/zenon/000002146_Russi1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Russi 1979" .
+
+<http://data.dainst.de/zenon/000002146_Ruvo1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Ruvo 1974" .
+
+<http://data.dainst.de/zenon/000002146_Rzeszów2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rzeszów 2000" .
+
+<http://data.dainst.de/zenon/000002146_RîmnicuVîlcea1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rîmnicu Vîlcea 1981" .
+
+<http://data.dainst.de/zenon/000002146_Römhild2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Römhild 2004" .
+
+<http://data.dainst.de/zenon/000002146_Rüschlikon2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002146> ;
+    skos:prefLabel "Rüschlikon 2004" .
+
+<http://data.dainst.de/zenon/000002146> a skos:Concept ;
+    skos:altLabel "congresses and meetings Q-R"@en,
+        "congressi, convegni, giornate di studio Q-R"@it,
+        "congrès et journées d'études Q-R"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002135> ;
+    skos:hiddenLabel "xPraxKongrQ-R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kongresse und Tagungen Q-R"@de .
+

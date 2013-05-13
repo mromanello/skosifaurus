@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040750> a skos:Concept ;
+    skos:altLabel "Setesdal-Tal"@en,
+        "Setesdal-Tal"@fr,
+        "Setesdal-Tal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077437> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweSetesdal-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Setesdal-Tal"@de .
+

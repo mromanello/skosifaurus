@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020060> a skos:Concept ;
+    skos:altLabel "Dreitzscher Gruppe"@en,
+        "Dreitzscher Gruppe"@fr,
+        "Dreitzscher Gruppe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Dreitzscher Gruppe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dreitzscher Gruppe"@de .
+

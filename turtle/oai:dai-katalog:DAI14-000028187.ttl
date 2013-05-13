@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028187> a skos:Concept ;
+    skos:altLabel "Heilig Landstichting, Bijbels Openluchtmuseum"@en,
+        "Heilig Landstichting, Bijbels Openluchtmuseum"@fr,
+        "Heilig Landstichting, Bijbels Openluchtmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuHeilig Landstichting, Bijbels Openluchtmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heilig Landstichting, Bijbels Openluchtmuseum"@de .
+

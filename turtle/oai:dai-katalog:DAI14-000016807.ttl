@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016807> a skos:Concept ;
+    skos:altLabel "Depots of metal framgents"@en,
+        "Dépôts d'objets fragmentés"@fr,
+        "Skarby zlomu kruszcowego"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016795> ;
+    skos:hiddenLabel "yRGKArch10 - DeponZusamBruch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brucherzhorte/Hacksilber"@de .
+

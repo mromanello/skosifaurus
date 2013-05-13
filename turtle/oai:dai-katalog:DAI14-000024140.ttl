@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024140> a skos:Concept ;
+    skos:altLabel "Kerberos"@en,
+        "Kerberos"@fr,
+        "Kerberos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015985> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKunstIkonoSakraMythoKerberos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kerberos"@de .
+

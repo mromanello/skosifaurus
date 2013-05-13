@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051227> a skos:Concept ;
+    skos:altLabel "Eschenlohe"@en,
+        "Eschenlohe"@fr,
+        "Eschenlohe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075415> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerGarmiEschenloh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eschenlohe"@de .
+

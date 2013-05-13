@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024465> a skos:Concept ;
+    skos:altLabel "Cohors I Hispanorum veterana"@en,
+        "Cohors I Hispanorum veterana"@fr,
+        "Cohors I Hispanorum veterana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016058> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitAuxilAuxilCohors I Hispanorum veterana" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cohors I Hispanorum veterana"@de .
+

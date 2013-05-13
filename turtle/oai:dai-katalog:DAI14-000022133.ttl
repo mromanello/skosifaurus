@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022133> a skos:Concept ;
+    skos:altLabel "Otto <Römisch-Deutsches Reich, Kaiser, IV.>"@en,
+        "Otto <Römisch-Deutsches Reich, Kaiser, IV.>"@fr,
+        "Otto <Römisch-Deutsches Reich, Kaiser, IV.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoOtto <Römisch-Deutsches Reich, Kaiser, IV.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Otto <Römisch-Deutsches Reich, Kaiser, IV.>"@de .
+

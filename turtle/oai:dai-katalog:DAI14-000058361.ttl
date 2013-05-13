@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058361> a skos:Concept ;
+    skos:altLabel "Dietersdorf a. Gn., VB Radkersburg"@en,
+        "Dietersdorf a. Gn., VB Radkersburg"@fr,
+        "Dietersdorf a. Gn., VB Radkersburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieDietersdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dietersdorf a. Gn., VB Radkersburg"@de .
+

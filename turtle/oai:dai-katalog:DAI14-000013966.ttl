@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013966> a skos:Concept ;
+    skos:altLabel "Implements/tools"@en,
+        "Narzedzia"@pl,
+        "Outils/engins"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013927> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGerät" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geräte/Werkzeuge"@de .
+

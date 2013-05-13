@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083419> a skos:Concept ;
+    skos:altLabel "Gabelbach"@en,
+        "Gabelbach"@fr,
+        "Gabelbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075375> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAugsbGabelbach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gabelbach"@de .
+

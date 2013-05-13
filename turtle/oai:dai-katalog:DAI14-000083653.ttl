@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083653> a skos:Concept ;
+    skos:altLabel "Siliştea-Popină, jud. Brăila"@en,
+        "Siliştea-Popină, jud. Brăila"@fr,
+        "Siliştea-Popină, jud. Brăila"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenSiliştea-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siliştea-Popină, jud. Brăila"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057816> a skos:Concept ;
+    skos:altLabel "Falkenstein, VB Mistelbach"@en,
+        "Falkenstein, VB Mistelbach"@fr,
+        "Falkenstein, VB Mistelbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntFalkenste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Falkenstein, VB Mistelbach"@de .
+

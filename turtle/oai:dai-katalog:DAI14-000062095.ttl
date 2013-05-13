@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062095> a skos:Concept ;
+    skos:altLabel "Develier-Courtételle"@en,
+        "Develier-Courtételle"@fr,
+        "Develier-Courtételle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039044> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweJuraDevelier-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Develier-Courtételle"@de .
+

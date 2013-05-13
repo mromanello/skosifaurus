@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079142> a skos:Concept ;
+    skos:altLabel "Gevelinghausen"@en,
+        "Gevelinghausen"@fr,
+        "Gevelinghausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075645> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHochsGevelingh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gevelinghausen"@de .
+

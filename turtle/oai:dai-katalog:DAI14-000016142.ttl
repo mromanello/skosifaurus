@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016142> a skos:Concept ;
+    skos:altLabel "Alliages lourds non-ferreux"@fr,
+        "Brazy"@pl,
+        "Bronze"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016137> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwRohstMetalBuntm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buntmetallegierungen"@de .
+

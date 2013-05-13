@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012197> a skos:Concept ;
+    skos:altLabel "Mišković, Jovan"@en,
+        "Mišković, Jovan"@fr,
+        "Mišković, Jovan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMišković, Jovan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mišković, Jovan"@de .
+

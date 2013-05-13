@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041761> a skos:Concept ;
+    skos:altLabel "Dilsen-Vossenberg"@en,
+        "Dilsen-Vossenberg"@fr,
+        "Dilsen-Vossenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038718> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLimbuDilsen-Vo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dilsen-Vossenberg"@de .
+

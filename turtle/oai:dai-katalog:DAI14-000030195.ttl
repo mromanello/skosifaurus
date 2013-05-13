@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030195> a skos:Concept ;
+    skos:altLabel "Levy, Leon"@en,
+        "Levy, Leon"@fr,
+        "Levy, Leon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaLevy, Leon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Levy, Leon"@de .
+

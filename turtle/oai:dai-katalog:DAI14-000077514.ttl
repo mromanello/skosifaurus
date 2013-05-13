@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077514> a skos:Concept ;
+    skos:altLabel "Ujazd Śląski"@en,
+        "Ujazd Śląski"@fr,
+        "Ujazd Śląski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsUjazd Ślą" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ujazd Śląski"@de .
+

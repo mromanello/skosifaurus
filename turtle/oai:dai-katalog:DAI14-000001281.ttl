@@ -1,0 +1,229 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001281_Albanien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Albanien" .
+
+<http://data.dainst.de/zenon/000001281_ApolloniainIllyrien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Apollonia in Illyrien" .
+
+<http://data.dainst.de/zenon/000001281_Armaz/Periode> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Armaz/Periode" .
+
+<http://data.dainst.de/zenon/000001281_Baktrien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Baktrien" .
+
+<http://data.dainst.de/zenon/000001281_Beškent-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Beškent-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_Borisphen(?)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Borisphen (?)" .
+
+<http://data.dainst.de/zenon/000001281_BosporanischesReich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Bosporanisches Reich" .
+
+<http://data.dainst.de/zenon/000001281_Chersonesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Chersonesos" .
+
+<http://data.dainst.de/zenon/000001281_Gorgippia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Gorgippia" .
+
+<http://data.dainst.de/zenon/000001281_HerakleiaPontika> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Herakleia Pontika" .
+
+<http://data.dainst.de/zenon/000001281_Hermonassa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Hermonassa" .
+
+<http://data.dainst.de/zenon/000001281_Histria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Histria" .
+
+<http://data.dainst.de/zenon/000001281_Iberier> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Iberier" .
+
+<http://data.dainst.de/zenon/000001281_Iluraton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Iluraton" .
+
+<http://data.dainst.de/zenon/000001281_Jalojlutepe-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Jalojlutepe-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_KalosLimen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kalos Limen" .
+
+<http://data.dainst.de/zenon/000001281_Kangjuj/Kangch-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kangjuj/Kangch-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_Kaunči-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kaunči-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_Kepoi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kepoi" .
+
+<http://data.dainst.de/zenon/000001281_Kerkinitis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kerkinitis" .
+
+<http://data.dainst.de/zenon/000001281_Kimmerikon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kimmerikon" .
+
+<http://data.dainst.de/zenon/000001281_Kolchis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kolchis" .
+
+<http://data.dainst.de/zenon/000001281_Kugaj-Karabulak-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kugaj-Karabulak-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_Kušan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kušan" .
+
+<http://data.dainst.de/zenon/000001281_Kytaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Kytaia" .
+
+<http://data.dainst.de/zenon/000001281_Margiana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Margiana" .
+
+<http://data.dainst.de/zenon/000001281_Myrmekion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Myrmekion" .
+
+<http://data.dainst.de/zenon/000001281_NeapolisSkythika> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Neapolis Skythika" .
+
+<http://data.dainst.de/zenon/000001281_Nikonion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Nikonion" .
+
+<http://data.dainst.de/zenon/000001281_Nisa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Nisa" .
+
+<http://data.dainst.de/zenon/000001281_Nymphaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Nymphaion" .
+
+<http://data.dainst.de/zenon/000001281_Olbia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Olbia" .
+
+<http://data.dainst.de/zenon/000001281_Panagia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Panagia" .
+
+<http://data.dainst.de/zenon/000001281_Panathenäen-Fest> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Panathenäen-Fest" .
+
+<http://data.dainst.de/zenon/000001281_Pannonien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Pannonien" .
+
+<http://data.dainst.de/zenon/000001281_Pantikapaion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Pantikapaion" .
+
+<http://data.dainst.de/zenon/000001281_Parphenion(?)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Parphenion (?)" .
+
+<http://data.dainst.de/zenon/000001281_Parther-Reich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Parther-Reich" .
+
+<http://data.dainst.de/zenon/000001281_Patreus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Patreus" .
+
+<http://data.dainst.de/zenon/000001281_Pendžikend> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Pendžikend" .
+
+<http://data.dainst.de/zenon/000001281_Phanagoreia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Phanagoreia" .
+
+<http://data.dainst.de/zenon/000001281_PontischesReich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Pontisches Reich" .
+
+<http://data.dainst.de/zenon/000001281_Porphmion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Porphmion" .
+
+<http://data.dainst.de/zenon/000001281_Porthmion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Porthmion" .
+
+<http://data.dainst.de/zenon/000001281_Sasaniden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Sasaniden" .
+
+<http://data.dainst.de/zenon/000001281_Sindike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Sindike" .
+
+<http://data.dainst.de/zenon/000001281_Sogd> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Sogd" .
+
+<http://data.dainst.de/zenon/000001281_Tanais> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Tanais" .
+
+<http://data.dainst.de/zenon/000001281_Tauren> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Tauren" .
+
+<http://data.dainst.de/zenon/000001281_Termes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Termes" .
+
+<http://data.dainst.de/zenon/000001281_Tyrambe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Tyrambe" .
+
+<http://data.dainst.de/zenon/000001281_Tyras> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Tyras" .
+
+<http://data.dainst.de/zenon/000001281_Tyritake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Tyritake" .
+
+<http://data.dainst.de/zenon/000001281_Vachš-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Vachš-Kultur" .
+
+<http://data.dainst.de/zenon/000001281_Wielbark-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001281> ;
+    skos:prefLabel "Wielbark-Kultur" .
+
+<http://data.dainst.de/zenon/000001281> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001239> ;
+    skos:hiddenLabel "4.03.06.08" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Archäologische Kulturen"@de .
+

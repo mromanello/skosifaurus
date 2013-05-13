@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047904> a skos:Concept ;
+    skos:altLabel "Nassington-Prebendal Manor"@en,
+        "Nassington-Prebendal Manor"@fr,
+        "Nassington-Prebendal Manor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077700> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthNassingto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nassington-Prebendal Manor"@de .
+

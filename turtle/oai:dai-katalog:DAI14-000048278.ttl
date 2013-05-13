@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048278> a skos:Concept ;
+    skos:altLabel "Titlington Mount"@en,
+        "Titlington Mount"@fr,
+        "Titlington Mount"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077701> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthTitlingto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Titlington Mount"@de .
+

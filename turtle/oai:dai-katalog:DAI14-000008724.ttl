@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008724> a skos:Concept ;
+    skos:altLabel "Jayet, Adrien"@en,
+        "Jayet, Adrien"@fr,
+        "Jayet, Adrien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoJayet, Adrien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jayet, Adrien"@de .
+

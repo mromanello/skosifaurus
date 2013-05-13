@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081472> a skos:Concept ;
+    skos:altLabel "Canvey Island"@en,
+        "Canvey Island"@fr,
+        "Canvey Island"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077688> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssexCanvey Is" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Canvey Island"@de .
+

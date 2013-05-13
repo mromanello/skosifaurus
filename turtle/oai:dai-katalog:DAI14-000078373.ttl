@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078373> a skos:Concept ;
+    skos:altLabel "Moura"@en,
+        "Moura"@fr,
+        "Moura"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039295> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuBejaMoura" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moura"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078505> a skos:Concept ;
+    skos:altLabel "Lothian"@en,
+        "Lothian"@fr,
+        "Lothian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038842> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotLothian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lothian"@de .
+

@@ -1,0 +1,125 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001387_Alanija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Alanija" .
+
+<http://data.dainst.de/zenon/000001387_Albanien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Albanien" .
+
+<http://data.dainst.de/zenon/000001387_Askiz-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Askiz-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Balkan-Donau-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Balkan-Donau-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_BelajaVeža> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Belaja Veža" .
+
+<http://data.dainst.de/zenon/000001387_Bochaj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Bochaj" .
+
+<http://data.dainst.de/zenon/000001387_Chersonesos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Chersonesos" .
+
+<http://data.dainst.de/zenon/000001387_Cžurčžen'(Čžurčžėn')-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Cžurčžen'(Čžurčžėn')-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Kiew> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Kiew" .
+
+<http://data.dainst.de/zenon/000001387_KiewerRus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Kiewer Rus" .
+
+<http://data.dainst.de/zenon/000001387_Kuraj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Kuraj-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Ljao> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Ljao" .
+
+<http://data.dainst.de/zenon/000001387_Novgorod> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Novgorod" .
+
+<http://data.dainst.de/zenon/000001387_Numismatik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Numismatik" .
+
+<http://data.dainst.de/zenon/000001387_Pitiunt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Pitiunt" .
+
+<http://data.dainst.de/zenon/000001387_Potčevaš-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Potčevaš-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Rodanovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Rodanovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Schrift> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Schrift" .
+
+<http://data.dainst.de/zenon/000001387_SeidenStraße> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Seiden Straße" .
+
+<http://data.dainst.de/zenon/000001387_Sprache> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Sprache" .
+
+<http://data.dainst.de/zenon/000001387_Srostki-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Srostki-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Sylva-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Sylva-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Taraz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Taraz" .
+
+<http://data.dainst.de/zenon/000001387_Tjuchtjat-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Tjuchtjat-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Ust'-Išim-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Ust'-Išim-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Vym'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Vym'-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_WolgaBulgarien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Wolga Bulgarien" .
+
+<http://data.dainst.de/zenon/000001387_Čepca-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Čepca-Kultur" .
+
+<http://data.dainst.de/zenon/000001387_Čžurčžėn'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001387> ;
+    skos:prefLabel "Čžurčžėn'-Kultur" .
+
+<http://data.dainst.de/zenon/000001387> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001065> ;
+    skos:hiddenLabel "4.03.08" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hochmittelalter (10.-13. Jahrhundert)"@de .
+

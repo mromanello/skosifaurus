@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036335> a skos:Concept ;
+    skos:altLabel "Leuven 2004"@en,
+        "Leuven 2004"@fr,
+        "Leuven 2004"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLeuven 2004" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leuven 2004"@de .
+

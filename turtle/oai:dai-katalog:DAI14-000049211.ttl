@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049211> a skos:Concept ;
+    skos:altLabel "Coarhamore, Valentia Island"@en,
+        "Coarhamore, Valentia Island"@fr,
+        "Coarhamore, Valentia Island"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077558> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubKerryCoarhamor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Coarhamore, Valentia Island"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003132> a skos:Concept ;
+    skos:altLabel "di terracotta"@it,
+        "sarcophages de terre cuite"@fr,
+        "terra-cotta sarcophagi"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003092> ;
+    skos:hiddenLabel "xSarkTon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tonsarkophage"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075320> a skos:Concept ;
+    skos:altLabel "Olteniţa, jud. Călăraşi"@en,
+        "Olteniţa, jud. Călăraşi"@fr,
+        "Olteniţa, jud. Călăraşi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenOlteniţa," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Olteniţa, jud. Călăraşi"@de .
+

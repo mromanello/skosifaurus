@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009409> a skos:Concept ;
+    skos:altLabel "Nüesch, Jakob"@en,
+        "Nüesch, Jakob"@fr,
+        "Nüesch, Jakob"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoNüesch, Jakob" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nüesch, Jakob"@de .
+

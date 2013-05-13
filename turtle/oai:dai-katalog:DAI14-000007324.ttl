@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007324> a skos:Concept ;
+    skos:altLabel "Karo, Georg"@en,
+        "Karo, Georg"@fr,
+        "Karo, Georg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsKaro, Georg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karo, Georg"@de .
+

@@ -1,0 +1,20 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002122_Associaçãodosarqueólogosportugueses> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002122> ;
+    skos:prefLabel "Associação dos arqueólogos portugueses" .
+
+<http://data.dainst.de/zenon/000002122_Associaçãoportuguesadeestudiosclássicos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002122> ;
+    skos:prefLabel "Associação portuguesa de estudios clássicos" .
+
+<http://data.dainst.de/zenon/000002122> a skos:Concept ;
+    skos:altLabel "Portogallo"@it,
+        "Portugal"@en,
+        "Portugal"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstPt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Portugal"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067071> a skos:Concept ;
+    skos:altLabel "Ada-Kaleh, jud. Mehedinţi"@en,
+        "Ada-Kaleh, jud. Mehedinţi"@fr,
+        "Ada-Kaleh, jud. Mehedinţi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenAda-Kaleh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ada-Kaleh, jud. Mehedinţi"@de .
+

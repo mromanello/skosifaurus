@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018669> a skos:Concept ;
+    skos:altLabel "Moutons/chêvres"@fr,
+        "Owce/kozy"@pl,
+        "Sheeps/goats"@en ;
+    skos:broader <http://data.dainst.de/zenon/000018665> ;
+    skos:hiddenLabel "yRGKArch12 - WirtsLandwTierhHaustSchaf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schafe/Ziegen"@de .
+
