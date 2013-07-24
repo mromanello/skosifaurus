@@ -17,7 +17,7 @@ from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
 import sys
 
-__version__ = (0,1)
+__version__ = (0,2)
 
 class MARCXMLReader(object):
     """Returns the PyMARC record from the OAI structure for MARC XML"""
