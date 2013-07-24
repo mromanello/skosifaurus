@@ -201,12 +201,14 @@ def from_RDF(inp_dir=None,format=("turtle",".ttl")):
 	store = IOMemory()
 	g = ConjunctiveGraph(store=store)
 	files = ["%s%s"%(inp_dir,file) for file in os.listdir(inp_dir) if file.endswith(format[1])]
-	for f in files:
+        size = len(files)
+	for n,f in enumerate(files):
 		try:
-			g.load(f,format=format[0])
-			print >> sys.stderr,"Read triples from file %s"%f
+			g.parse(f,format=format[0])
+			print >> sys.stderr,"Read triples from file %s (%i/%i)"%(f,n,size)
 		except Exception, e:
-			print >> sys.stderr,"Failed reading triples from file %s"%f
+                    print e
+			#print >> sys.stderr,"Failed reading triples from file %s, %s"%(f,str(e))
 	return g
 
 def main():
