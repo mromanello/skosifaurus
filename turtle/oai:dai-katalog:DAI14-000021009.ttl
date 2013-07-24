@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021009> a skos:Concept ;
+    skos:altLabel "Absalon <Lund, Erzbischof>"@en,
+        "Absalon <Lund, Erzbischof>"@fr,
+        "Absalon <Lund, Erzbischof>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAbsalon <Lund, Erzbischof>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Absalon <Lund, Erzbischof>"@de .
+

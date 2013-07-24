@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082824> a skos:Concept ;
+    skos:altLabel "Saint-Nicolas-lès-Cîteaux"@en,
+        "Saint-Nicolas-lès-Cîteaux"@fr,
+        "Saint-Nicolas-lès-Cîteaux"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Saint-Nic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Nicolas-lès-Cîteaux"@de .
+

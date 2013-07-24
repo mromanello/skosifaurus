@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055602> a skos:Concept ;
+    skos:altLabel "Dannstadt, Gde. Dannstadt-Schauernheim"@en,
+        "Dannstadt, Gde. Dannstadt-Schauernheim"@fr,
+        "Dannstadt, Gde. Dannstadt-Schauernheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038926> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinRheinDannstadt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dannstadt, Gde. Dannstadt-Schauernheim"@de .
+

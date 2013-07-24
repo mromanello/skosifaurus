@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030265> a skos:Concept ;
+    skos:altLabel "New York, Shelby White-Leon Levy Collection"@en,
+        "New York, Shelby White-Leon Levy Collection"@fr,
+        "New York, Shelby White-Leon Levy Collection"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaNew York, Shelby White-Leon Levy Collection" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "New York, Shelby White-Leon Levy Collection"@de .
+

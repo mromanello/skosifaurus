@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040293> a skos:Concept ;
+    skos:altLabel "Falster"@en,
+        "Falster"@fr,
+        "Falster"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077433> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemFalster" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Falster"@de .
+

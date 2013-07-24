@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052940> a skos:Concept ;
+    skos:altLabel "Rüdesheim am Rhein"@en,
+        "Rüdesheim am Rhein"@fr,
+        "Rüdesheim am Rhein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075504> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseRheinRüdesheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rüdesheim am Rhein"@de .
+

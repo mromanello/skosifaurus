@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006615> a skos:Concept ;
+    skos:altLabel "Leroi-Gourhan, André"@en,
+        "Leroi-Gourhan, André"@fr,
+        "Leroi-Gourhan, André"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsLeroi-Gourhan, André" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leroi-Gourhan, André"@de .
+

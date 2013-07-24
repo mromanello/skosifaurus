@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042304> a skos:Concept ;
+    skos:altLabel "Pont-l'Évêque"@en,
+        "Pont-l'Évêque"@fr,
+        "Pont-l'Évêque"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038729> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOisePont-l'Év" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pont-l'Évêque"@de .
+

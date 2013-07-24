@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041597> a skos:Concept ;
+    skos:altLabel "Quevaucamps"@en,
+        "Quevaucamps"@fr,
+        "Quevaucamps"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaQuevaucam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quevaucamps"@de .
+

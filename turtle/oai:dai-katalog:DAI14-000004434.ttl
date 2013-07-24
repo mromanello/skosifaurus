@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004434> a skos:Concept ;
+    skos:altLabel "filologia (fino a 1997 con sotto-rubriche)"@it,
+        "philologie (jusqu'à 1997 subdivisé)"@fr,
+        "philology (untill 1997 subdivided)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004375> ;
+    skos:hiddenLabel "xKretPhil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philologie (bis 1997 mit Untergliederung)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078760> a skos:Concept ;
+    skos:altLabel "Bjørnkaer, Jylland"@en,
+        "Bjørnkaer, Jylland"@fr,
+        "Bjørnkaer, Jylland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemBjørnkaer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bjørnkaer, Jylland"@de .
+

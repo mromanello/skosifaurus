@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013108> a skos:Concept ;
+    skos:altLabel "Enceinte fossoyée"@fr,
+        "Pit-enclosure"@en,
+        "Pit-enclosure"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013093> ;
+    skos:hiddenLabel "yRGKArch05 - BefunBauweGrube" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grubenanlage"@de .
+

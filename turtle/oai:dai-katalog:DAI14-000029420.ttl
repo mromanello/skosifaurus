@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029420> a skos:Concept ;
+    skos:altLabel "Brussel, Koninklijke Musea voor Kunst en Geschiedenis"@en,
+        "Brussel, Koninklijke Musea voor Kunst en Geschiedenis"@fr,
+        "Brussel, Koninklijke Musea voor Kunst en Geschiedenis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBrussel, Koninklijke Musea voor Kunst en Geschiedenis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brussel, Koninklijke Musea voor Kunst en Geschiedenis"@de .
+

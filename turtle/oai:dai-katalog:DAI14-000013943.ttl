@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013943> a skos:Concept ;
+    skos:altLabel "Ceramics of Alb-Hegau-style"@en,
+        "Ceramika typu Alb-Hegau"@pl,
+        "Céramique de type Alb-Hegau"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013942> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGefäsKeramAlb-H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alb-Hegau-Ware"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045101> a skos:Concept ;
+    skos:altLabel "Pierre Rousse"@en,
+        "Pierre Rousse"@fr,
+        "Pierre Rousse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômePierre Ro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pierre Rousse"@de .
+

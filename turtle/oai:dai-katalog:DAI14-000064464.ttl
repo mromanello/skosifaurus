@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064464> a skos:Concept ;
+    skos:altLabel "Mokré u Brna, okr. Brno-Venkov"@en,
+        "Mokré u Brna, okr. Brno-Venkov"@fr,
+        "Mokré u Brna, okr. Brno-Venkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravMokré u B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mokré u Brna, okr. Brno-Venkov"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010841> a skos:Concept ;
+    skos:altLabel "Lwów, Towarzystwo Archeologiczne Krajowe we Lwowie"@en,
+        "Lwów, Towarzystwo Archeologiczne Krajowe we Lwowie"@fr,
+        "Lwów, Towarzystwo Archeologiczne Krajowe we Lwowie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLwów, Towarzystwo Archeologiczne Krajowe we Lwowie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lwów, Towarzystwo Archeologiczne Krajowe we Lwowie"@de .
+

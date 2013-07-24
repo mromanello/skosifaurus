@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056794> a skos:Concept ;
+    skos:altLabel "Fischbeker Heide"@en,
+        "Fischbeker Heide"@fr,
+        "Fischbeker Heide"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038988> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleZZ--RFischbeke" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fischbeker Heide"@de .
+

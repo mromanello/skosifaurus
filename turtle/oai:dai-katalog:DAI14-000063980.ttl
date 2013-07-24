@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063980> a skos:Concept ;
+    skos:altLabel "Staré Prachatice, okr. Prachatice"@en,
+        "Staré Prachatice, okr. Prachatice"@fr,
+        "Staré Prachatice, okr. Prachatice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyStaré Pra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Staré Prachatice, okr. Prachatice"@de .
+

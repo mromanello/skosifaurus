@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078590> a skos:Concept ;
+    skos:altLabel "Cairnpapple Hill"@en,
+        "Cairnpapple Hill"@fr,
+        "Cairnpapple Hill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078505> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotLothiCairnpapp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cairnpapple Hill"@de .
+

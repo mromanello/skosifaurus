@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027260> a skos:Concept ;
+    skos:altLabel "Stockholm 2002"@en,
+        "Stockholm 2002"@fr,
+        "Stockholm 2002"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstStockholm 2002" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockholm 2002"@de .
+

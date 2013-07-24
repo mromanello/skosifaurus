@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040900> a skos:Concept ;
+    skos:altLabel "Gustavsvik, Gotland"@en,
+        "Gustavsvik, Gotland"@fr,
+        "Gustavsvik, Gotland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Gustavsvi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gustavsvik, Gotland"@de .
+

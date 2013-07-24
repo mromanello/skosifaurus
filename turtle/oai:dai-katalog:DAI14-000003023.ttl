@@ -1,0 +1,320 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003023_Acheloos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Acheloos" .
+
+<http://data.dainst.de/zenon/000003023_Achilleus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Achilleus" .
+
+<http://data.dainst.de/zenon/000003023_Aeneas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Aeneas" .
+
+<http://data.dainst.de/zenon/000003023_Africa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Africa" .
+
+<http://data.dainst.de/zenon/000003023_Amazone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Amazone" .
+
+<http://data.dainst.de/zenon/000003023_Ammon-Sarapis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Ammon-Sarapis" .
+
+<http://data.dainst.de/zenon/000003023_Aphrodite> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Aphrodite" .
+
+<http://data.dainst.de/zenon/000003023_Apollon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Apollon" .
+
+<http://data.dainst.de/zenon/000003023_Ares> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Ares" .
+
+<http://data.dainst.de/zenon/000003023_Ariadne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Ariadne" .
+
+<http://data.dainst.de/zenon/000003023_Artemis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Artemis" .
+
+<http://data.dainst.de/zenon/000003023_Asklepios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Asklepios" .
+
+<http://data.dainst.de/zenon/000003023_Atalante> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Atalante" .
+
+<http://data.dainst.de/zenon/000003023_Athena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Athena" .
+
+<http://data.dainst.de/zenon/000003023_Attis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Attis" .
+
+<http://data.dainst.de/zenon/000003023_BonaDea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Bona Dea" .
+
+<http://data.dainst.de/zenon/000003023_Charites> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Charites" .
+
+<http://data.dainst.de/zenon/000003023_Demeter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Demeter" .
+
+<http://data.dainst.de/zenon/000003023_DianaNemorensis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Diana Nemorensis" .
+
+<http://data.dainst.de/zenon/000003023_Diomedes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Diomedes" .
+
+<http://data.dainst.de/zenon/000003023_Dionysos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Dionysos" .
+
+<http://data.dainst.de/zenon/000003023_Dioskuroi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Dioskuroi" .
+
+<http://data.dainst.de/zenon/000003023_Eirene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Eirene" .
+
+<http://data.dainst.de/zenon/000003023_Erechtheus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Erechtheus" .
+
+<http://data.dainst.de/zenon/000003023_Erinys> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Erinys" .
+
+<http://data.dainst.de/zenon/000003023_Eros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Eros" .
+
+<http://data.dainst.de/zenon/000003023_Eubuleus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Eubuleus" .
+
+<http://data.dainst.de/zenon/000003023_Genius> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Genius" .
+
+<http://data.dainst.de/zenon/000003023_Gigant> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Gigant" .
+
+<http://data.dainst.de/zenon/000003023_Hades> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hades" .
+
+<http://data.dainst.de/zenon/000003023_Harpokrates> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Harpokrates" .
+
+<http://data.dainst.de/zenon/000003023_Hekate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hekate" .
+
+<http://data.dainst.de/zenon/000003023_Helios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Helios" .
+
+<http://data.dainst.de/zenon/000003023_Hephaistos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hephaistos" .
+
+<http://data.dainst.de/zenon/000003023_Hera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hera" .
+
+<http://data.dainst.de/zenon/000003023_Herakles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Herakles" .
+
+<http://data.dainst.de/zenon/000003023_Hermes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hermes" .
+
+<http://data.dainst.de/zenon/000003023_Heros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Heros" .
+
+<http://data.dainst.de/zenon/000003023_HestiaGiustiniani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hestia Giustiniani" .
+
+<http://data.dainst.de/zenon/000003023_Hygieia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Hygieia" .
+
+<http://data.dainst.de/zenon/000003023_Ianus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Ianus" .
+
+<http://data.dainst.de/zenon/000003023_Io> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Io" .
+
+<http://data.dainst.de/zenon/000003023_Isis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Isis" .
+
+<http://data.dainst.de/zenon/000003023_IunoSospita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Iuno Sospita" .
+
+<http://data.dainst.de/zenon/000003023_Iuppiter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Iuppiter" .
+
+<http://data.dainst.de/zenon/000003023_Kabeiroi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Kabeiroi" .
+
+<http://data.dainst.de/zenon/000003023_Kybele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Kybele" .
+
+<http://data.dainst.de/zenon/000003023_Marsyas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Marsyas" .
+
+<http://data.dainst.de/zenon/000003023_MaterMagna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Mater Magna" .
+
+<http://data.dainst.de/zenon/000003023_Medusa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Medusa" .
+
+<http://data.dainst.de/zenon/000003023_Minerva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Minerva" .
+
+<http://data.dainst.de/zenon/000003023_Mithras> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Mithras" .
+
+<http://data.dainst.de/zenon/000003023_Muse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Muse" .
+
+<http://data.dainst.de/zenon/000003023_Nike> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Nike" .
+
+<http://data.dainst.de/zenon/000003023_Niobidai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Niobidai" .
+
+<http://data.dainst.de/zenon/000003023_Nutrix> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Nutrix" .
+
+<http://data.dainst.de/zenon/000003023_Nymphe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Nymphe" .
+
+<http://data.dainst.de/zenon/000003023_Pan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Pan" .
+
+<http://data.dainst.de/zenon/000003023_Persephone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Persephone" .
+
+<http://data.dainst.de/zenon/000003023_Perseus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Perseus" .
+
+<http://data.dainst.de/zenon/000003023_Polyphem> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Polyphem" .
+
+<http://data.dainst.de/zenon/000003023_Poseidon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Poseidon" .
+
+<http://data.dainst.de/zenon/000003023_Sappho> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Sappho" .
+
+<http://data.dainst.de/zenon/000003023_Sarapis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Sarapis" .
+
+<http://data.dainst.de/zenon/000003023_Saturnus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Saturnus" .
+
+<http://data.dainst.de/zenon/000003023_Satyros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Satyros" .
+
+<http://data.dainst.de/zenon/000003023_Seirene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Seirene" .
+
+<http://data.dainst.de/zenon/000003023_Selene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Selene" .
+
+<http://data.dainst.de/zenon/000003023_Sibylle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Sibylle" .
+
+<http://data.dainst.de/zenon/000003023_Silenos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Silenos" .
+
+<http://data.dainst.de/zenon/000003023_Thanatos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Thanatos" .
+
+<http://data.dainst.de/zenon/000003023_Triptolemos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Triptolemos" .
+
+<http://data.dainst.de/zenon/000003023_Tutela> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Tutela" .
+
+<http://data.dainst.de/zenon/000003023_Tyche> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Tyche" .
+
+<http://data.dainst.de/zenon/000003023_Zeus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Zeus" .
+
+<http://data.dainst.de/zenon/000003023_Zeus-Ammon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Zeus-Ammon" .
+
+<http://data.dainst.de/zenon/000003023_Zeus-Sarapis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003023> ;
+    skos:prefLabel "Zeus-Sarapis" .
+
+<http://data.dainst.de/zenon/000003023> a skos:Concept ;
+    skos:altLabel "dei e figure mitologiche"@it,
+        "dieux et personnes mythologiques"@fr,
+        "gods and mythological figures"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003022> ;
+    skos:hiddenLabel "xPlastRundplKopfGMyth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Götter und mythologische Figuren"@de .
+

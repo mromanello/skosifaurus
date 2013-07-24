@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038081> a skos:Concept ;
+    skos:altLabel "Znojmo/Kravsko/Těšetice 1988"@en,
+        "Znojmo/Kravsko/Těšetice 1988"@fr,
+        "Znojmo/Kravsko/Těšetice 1988"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrZnojmo/Kravsko/Těšetice 1988" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Znojmo/Kravsko/Těšetice 1988"@de .
+

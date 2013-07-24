@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037457> a skos:Concept ;
+    skos:altLabel "Sarreguemines 1987"@en,
+        "Sarreguemines 1987"@fr,
+        "Sarreguemines 1987"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSarreguemines 1987" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarreguemines 1987"@de .
+

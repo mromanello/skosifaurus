@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038834> a skos:Concept ;
+    skos:altLabel "Corse-du-Sud"@en,
+        "Corse-du-Sud"@fr,
+        "Corse-du-Sud"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038833> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankCorseCorse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Corse-du-Sud"@de .
+

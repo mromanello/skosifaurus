@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020733> a skos:Concept ;
+    skos:altLabel "Sâone-Rhône"@en,
+        "Sâone-Rhône"@fr,
+        "Sâone-Rhône"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Sâone-Rhône" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sâone-Rhône"@de .
+

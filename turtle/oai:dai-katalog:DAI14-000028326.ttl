@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028326> a skos:Concept ;
+    skos:altLabel "Kraków, Gabinet Numizmatyczny Muzeum Narodowego"@en,
+        "Kraków, Gabinet Numizmatyczny Muzeum Narodowego"@fr,
+        "Kraków, Gabinet Numizmatyczny Muzeum Narodowego"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKraków, Gabinet Numizmatyczny Muzeum Narodowego" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kraków, Gabinet Numizmatyczny Muzeum Narodowego"@de .
+

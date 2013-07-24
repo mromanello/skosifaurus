@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058821> a skos:Concept ;
+    skos:altLabel "Kamień Pomorski"@en,
+        "Kamień Pomorski"@fr,
+        "Kamień Pomorski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039007> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZachoKamień Po" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kamień Pomorski"@de .
+

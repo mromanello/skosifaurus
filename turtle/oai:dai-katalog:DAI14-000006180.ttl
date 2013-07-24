@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006180> a skos:Concept ;
+    skos:altLabel "Camps-Fabrer, Henriette"@en,
+        "Camps-Fabrer, Henriette"@fr,
+        "Camps-Fabrer, Henriette"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsCamps-Fabrer, Henriette" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Camps-Fabrer, Henriette"@de .
+

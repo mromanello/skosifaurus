@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025836> a skos:Concept ;
+    skos:altLabel "Irxleben, Burkhard von"@en,
+        "Irxleben, Burkhard von"@fr,
+        "Irxleben, Burkhard von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018913> ;
+    skos:hiddenLabel "yRGKArch12 - HistoProsoEinzeIrxleben, Burkhard von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Irxleben, Burkhard von"@de .
+

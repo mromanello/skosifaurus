@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082381> a skos:Concept ;
+    skos:altLabel "Vikletice, okr. Chomutov"@en,
+        "Vikletice, okr. Chomutov"@fr,
+        "Vikletice, okr. Chomutov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyVikletice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vikletice, okr. Chomutov"@de .
+

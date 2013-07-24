@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085075> a skos:Concept ;
+    skos:altLabel "Bedworth"@en,
+        "Bedworth"@fr,
+        "Bedworth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077711> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWarwiBedworth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bedworth"@de .
+

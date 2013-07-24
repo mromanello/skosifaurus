@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030148> a skos:Concept ;
+    skos:altLabel "Jena, Medizinhistorische Sammlung Meyer-Steineg"@en,
+        "Jena, Medizinhistorische Sammlung Meyer-Steineg"@fr,
+        "Jena, Medizinhistorische Sammlung Meyer-Steineg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaJena, Medizinhistorische Sammlung Meyer-Steineg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jena, Medizinhistorische Sammlung Meyer-Steineg"@de .
+

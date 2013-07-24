@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012534> a skos:Concept ;
+    skos:altLabel "Blattspitzen"@en,
+        "Ostrza lisciowate"@pl,
+        "Pointe foliacée"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012530> ;
+    skos:hiddenLabel "yRGKArch03 - FundeGerätSteinKerngBlatt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Blattspitzen"@de .
+

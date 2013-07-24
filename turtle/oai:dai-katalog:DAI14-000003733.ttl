@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003733> a skos:Concept ;
+    skos:altLabel "laws (untill 1997)"@en,
+        "leggi (fino a 1997)"@it,
+        "lois (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003728> ;
+    skos:hiddenLabel "xEpigrGrActaPublGes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gesetze und Opferkalender (bis 1997)"@de .
+

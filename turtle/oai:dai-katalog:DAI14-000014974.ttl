@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014974> a skos:Concept ;
+    skos:altLabel "Coutumes cultuelles"@fr,
+        "Rites/feasts"@en,
+        "Sceny kultowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014973> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKunstIkonoSakraKults" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kultszenen"@de .
+

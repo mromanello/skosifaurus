@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067772> a skos:Concept ;
+    skos:altLabel "Izbriż'e, raj. Kalininsk, obl. Tver"@en,
+        "Izbriż'e, raj. Kalininsk, obl. Tver"@fr,
+        "Izbriż'e, raj. Kalininsk, obl. Tver"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiIzbriż'e," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Izbriż'e, raj. Kalininsk, obl. Tver"@de .
+

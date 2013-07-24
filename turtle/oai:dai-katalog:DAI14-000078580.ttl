@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078580> a skos:Concept ;
+    skos:altLabel "Linlithgow"@en,
+        "Linlithgow"@fr,
+        "Linlithgow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078505> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotLothiLinlithgo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linlithgow"@de .
+

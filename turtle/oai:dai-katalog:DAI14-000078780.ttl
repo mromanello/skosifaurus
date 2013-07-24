@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078780> a skos:Concept ;
+    skos:altLabel "Civitella Paganico"@en,
+        "Civitella Paganico"@fr,
+        "Civitella Paganico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039205> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaGrossCivitella" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Civitella Paganico"@de .
+

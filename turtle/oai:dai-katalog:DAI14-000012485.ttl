@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012485> a skos:Concept ;
+    skos:altLabel "Archaeological cultures/Groups"@en,
+        "Cultures archéologiques/Groupes"@fr,
+        "Kultury archeologiczne/Grupy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012476> ;
+    skos:hiddenLabel "yRGKArch01 -" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "01 - Archäologische Kulturen/Gruppen"@de .
+

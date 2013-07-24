@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078908> a skos:Concept ;
+    skos:altLabel "Summt, Gde. Mühlenbeck"@en,
+        "Summt, Gde. Mühlenbeck"@fr,
+        "Summt, Gde. Mühlenbeck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075476> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandOberhSummt, Gd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Summt, Gde. Mühlenbeck"@de .
+

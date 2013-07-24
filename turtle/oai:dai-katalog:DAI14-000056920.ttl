@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056920> a skos:Concept ;
+    skos:altLabel "Nohra"@en,
+        "Nohra"@fr,
+        "Nohra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075609> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriNordhNohra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nohra"@de .
+

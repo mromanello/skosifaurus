@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073825> a skos:Concept ;
+    skos:altLabel "Cueva Doña Trinidad"@en,
+        "Cueva Doña Trinidad"@fr,
+        "Cueva Doña Trinidad"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039357> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalMálagCueva Doñ" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cueva Doña Trinidad"@de .
+

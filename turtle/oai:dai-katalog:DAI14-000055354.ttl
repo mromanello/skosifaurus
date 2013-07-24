@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055354> a skos:Concept ;
+    skos:altLabel "Lohrsdorf, Stadt Bad Neuenahr-Ahrweiler"@en,
+        "Lohrsdorf, Stadt Bad Neuenahr-Ahrweiler"@fr,
+        "Lohrsdorf, Stadt Bad Neuenahr-Ahrweiler"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038909> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAhrweLohrsdorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lohrsdorf, Stadt Bad Neuenahr-Ahrweiler"@de .
+

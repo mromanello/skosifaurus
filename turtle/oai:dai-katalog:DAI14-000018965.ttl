@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018965> a skos:Concept ;
+    skos:altLabel "Synagoges/mikwes"@en,
+        "Synagoges/mikwes"@fr,
+        "Synagogi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018963> ;
+    skos:hiddenLabel "yRGKArch13 - BefunBauweKultaJüdis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jüdische Kultbauten"@de .
+

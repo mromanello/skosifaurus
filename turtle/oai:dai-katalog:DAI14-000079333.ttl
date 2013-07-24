@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079333> a skos:Concept ;
+    skos:altLabel "Lohr a. Main"@en,
+        "Lohr a. Main"@fr,
+        "Lohr a. Main"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075436> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMain-Lohr a. M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lohr a. Main"@de .
+

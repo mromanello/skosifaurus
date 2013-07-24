@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041596> a skos:Concept ;
+    skos:altLabel "Pont-à-Celles"@en,
+        "Pont-à-Celles"@fr,
+        "Pont-à-Celles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaPont-à-Ce" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pont-à-Celles"@de .
+

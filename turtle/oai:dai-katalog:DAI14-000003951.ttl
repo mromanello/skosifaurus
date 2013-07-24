@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003951> a skos:Concept ;
+    skos:altLabel "associations cultuelles et mystères"@fr,
+        "associazioni di culto e misteri"@it,
+        "cult associations and mystery cults"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003934> ;
+    skos:hiddenLabel "xReligKultGemein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gemeinde- und Mysterienkulte"@de .
+

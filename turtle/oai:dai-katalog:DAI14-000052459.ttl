@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052459> a skos:Concept ;
+    skos:altLabel "Meyenburg"@en,
+        "Meyenburg"@fr,
+        "Meyenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075481> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandPrignMeyenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meyenburg"@de .
+

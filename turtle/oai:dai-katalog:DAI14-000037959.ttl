@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037959> a skos:Concept ;
+    skos:altLabel "Vukovar 1981"@en,
+        "Vukovar 1981"@fr,
+        "Vukovar 1981"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrVukovar 1981" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vukovar 1981"@de .
+

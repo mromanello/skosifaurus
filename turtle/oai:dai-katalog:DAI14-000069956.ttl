@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069956> a skos:Concept ;
+    skos:altLabel "Montjovet-Champérioux"@en,
+        "Montjovet-Champérioux"@fr,
+        "Montjovet-Champérioux"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039165> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliLombaValleMontjovet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montjovet-Champérioux"@de .
+

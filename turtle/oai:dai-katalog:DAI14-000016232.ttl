@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016232> a skos:Concept ;
+    skos:altLabel "Empire of Palmyra"@en,
+        "Imperium palmyrenskie"@pl,
+        "Royaume séparé de Palmyre"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016224> ;
+    skos:hiddenLabel "yRGKArch09 - GeschHistoPalmy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Palmyrenisches Sonderreich"@de .
+

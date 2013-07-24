@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063478> a skos:Concept ;
+    skos:altLabel "Český Brod, okr. Kolín"@en,
+        "Český Brod, okr. Kolín"@fr,
+        "Český Brod, okr. Kolín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyČeský Bro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Český Brod, okr. Kolín"@de .
+

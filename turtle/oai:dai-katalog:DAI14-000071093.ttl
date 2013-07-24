@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071093> a skos:Concept ;
+    skos:altLabel "Capraia e Limite"@en,
+        "Capraia e Limite"@fr,
+        "Capraia e Limite"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039204> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaFirenCapraia e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Capraia e Limite"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004118> a skos:Concept ;
+    skos:altLabel "complessiva"@it,
+        "comprehensive"@en,
+        "générale"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgUmf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "umfassend"@de .
+

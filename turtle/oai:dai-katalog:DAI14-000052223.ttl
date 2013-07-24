@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052223> a skos:Concept ;
+    skos:altLabel "Forst-Eulo"@en,
+        "Forst-Eulo"@fr,
+        "Forst-Eulo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075473> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandForstForst-Eul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Forst-Eulo"@de .
+

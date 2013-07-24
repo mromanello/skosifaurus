@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002651> a skos:Concept ;
+    skos:altLabel "metallic salts"@en,
+        "sali di metalli"@it,
+        "sels métalliques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002636> ;
+    skos:hiddenLabel "xTMMatAnorgMetSalz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Metallsalze"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029048> a skos:Concept ;
+    skos:altLabel "Stockholm, Statens historiska museum"@en,
+        "Stockholm, Statens historiska museum"@fr,
+        "Stockholm, Statens historiska museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuStockholm, Statens historiska museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockholm, Statens historiska museum"@de .
+

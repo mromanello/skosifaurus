@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048418> a skos:Concept ;
+    skos:altLabel "Wharram Percy, North Yorkshire"@en,
+        "Wharram Percy, North Yorkshire"@fr,
+        "Wharram Percy, North Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksWharram P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wharram Percy, North Yorkshire"@de .
+

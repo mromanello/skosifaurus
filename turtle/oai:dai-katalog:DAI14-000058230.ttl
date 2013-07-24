@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058230> a skos:Concept ;
+    skos:altLabel "Linz-Gründberg, Stadt Linz"@en,
+        "Linz-Gründberg, Stadt Linz"@fr,
+        "Linz-Gründberg, Stadt Linz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöLinz-Grün" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linz-Gründberg, Stadt Linz"@de .
+

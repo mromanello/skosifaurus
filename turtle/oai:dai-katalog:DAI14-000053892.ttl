@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053892> a skos:Concept ;
+    skos:altLabel "Gross Lengden"@en,
+        "Gross Lengden"@fr,
+        "Gross Lengden"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075577> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGöttiGross Len" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gross Lengden"@de .
+

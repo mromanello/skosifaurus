@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037580> a skos:Concept ;
+    skos:altLabel "Spoleto 1992"@en,
+        "Spoleto 1992"@fr,
+        "Spoleto 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSpoleto 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Spoleto 1992"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062992> a skos:Concept ;
+    skos:altLabel "Zemplín, okr. Trebišov"@en,
+        "Zemplín, okr. Trebišov"@fr,
+        "Zemplín, okr. Trebišov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaZemplín," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zemplín, okr. Trebišov"@de .
+

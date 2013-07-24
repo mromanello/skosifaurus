@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054158> a skos:Concept ;
+    skos:altLabel "Hoya"@en,
+        "Hoya"@fr,
+        "Hoya"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075583> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeNienbHoya" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hoya"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064415> a skos:Concept ;
+    skos:altLabel "Kostelec na Hané, okr. Prostějov"@en,
+        "Kostelec na Hané, okr. Prostějov"@fr,
+        "Kostelec na Hané, okr. Prostějov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravKostelec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kostelec na Hané, okr. Prostějov"@de .
+

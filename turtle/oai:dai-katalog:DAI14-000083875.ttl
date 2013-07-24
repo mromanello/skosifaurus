@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083875> a skos:Concept ;
+    skos:altLabel "Rosenmüllershöhle"@en,
+        "Rosenmüllershöhle"@fr,
+        "Rosenmüllershöhle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075411> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerForchRosenmüll" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rosenmüllershöhle"@de .
+

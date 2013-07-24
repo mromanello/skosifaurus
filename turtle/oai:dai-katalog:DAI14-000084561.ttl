@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084561> a skos:Concept ;
+    skos:altLabel "Wernberg-Köblitz"@en,
+        "Wernberg-Köblitz"@fr,
+        "Wernberg-Köblitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075457> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerSchwaWernberg-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wernberg-Köblitz"@de .
+

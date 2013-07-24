@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059920> a skos:Concept ;
+    skos:altLabel "Ziemia wrzesińska"@en,
+        "Ziemia wrzesińska"@fr,
+        "Ziemia wrzesińska"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039017> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkZZ--RZiemia wr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ziemia wrzesińska"@de .
+

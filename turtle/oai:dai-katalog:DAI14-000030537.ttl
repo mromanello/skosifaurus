@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030537> a skos:Concept ;
+    skos:altLabel "Bayern, Landesamt für Denkmalpflege, Referat \"Archäologische Prospekti"@en,
+        "Bayern, Landesamt für Denkmalpflege, Referat \"Archäologische Prospekti"@fr,
+        "Bayern, Landesamt für Denkmalpflege, Referat \"Archäologische Prospekti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiBayern, Landesamt für Denkmalpflege, Referat \"Archäologische Prospekti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bayern, Landesamt für Denkmalpflege, Referat \"Archäologische Prospekti"@de .
+

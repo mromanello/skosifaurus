@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029016> a skos:Concept ;
+    skos:altLabel "Sorrento, Museo Correale"@en,
+        "Sorrento, Museo Correale"@fr,
+        "Sorrento, Museo Correale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSorrento, Museo Correale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sorrento, Museo Correale"@de .
+

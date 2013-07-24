@@ -1,0 +1,96 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002501_Bargou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Bargou" .
+
+<http://data.dainst.de/zenon/000002501_Byzacena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Byzacena" .
+
+<http://data.dainst.de/zenon/000002501_CampusBullensis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Campus Bullensis" .
+
+<http://data.dainst.de/zenon/000002501_CapBon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Cap Bon" .
+
+<http://data.dainst.de/zenon/000002501_Djerba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Djerba" .
+
+<http://data.dainst.de/zenon/000002501_Dorsal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Dorsal" .
+
+<http://data.dainst.de/zenon/000002501_Dorsale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Dorsale" .
+
+<http://data.dainst.de/zenon/000002501_ElTell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "El Tell" .
+
+<http://data.dainst.de/zenon/000002501_Gamonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Gamonia" .
+
+<http://data.dainst.de/zenon/000002501_Gefara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Gefara" .
+
+<http://data.dainst.de/zenon/000002501_Kef> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Kef" .
+
+<http://data.dainst.de/zenon/000002501_KhalidjGabès> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Khalidj Gabès" .
+
+<http://data.dainst.de/zenon/000002501_LaMedjerda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "La Medjerda" .
+
+<http://data.dainst.de/zenon/000002501_OuedMiliane> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Oued Miliane" .
+
+<http://data.dainst.de/zenon/000002501_OuedRmel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Oued Rmel" .
+
+<http://data.dainst.de/zenon/000002501_Ouedel-Tine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Oued el-Tine" .
+
+<http://data.dainst.de/zenon/000002501_Sahel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Sahel" .
+
+<http://data.dainst.de/zenon/000002501_Salines> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Salines" .
+
+<http://data.dainst.de/zenon/000002501_SebkhaSidiel-Hani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Sebkha Sidi el-Hani" .
+
+<http://data.dainst.de/zenon/000002501_Siliana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Siliana" .
+
+<http://data.dainst.de/zenon/000002501_Zeugitana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002501> ;
+    skos:prefLabel "Zeugitana" .
+
+<http://data.dainst.de/zenon/000002501> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002500> ;
+    skos:hiddenLabel "xTopLandTunGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

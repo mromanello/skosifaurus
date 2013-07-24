@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081388> a skos:Concept ;
+    skos:altLabel "Baitkokaike"@en,
+        "Baitkokaike"@fr,
+        "Baitkokaike"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000074492> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieBaitkokai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baitkokaike"@de .
+

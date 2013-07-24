@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069504> a skos:Concept ;
+    skos:altLabel "Terno d'Isola"@en,
+        "Terno d'Isola"@fr,
+        "Terno d'Isola"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039145> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaBergaTerno d'I" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Terno d'Isola"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062047> a skos:Concept ;
+    skos:altLabel "Roveredo-Tre Pilastri"@en,
+        "Roveredo-Tre Pilastri"@fr,
+        "Roveredo-Tre Pilastri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039043> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweGraubRoveredo-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roveredo-Tre Pilastri"@de .
+

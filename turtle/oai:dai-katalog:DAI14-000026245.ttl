@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026245> a skos:Concept ;
+    skos:altLabel "Dąbrowa Górnicza 2003"@en,
+        "Dąbrowa Górnicza 2003"@fr,
+        "Dąbrowa Górnicza 2003"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstDąbrowa Górnicza 2003" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dąbrowa Górnicza 2003"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052494> a skos:Concept ;
+    skos:altLabel "Horno"@en,
+        "Horno"@fr,
+        "Horno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075482> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandSpreeHorno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Horno"@de .
+

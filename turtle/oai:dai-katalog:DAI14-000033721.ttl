@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033721> a skos:Concept ;
+    skos:altLabel "Vadomarius <Alamannen, Gaukönig>"@en,
+        "Vadomarius <Alamannen, Gaukönig>"@fr,
+        "Vadomarius <Alamannen, Gaukönig>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVadomarius <Alamannen, Gaukönig>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vadomarius <Alamannen, Gaukönig>"@de .
+

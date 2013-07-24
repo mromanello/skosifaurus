@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073426> a skos:Concept ;
+    skos:altLabel "Honcalada"@en,
+        "Honcalada"@fr,
+        "Honcalada"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039334> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiVallaHoncalada" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Honcalada"@de .
+

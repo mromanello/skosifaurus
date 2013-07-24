@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031160> a skos:Concept ;
+    skos:altLabel "Puhze, Freiburg i. Br. 1985"@en,
+        "Puhze, Freiburg i. Br. 1985"@fr,
+        "Puhze, Freiburg i. Br. 1985"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiPuhze, Freiburg i. Br. 1985" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Puhze, Freiburg i. Br. 1985"@de .
+

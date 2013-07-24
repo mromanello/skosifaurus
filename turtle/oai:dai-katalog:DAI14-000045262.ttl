@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045262> a skos:Concept ;
+    skos:altLabel "Baudinard-sur-Verdon"@en,
+        "Baudinard-sur-Verdon"@fr,
+        "Baudinard-sur-Verdon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038808> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVarBaudinard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baudinard-sur-Verdon"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013647> a skos:Concept ;
+    skos:altLabel "Miasta/osady miejskie"@pl,
+        "Towns/townlike settlements"@en,
+        "Villes/semblable aux villes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013643> ;
+    skos:hiddenLabel "yRGKArch06 - SiedlSiedlStädt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Städte/stadtartige Siedlungen"@de .
+

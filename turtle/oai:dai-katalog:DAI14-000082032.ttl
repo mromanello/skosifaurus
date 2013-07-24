@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082032> a skos:Concept ;
+    skos:altLabel "Helpfau, VB Braunau am Inn"@en,
+        "Helpfau, VB Braunau am Inn"@fr,
+        "Helpfau, VB Braunau am Inn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöHelpfau," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Helpfau, VB Braunau am Inn"@de .
+

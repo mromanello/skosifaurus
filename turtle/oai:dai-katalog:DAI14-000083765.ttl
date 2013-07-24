@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083765> a skos:Concept ;
+    skos:altLabel "Sarow"@en,
+        "Sarow"@fr,
+        "Sarow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiSarow" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarow"@de .
+

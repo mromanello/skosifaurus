@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047869> a skos:Concept ;
+    skos:altLabel "Petworth House"@en,
+        "Petworth House"@fr,
+        "Petworth House"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077710> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSussePetworth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petworth House"@de .
+

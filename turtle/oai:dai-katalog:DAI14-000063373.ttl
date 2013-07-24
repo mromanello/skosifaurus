@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063373> a skos:Concept ;
+    skos:altLabel "Zidani gaber"@en,
+        "Zidani gaber"@fr,
+        "Zidani gaber"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039064> ;
+    skos:hiddenLabel "zTopogEuropMitteSloweZZ--RZidani ga" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zidani gaber"@de .
+

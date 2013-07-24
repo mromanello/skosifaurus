@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065029> a skos:Concept ;
+    skos:altLabel "Zalaszabar-Dezsősziget"@en,
+        "Zalaszabar-Dezsősziget"@fr,
+        "Zalaszabar-Dezsősziget"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaZalaszaba" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zalaszabar-Dezsősziget"@de .
+

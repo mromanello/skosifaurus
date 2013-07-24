@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004779> a skos:Concept ;
+    skos:altLabel "iconografia (1956 - 1997)"@it,
+        "iconographic themes (1956 - 1997)"@en,
+        "iconographie (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004761> ;
+    skos:hiddenLabel "xÄgBth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bildthemen (1956 - 1997)"@de .
+

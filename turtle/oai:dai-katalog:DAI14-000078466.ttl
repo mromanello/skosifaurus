@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078466> a skos:Concept ;
+    skos:altLabel "Hay-on-Wye, Breconshire"@en,
+        "Hay-on-Wye, Breconshire"@fr,
+        "Hay-on-Wye, Breconshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078209> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesPowysHay-on-Wy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hay-on-Wye, Breconshire"@de .
+

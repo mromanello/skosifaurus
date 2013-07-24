@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017237> a skos:Concept ;
+    skos:altLabel "Early byzantine Period"@en,
+        "Okres wczesnobizantyjski"@pl,
+        "Période protobyzantine"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017235> ;
+    skos:hiddenLabel "yRGKArch11 - ChronDatieFrühb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frühbyzantinische Zeit"@de .
+

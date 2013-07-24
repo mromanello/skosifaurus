@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011072> a skos:Concept ;
+    skos:altLabel "Gdańsk, Muzeum Archeologiczne"@en,
+        "Gdańsk, Muzeum Archeologiczne"@fr,
+        "Gdańsk, Muzeum Archeologiczne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiGdańsk, Muzeum Archeologiczne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gdańsk, Muzeum Archeologiczne"@de .
+

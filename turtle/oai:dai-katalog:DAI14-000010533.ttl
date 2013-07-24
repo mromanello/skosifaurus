@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010533> a skos:Concept ;
+    skos:altLabel "Grossbritannien, Backlog Programme"@en,
+        "Grossbritannien, Backlog Programme"@fr,
+        "Grossbritannien, Backlog Programme"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiGrossbritannien, Backlog Programme" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossbritannien, Backlog Programme"@de .
+

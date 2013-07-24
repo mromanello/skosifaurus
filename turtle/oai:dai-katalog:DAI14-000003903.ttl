@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003903> a skos:Concept ;
+    skos:altLabel "mouvements religieux et sectes"@fr,
+        "movimenti religioso-filosofici e sette"@it,
+        "religious-philosophical movements and sects"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003895> ;
+    skos:hiddenLabel "xReligBeweg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "religiös-philosophische Bewegungen und Sekten"@de .
+

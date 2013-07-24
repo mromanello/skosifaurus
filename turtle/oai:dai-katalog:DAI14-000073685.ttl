@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073685> a skos:Concept ;
+    skos:altLabel "Vélez-Blanco-Cueva de Ambrosio"@en,
+        "Vélez-Blanco-Cueva de Ambrosio"@fr,
+        "Vélez-Blanco-Cueva de Ambrosio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039351> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalAlmerVélez-Bla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vélez-Blanco-Cueva de Ambrosio"@de .
+

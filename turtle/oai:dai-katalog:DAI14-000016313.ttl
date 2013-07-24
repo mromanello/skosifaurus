@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016313> a skos:Concept ;
+    skos:altLabel "Halved coins"@en,
+        "Partages en deux"@fr,
+        "Polówki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016302> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisMünzmHalbi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Halbierungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036904> a skos:Concept ;
+    skos:altLabel "Nynäshamn 2000"@en,
+        "Nynäshamn 2000"@fr,
+        "Nynäshamn 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNynäshamn 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nynäshamn 2000"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043875> a skos:Concept ;
+    skos:altLabel "Magnils-Reigniers, Jardinet"@en,
+        "Magnils-Reigniers, Jardinet"@fr,
+        "Magnils-Reigniers, Jardinet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038770> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaVendéMagnils-R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Magnils-Reigniers, Jardinet"@de .
+

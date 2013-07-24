@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038696> a skos:Concept ;
+    skos:altLabel "topografia"@pl,
+        "topographie"@fr,
+        "topography"@en ;
+    skos:hiddenLabel "zTopog" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Topographie"@de ;
+    skos:topConceptOf base:thesaurus .
+

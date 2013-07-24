@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062696> a skos:Concept ;
+    skos:altLabel "Hrabušice, okr. Spišská Nová Ves"@en,
+        "Hrabušice, okr. Spišská Nová Ves"@fr,
+        "Hrabušice, okr. Spišská Nová Ves"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaHrabušice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrabušice, okr. Spišská Nová Ves"@de .
+

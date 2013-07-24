@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021871> a skos:Concept ;
+    skos:altLabel "Konradin <Schwaben, Herzog>"@en,
+        "Konradin <Schwaben, Herzog>"@fr,
+        "Konradin <Schwaben, Herzog>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKonradin <Schwaben, Herzog>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Konradin <Schwaben, Herzog>"@de .
+

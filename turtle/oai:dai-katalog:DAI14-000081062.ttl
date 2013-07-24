@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081062> a skos:Concept ;
+    skos:altLabel "Nepal"@en,
+        "Nepal"@fr,
+        "Nepal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039397> ;
+    skos:hiddenLabel "zTopogAsienSüd- Nepal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nepal"@de .
+

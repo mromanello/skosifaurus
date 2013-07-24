@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071430> a skos:Concept ;
+    skos:altLabel "Fonte Tasca"@en,
+        "Fonte Tasca"@fr,
+        "Fonte Tasca"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039223> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaAbruzChietFonte Tas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fonte Tasca"@de .
+

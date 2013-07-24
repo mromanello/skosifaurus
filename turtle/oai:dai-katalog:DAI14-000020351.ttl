@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020351> a skos:Concept ;
+    skos:altLabel "Kugajsk-Karabulaksk"@en,
+        "Kugajsk-Karabulaksk"@fr,
+        "Kugajsk-Karabulaksk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Kugajsk-Karabulaksk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kugajsk-Karabulaksk"@de .
+

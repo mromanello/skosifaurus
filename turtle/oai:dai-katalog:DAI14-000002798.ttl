@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002798> a skos:Concept ;
+    skos:altLabel "terrace, substruction, vault"@en,
+        "terrasse, substruction, voûte"@fr,
+        "terrazza, sostruzione, volta"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002737> ;
+    skos:hiddenLabel "xArchitKgBautypTerrass" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Terrasse, Substruktion, Gewölbe"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041660> a skos:Concept ;
+    skos:altLabel "Hannut"@en,
+        "Hannut"@fr,
+        "Hannut"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038717> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLiègeHannut" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hannut"@de .
+

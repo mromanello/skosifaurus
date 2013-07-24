@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029238> a skos:Concept ;
+    skos:altLabel "Volterra, Palazzo Inghirami"@en,
+        "Volterra, Palazzo Inghirami"@fr,
+        "Volterra, Palazzo Inghirami"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVolterra, Palazzo Inghirami" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Volterra, Palazzo Inghirami"@de .
+

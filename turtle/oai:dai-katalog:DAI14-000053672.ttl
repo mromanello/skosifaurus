@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053672> a skos:Concept ;
+    skos:altLabel "Hiddensee"@en,
+        "Hiddensee"@fr,
+        "Hiddensee"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038875> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklZZ--RHiddensee" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hiddensee"@de .
+

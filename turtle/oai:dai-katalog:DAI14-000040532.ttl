@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040532> a skos:Concept ;
+    skos:altLabel "Gaeccevaj'njar'ga"@en,
+        "Gaeccevaj'njar'ga"@fr,
+        "Gaeccevaj'njar'ga"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweGaeccevaj" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gaeccevaj'njar'ga"@de .
+

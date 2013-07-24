@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063717> a skos:Concept ;
+    skos:altLabel "Levý Hradec, okr. Praha-západ"@en,
+        "Levý Hradec, okr. Praha-západ"@fr,
+        "Levý Hradec, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyLevý Hrad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Levý Hradec, okr. Praha-západ"@de .
+

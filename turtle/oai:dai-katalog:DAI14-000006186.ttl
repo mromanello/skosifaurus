@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006186> a skos:Concept ;
+    skos:altLabel "Castellón, Servicio de Investigaciones Arqueológicas y Prehistóricas"@en,
+        "Castellón, Servicio de Investigaciones Arqueológicas y Prehistóricas"@fr,
+        "Castellón, Servicio de Investigaciones Arqueológicas y Prehistóricas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsCastellón, Servicio de Investigaciones Arqueológicas y Prehistóricas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castellón, Servicio de Investigaciones Arqueológicas y Prehistóricas"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010665> a skos:Concept ;
+    skos:altLabel "Rijksdienst voor het Oudheidkundig Bodemonderzoek"@en,
+        "Rijksdienst voor het Oudheidkundig Bodemonderzoek"@fr,
+        "Rijksdienst voor het Oudheidkundig Bodemonderzoek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRijksdienst voor het Oudheidkundig Bodemonderzoek" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rijksdienst voor het Oudheidkundig Bodemonderzoek"@de .
+

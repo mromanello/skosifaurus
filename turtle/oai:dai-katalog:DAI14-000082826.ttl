@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082826> a skos:Concept ;
+    skos:altLabel "Freiburg-Opfingen"@en,
+        "Freiburg-Opfingen"@fr,
+        "Freiburg-Opfingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075337> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenFreibFreiburg-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Freiburg-Opfingen"@de .
+

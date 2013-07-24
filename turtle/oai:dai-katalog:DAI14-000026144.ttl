@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026144> a skos:Concept ;
+    skos:altLabel "Brugg 2004/2005"@en,
+        "Brugg 2004/2005"@fr,
+        "Brugg 2004/2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBrugg 2004/2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brugg 2004/2005"@de .
+

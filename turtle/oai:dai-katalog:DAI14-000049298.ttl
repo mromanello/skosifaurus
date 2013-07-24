@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049298> a skos:Concept ;
+    skos:altLabel "Rathfarnham"@en,
+        "Rathfarnham"@fr,
+        "Rathfarnham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077515> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubDubliRathfarnh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rathfarnham"@de .
+

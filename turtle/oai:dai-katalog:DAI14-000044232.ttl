@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044232> a skos:Concept ;
+    skos:altLabel "Beaujeu"@en,
+        "Beaujeu"@fr,
+        "Beaujeu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038778> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgHauteBeaujeu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beaujeu"@de .
+

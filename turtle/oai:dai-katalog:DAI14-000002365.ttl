@@ -1,0 +1,120 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002365_AiKhanum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Ai Khanum" .
+
+<http://data.dainst.de/zenon/000002365_Alexandria(Oxos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Alexandria (Oxos)" .
+
+<http://data.dainst.de/zenon/000002365_AlexandropolisArachosiasvedi:Kandahar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Alexandropolis Arachosias vedi: Kandahar" .
+
+<http://data.dainst.de/zenon/000002365_Altyn-Dil'er-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Altyn-Dil'er-Tepe" .
+
+<http://data.dainst.de/zenon/000002365_Aornos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Aornos" .
+
+<http://data.dainst.de/zenon/000002365_Balkh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Balkh" .
+
+<http://data.dainst.de/zenon/000002365_Begram> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Begram" .
+
+<http://data.dainst.de/zenon/000002365_Bust> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Bust" .
+
+<http://data.dainst.de/zenon/000002365_Dašly> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Dašly" .
+
+<http://data.dainst.de/zenon/000002365_Dilberdjin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Dilberdjin" .
+
+<http://data.dainst.de/zenon/000002365_Emši-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Emši-Tepe" .
+
+<http://data.dainst.de/zenon/000002365_Ghaznivedi:TapaSardar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Ghazni vedi: Tapa Sardar" .
+
+<http://data.dainst.de/zenon/000002365_GulDara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Gul Dara" .
+
+<http://data.dainst.de/zenon/000002365_Hadda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Hadda" .
+
+<http://data.dainst.de/zenon/000002365_HazarSum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Hazar Sum" .
+
+<http://data.dainst.de/zenon/000002365_Herat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Herat" .
+
+<http://data.dainst.de/zenon/000002365_Kandahar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Kandahar" .
+
+<http://data.dainst.de/zenon/000002365_KutlugTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Kutlug Tepe" .
+
+<http://data.dainst.de/zenon/000002365_Mundigak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Mundigak" .
+
+<http://data.dainst.de/zenon/000002365_Nigar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Nigar" .
+
+<http://data.dainst.de/zenon/000002365_Shortughai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Shortughai" .
+
+<http://data.dainst.de/zenon/000002365_SurkhKotal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Surkh Kotal" .
+
+<http://data.dainst.de/zenon/000002365_Tapa-eShotorvedi:Hadda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Tapa-e Shotor vedi: Hadda" .
+
+<http://data.dainst.de/zenon/000002365_TapaSardar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Tapa Sardar" .
+
+<http://data.dainst.de/zenon/000002365_TapaSenawbar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Tapa Senawbar" .
+
+<http://data.dainst.de/zenon/000002365_TilliaTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Tillia Tepe" .
+
+<http://data.dainst.de/zenon/000002365_Žiga-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002365> ;
+    skos:prefLabel "Žiga-Tepe" .
+
+<http://data.dainst.de/zenon/000002365> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002363> ;
+    skos:hiddenLabel "xTopLandAfgOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

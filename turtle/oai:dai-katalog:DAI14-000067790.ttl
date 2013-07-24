@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067790> a skos:Concept ;
+    skos:altLabel "Kašira, obl. Moskva"@en,
+        "Kašira, obl. Moskva"@fr,
+        "Kašira, obl. Moskva"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiKašira, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kašira, obl. Moskva"@de .
+

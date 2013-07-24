@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048993> a skos:Concept ;
+    skos:altLabel "Skara Brae, Orkney"@en,
+        "Skara Brae, Orkney"@fr,
+        "Skara Brae, Orkney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078652> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkneSkara Bra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skara Brae, Orkney"@de .
+

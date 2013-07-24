@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064837> a skos:Concept ;
+    skos:altLabel "Mezőkeresztes"@en,
+        "Mezőkeresztes"@fr,
+        "Mezőkeresztes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039074> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuSomogMezőkeres" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mezőkeresztes"@de .
+

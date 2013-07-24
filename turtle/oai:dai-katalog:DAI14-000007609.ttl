@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007609> a skos:Concept ;
+    skos:altLabel "Beloch, Karl Julius"@en,
+        "Beloch, Karl Julius"@fr,
+        "Beloch, Karl Julius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBeloch, Karl Julius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beloch, Karl Julius"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083418> a skos:Concept ;
+    skos:altLabel "Oberbaar"@en,
+        "Oberbaar"@fr,
+        "Oberbaar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075375> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerAugsbOberbaar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oberbaar"@de .
+

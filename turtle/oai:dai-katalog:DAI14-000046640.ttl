@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046640> a skos:Concept ;
+    skos:altLabel "Barton-upon-Humber"@en,
+        "Barton-upon-Humber"@fr,
+        "Barton-upon-Humber"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077697> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaLincoBarton-up" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barton-upon-Humber"@de .
+

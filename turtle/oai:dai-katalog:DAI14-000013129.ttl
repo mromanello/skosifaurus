@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013129> a skos:Concept ;
+    skos:altLabel "Crépi"@fr,
+        "Plaster"@en,
+        "Tynk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013126> ;
+    skos:hiddenLabel "yRGKArch05 - BefunBaumaVerpu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verputz"@de .
+

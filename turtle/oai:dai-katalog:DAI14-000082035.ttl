@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082035> a skos:Concept ;
+    skos:altLabel "Umhausen, VB Imst"@en,
+        "Umhausen, VB Imst"@fr,
+        "Umhausen, VB Imst"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolUmhausen," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Umhausen, VB Imst"@de .
+

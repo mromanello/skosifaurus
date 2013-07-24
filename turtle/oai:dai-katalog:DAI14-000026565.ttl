@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026565> a skos:Concept ;
+    skos:altLabel "Köln 1983"@en,
+        "Köln 1983"@fr,
+        "Köln 1983"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstKöln 1983" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Köln 1983"@de .
+

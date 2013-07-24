@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003793> a skos:Concept ;
+    skos:altLabel "leggi municipali e simili (fino a 1997)"@it,
+        "lois municipales et autres dispositions à niveau local (jusqu'à 1997)"@fr,
+        "municipal laws and other local documents (untill 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003786> ;
+    skos:hiddenLabel "xEpigrLatActaPublStadt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stadtrechte und lokale Urkunden (bis 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012223> a skos:Concept ;
+    skos:altLabel "Knowles, William James"@en,
+        "Knowles, William James"@fr,
+        "Knowles, William James"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKnowles, William James" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Knowles, William James"@de .
+

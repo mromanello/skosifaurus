@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042691> a skos:Concept ;
+    skos:altLabel "Meudon"@en,
+        "Meudon"@fr,
+        "Meudon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038738> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dHautsMeudon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meudon"@de .
+

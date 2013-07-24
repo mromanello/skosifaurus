@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014301> a skos:Concept ;
+    skos:altLabel "Harvest"@en,
+        "Récolte"@fr,
+        "Zbiory/zniwa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014298> ;
+    skos:hiddenLabel "yRGKArch07 - WirtsSubsiBodenErnte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ernte"@de .
+

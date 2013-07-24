@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020866> a skos:Concept ;
+    skos:altLabel "Tisza-Herpály"@en,
+        "Tisza-Herpály"@fr,
+        "Tisza-Herpály"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Tisza-Herpály" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tisza-Herpály"@de .
+

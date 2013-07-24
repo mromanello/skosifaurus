@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045863> a skos:Concept ;
+    skos:altLabel "Soulac-sur-Mer"@en,
+        "Soulac-sur-Mer"@fr,
+        "Soulac-sur-Mer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038817> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitGironSoulac-su" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Soulac-sur-Mer"@de .
+

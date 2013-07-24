@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021177> a skos:Concept ;
+    skos:altLabel "Atius Balbus, Marcus"@en,
+        "Atius Balbus, Marcus"@fr,
+        "Atius Balbus, Marcus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAtius Balbus, Marcus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Atius Balbus, Marcus"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077585> a skos:Concept ;
+    skos:altLabel "Lauenbrück"@en,
+        "Lauenbrück"@fr,
+        "Lauenbrück"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075598> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeRotenLauenbrüc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lauenbrück"@de .
+

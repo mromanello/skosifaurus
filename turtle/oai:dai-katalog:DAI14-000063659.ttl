@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063659> a skos:Concept ;
+    skos:altLabel "Kněżeves, okr. Praha-Západ"@en,
+        "Kněżeves, okr. Praha-Západ"@fr,
+        "Kněżeves, okr. Praha-Západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKněżeves," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kněżeves, okr. Praha-Západ"@de .
+

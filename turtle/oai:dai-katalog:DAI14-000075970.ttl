@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075970> a skos:Concept ;
+    skos:altLabel "Altyn-depe"@en,
+        "Altyn-depe"@fr,
+        "Altyn-depe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075963> ;
+    skos:hiddenLabel "zTopogAsienMittlTurkmAltyn-dep" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altyn-depe"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025074> a skos:Concept ;
+    skos:altLabel "Noricum ripense"@en,
+        "Noricum ripense"@fr,
+        "Noricum ripense"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017117> ;
+    skos:hiddenLabel "yRGKArch10 - GeschGebieNoricum ripense" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Noricum ripense"@de .
+

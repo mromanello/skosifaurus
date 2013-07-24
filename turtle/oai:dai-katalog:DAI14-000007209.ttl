@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007209> a skos:Concept ;
+    skos:altLabel "Barandiarán Maestu, Ignacio"@en,
+        "Barandiarán Maestu, Ignacio"@fr,
+        "Barandiarán Maestu, Ignacio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBarandiarán Maestu, Ignacio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barandiarán Maestu, Ignacio"@de .
+

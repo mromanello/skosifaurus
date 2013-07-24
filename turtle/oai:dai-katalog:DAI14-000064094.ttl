@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064094> a skos:Concept ;
+    skos:altLabel "Vojenskýtábor, okr. Plzeň-sever"@en,
+        "Vojenskýtábor, okr. Plzeň-sever"@fr,
+        "Vojenskýtábor, okr. Plzeň-sever"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyVojenskýt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vojenskýtábor, okr. Plzeň-sever"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032168> a skos:Concept ;
+    skos:altLabel "Mykenische Zivilisation"@en,
+        "Mykenische Zivilisation"@fr,
+        "Mykenische Zivilisation"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliMykenische Zivilisation" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mykenische Zivilisation"@de .
+

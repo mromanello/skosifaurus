@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032730> a skos:Concept ;
+    skos:altLabel "Tetradrachmon"@en,
+        "Tetradrachmon"@fr,
+        "Tetradrachmon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015261> ;
+    skos:hiddenLabel "yRGKArch08 - HistoNumisMünzmSilbeTetra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tetradrachmen"@de .
+

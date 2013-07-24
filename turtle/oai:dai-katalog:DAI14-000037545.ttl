@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037545> a skos:Concept ;
+    skos:altLabel "Sofija 2003"@en,
+        "Sofija 2003"@fr,
+        "Sofija 2003"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrSofija 2003" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sofija 2003"@de .
+

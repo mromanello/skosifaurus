@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038964> a skos:Concept ;
+    skos:altLabel "Jerichower Land"@en,
+        "Jerichower Land"@fr,
+        "Jerichower Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038959> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsJeric" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jerichower Land"@de .
+

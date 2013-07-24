@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036629> a skos:Concept ;
+    skos:altLabel "Medford 1995"@en,
+        "Medford 1995"@fr,
+        "Medford 1995"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMedford 1995" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Medford 1995"@de .
+

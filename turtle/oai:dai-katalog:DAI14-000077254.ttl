@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077254> a skos:Concept ;
+    skos:altLabel "Aquae Sextiae"@en,
+        "Aquae Sextiae"@fr,
+        "Aquae Sextiae"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchAquae Sex" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aquae Sextiae"@de .
+

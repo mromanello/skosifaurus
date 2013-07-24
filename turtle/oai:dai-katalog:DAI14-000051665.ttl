@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051665> a skos:Concept ;
+    skos:altLabel "Aufhausen"@en,
+        "Aufhausen"@fr,
+        "Aufhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075451> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRegenAufhausen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aufhausen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033737> a skos:Concept ;
+    skos:altLabel "Sacrifices"@en,
+        "Sacrifices"@fr,
+        "Składanie ofiar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013735> ;
+    skos:hiddenLabel "yRGKArch06 - GeselReligOpfer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Opferungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076329> a skos:Concept ;
+    skos:altLabel "Tuulos"@en,
+        "Tuulos"@fr,
+        "Tuulos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038704> ;
+    skos:hiddenLabel "zTopogEuropNordeFinnlTuulos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tuulos"@de .
+

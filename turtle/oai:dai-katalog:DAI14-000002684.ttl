@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002684> a skos:Concept ;
+    skos:altLabel "cera"@it,
+        "cire"@fr,
+        "wax"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002659> ;
+    skos:hiddenLabel "xTMMatOrganWachs" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wachs"@de .
+

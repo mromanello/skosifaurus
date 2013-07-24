@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054435> a skos:Concept ;
+    skos:altLabel "Nenndorf"@en,
+        "Nenndorf"@fr,
+        "Nenndorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075552> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWittmNenndorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nenndorf"@de .
+

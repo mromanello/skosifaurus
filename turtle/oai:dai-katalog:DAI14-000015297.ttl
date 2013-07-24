@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015297> a skos:Concept ;
+    skos:altLabel "Epoque romaine"@fr,
+        "Okres rzymski"@pl,
+        "Roman Empire"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012476> ;
+    skos:hiddenLabel "yRGKArch09 -" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "09 - Römische Kaiserzeit (1.-3. Jahrh.)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049809> a skos:Concept ;
+    skos:altLabel "'t Goy"@en,
+        "'t Goy"@fr,
+        "'t Goy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038860> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeUtrec't Goy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "'t Goy"@de .
+

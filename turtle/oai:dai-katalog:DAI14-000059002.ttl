@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059002> a skos:Concept ;
+    skos:altLabel "Różyny"@en,
+        "Różyny"@fr,
+        "Różyny"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorRóżyny" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Różyny"@de .
+

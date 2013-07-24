@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065566> a skos:Concept ;
+    skos:altLabel "Podgori"@en,
+        "Podgori"@fr,
+        "Podgori"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039093> ;
+    skos:hiddenLabel "zTopogEuropOsteuAlbanPodgori" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Podgori"@de .
+

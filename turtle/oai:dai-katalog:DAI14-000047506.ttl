@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047506> a skos:Concept ;
+    skos:altLabel "La Hougue Bie, Jersey"@en,
+        "La Hougue Bie, Jersey"@fr,
+        "La Hougue Bie, Jersey"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077949> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaIsle La Hougue" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Hougue Bie, Jersey"@de .
+

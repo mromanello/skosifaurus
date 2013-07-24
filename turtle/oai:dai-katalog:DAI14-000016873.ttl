@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016873> a skos:Concept ;
+    skos:altLabel "Communautés de culte"@fr,
+        "Cult communities"@en,
+        "Wspólnoty/zwiazki odprawiajace kulty"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016868> ;
+    skos:hiddenLabel "yRGKArch10 - GeselReligKulteKultg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kultgemeinschaften"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068493> a skos:Concept ;
+    skos:altLabel "Juhor"@en,
+        "Juhor"@fr,
+        "Juhor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077454> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiJuhor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Juhor"@de .
+

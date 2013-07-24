@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016001> a skos:Concept ;
+    skos:altLabel "Erotical scenes"@en,
+        "Sceny erotyczne"@pl,
+        "Scènes érotiques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015990> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKunstIkonoProfaMenscEroti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erotische Szenen"@de .
+

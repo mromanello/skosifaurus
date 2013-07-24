@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026867> a skos:Concept ;
+    skos:altLabel "München 2000"@en,
+        "München 2000"@fr,
+        "München 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstMünchen 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "München 2000"@de .
+

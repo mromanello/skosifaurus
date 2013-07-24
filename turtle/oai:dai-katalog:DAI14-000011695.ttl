@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011695> a skos:Concept ;
+    skos:altLabel "Hásková, Jarmila"@en,
+        "Hásková, Jarmila"@fr,
+        "Hásková, Jarmila"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHásková, Jarmila" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hásková, Jarmila"@de .
+

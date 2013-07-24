@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047641> a skos:Concept ;
+    skos:altLabel "Lynford Quarry, Thetford"@en,
+        "Lynford Quarry, Thetford"@fr,
+        "Lynford Quarry, Thetford"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077699> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorfoLynford Q" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lynford Quarry, Thetford"@de .
+

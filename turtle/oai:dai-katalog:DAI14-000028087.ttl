@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028087> a skos:Concept ;
+    skos:altLabel "Gamla Uppsala, Museum"@en,
+        "Gamla Uppsala, Museum"@fr,
+        "Gamla Uppsala, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGamla Uppsala, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gamla Uppsala, Museum"@de .
+

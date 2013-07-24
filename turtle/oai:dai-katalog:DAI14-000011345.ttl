@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011345> a skos:Concept ;
+    skos:altLabel "Da Veiga Ferreira, Octávio"@en,
+        "Da Veiga Ferreira, Octávio"@fr,
+        "Da Veiga Ferreira, Octávio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDa Veiga Ferreira, Octávio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Da Veiga Ferreira, Octávio"@de .
+

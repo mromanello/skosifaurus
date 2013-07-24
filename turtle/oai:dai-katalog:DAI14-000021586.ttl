@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021586> a skos:Concept ;
+    skos:altLabel "Géza <Ungarn, Fürst>"@en,
+        "Géza <Ungarn, Fürst>"@fr,
+        "Géza <Ungarn, Fürst>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGéza <Ungarn, Fürst>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Géza <Ungarn, Fürst>"@de .
+

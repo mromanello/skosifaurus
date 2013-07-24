@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006272> a skos:Concept ;
+    skos:altLabel "Doubová-Andrlová, Marie"@en,
+        "Doubová-Andrlová, Marie"@fr,
+        "Doubová-Andrlová, Marie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsDoubová-Andrlová, Marie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Doubová-Andrlová, Marie"@de .
+

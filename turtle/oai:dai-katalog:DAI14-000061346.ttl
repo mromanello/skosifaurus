@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061346> a skos:Concept ;
+    skos:altLabel "Wola Raniżowska-Stece"@en,
+        "Wola Raniżowska-Stece"@fr,
+        "Wola Raniżowska-Stece"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039031> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopPodkaWola Rani" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wola Raniżowska-Stece"@de .
+

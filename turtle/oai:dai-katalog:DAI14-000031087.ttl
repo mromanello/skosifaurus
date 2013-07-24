@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031087> a skos:Concept ;
+    skos:altLabel "Christie's, London 1986"@en,
+        "Christie's, London 1986"@fr,
+        "Christie's, London 1986"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiChristie's, London 1986" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Christie's, London 1986"@de .
+

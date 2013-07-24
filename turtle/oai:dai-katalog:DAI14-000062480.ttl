@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062480> a skos:Concept ;
+    skos:altLabel "Hünenberg-Chämleten"@en,
+        "Hünenberg-Chämleten"@fr,
+        "Hünenberg-Chämleten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039058> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZugHünenberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hünenberg-Chämleten"@de .
+

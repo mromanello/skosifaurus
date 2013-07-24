@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011998> a skos:Concept ;
+    skos:altLabel "Von Detten, Detlef"@en,
+        "Von Detten, Detlef"@fr,
+        "Von Detten, Detlef"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoVon Detten, Detlef" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Von Detten, Detlef"@de .
+

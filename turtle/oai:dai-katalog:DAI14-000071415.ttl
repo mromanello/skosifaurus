@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071415> a skos:Concept ;
+    skos:altLabel "San Benedetto dei Marsi"@en,
+        "San Benedetto dei Marsi"@fr,
+        "San Benedetto dei Marsi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039222> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaAbruzAquilSan Bened" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Benedetto dei Marsi"@de .
+

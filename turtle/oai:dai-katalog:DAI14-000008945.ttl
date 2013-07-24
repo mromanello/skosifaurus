@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008945> a skos:Concept ;
+    skos:altLabel "Kvamme, Kenneth L."@en,
+        "Kvamme, Kenneth L."@fr,
+        "Kvamme, Kenneth L."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKvamme, Kenneth L." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kvamme, Kenneth L."@de .
+

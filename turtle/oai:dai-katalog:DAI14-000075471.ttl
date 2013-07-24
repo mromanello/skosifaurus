@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075471> a skos:Concept ;
+    skos:altLabel "Dahme-Spreewald"@en,
+        "Dahme-Spreewald"@fr,
+        "Dahme-Spreewald"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038870> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandDahme-Spr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dahme-Spreewald"@de .
+

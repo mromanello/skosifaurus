@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011959> a skos:Concept ;
+    skos:altLabel "Verein für Hessische Geschichte und Landeskunde"@en,
+        "Verein für Hessische Geschichte und Landeskunde"@fr,
+        "Verein für Hessische Geschichte und Landeskunde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiVerein für Hessische Geschichte und Landeskunde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verein für Hessische Geschichte und Landeskunde"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006147> a skos:Concept ;
+    skos:altLabel "Breuil, Henri"@en,
+        "Breuil, Henri"@fr,
+        "Breuil, Henri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBreuil, Henri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Breuil, Henri"@de .
+

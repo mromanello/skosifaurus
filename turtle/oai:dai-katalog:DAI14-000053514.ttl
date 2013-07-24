@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053514> a skos:Concept ;
+    skos:altLabel "Menzlin"@en,
+        "Menzlin"@fr,
+        "Menzlin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075533> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklOstvoMenzlin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Menzlin"@de .
+

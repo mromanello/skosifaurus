@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003953> a skos:Concept ;
+    skos:altLabel "de l'au-delà"@fr,
+        "dell'Aldilà"@it,
+        "ideas of after-life"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003952> ;
+    skos:hiddenLabel "xReligVorstJenseits" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jenseitsvorstellungen"@de .
+

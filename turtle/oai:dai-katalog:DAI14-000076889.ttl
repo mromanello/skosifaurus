@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076889> a skos:Concept ;
+    skos:altLabel "Knowle Hall"@en,
+        "Knowle Hall"@fr,
+        "Knowle Hall"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077711> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWarwiKnowle Ha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Knowle Hall"@de .
+

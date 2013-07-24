@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003972> a skos:Concept ;
+    skos:altLabel "religious customs (1956 - 1997)"@en,
+        "usages cultuels (1956 - 1997)"@fr,
+        "usanze cultuali (1956 - 1997)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003971> ;
+    skos:hiddenLabel "xReligChrKultBrauch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "religiöse Bräuche (1956 - 1997)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023137> a skos:Concept ;
+    skos:altLabel "Vinland-Karte"@en,
+        "Vinland-Karte"@fr,
+        "Vinland-Karte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012498> ;
+    skos:hiddenLabel "yRGKArch02 - SchriLandkVinland-Karte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vinland-Karte"@de .
+

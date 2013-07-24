@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003240> a skos:Concept ;
+    skos:altLabel "Euboean"@en,
+        "euboici"@it,
+        "eubéens"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003235> ;
+    skos:hiddenLabel "xGefTonSchwarzfEub" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "euböisch"@de .
+

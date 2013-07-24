@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050597> a skos:Concept ;
+    skos:altLabel "Rot am See-Musdorf"@en,
+        "Rot am See-Musdorf"@fr,
+        "Rot am See-Musdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075361> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenSchwäRot am Se" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rot am See-Musdorf"@de .
+

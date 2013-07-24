@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042842> a skos:Concept ;
+    skos:altLabel "Carignan"@en,
+        "Carignan"@fr,
+        "Carignan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038744> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacArdenCarignan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carignan"@de .
+

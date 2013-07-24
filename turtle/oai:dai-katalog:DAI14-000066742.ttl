@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066742> a skos:Concept ;
+    skos:altLabel "Măgura Călan, jud. Hunedoara"@en,
+        "Măgura Călan, jud. Hunedoara"@fr,
+        "Măgura Călan, jud. Hunedoara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatMăgura Că" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Măgura Călan, jud. Hunedoara"@de .
+

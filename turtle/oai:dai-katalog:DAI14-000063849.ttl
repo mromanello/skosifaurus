@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063849> a skos:Concept ;
+    skos:altLabel "Plasy, okr. Plzeň-sever"@en,
+        "Plasy, okr. Plzeň-sever"@fr,
+        "Plasy, okr. Plzeň-sever"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPlasy, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plasy, okr. Plzeň-sever"@de .
+

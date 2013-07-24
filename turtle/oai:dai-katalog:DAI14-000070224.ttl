@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070224> a skos:Concept ;
+    skos:altLabel "Monfalcone"@en,
+        "Monfalcone"@fr,
+        "Monfalcone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039178> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVenezMonfalcon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monfalcone"@de .
+

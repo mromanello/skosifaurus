@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034437> a skos:Concept ;
+    skos:altLabel "Reichschronik (Annalista Saxo)"@en,
+        "Reichschronik (Annalista Saxo)"@fr,
+        "Reichschronik (Annalista Saxo)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012490> ;
+    skos:hiddenLabel "yRGKArch02 - SchriHistoReichschronik (Annalista Saxo)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reichschronik (Annalista Saxo)"@de .
+

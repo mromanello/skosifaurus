@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072072> a skos:Concept ;
+    skos:altLabel "San Giovanni di Ruoti"@en,
+        "San Giovanni di Ruoti"@fr,
+        "San Giovanni di Ruoti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039245> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisBasilPotenSan Giova" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Giovanni di Ruoti"@de .
+

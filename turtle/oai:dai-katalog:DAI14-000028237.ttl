@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028237> a skos:Concept ;
+    skos:altLabel "Ivoz-Ramet, Musée de la Préhistoire en Wallonie"@en,
+        "Ivoz-Ramet, Musée de la Préhistoire en Wallonie"@fr,
+        "Ivoz-Ramet, Musée de la Préhistoire en Wallonie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuIvoz-Ramet, Musée de la Préhistoire en Wallonie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivoz-Ramet, Musée de la Préhistoire en Wallonie"@de .
+

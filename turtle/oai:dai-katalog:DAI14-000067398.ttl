@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067398> a skos:Concept ;
+    skos:altLabel "Vadu Soreşti, jud. Buzău"@en,
+        "Vadu Soreşti, jud. Buzău"@fr,
+        "Vadu Soreşti, jud. Buzău"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenVadu Sore" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vadu Soreşti, jud. Buzău"@de .
+

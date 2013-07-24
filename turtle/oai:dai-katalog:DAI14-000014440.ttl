@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014440> a skos:Concept ;
+    skos:altLabel "Brocs/cruches"@fr,
+        "Jugs"@en,
+        "Puchary/kubki/dzbany"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014439> ;
+    skos:hiddenLabel "yRGKArch08 - FundeGefäsMetalBeche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Becher/Kannen/Krüge"@de .
+

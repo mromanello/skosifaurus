@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053913> a skos:Concept ;
+    skos:altLabel "Obernjesa, Gde. Rosdorf"@en,
+        "Obernjesa, Gde. Rosdorf"@fr,
+        "Obernjesa, Gde. Rosdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075577> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGöttiObernjesa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obernjesa, Gde. Rosdorf"@de .
+

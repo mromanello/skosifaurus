@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007527> a skos:Concept ;
+    skos:altLabel "Baessler, Arthur"@en,
+        "Baessler, Arthur"@fr,
+        "Baessler, Arthur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBaessler, Arthur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baessler, Arthur"@de .
+

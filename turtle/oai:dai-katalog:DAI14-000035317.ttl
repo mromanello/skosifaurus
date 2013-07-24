@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035317> a skos:Concept ;
+    skos:altLabel "Bonn 1868"@en,
+        "Bonn 1868"@fr,
+        "Bonn 1868"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBonn 1868" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonn 1868"@de .
+

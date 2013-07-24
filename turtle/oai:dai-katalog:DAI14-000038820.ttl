@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038820> a skos:Concept ;
+    skos:altLabel "Lot-et-Garonne"@en,
+        "Lot-et-Garonne"@fr,
+        "Lot-et-Garonne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038811> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLot-e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lot-et-Garonne"@de .
+

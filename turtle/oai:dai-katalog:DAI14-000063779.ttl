@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063779> a skos:Concept ;
+    skos:altLabel "Močovice, okr. Kutná-Hora"@en,
+        "Močovice, okr. Kutná-Hora"@fr,
+        "Močovice, okr. Kutná-Hora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyMočovice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Močovice, okr. Kutná-Hora"@de .
+

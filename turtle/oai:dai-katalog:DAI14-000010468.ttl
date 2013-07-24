@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010468> a skos:Concept ;
+    skos:altLabel "Bonn, Kommission für Aussereuropäische Archäologie (vormals KAVA)"@en,
+        "Bonn, Kommission für Aussereuropäische Archäologie (vormals KAVA)"@fr,
+        "Bonn, Kommission für Aussereuropäische Archäologie (vormals KAVA)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiBonn, Kommission für Aussereuropäische Archäologie (vormals KAVA)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonn, Kommission für Aussereuropäische Archäologie (vormals KAVA)"@de .
+

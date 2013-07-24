@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043242> a skos:Concept ;
+    skos:altLabel "Hunawihr"@en,
+        "Hunawihr"@fr,
+        "Hunawihr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038752> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacHaut-Hunawihr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hunawihr"@de .
+

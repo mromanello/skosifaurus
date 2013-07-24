@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022579> a skos:Concept ;
+    skos:altLabel "Venutius <Briganten, König>"@en,
+        "Venutius <Briganten, König>"@fr,
+        "Venutius <Briganten, König>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVenutius <Briganten, König>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Venutius <Briganten, König>"@de .
+

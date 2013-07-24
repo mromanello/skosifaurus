@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016134> a skos:Concept ;
+    skos:altLabel "Cursus publicus"@en,
+        "Cursus publicus"@fr,
+        "Cursus publicus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016127> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsVerkeCursu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cursus publicus"@de .
+

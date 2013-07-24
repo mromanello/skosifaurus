@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036705> a skos:Concept ;
+    skos:altLabel "Montpellier 1961"@en,
+        "Montpellier 1961"@fr,
+        "Montpellier 1961"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMontpellier 1961" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montpellier 1961"@de .
+

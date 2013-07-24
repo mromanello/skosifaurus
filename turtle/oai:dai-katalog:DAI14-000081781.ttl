@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081781> a skos:Concept ;
+    skos:altLabel "Gemert-Bakel"@en,
+        "Gemert-Bakel"@fr,
+        "Gemert-Bakel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038857> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeNoordGemert-Ba" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gemert-Bakel"@de .
+

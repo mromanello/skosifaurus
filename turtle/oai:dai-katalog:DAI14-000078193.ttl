@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078193> a skos:Concept ;
+    skos:altLabel "Leicester"@en,
+        "Leicester"@fr,
+        "Leicester"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077696> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaLeiceLeicester" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leicester"@de .
+

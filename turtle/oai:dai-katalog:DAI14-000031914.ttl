@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031914> a skos:Concept ;
+    skos:altLabel "Soutou, André"@en,
+        "Soutou, André"@fr,
+        "Soutou, André"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSoutou, André" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Soutou, André"@de .
+

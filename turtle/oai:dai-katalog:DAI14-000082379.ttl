@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082379> a skos:Concept ;
+    skos:altLabel "Tušpa"@en,
+        "Tušpa"@fr,
+        "Tušpa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeTušpa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tušpa"@de .
+

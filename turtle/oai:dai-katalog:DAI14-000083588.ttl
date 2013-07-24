@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083588> a skos:Concept ;
+    skos:altLabel "Möttingen-Lierheim"@en,
+        "Möttingen-Lierheim"@fr,
+        "Möttingen-Lierheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075398> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDonauMöttingen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Möttingen-Lierheim"@de .
+

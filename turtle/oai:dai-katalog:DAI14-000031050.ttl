@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031050> a skos:Concept ;
+    skos:altLabel "Bonham, London 1993"@en,
+        "Bonham, London 1993"@fr,
+        "Bonham, London 1993"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiBonham, London 1993" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bonham, London 1993"@de .
+

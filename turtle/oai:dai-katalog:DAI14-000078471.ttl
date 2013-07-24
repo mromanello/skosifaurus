@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078471> a skos:Concept ;
+    skos:altLabel "Llandough"@en,
+        "Llandough"@fr,
+        "Llandough"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078213> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesVale Llandough" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Llandough"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051723> a skos:Concept ;
+    skos:altLabel "Wenzenbach-Irlbach"@en,
+        "Wenzenbach-Irlbach"@fr,
+        "Wenzenbach-Irlbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075451> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRegenWenzenbac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wenzenbach-Irlbach"@de .
+

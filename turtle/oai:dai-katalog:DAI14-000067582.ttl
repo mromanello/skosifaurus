@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067582> a skos:Concept ;
+    skos:altLabel "Poiana, jud. Galaţi"@en,
+        "Poiana, jud. Galaţi"@fr,
+        "Poiana, jud. Galaţi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoPoiana, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poiana, jud. Galaţi"@de .
+

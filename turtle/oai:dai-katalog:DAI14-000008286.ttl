@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008286> a skos:Concept ;
+    skos:altLabel "Fourdrignier, Édouard"@en,
+        "Fourdrignier, Édouard"@fr,
+        "Fourdrignier, Édouard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFourdrignier, Édouard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fourdrignier, Édouard"@de .
+

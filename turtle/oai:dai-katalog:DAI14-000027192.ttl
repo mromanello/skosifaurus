@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027192> a skos:Concept ;
+    skos:altLabel "Sarzana 1994"@en,
+        "Sarzana 1994"@fr,
+        "Sarzana 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSarzana 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarzana 1994"@de .
+

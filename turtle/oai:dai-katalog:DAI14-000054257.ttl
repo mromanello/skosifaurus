@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054257> a skos:Concept ;
+    skos:altLabel "Düna, Gde. Hörden"@en,
+        "Düna, Gde. Hörden"@fr,
+        "Düna, Gde. Hörden"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075597> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeOsterDüna, Gde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Düna, Gde. Hörden"@de .
+

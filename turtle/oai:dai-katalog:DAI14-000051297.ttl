@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051297> a skos:Concept ;
+    skos:altLabel "Kelheim-Staubing"@en,
+        "Kelheim-Staubing"@fr,
+        "Kelheim-Staubing"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075421> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerKelheKelheim-S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kelheim-Staubing"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058467> a skos:Concept ;
+    skos:altLabel "Riegersburg, VB Feldbach"@en,
+        "Riegersburg, VB Feldbach"@fr,
+        "Riegersburg, VB Feldbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieRiegersbu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Riegersburg, VB Feldbach"@de .
+

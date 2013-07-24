@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030622> a skos:Concept ;
+    skos:altLabel "Italien, Socièta per la Protezione dei Beni Culturali"@en,
+        "Italien, Socièta per la Protezione dei Beni Culturali"@fr,
+        "Italien, Socièta per la Protezione dei Beni Culturali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiItalien, Socièta per la Protezione dei Beni Culturali" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Italien, Socièta per la Protezione dei Beni Culturali"@de .
+

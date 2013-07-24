@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036725> a skos:Concept ;
+    skos:altLabel "Mostar 1974"@en,
+        "Mostar 1974"@fr,
+        "Mostar 1974"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMostar 1974" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mostar 1974"@de .
+

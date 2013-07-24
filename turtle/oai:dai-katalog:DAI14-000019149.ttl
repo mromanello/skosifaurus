@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019149> a skos:Concept ;
+    skos:altLabel "Construction techniques"@en,
+        "Techniki konstrukcji"@pl,
+        "Techniques de construction"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019134> ;
+    skos:hiddenLabel "yRGKArch14 - BefunKonst" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Konstruktionstechniken"@de .
+

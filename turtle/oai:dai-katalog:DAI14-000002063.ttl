@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002063> a skos:Concept ;
+    skos:altLabel "countries"@en,
+        "pays"@fr,
+        "per singoli paesi"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002060> ;
+    skos:hiddenLabel "xPraxHandbLand" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Länder"@de .
+

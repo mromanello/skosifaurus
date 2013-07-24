@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064123> a skos:Concept ;
+    skos:altLabel "Žalov, okr. Praha-západ"@en,
+        "Žalov, okr. Praha-západ"@fr,
+        "Žalov, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyŽalov, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Žalov, okr. Praha-západ"@de .
+

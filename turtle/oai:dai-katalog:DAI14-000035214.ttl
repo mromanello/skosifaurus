@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035214> a skos:Concept ;
+    skos:altLabel "Beograd 1983"@en,
+        "Beograd 1983"@fr,
+        "Beograd 1983"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBeograd 1983" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beograd 1983"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062261> a skos:Concept ;
+    skos:altLabel "Mammern"@en,
+        "Mammern"@fr,
+        "Mammern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039053> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweThurgMammern" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mammern"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073261> a skos:Concept ;
+    skos:altLabel "Lleida-Raïmat"@en,
+        "Lleida-Raïmat"@fr,
+        "Lleida-Raïmat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039323> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCatalLleidLleida-Ra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lleida-Raïmat"@de .
+

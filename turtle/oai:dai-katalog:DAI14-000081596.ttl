@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081596> a skos:Concept ;
+    skos:altLabel "San Martino in Pensilis"@en,
+        "San Martino in Pensilis"@fr,
+        "San Martino in Pensilis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039235> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisMolisCampoSan Marti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Martino in Pensilis"@de .
+

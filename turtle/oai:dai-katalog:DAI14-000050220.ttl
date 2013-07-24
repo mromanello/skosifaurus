@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050220> a skos:Concept ;
+    skos:altLabel "Bruchsal-Helmsheim"@en,
+        "Bruchsal-Helmsheim"@fr,
+        "Bruchsal-Helmsheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075344> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenKarlsBruchsal-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruchsal-Helmsheim"@de .
+

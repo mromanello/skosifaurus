@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049217> a skos:Concept ;
+    skos:altLabel "Croagh Patrick"@en,
+        "Croagh Patrick"@fr,
+        "Croagh Patrick"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077525> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubMayoCroagh Pa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Croagh Patrick"@de .
+

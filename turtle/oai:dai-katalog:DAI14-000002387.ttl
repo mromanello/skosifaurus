@@ -1,0 +1,684 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002387_Pachten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pachten" .
+
+<http://data.dainst.de/zenon/000002387_Palatiolumvedi:Pfalzel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Palatiolum vedi: Pfalzel" .
+
+<http://data.dainst.de/zenon/000002387_Passau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Passau" .
+
+<http://data.dainst.de/zenon/000002387_Passau-Haibach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Passau-Haibach" .
+
+<http://data.dainst.de/zenon/000002387_Peiting> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Peiting" .
+
+<http://data.dainst.de/zenon/000002387_Pesch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pesch" .
+
+<http://data.dainst.de/zenon/000002387_Pfaffenhofenvedi:PonsAeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pfaffenhofen vedi: Pons Aeni" .
+
+<http://data.dainst.de/zenon/000002387_Pfalzel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pfalzel" .
+
+<http://data.dainst.de/zenon/000002387_Pfatter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pfatter" .
+
+<http://data.dainst.de/zenon/000002387_Pforzheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pforzheim" .
+
+<http://data.dainst.de/zenon/000002387_Pfullingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pfullingen" .
+
+<http://data.dainst.de/zenon/000002387_Pförring> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pförring" .
+
+<http://data.dainst.de/zenon/000002387_Piesport> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Piesport" .
+
+<http://data.dainst.de/zenon/000002387_Pocking> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pocking" .
+
+<http://data.dainst.de/zenon/000002387_PonsAeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pons Aeni" .
+
+<http://data.dainst.de/zenon/000002387_Praunheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Praunheim" .
+
+<http://data.dainst.de/zenon/000002387_Prutting> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Prutting" .
+
+<http://data.dainst.de/zenon/000002387_Pulheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Pulheim" .
+
+<http://data.dainst.de/zenon/000002387_Rainau-Buch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rainau-Buch" .
+
+<http://data.dainst.de/zenon/000002387_Ramersbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Ramersbach" .
+
+<http://data.dainst.de/zenon/000002387_Rees> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rees" .
+
+<http://data.dainst.de/zenon/000002387_Regensburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Regensburg" .
+
+<http://data.dainst.de/zenon/000002387_Reil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Reil" .
+
+<http://data.dainst.de/zenon/000002387_Reinheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Reinheim" .
+
+<http://data.dainst.de/zenon/000002387_Remagen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Remagen" .
+
+<http://data.dainst.de/zenon/000002387_Renningen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Renningen" .
+
+<http://data.dainst.de/zenon/000002387_Reutlingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Reutlingen" .
+
+<http://data.dainst.de/zenon/000002387_Rheinbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rheinbach" .
+
+<http://data.dainst.de/zenon/000002387_Rheinbach-Flerzheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rheinbach-Flerzheim" .
+
+<http://data.dainst.de/zenon/000002387_Rheinberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rheinberg" .
+
+<http://data.dainst.de/zenon/000002387_Rheingönheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rheingönheim" .
+
+<http://data.dainst.de/zenon/000002387_Rheinzabern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rheinzabern" .
+
+<http://data.dainst.de/zenon/000002387_Riedstadt-Goddelau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Riedstadt-Goddelau" .
+
+<http://data.dainst.de/zenon/000002387_Riegel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Riegel" .
+
+<http://data.dainst.de/zenon/000002387_Rindern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rindern" .
+
+<http://data.dainst.de/zenon/000002387_Risstissen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Risstissen" .
+
+<http://data.dainst.de/zenon/000002387_Roggden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Roggden" .
+
+<http://data.dainst.de/zenon/000002387_Rohrbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rohrbach" .
+
+<http://data.dainst.de/zenon/000002387_Rohrbach(Bayern)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rohrbach (Bayern)" .
+
+<http://data.dainst.de/zenon/000002387_Rohrdorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rohrdorf" .
+
+<http://data.dainst.de/zenon/000002387_Rommerskirchen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rommerskirchen" .
+
+<http://data.dainst.de/zenon/000002387_Rondorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rondorf" .
+
+<http://data.dainst.de/zenon/000002387_RostrumNemaviae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rostrum Nemaviae" .
+
+<http://data.dainst.de/zenon/000002387_Rottenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rottenburg" .
+
+<http://data.dainst.de/zenon/000002387_Rottweil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rottweil" .
+
+<http://data.dainst.de/zenon/000002387_Ruffenhofen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Ruffenhofen" .
+
+<http://data.dainst.de/zenon/000002387_Rödgen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rödgen" .
+
+<http://data.dainst.de/zenon/000002387_Rösrath> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Rösrath" .
+
+<http://data.dainst.de/zenon/000002387_Saala.d.Donau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Saal a.d. Donau" .
+
+<http://data.dainst.de/zenon/000002387_Saalburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Saalburg" .
+
+<http://data.dainst.de/zenon/000002387_Saarbrücken> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Saarbrücken" .
+
+<http://data.dainst.de/zenon/000002387_Sabiona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sabiona" .
+
+<http://data.dainst.de/zenon/000002387_Salisberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Salisberg" .
+
+<http://data.dainst.de/zenon/000002387_Sasbachvedi:Sponeck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sasbach vedi: Sponeck" .
+
+<http://data.dainst.de/zenon/000002387_Satzvey-Firmenich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Satzvey-Firmenich" .
+
+<http://data.dainst.de/zenon/000002387_Schallstadt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schallstadt" .
+
+<http://data.dainst.de/zenon/000002387_Schambach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schambach" .
+
+<http://data.dainst.de/zenon/000002387_Schankweiler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schankweiler" .
+
+<http://data.dainst.de/zenon/000002387_Schirenhof> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schirenhof" .
+
+<http://data.dainst.de/zenon/000002387_Schmissberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schmissberg" .
+
+<http://data.dainst.de/zenon/000002387_Schuttern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schuttern" .
+
+<http://data.dainst.de/zenon/000002387_Schwabmünchen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schwabmünchen" .
+
+<http://data.dainst.de/zenon/000002387_Schwangau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schwangau" .
+
+<http://data.dainst.de/zenon/000002387_Schwarzenacker> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schwarzenacker" .
+
+<http://data.dainst.de/zenon/000002387_Schwarzenbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schwarzenbach" .
+
+<http://data.dainst.de/zenon/000002387_Schweich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schweich" .
+
+<http://data.dainst.de/zenon/000002387_Schweinschied> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schweinschied" .
+
+<http://data.dainst.de/zenon/000002387_SchwäbischGmünd> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Schwäbisch Gmünd" .
+
+<http://data.dainst.de/zenon/000002387_Seebruck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Seebruck" .
+
+<http://data.dainst.de/zenon/000002387_Seligenstadt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Seligenstadt" .
+
+<http://data.dainst.de/zenon/000002387_Siesbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Siesbach" .
+
+<http://data.dainst.de/zenon/000002387_Sigmaringen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sigmaringen" .
+
+<http://data.dainst.de/zenon/000002387_Sinsheima.d.Elsenz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sinsheim a.d. Elsenz" .
+
+<http://data.dainst.de/zenon/000002387_Sinzig> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sinzig" .
+
+<http://data.dainst.de/zenon/000002387_Soller> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Soller" .
+
+<http://data.dainst.de/zenon/000002387_Sontheima.d.Brenz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sontheim a.d. Brenz" .
+
+<http://data.dainst.de/zenon/000002387_Sotzweiler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sotzweiler" .
+
+<http://data.dainst.de/zenon/000002387_Spaichingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Spaichingen" .
+
+<http://data.dainst.de/zenon/000002387_Speyer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Speyer" .
+
+<http://data.dainst.de/zenon/000002387_Spiemont> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Spiemont" .
+
+<http://data.dainst.de/zenon/000002387_Sponeck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sponeck" .
+
+<http://data.dainst.de/zenon/000002387_Stadtbergen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Stadtbergen" .
+
+<http://data.dainst.de/zenon/000002387_Staffelberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Staffelberg" .
+
+<http://data.dainst.de/zenon/000002387_Staubing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Staubing" .
+
+<http://data.dainst.de/zenon/000002387_Steindorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Steindorf" .
+
+<http://data.dainst.de/zenon/000002387_Steinheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Steinheim" .
+
+<http://data.dainst.de/zenon/000002387_Steinsfurt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Steinsfurt" .
+
+<http://data.dainst.de/zenon/000002387_Stephansposching> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Stephansposching" .
+
+<http://data.dainst.de/zenon/000002387_Stettfeld> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Stettfeld" .
+
+<http://data.dainst.de/zenon/000002387_Stockstadt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Stockstadt" .
+
+<http://data.dainst.de/zenon/000002387_Straubing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Straubing" .
+
+<http://data.dainst.de/zenon/000002387_Stuttgart> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Stuttgart" .
+
+<http://data.dainst.de/zenon/000002387_SulzamNeckar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Sulz am Neckar" .
+
+<http://data.dainst.de/zenon/000002387_Tarodunum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tarodunum" .
+
+<http://data.dainst.de/zenon/000002387_Tawern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tawern" .
+
+<http://data.dainst.de/zenon/000002387_Tettelham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tettelham" .
+
+<http://data.dainst.de/zenon/000002387_Theilenhofen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Theilenhofen" .
+
+<http://data.dainst.de/zenon/000002387_Tittmoning> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tittmoning" .
+
+<http://data.dainst.de/zenon/000002387_Traben-Trarbach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Traben-Trarbach" .
+
+<http://data.dainst.de/zenon/000002387_Treuchtlingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Treuchtlingen" .
+
+<http://data.dainst.de/zenon/000002387_Trier> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Trier" .
+
+<http://data.dainst.de/zenon/000002387_Tuttlingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tuttlingen" .
+
+<http://data.dainst.de/zenon/000002387_Tönisvorst> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Tönisvorst" .
+
+<http://data.dainst.de/zenon/000002387_Türkheimvedi:RostrumNemaviae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Türkheim vedi: Rostrum Nemaviae" .
+
+<http://data.dainst.de/zenon/000002387_UlpiaTraianavedi:Xanten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Ulpia Traiana vedi: Xanten" .
+
+<http://data.dainst.de/zenon/000002387_Unterhaching> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Unterhaching" .
+
+<http://data.dainst.de/zenon/000002387_Unterkirchberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Unterkirchberg" .
+
+<http://data.dainst.de/zenon/000002387_Untersaal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Untersaal" .
+
+<http://data.dainst.de/zenon/000002387_Urach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Urach" .
+
+<http://data.dainst.de/zenon/000002387_Veen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Veen" .
+
+<http://data.dainst.de/zenon/000002387_Vemania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Vemania" .
+
+<http://data.dainst.de/zenon/000002387_Vettweiss> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Vettweiss" .
+
+<http://data.dainst.de/zenon/000002387_Viersen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Viersen" .
+
+<http://data.dainst.de/zenon/000002387_Villingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Villingen" .
+
+<http://data.dainst.de/zenon/000002387_Voerde> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Voerde" .
+
+<http://data.dainst.de/zenon/000002387_Völklingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Völklingen" .
+
+<http://data.dainst.de/zenon/000002387_Wadern-Oberlöstern> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wadern-Oberlöstern" .
+
+<http://data.dainst.de/zenon/000002387_Waiblingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Waiblingen" .
+
+<http://data.dainst.de/zenon/000002387_Waldgirmesvedi:Lahnau-Waldgirmes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Waldgirmes vedi: Lahnau-Waldgirmes" .
+
+<http://data.dainst.de/zenon/000002387_Waldmohr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Waldmohr" .
+
+<http://data.dainst.de/zenon/000002387_Waldmössingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Waldmössingen" .
+
+<http://data.dainst.de/zenon/000002387_Walheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Walheim" .
+
+<http://data.dainst.de/zenon/000002387_Walldürn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Walldürn" .
+
+<http://data.dainst.de/zenon/000002387_Wallendorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wallendorf" .
+
+<http://data.dainst.de/zenon/000002387_Wallerfangen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wallerfangen" .
+
+<http://data.dainst.de/zenon/000002387_Waxweiler> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Waxweiler" .
+
+<http://data.dainst.de/zenon/000002387_Weeze> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weeze" .
+
+<http://data.dainst.de/zenon/000002387_Wehringen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wehringen" .
+
+<http://data.dainst.de/zenon/000002387_Weiach> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weiach" .
+
+<http://data.dainst.de/zenon/000002387_Weidenvedi:Köln-Weiden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weiden vedi: Köln-Weiden" .
+
+<http://data.dainst.de/zenon/000002387_WeilamRhein> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weil am Rhein" .
+
+<http://data.dainst.de/zenon/000002387_Weilerswist> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weilerswist" .
+
+<http://data.dainst.de/zenon/000002387_Weinheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weinheim" .
+
+<http://data.dainst.de/zenon/000002387_Weissenburg(Bayern)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weissenburg (Bayern)" .
+
+<http://data.dainst.de/zenon/000002387_Wellen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wellen" .
+
+<http://data.dainst.de/zenon/000002387_Welschbillig> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Welschbillig" .
+
+<http://data.dainst.de/zenon/000002387_Weltenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Weltenburg" .
+
+<http://data.dainst.de/zenon/000002387_Welzheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Welzheim" .
+
+<http://data.dainst.de/zenon/000002387_Wendlingen-Unterboihingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wendlingen-Unterboihingen" .
+
+<http://data.dainst.de/zenon/000002387_Werneck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Werneck" .
+
+<http://data.dainst.de/zenon/000002387_Wesel-Büderich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wesel-Büderich" .
+
+<http://data.dainst.de/zenon/000002387_Wesseling> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wesseling" .
+
+<http://data.dainst.de/zenon/000002387_Wessling> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wessling" .
+
+<http://data.dainst.de/zenon/000002387_Westendorf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Westendorf" .
+
+<http://data.dainst.de/zenon/000002387_Westheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Westheim" .
+
+<http://data.dainst.de/zenon/000002387_Wiesbaden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wiesbaden" .
+
+<http://data.dainst.de/zenon/000002387_Wiesental> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wiesental" .
+
+<http://data.dainst.de/zenon/000002387_Wiesloch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wiesloch" .
+
+<http://data.dainst.de/zenon/000002387_Wildenburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wildenburg" .
+
+<http://data.dainst.de/zenon/000002387_Wincheringen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wincheringen" .
+
+<http://data.dainst.de/zenon/000002387_Wolfschlugen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wolfschlugen" .
+
+<http://data.dainst.de/zenon/000002387_Wolpertswende> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wolpertswende" .
+
+<http://data.dainst.de/zenon/000002387_Worms> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Worms" .
+
+<http://data.dainst.de/zenon/000002387_Wurmlingen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wurmlingen" .
+
+<http://data.dainst.de/zenon/000002387_Wyhlen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wyhlen" .
+
+<http://data.dainst.de/zenon/000002387_Wörth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wörth" .
+
+<http://data.dainst.de/zenon/000002387_WörthamMain> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Wörth am Main" .
+
+<http://data.dainst.de/zenon/000002387_Würselen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Würselen" .
+
+<http://data.dainst.de/zenon/000002387_Würzberg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Würzberg" .
+
+<http://data.dainst.de/zenon/000002387_Würzburg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Würzburg" .
+
+<http://data.dainst.de/zenon/000002387_Xanten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Xanten" .
+
+<http://data.dainst.de/zenon/000002387_Zell(Mosel)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zell (Mosel)" .
+
+<http://data.dainst.de/zenon/000002387_Zingsheim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zingsheim" .
+
+<http://data.dainst.de/zenon/000002387_Zons> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zons" .
+
+<http://data.dainst.de/zenon/000002387_Zugmantel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zugmantel" .
+
+<http://data.dainst.de/zenon/000002387_Zullestein> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zullestein" .
+
+<http://data.dainst.de/zenon/000002387_Zunsweier> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zunsweier" .
+
+<http://data.dainst.de/zenon/000002387_Zülpich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002387> ;
+    skos:prefLabel "Zülpich" .
+
+<http://data.dainst.de/zenon/000002387> a skos:Concept ;
+    skos:altLabel "lieux P-Z"@fr,
+        "luoghi P-Z"@it,
+        "sites P-Z"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002383> ;
+    skos:hiddenLabel "xTopLandDtOrtP-Z" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte P-Z"@de .
+

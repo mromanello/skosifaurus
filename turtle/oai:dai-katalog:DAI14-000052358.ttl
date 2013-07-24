@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052358> a skos:Concept ;
+    skos:altLabel "Pfaffendorf-Lamitsch"@en,
+        "Pfaffendorf-Lamitsch"@fr,
+        "Pfaffendorf-Lamitsch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075478> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandOder-Pfaffendo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pfaffendorf-Lamitsch"@de .
+

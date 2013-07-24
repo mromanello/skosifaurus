@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028493> a skos:Concept ;
+    skos:altLabel "Marzabotto, Museo Etrusco"@en,
+        "Marzabotto, Museo Etrusco"@fr,
+        "Marzabotto, Museo Etrusco"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMarzabotto, Museo Etrusco" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marzabotto, Museo Etrusco"@de .
+

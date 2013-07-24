@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078581> a skos:Concept ;
+    skos:altLabel "Skateraw"@en,
+        "Skateraw"@fr,
+        "Skateraw"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078505> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotLothiSkateraw" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skateraw"@de .
+

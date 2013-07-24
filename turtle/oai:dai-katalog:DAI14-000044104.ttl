@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044104> a skos:Concept ;
+    skos:altLabel "Sainte-Colombe-sur-Seine, La Garenne"@en,
+        "Sainte-Colombe-sur-Seine, La Garenne"@fr,
+        "Sainte-Colombe-sur-Seine, La Garenne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Sainte-Co" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sainte-Colombe-sur-Seine, La Garenne"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083578> a skos:Concept ;
+    skos:altLabel "Bühl im Ries"@en,
+        "Bühl im Ries"@fr,
+        "Bühl im Ries"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075398> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDonauBühl im R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bühl im Ries"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073867> a skos:Concept ;
+    skos:altLabel "Osuna"@en,
+        "Osuna"@fr,
+        "Osuna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039358> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalSevilOsuna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osuna"@de .
+

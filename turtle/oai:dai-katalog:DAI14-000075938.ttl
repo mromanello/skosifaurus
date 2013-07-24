@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075938> a skos:Concept ;
+    skos:altLabel "Münchener Ebene"@en,
+        "Münchener Ebene"@fr,
+        "Münchener Ebene"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038991> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsZZ--RMünchener" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Münchener Ebene"@de .
+

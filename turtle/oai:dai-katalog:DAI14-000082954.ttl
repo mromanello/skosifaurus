@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082954> a skos:Concept ;
+    skos:altLabel "Schopfheim-Gersbach"@en,
+        "Schopfheim-Gersbach"@fr,
+        "Schopfheim-Gersbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075347> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenLörraSchopfhei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schopfheim-Gersbach"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070283> a skos:Concept ;
+    skos:altLabel "Marano, Monte Castelon"@en,
+        "Marano, Monte Castelon"@fr,
+        "Marano, Monte Castelon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronMarano, M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marano, Monte Castelon"@de .
+

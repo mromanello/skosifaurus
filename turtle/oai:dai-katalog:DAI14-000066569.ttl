@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066569> a skos:Concept ;
+    skos:altLabel "Cheile Mănăstirii, jud. Alba"@en,
+        "Cheile Mănăstirii, jud. Alba"@fr,
+        "Cheile Mănăstirii, jud. Alba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatCheile Mă" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cheile Mănăstirii, jud. Alba"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009180> a skos:Concept ;
+    skos:altLabel "Marušić, Branko"@en,
+        "Marušić, Branko"@fr,
+        "Marušić, Branko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMarušić, Branko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marušić, Branko"@de .
+

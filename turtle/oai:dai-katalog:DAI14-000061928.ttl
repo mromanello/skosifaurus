@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061928> a skos:Concept ;
+    skos:altLabel "Châtel-St-Denis"@en,
+        "Châtel-St-Denis"@fr,
+        "Châtel-St-Denis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039040> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweFreibChâtel-St" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Châtel-St-Denis"@de .
+

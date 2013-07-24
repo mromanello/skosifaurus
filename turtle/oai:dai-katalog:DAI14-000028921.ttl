@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028921> a skos:Concept ;
+    skos:altLabel "Saalburgmuseum"@en,
+        "Saalburgmuseum"@fr,
+        "Saalburgmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSaalburgmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saalburgmuseum"@de .
+

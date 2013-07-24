@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042457> a skos:Concept ;
+    skos:altLabel "Grisy-sur-Seine"@en,
+        "Grisy-sur-Seine"@fr,
+        "Grisy-sur-Seine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038733> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineGrisy-sur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grisy-sur-Seine"@de .
+

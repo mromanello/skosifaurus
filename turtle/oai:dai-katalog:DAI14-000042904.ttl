@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042904> a skos:Concept ;
+    skos:altLabel "Saint-Parres-aux-Tertres"@en,
+        "Saint-Parres-aux-Tertres"@fr,
+        "Saint-Parres-aux-Tertres"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038745> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacAubeSaint-Par" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Parres-aux-Tertres"@de .
+

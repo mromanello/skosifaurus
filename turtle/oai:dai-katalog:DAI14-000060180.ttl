@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060180> a skos:Concept ;
+    skos:altLabel "Miszewko Strzałkowskie"@en,
+        "Miszewko Strzałkowskie"@fr,
+        "Miszewko Strzałkowskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039020> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowMazowMiszewko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Miszewko Strzałkowskie"@de .
+

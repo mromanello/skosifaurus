@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056431> a skos:Concept ;
+    skos:altLabel "Pritschöna (Rassnitz)"@en,
+        "Pritschöna (Rassnitz)"@fr,
+        "Pritschöna (Rassnitz)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038967> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsSaalePritschön" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pritschöna (Rassnitz)"@de .
+

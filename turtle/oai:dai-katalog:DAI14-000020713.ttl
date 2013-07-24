@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020713> a skos:Concept ;
+    skos:altLabel "Saharna-Solonceni"@en,
+        "Saharna-Solonceni"@fr,
+        "Saharna-Solonceni"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Saharna-Solonceni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saharna-Solonceni"@de .
+

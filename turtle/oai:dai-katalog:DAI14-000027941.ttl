@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027941> a skos:Concept ;
+    skos:altLabel "Crecchio, Museo Archeologico"@en,
+        "Crecchio, Museo Archeologico"@fr,
+        "Crecchio, Museo Archeologico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCrecchio, Museo Archeologico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crecchio, Museo Archeologico"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027671> a skos:Concept ;
+    skos:altLabel "Beaune, Musée des Beaux-Arts"@en,
+        "Beaune, Musée des Beaux-Arts"@fr,
+        "Beaune, Musée des Beaux-Arts"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBeaune, Musée des Beaux-Arts" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beaune, Musée des Beaux-Arts"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029095> a skos:Concept ;
+    skos:altLabel "Tel Aviv, Musem Haaretz"@en,
+        "Tel Aviv, Musem Haaretz"@fr,
+        "Tel Aviv, Musem Haaretz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTel Aviv, Musem Haaretz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tel Aviv, Musem Haaretz"@de .
+

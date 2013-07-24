@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031769> a skos:Concept ;
+    skos:altLabel "Novi Sad, Filozovski Fakultet"@en,
+        "Novi Sad, Filozovski Fakultet"@fr,
+        "Novi Sad, Filozovski Fakultet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliNovi Sad, Filozovski Fakultet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Novi Sad, Filozovski Fakultet"@de .
+

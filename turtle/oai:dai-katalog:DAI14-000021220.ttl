@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021220> a skos:Concept ;
+    skos:altLabel "Barnim <Pommern-Stettin, Herzog, III.>"@en,
+        "Barnim <Pommern-Stettin, Herzog, III.>"@fr,
+        "Barnim <Pommern-Stettin, Herzog, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoBarnim <Pommern-Stettin, Herzog, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barnim <Pommern-Stettin, Herzog, III.>"@de .
+

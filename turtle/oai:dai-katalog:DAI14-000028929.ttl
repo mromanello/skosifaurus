@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028929> a skos:Concept ;
+    skos:altLabel "Saint-Bonnet-de-Joux, Musée Sabatier"@en,
+        "Saint-Bonnet-de-Joux, Musée Sabatier"@fr,
+        "Saint-Bonnet-de-Joux, Musée Sabatier"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSaint-Bonnet-de-Joux, Musée Sabatier" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Bonnet-de-Joux, Musée Sabatier"@de .
+

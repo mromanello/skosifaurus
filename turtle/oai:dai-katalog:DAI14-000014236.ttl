@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014236> a skos:Concept ;
+    skos:altLabel "Colonisation phénicien"@fr,
+        "Kolonizacja fenicka"@pl,
+        "Phoenician colonisation"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014234> ;
+    skos:hiddenLabel "yRGKArch07 - GeselKultuAkkulPhöni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Phönikische Kolonisation"@de .
+

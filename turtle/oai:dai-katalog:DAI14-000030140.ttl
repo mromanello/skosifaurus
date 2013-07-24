@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030140> a skos:Concept ;
+    skos:altLabel "Hunt, Nelson Bunker"@en,
+        "Hunt, Nelson Bunker"@fr,
+        "Hunt, Nelson Bunker"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaHunt, Nelson Bunker" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hunt, Nelson Bunker"@de .
+

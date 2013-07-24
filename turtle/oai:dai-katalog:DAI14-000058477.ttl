@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058477> a skos:Concept ;
+    skos:altLabel "Seibersdorf, Gde. Grafendorf, VB Hartberg"@en,
+        "Seibersdorf, Gde. Grafendorf, VB Hartberg"@fr,
+        "Seibersdorf, Gde. Grafendorf, VB Hartberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieSeibersdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seibersdorf, Gde. Grafendorf, VB Hartberg"@de .
+

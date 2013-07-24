@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049100> a skos:Concept ;
+    skos:altLabel "Valtos Peninsula, Lewis"@en,
+        "Valtos Peninsula, Lewis"@fr,
+        "Valtos Peninsula, Lewis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038843> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotZZ-ScValtos Pe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valtos Peninsula, Lewis"@de .
+

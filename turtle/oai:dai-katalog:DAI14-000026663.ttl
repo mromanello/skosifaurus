@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026663> a skos:Concept ;
+    skos:altLabel "Linz 2007"@en,
+        "Linz 2007"@fr,
+        "Linz 2007"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLinz 2007" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linz 2007"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044698> a skos:Concept ;
+    skos:altLabel "Les Martres-de-Veyre"@en,
+        "Les Martres-de-Veyre"@fr,
+        "Les Martres-de-Veyre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038791> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverPuy-dLes Martr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Les Martres-de-Veyre"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072505> a skos:Concept ;
+    skos:altLabel "Pranu Narbonis-San Vito"@en,
+        "Pranu Narbonis-San Vito"@fr,
+        "Pranu Narbonis-San Vito"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039271> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeCagliPranu Nar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pranu Narbonis-San Vito"@de .
+

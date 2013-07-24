@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039172> a skos:Concept ;
+    skos:altLabel "Veneto, Friuli-Venezia Giulia, Trentino-Alto Adige"@en,
+        "Veneto, Friuli-Venezia Giulia, Trentino-Alto Adige"@fr,
+        "Veneto, Friuli-Venezia Giulia, Trentino-Alto Adige"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039142> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliVenet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Veneto, Friuli-Venezia Giulia, Trentino-Alto Adige"@de .
+

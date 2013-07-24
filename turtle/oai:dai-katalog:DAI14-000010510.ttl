@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010510> a skos:Concept ;
+    skos:altLabel "Ermine Street Guard"@en,
+        "Ermine Street Guard"@fr,
+        "Ermine Street Guard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiErmine Street Guard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ermine Street Guard"@de .
+

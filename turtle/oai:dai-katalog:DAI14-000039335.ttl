@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039335> a skos:Concept ;
+    skos:altLabel "Zamora"@en,
+        "Zamora"@fr,
+        "Zamora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039326> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiZamor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zamora"@de .
+

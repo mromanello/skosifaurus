@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064437> a skos:Concept ;
+    skos:altLabel "Letovice, okr. Blansko"@en,
+        "Letovice, okr. Blansko"@fr,
+        "Letovice, okr. Blansko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravLetovice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Letovice, okr. Blansko"@de .
+

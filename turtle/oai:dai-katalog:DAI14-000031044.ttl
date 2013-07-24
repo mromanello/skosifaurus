@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031044> a skos:Concept ;
+    skos:altLabel "Adolph Hess, Frankfurt/M. 1921"@en,
+        "Adolph Hess, Frankfurt/M. 1921"@fr,
+        "Adolph Hess, Frankfurt/M. 1921"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiAdolph Hess, Frankfurt/M. 1921" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Adolph Hess, Frankfurt/M. 1921"@de .
+

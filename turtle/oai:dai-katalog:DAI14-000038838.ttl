@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038838> a skos:Concept ;
+    skos:altLabel "Grande-Bretagne/Irlande du Nord"@fr,
+        "Great Britain/Northern Ireland"@en,
+        "Wielka Brytania/Irlandia Pţlnocna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038710> ;
+    skos:hiddenLabel "zTopogEuropWesteGross" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossbritannien/Nordirland"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077529> a skos:Concept ;
+    skos:altLabel "Awoingt"@en,
+        "Awoingt"@fr,
+        "Awoingt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038728> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dNordAwoingt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Awoingt"@de .
+

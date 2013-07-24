@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058346> a skos:Concept ;
+    skos:altLabel "Admont, VB Liezen"@en,
+        "Admont, VB Liezen"@fr,
+        "Admont, VB Liezen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieAdmont, V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Admont, VB Liezen"@de .
+

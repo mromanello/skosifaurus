@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029442> a skos:Concept ;
+    skos:altLabel "Cortona, Museo dell'Accademia Etrusca"@en,
+        "Cortona, Museo dell'Accademia Etrusca"@fr,
+        "Cortona, Museo dell'Accademia Etrusca"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCortona, Museo dell'Accademia Etrusca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cortona, Museo dell'Accademia Etrusca"@de .
+

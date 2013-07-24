@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062016> a skos:Concept ;
+    skos:altLabel "Crazis"@en,
+        "Crazis"@fr,
+        "Crazis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039043> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweGraubCrazis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Crazis"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022455> a skos:Concept ;
+    skos:altLabel "Silvester <Papa, II.>"@en,
+        "Silvester <Papa, II.>"@fr,
+        "Silvester <Papa, II.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoSilvester <Papa, II.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Silvester <Papa, II.>"@de .
+

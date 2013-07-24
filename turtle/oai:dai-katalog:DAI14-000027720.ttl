@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027720> a skos:Concept ;
+    skos:altLabel "Bielefeld, Historisches Museum"@en,
+        "Bielefeld, Historisches Museum"@fr,
+        "Bielefeld, Historisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBielefeld, Historisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bielefeld, Historisches Museum"@de .
+

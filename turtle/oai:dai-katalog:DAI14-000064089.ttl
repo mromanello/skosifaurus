@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064089> a skos:Concept ;
+    skos:altLabel "Vícov"@en,
+        "Vícov"@fr,
+        "Vícov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyVícov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vícov"@de .
+

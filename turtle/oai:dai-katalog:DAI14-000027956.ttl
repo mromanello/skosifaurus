@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027956> a skos:Concept ;
+    skos:altLabel "Darmstadt, Hessisches Landesmuseum"@en,
+        "Darmstadt, Hessisches Landesmuseum"@fr,
+        "Darmstadt, Hessisches Landesmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuDarmstadt, Hessisches Landesmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Darmstadt, Hessisches Landesmuseum"@de .
+

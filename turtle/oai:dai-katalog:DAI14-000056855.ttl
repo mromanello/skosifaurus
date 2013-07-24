@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056855> a skos:Concept ;
+    skos:altLabel "Gräfentonna"@en,
+        "Gräfentonna"@fr,
+        "Gräfentonna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075603> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriGothaGräfenton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gräfentonna"@de .
+

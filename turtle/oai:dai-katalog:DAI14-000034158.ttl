@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034158> a skos:Concept ;
+    skos:altLabel "Tes'"@en,
+        "Tes'"@fr,
+        "Tes'"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Tes'" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tes'"@de .
+

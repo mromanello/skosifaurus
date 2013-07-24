@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023817> a skos:Concept ;
+    skos:altLabel "Bero Breo"@en,
+        "Bero Breo"@fr,
+        "Bero Breo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015937> ;
+    skos:hiddenLabel "yRGKArch09 - GeselReligGötteBero Breo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bero Breo"@de .
+

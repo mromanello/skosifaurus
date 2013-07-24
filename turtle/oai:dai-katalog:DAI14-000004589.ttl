@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004589> a skos:Concept ;
+    skos:altLabel "acconciatura dei capelli (1956 - 1997)"@it,
+        "coiffure (1956 - 1997)"@fr,
+        "head-dress (1956 - 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004585> ;
+    skos:hiddenLabel "xFrMAAntHaar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haartracht und Kopfputz (1956 - 1997)"@de .
+

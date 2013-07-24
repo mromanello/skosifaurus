@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000479> a skos:Concept ;
+    skos:altLabel "Ambar"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000462> ;
+    skos:hiddenLabel "3.15.05.08" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bernstein"@de .
+

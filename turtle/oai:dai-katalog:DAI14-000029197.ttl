@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029197> a skos:Concept ;
+    skos:altLabel "Venezia, Museo Civico Correr"@en,
+        "Venezia, Museo Civico Correr"@fr,
+        "Venezia, Museo Civico Correr"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVenezia, Museo Civico Correr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Venezia, Museo Civico Correr"@de .
+

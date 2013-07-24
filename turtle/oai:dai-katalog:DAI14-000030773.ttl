@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030773> a skos:Concept ;
+    skos:altLabel "Bamberg, Lehrstuhl für Archäologie des Mittelalters und der Neuzeit"@en,
+        "Bamberg, Lehrstuhl für Archäologie des Mittelalters und der Neuzeit"@fr,
+        "Bamberg, Lehrstuhl für Archäologie des Mittelalters und der Neuzeit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiBamberg, Lehrstuhl für Archäologie des Mittelalters und der Neuzeit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bamberg, Lehrstuhl für Archäologie des Mittelalters und der Neuzeit"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052197> a skos:Concept ;
+    skos:altLabel "Bad Liebenwerda"@en,
+        "Bad Liebenwerda"@fr,
+        "Bad Liebenwerda"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075472> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandElbe-Bad Liebe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Liebenwerda"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045944> a skos:Concept ;
+    skos:altLabel "Tauriac"@en,
+        "Tauriac"@fr,
+        "Tauriac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038819> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLotTauriac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tauriac"@de .
+

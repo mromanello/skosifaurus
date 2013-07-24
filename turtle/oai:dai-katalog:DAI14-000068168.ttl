@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068168> a skos:Concept ;
+    skos:altLabel "Caričin Grad"@en,
+        "Caričin Grad"@fr,
+        "Caričin Grad"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiCaričin G" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caričin Grad"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062137> a skos:Concept ;
+    skos:altLabel "Marin-Les Bourguignonnes"@en,
+        "Marin-Les Bourguignonnes"@fr,
+        "Marin-Les Bourguignonnes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039046> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweNeuenMarin-Les" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marin-Les Bourguignonnes"@de .
+

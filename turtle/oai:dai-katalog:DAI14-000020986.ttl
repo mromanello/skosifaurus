@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020986> a skos:Concept ;
+    skos:altLabel "Zahidnopodil's'koja"@en,
+        "Zahidnopodil's'koja"@fr,
+        "Zahidnopodil's'koja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Zahidnopodil's'koja" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zahidnopodil's'koja"@de .
+

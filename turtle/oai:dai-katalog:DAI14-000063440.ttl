@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063440> a skos:Concept ;
+    skos:altLabel "Chlumec nad Cidlinou, okr. Hradec Královéaha-východ"@en,
+        "Chlumec nad Cidlinou, okr. Hradec Královéaha-východ"@fr,
+        "Chlumec nad Cidlinou, okr. Hradec Královéaha-východ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyChlumec n" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chlumec nad Cidlinou, okr. Hradec Královéaha-východ"@de .
+

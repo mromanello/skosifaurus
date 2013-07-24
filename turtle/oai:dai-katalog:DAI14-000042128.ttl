@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042128> a skos:Concept ;
+    skos:altLabel "Saint-Martin-de-Fontenay"@en,
+        "Saint-Martin-de-Fontenay"@fr,
+        "Saint-Martin-de-Fontenay"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038725> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dCalvaSaint-Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Martin-de-Fontenay"@de .
+

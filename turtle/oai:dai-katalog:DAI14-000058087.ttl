@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058087> a skos:Concept ;
+    skos:altLabel "Roggendorf, VB Horn"@en,
+        "Roggendorf, VB Horn"@fr,
+        "Roggendorf, VB Horn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeRoggendor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roggendorf, VB Horn"@de .
+

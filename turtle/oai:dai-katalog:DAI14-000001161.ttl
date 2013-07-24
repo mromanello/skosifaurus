@@ -1,0 +1,1049 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001161_Abaševo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Abaševo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Afanasjevo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Afanasjevo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ajatskie-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ajatskie-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Alakul'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alakul'-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Alakul'/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alakul'/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Alazani-Bedeni-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alazani-Bedeni-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Alazani-Bedeni/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alazani-Bedeni/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Alazani-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alazani-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Alekseev-Kultura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alekseev-Kultura" .
+
+<http://data.dainst.de/zenon/000001161_Alekseev/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Alekseev/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_AltbaltischenKultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Altbaltischen Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Amirabad-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Amirabad-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Amogolon/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Amogolon/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Anan'ino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Anan'ino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Anau-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Anau-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Anau3/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Anau 3/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Andreev-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Andreev-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Andronovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Andronovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Andronovo/Petrov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Andronovo/Petrov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_ArchaischDahistan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Archaisch Dahistan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Arktische-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Arktische-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Astrabad-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Astrabad-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Asva-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Asva-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ataman-Njur-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ataman-Njur-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Atlikas(?)/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Atlikas(?)/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Atlym-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Atlym-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Babino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Babino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Balanbašskaja-K.(?)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Balanbašskaja-K. (?)" .
+
+<http://data.dainst.de/zenon/000001161_Balanovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Balanovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Balkengrab-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Balkengrab-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Balta/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Balta/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Barchatovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Barchatovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bedeni/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bedeni/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Bedeni/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bedeni/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Begazy-dandybaj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Begazy-dandybaj-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bel'kači-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bel'kači-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Belogrudovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Belogrudovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Belozerka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Belozerka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Belozerka-Tudorovo-Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Belozerka-Tudorovo-Typ" .
+
+<http://data.dainst.de/zenon/000001161_Belyj-Jar-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Belyj-Jar-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_BemalteKeramik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bemalte Keramik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bempur-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bempur-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Beringmeer-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Beringmeer-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Besarab'-Šoldėnešt'> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Besarab'-Šoldėnešt'" .
+
+<http://data.dainst.de/zenon/000001161_Biškent-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Biškent-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Boborykino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Boborykino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bol'šaja-Rečka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bol'šaja-Rečka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bol'šojLog-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bol'šoj Log-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bondaricha-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bondaricha-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bootaxt-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bootaxt-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Bor/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bor/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Bustan/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Bustan/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Chirbet-Kerak-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Chirbet-Kerak-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Chodžaly-Kedabek-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Chodžaly-Kedabek-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Chula-Sjuč/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Chula-Sjuč/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Cirkumpontij(CKP)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Cirkumpontij(CKP)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Comb-Keramik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Comb-Keramik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Didube-Kiketi-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Didube-Kiketi-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Didube-Kiketi/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Didube-Kiketi/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Djukatai-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Djukatai-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Dmitriev(?)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Dmitriev (?)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Dolmen-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Dolmen-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Doroninskaja(?)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Doroninskaja(?)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Drevneberingomorsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Drevneberingomorsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Dvorcov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Dvorcov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Džangar-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Džangar-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Džarkutan/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Džarkutan/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Edinec-Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Edinec-Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Elovsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Elovsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Elunin-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Elunin-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Erzov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Erzov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Fatjanovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Fatjanovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Fedorov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Fedorov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Fedorov/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Fedorov/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Felševič-Stanovo(?)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Felševič-Stanovo(?)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Fofan/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Fofan/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Galič-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Galič-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gamajun-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gamajun-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Garinsk(?)/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Garinsk(?)/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Geoj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Geoj-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gesichtsurnen-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gesichtsurnen-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ginči-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ginči-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gissar-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gissar-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gissar3/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gissar 3/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Glazkov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Glazkov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gonur/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gonur/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Gorbunovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gorbunovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Gorodok-Zdolbica-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Gorodok-Zdolbica-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Grabplatten-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Grabplatten-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Hethiter-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Hethiter-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Hügelgräber-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Hügelgräber-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Iberien> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Iberien" .
+
+<http://data.dainst.de/zenon/000001161_Irmen-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Irmen-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Jaej-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Jaej-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Jalojlu-Tapa-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Jalojlu-Tapa-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Jamnaja-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Jamnaja-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Jaz-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Jaz-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Jaz/Kučuk1+Kučuk2> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Jaz/Kučuk 1+Kučuk 2" .
+
+<http://data.dainst.de/zenon/000001161_Kajakent-Choročoj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kajakent-Choročoj-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kajrak-Kum-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kajrak-Kum-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kamenka-Livencovka-Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kamenka-Livencovka-Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Kamenoložsk/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kamenoložsk/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Kammkeramische-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kammkeramische-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Karakol-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Karakol-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Karasuk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Karasuk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Karasuk-Šiver/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Karasuk-Šiver/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Karmir-Berd-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Karmir-Berd-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Katakombengrab-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Katakombengrab-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kazan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kazan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kelleli/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kelleli/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Kelteminar-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kelteminar-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kizyl-Koba-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kizyl-Koba-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Koban-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Koban-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kobjakovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kobjakovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kolchis-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kolchis-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Komarov-(Komarów)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Komarov-(Komarów)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Korčažkin-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Korčažkin-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Koršak-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Koršak-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Koškin-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Koškin-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Krasnoozersk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Krasnoozersk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Krochalevka/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Krochalevka/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Krotovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Krotovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kuban-Terek-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kuban-Terek-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kugelamphoren-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kugelamphoren-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kul'saj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kul'saj-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_KulturmitBemalterKeramik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kultur mit Bemalter Keramik" .
+
+<http://data.dainst.de/zenon/000001161_Kura-Arax-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kura-Arax-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kurgan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kurgan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kurmantau-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kurmantau-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kuzali/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kuzali/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Kvemo-Kartli-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kvemo-Kartli-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kysy-Kul'(?)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kysy-Kul'(?)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Kyzylvank-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Kyzylvank-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Lachtin-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lachtin-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Lebedovka-Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lebedovka-Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Lebjažskij-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lebjažskij-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Lidovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lidovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Lipčinsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lipčinsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Lčašen-Citelgora-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Lčašen-Citelgora-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Majkop-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Majkop-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Manas/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Manas/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Manyč-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Manyč-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Manyč-Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Manyč-Typ" .
+
+<http://data.dainst.de/zenon/000001161_Mar'janovka-Bondaricha/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mar'janovka-Bondaricha/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Mar'janovka-Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mar'janovka-Typ" .
+
+<http://data.dainst.de/zenon/000001161_Marlyk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Marlyk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Martkop/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Martkop/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Martqopi/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Martqopi/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_MehrwulstkeramischeKultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mehrwulstkeramische Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Mežov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mežov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Mitteldnepr-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mitteldnepr-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Mollali/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Mollali/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Molčanov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Molčanov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Monteoru-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Monteoru-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Nachičevan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Nachičevan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Namazga4/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Namazga 4/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Namazga5/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Namazga 5/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Namazga6/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Namazga 6/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Netzmusterkeramik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Netzmusterkeramik" .
+
+<http://data.dainst.de/zenon/000001161_NiŹnemichajlivska-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "NiŹnemichajlivska-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_NiŹnemichajlivska-Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "NiŹnemichajlivska-Typ" .
+
+<http://data.dainst.de/zenon/000001161_Nord-Belaruß-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Nord-Belaruß-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Nordkaukasus-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Nordkaukasus-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Noua-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Noua-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Novo-Kumak/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Novo-Kumak/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Novodanilovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Novodanilovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Novosvobodnaja/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Novosvobodnaja/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Novotitorovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Novotitorovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Nur/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Nur/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Nyirseg-Zatin-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Nyirseg-Zatin-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Odincovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Odincovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Okunev-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Okunev-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Okvik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Okvik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Onon-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Onon-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ost-Trzciniec-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ost-Trzciniec-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ostgeorgien-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ostgeorgien-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Otomani-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Otomani-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Oš-Pando/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Oš-Pando/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Petrov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Petrov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Petrov/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Petrov/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Pokrovsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Pokrovsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Pokrovsk/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Pokrovsk/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Poltavkino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Poltavkino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Potapovka/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Potapovka/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Pozdnjakovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Pozdnjakovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Počaper/Gruppe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Počaper/Gruppe" .
+
+<http://data.dainst.de/zenon/000001161_Prikazan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Prikazan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Priurmija-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Priurmija-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Proto-Maioten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Proto-Maioten" .
+
+<http://data.dainst.de/zenon/000001161_Repino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Repino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Rjazan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Rjazan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sabatinovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sabatinovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Saglyn-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Saglyn-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Samus'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Samus'-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sapalli-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sapalli-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sapalli/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sapalli/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Sargary-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sargary-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sargary/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sargary/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Schnurkeramik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Schnurkeramik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sejma-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sejma-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sejma-Turbino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sejma-Turbino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sevan-Uzerlik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sevan-Uzerlik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sinegaj-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sinegaj-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sintašt-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sintašt-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sjaczjadjan'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sjaczjadjan'-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sosnica-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sosnica-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sosnovyj-Ostrov-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sosnovyj-Ostrov-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sosonka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sosonka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Soči-Adler/Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Soči-Adler/Typ" .
+
+<http://data.dainst.de/zenon/000001161_Spätirmen-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Spätirmen-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Srednij-Stog-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Srednij-Stog-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Srubnaja-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Srubnaja-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Stanovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Stanovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Steinkistengräber> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Steinkistengräber" .
+
+<http://data.dainst.de/zenon/000001161_Steinkistengräber-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Steinkistengräber-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Streitaxt-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Streitaxt-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_StŹyŹow-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "StŹyŹow-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_SuciudeSus-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Suciu de Sus-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sujargan-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sujargan-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sulak-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sulak-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Sumbar-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Sumbar-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Suzgun-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Suzgun-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Suzy-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Suzy-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Südprimorsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Südprimorsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Tazabagjab-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Tazabagjab-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Taškovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Taškovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Togolok/Stufe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Togolok/Stufe" .
+
+<http://data.dainst.de/zenon/000001161_Tomsk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Tomsk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Trialeti-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Trialeti-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Trzciniec-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Trzciniec-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ttrialeti-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ttrialeti-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Turbino-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Turbino-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ujuk-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ujuk-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Usatovo-Typ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Usatovo-Typ" .
+
+<http://data.dainst.de/zenon/000001161_Ust'-Bel'/Anadyr-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ust'-Bel'/Anadyr-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ust'-mil'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ust'-mil'-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Uzerlik-Tepe-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Uzerlik-Tepe-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Uzmen'(?)-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Uzmen'(?)-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Vachš-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Vachš-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Velikent-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Velikent-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Volosovo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Volosovo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Vorkaukasische-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Vorkaukasische-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Voronež-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Voronež-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_VorskythischeZeit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Vorskythische Zeit" .
+
+<http://data.dainst.de/zenon/000001161_Vysock-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Vysock-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Waffelmusterkeramik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Waffelmusterkeramik" .
+
+<http://data.dainst.de/zenon/000001161_Wisła-Nemen-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Wisła-Nemen-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Wulstkeramik-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Wulstkeramik-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ymyjachtach-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ymyjachtach-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Zajsanovka-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Zajsanovka-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Zamanbaba-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Zamanbaba-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Zamaraevo-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Zamaraevo-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Čerkaskul'-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Čerkaskul'-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Černoles-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Černoles-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Čirki-Sejma-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Čirki-Sejma-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Čojnovty-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Čojnovty-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Čust-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Čust-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ėlam-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ėlam-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Ėrlitou-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Ėrlitou-Kultur" .
+
+<http://data.dainst.de/zenon/000001161_Šigir-Kultur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001161> ;
+    skos:prefLabel "Šigir-Kultur" .
+
+<http://data.dainst.de/zenon/000001161> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001132> ;
+    skos:hiddenLabel "4.03.04.08" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Archäologische Kulturen"@de .
+

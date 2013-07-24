@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043536> a skos:Concept ;
+    skos:altLabel "Pléchâtel"@en,
+        "Pléchâtel"@fr,
+        "Pléchâtel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038760> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIlle-Pléchâtel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pléchâtel"@de .
+

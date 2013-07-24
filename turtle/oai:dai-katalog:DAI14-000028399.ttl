@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028399> a skos:Concept ;
+    skos:altLabel "Linz, Oberösterreichisches Landesmuseum"@en,
+        "Linz, Oberösterreichisches Landesmuseum"@fr,
+        "Linz, Oberösterreichisches Landesmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLinz, Oberösterreichisches Landesmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linz, Oberösterreichisches Landesmuseum"@de .
+

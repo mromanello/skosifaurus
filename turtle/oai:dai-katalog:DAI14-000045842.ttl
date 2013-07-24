@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045842> a skos:Concept ;
+    skos:altLabel "Bourg-sur-Gironde"@en,
+        "Bourg-sur-Gironde"@fr,
+        "Bourg-sur-Gironde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038817> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitGironBourg-sur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bourg-sur-Gironde"@de .
+

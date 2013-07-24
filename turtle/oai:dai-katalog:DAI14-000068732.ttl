@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068732> a skos:Concept ;
+    skos:altLabel "Kil'-Burun"@en,
+        "Kil'-Burun"@fr,
+        "Kil'-Burun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiKil'-Buru" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kil'-Burun"@de .
+

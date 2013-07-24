@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026515> a skos:Concept ;
+    skos:altLabel "Karlsruhe 1970"@en,
+        "Karlsruhe 1970"@fr,
+        "Karlsruhe 1970"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstKarlsruhe 1970" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karlsruhe 1970"@de .
+

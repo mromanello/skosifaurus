@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036346> a skos:Concept ;
+    skos:altLabel "Liblice 2000"@en,
+        "Liblice 2000"@fr,
+        "Liblice 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLiblice 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Liblice 2000"@de .
+

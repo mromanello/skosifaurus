@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043991> a skos:Concept ;
+    skos:altLabel "Mont Saint-Michel-Bucht"@en,
+        "Mont Saint-Michel-Bucht"@fr,
+        "Mont Saint-Michel-Bucht"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RMont Sain" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mont Saint-Michel-Bucht"@de .
+

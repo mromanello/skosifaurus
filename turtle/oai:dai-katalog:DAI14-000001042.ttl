@@ -1,0 +1,45 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001042_Ašt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Ašt" .
+
+<http://data.dainst.de/zenon/000001042_Darvaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Darvaz" .
+
+<http://data.dainst.de/zenon/000001042_Fergana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Fergana" .
+
+<http://data.dainst.de/zenon/000001042_Karatag> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Karatag" .
+
+<http://data.dainst.de/zenon/000001042_Kofarnikhon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Kofarnikhon" .
+
+<http://data.dainst.de/zenon/000001042_Pamir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Pamir" .
+
+<http://data.dainst.de/zenon/000001042_Pendžikent> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Pendžikent" .
+
+<http://data.dainst.de/zenon/000001042_Sajat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Sajat" .
+
+<http://data.dainst.de/zenon/000001042_Sarazm> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001042> ;
+    skos:prefLabel "Sarazm" .
+
+<http://data.dainst.de/zenon/000001042> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.06.05" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tadžikistan"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027542> a skos:Concept ;
+    skos:altLabel "Aleppo, Museum"@en,
+        "Aleppo, Museum"@fr,
+        "Aleppo, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAleppo, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aleppo, Museum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078562> a skos:Concept ;
+    skos:altLabel "Rotten Bottom"@en,
+        "Rotten Bottom"@fr,
+        "Rotten Bottom"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078503> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotDumfrRotten Bo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rotten Bottom"@de .
+

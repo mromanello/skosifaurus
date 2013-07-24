@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016686> a skos:Concept ;
+    skos:altLabel "Fondations"@fr,
+        "Foundations"@en,
+        "Fundamenty"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016677> ;
+    skos:hiddenLabel "yRGKArch10 - BefunArchiFunda" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fundamente"@de .
+

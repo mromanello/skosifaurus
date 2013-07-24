@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000475> a skos:Concept ;
+    skos:altLabel "Zinc"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000469> ;
+    skos:hiddenLabel "3.15.05.04.05" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zinn"@de .
+

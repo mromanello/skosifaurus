@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006366> a skos:Concept ;
+    skos:altLabel "Gábori, Miklós"@en,
+        "Gábori, Miklós"@fr,
+        "Gábori, Miklós"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsGábori, Miklós" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gábori, Miklós"@de .
+

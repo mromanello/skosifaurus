@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012548> a skos:Concept ;
+    skos:altLabel "Narzedzia drewniane"@pl,
+        "Outils en bois"@fr,
+        "Wooden instruments"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012528> ;
+    skos:hiddenLabel "yRGKArch03 - FundeGerätHolzg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holzgeräte"@de .
+

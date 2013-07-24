@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079977> a skos:Concept ;
+    skos:altLabel "Ash Fell"@en,
+        "Ash Fell"@fr,
+        "Ash Fell"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrAsh Fell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ash Fell"@de .
+

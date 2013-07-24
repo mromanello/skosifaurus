@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085010> a skos:Concept ;
+    skos:altLabel "Stocký, Albín"@en,
+        "Stocký, Albín"@fr,
+        "Stocký, Albín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoStocký, Albín" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stocký, Albín"@de .
+

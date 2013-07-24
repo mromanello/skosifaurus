@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080595> a skos:Concept ;
+    skos:altLabel "Rowland's Castle"@en,
+        "Rowland's Castle"@fr,
+        "Rowland's Castle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077690> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHampsRowland's" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rowland's Castle"@de .
+

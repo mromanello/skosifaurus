@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032895> a skos:Concept ;
+    skos:altLabel "Dietrich <III., Hieroselymita>"@en,
+        "Dietrich <III., Hieroselymita>"@fr,
+        "Dietrich <III., Hieroselymita>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoDietrich <III., Hieroselymita>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dietrich <III., Hieroselymita>"@de .
+

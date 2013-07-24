@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027599> a skos:Concept ;
+    skos:altLabel "Asti, Museo di Sant'Anastasio"@en,
+        "Asti, Museo di Sant'Anastasio"@fr,
+        "Asti, Museo di Sant'Anastasio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAsti, Museo di Sant'Anastasio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asti, Museo di Sant'Anastasio"@de .
+

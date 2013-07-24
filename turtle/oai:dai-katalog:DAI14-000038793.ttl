@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038793> a skos:Concept ;
+    skos:altLabel "Haute-Vienne"@en,
+        "Haute-Vienne"@fr,
+        "Haute-Vienne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038783> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverHaute" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haute-Vienne"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018875> a skos:Concept ;
+    skos:altLabel "Church/order of knighthood"@en,
+        "Kosciól/Zakon Krzyzacki"@pl,
+        "Église/ordre de chevalerie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000018851> ;
+    skos:hiddenLabel "yRGKArch12 - HistoNumisPräguKirch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kirche/Ritterorden"@de .
+

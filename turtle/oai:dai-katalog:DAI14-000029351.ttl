@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029351> a skos:Concept ;
+    skos:altLabel "Aquincum, Museum"@en,
+        "Aquincum, Museum"@fr,
+        "Aquincum, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuAquincum, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aquincum, Museum"@de .
+

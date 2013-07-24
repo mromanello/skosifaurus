@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076594> a skos:Concept ;
+    skos:altLabel "Tenuta Quadraro"@en,
+        "Tenuta Quadraro"@fr,
+        "Tenuta Quadraro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaTenuta Qu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tenuta Quadraro"@de .
+

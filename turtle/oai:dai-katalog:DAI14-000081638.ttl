@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081638> a skos:Concept ;
+    skos:altLabel "Barumini"@en,
+        "Barumini"@fr,
+        "Barumini"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000081637> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeMedioBarumini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barumini"@de .
+

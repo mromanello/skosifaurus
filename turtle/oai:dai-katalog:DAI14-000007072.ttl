@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007072> a skos:Concept ;
+    skos:altLabel "Universität Heidelberg"@en,
+        "Universität Heidelberg"@fr,
+        "Universität Heidelberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsUniversität Heidelberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Universität Heidelberg"@de .
+

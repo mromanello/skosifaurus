@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024516> a skos:Concept ;
+    skos:altLabel "Numerus Palmyrenorum Porolissensium"@en,
+        "Numerus Palmyrenorum Porolissensium"@fr,
+        "Numerus Palmyrenorum Porolissensium"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016058> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitAuxilAuxilNumerus Palmyrenorum Porolissensium" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Numerus Palmyrenorum Porolissensium"@de .
+

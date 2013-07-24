@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058303> a skos:Concept ;
+    skos:altLabel "Anthering, VB Salzburg-Umgebung"@en,
+        "Anthering, VB Salzburg-Umgebung"@fr,
+        "Anthering, VB Salzburg-Umgebung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038999> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSalzbAnthering" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anthering, VB Salzburg-Umgebung"@de .
+

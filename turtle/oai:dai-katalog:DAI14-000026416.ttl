@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026416> a skos:Concept ;
+    skos:altLabel "Haifa 2001"@en,
+        "Haifa 2001"@fr,
+        "Haifa 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstHaifa 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haifa 2001"@de .
+

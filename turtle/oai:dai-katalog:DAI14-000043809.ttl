@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043809> a skos:Concept ;
+    skos:altLabel "Penthièvre"@en,
+        "Penthièvre"@fr,
+        "Penthièvre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038768> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaMorbiPenthièvr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Penthièvre"@de .
+

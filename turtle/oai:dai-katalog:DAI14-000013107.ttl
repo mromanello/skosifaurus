@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013107> a skos:Concept ;
+    skos:altLabel "Circular monuments"@en,
+        "Installations de fossé circulaire"@fr,
+        "Zalozenia koliste"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013105> ;
+    skos:hiddenLabel "yRGKArch05 - BefunBauweWall/Kreis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kreisgrabenanlagen/Rondelle"@de .
+

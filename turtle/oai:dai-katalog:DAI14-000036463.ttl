@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036463> a skos:Concept ;
+    skos:altLabel "Lugo 1977"@en,
+        "Lugo 1977"@fr,
+        "Lugo 1977"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLugo 1977" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lugo 1977"@de .
+

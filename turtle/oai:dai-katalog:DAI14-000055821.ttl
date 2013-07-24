@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055821> a skos:Concept ;
+    skos:altLabel "Ebesheim, Wüstung Hubenstat"@en,
+        "Ebesheim, Wüstung Hubenstat"@fr,
+        "Ebesheim, Wüstung Hubenstat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038940> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinSüdliEbesheim," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ebesheim, Wüstung Hubenstat"@de .
+

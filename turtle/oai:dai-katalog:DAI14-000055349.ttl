@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055349> a skos:Concept ;
+    skos:altLabel "Ahrweiler"@en,
+        "Ahrweiler"@fr,
+        "Ahrweiler"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038909> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAhrweAhrweiler" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ahrweiler"@de .
+

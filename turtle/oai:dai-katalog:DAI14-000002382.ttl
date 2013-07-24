@@ -1,0 +1,992 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002382_Abrittusvedi:Razgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Abrittus vedi: Razgrad" .
+
+<http://data.dainst.de/zenon/000002382_AdaTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ada Tepe" .
+
+<http://data.dainst.de/zenon/000002382_Ahtopol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ahtopol" .
+
+<http://data.dainst.de/zenon/000002382_Almusvedi:Lom> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Almus vedi: Lom" .
+
+<http://data.dainst.de/zenon/000002382_Anchialosvedi:Pomorie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Anchialos vedi: Pomorie" .
+
+<http://data.dainst.de/zenon/000002382_Apollonia(Trake)vedi:Sozopol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Apollonia (Trake) vedi: Sozopol" .
+
+<http://data.dainst.de/zenon/000002382_Arčar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Arčar" .
+
+<http://data.dainst.de/zenon/000002382_Asenovgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Asenovgrad" .
+
+<http://data.dainst.de/zenon/000002382_Azmak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Azmak" .
+
+<http://data.dainst.de/zenon/000002382_Babovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Babovo" .
+
+<http://data.dainst.de/zenon/000002382_Ballanstra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ballanstra" .
+
+<http://data.dainst.de/zenon/000002382_Balčik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Balčik" .
+
+<http://data.dainst.de/zenon/000002382_Baničan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Baničan" .
+
+<http://data.dainst.de/zenon/000002382_Batak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Batak" .
+
+<http://data.dainst.de/zenon/000002382_Batkun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Batkun" .
+
+<http://data.dainst.de/zenon/000002382_Batovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Batovo" .
+
+<http://data.dainst.de/zenon/000002382_Belene> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Belene" .
+
+<http://data.dainst.de/zenon/000002382_Berkovica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Berkovica" .
+
+<http://data.dainst.de/zenon/000002382_Binai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Binai" .
+
+<http://data.dainst.de/zenon/000002382_Bizonevedi:Kavarna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Bizone vedi: Kavarna" .
+
+<http://data.dainst.de/zenon/000002382_Bizye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Bizye" .
+
+<http://data.dainst.de/zenon/000002382_Bjalgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Bjalgrad" .
+
+<http://data.dainst.de/zenon/000002382_Borino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Borino" .
+
+<http://data.dainst.de/zenon/000002382_Bosnek> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Bosnek" .
+
+<http://data.dainst.de/zenon/000002382_Botevgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Botevgrad" .
+
+<http://data.dainst.de/zenon/000002382_Brestnica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Brestnica" .
+
+<http://data.dainst.de/zenon/000002382_Brestovica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Brestovica" .
+
+<http://data.dainst.de/zenon/000002382_Burgas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Burgas" .
+
+<http://data.dainst.de/zenon/000002382_Butovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Butovo" .
+
+<http://data.dainst.de/zenon/000002382_Candidianavedi:Nigrinianis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Candidiana vedi: Nigrinianis" .
+
+<http://data.dainst.de/zenon/000002382_CarKrum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Car Krum" .
+
+<http://data.dainst.de/zenon/000002382_Carevec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Carevec" .
+
+<http://data.dainst.de/zenon/000002382_Carevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Carevo" .
+
+<http://data.dainst.de/zenon/000002382_Daphne(Bulgarien)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Daphne (Bulgarien)" .
+
+<http://data.dainst.de/zenon/000002382_Daskalovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Daskalovo" .
+
+<http://data.dainst.de/zenon/000002382_Dermanci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dermanci" .
+
+<http://data.dainst.de/zenon/000002382_Develt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Develt" .
+
+<http://data.dainst.de/zenon/000002382_Devnja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Devnja" .
+
+<http://data.dainst.de/zenon/000002382_Dichin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dichin" .
+
+<http://data.dainst.de/zenon/000002382_Diokletianopolisvedi:Hisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Diokletianopolis vedi: Hisar" .
+
+<http://data.dainst.de/zenon/000002382_Dionysopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dionysopolis" .
+
+<http://data.dainst.de/zenon/000002382_Djadovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Djadovo" .
+
+<http://data.dainst.de/zenon/000002382_DolnaKabda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dolna Kabda" .
+
+<http://data.dainst.de/zenon/000002382_DolniVoden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dolni Voden" .
+
+<http://data.dainst.de/zenon/000002382_DolnoBotevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dolno Botevo" .
+
+<http://data.dainst.de/zenon/000002382_DolnoCerovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dolno Cerovo" .
+
+<http://data.dainst.de/zenon/000002382_Drama> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Drama" .
+
+<http://data.dainst.de/zenon/000002382_Drašan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Drašan" .
+
+<http://data.dainst.de/zenon/000002382_DrenovskaLăka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Drenovska Lăka" .
+
+<http://data.dainst.de/zenon/000002382_Dulgopol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Dulgopol" .
+
+<http://data.dainst.de/zenon/000002382_Durankulak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Durankulak" .
+
+<http://data.dainst.de/zenon/000002382_Durostorumvedi:Silistra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Durostorum vedi: Silistra" .
+
+<http://data.dainst.de/zenon/000002382_Džigurovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Džigurovo" .
+
+<http://data.dainst.de/zenon/000002382_Emine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Emine" .
+
+<http://data.dainst.de/zenon/000002382_EmporionThuidas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Emporion Thuidas" .
+
+<http://data.dainst.de/zenon/000002382_EmporiumPiretensiumvedi:Butovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Emporium Piretensium vedi: Butovo" .
+
+<http://data.dainst.de/zenon/000002382_Fotinovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Fotinovo" .
+
+<http://data.dainst.de/zenon/000002382_Gabrovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gabrovo" .
+
+<http://data.dainst.de/zenon/000002382_Gaganica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gaganica" .
+
+<http://data.dainst.de/zenon/000002382_Galata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Galata" .
+
+<http://data.dainst.de/zenon/000002382_Germaniavedi:SaparevaBanja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Germania vedi: Sapareva Banja" .
+
+<http://data.dainst.de/zenon/000002382_Gigenvedi:Oescus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gigen vedi: Oescus" .
+
+<http://data.dainst.de/zenon/000002382_Gledka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gledka" .
+
+<http://data.dainst.de/zenon/000002382_Golitsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Golitsa" .
+
+<http://data.dainst.de/zenon/000002382_GoljamoBelovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Goljamo Belovo" .
+
+<http://data.dainst.de/zenon/000002382_GornaBešovica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gorna Bešovica" .
+
+<http://data.dainst.de/zenon/000002382_GorskoAblanovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gorsko Ablanovo" .
+
+<http://data.dainst.de/zenon/000002382_Gorun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gorun" .
+
+<http://data.dainst.de/zenon/000002382_Gradec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gradec" .
+
+<http://data.dainst.de/zenon/000002382_Gradishte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gradishte" .
+
+<http://data.dainst.de/zenon/000002382_Gradnica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Gradnica" .
+
+<http://data.dainst.de/zenon/000002382_Haskovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Haskovo" .
+
+<http://data.dainst.de/zenon/000002382_HerakleiaSintica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Herakleia Sintica" .
+
+<http://data.dainst.de/zenon/000002382_Hisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Hisar" .
+
+<http://data.dainst.de/zenon/000002382_Hotnica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Hotnica" .
+
+<http://data.dainst.de/zenon/000002382_Hărlec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Hărlec" .
+
+<http://data.dainst.de/zenon/000002382_Iatrus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Iatrus" .
+
+<http://data.dainst.de/zenon/000002382_Ihtiman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ihtiman" .
+
+<http://data.dainst.de/zenon/000002382_Isperih> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Isperih" .
+
+<http://data.dainst.de/zenon/000002382_Ivajlovgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ivajlovgrad" .
+
+<http://data.dainst.de/zenon/000002382_Jajla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Jajla" .
+
+<http://data.dainst.de/zenon/000002382_Javorovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Javorovo" .
+
+<http://data.dainst.de/zenon/000002382_Kabyle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kabyle" .
+
+<http://data.dainst.de/zenon/000002382_Kaliakravedi:Tiristis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kaliakra vedi: Tiristis" .
+
+<http://data.dainst.de/zenon/000002382_Kalojanovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kalojanovo" .
+
+<http://data.dainst.de/zenon/000002382_Karabyzye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Karabyzye" .
+
+<http://data.dainst.de/zenon/000002382_Karanovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Karanovo" .
+
+<http://data.dainst.de/zenon/000002382_Karasura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Karasura" .
+
+<http://data.dainst.de/zenon/000002382_Karlovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Karlovo" .
+
+<http://data.dainst.de/zenon/000002382_Karnobat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Karnobat" .
+
+<http://data.dainst.de/zenon/000002382_Kavarna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kavarna" .
+
+<http://data.dainst.de/zenon/000002382_Kazanlăk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kazanlăk" .
+
+<http://data.dainst.de/zenon/000002382_Kjolmen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kjolmen" .
+
+<http://data.dainst.de/zenon/000002382_Kjustendil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kjustendil" .
+
+<http://data.dainst.de/zenon/000002382_Koevci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Koevci" .
+
+<http://data.dainst.de/zenon/000002382_Kolarci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kolarci" .
+
+<http://data.dainst.de/zenon/000002382_Komatevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Komatevo" .
+
+<http://data.dainst.de/zenon/000002382_Koprivec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Koprivec" .
+
+<http://data.dainst.de/zenon/000002382_Korten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Korten" .
+
+<http://data.dainst.de/zenon/000002382_Kostinbrod> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kostinbrod" .
+
+<http://data.dainst.de/zenon/000002382_Kovačevec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kovačevec" .
+
+<http://data.dainst.de/zenon/000002382_KovačevskoKale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kovačevsko Kale" .
+
+<http://data.dainst.de/zenon/000002382_KralevDol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kralev Dol" .
+
+<http://data.dainst.de/zenon/000002382_Kramolin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kramolin" .
+
+<http://data.dainst.de/zenon/000002382_Kranevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kranevo" .
+
+<http://data.dainst.de/zenon/000002382_Krassen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Krassen" .
+
+<http://data.dainst.de/zenon/000002382_Kravoder> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kravoder" .
+
+<http://data.dainst.de/zenon/000002382_Krivinavedi:Iatrus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Krivina vedi: Iatrus" .
+
+<http://data.dainst.de/zenon/000002382_Kričim> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kričim" .
+
+<http://data.dainst.de/zenon/000002382_KrumovoKale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Krumovo Kale" .
+
+<http://data.dainst.de/zenon/000002382_Krăn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Krăn" .
+
+<http://data.dainst.de/zenon/000002382_Kula> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kula" .
+
+<http://data.dainst.de/zenon/000002382_Kunino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kunino" .
+
+<http://data.dainst.de/zenon/000002382_Kurbinovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Kurbinovo" .
+
+<http://data.dainst.de/zenon/000002382_Lesičeri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Lesičeri" .
+
+<http://data.dainst.de/zenon/000002382_Leško> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Leško" .
+
+<http://data.dainst.de/zenon/000002382_Ljublen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ljublen" .
+
+<http://data.dainst.de/zenon/000002382_Lom> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Lom" .
+
+<http://data.dainst.de/zenon/000002382_Lăki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Lăki" .
+
+<http://data.dainst.de/zenon/000002382_Madara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Madara" .
+
+<http://data.dainst.de/zenon/000002382_Maglij> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Maglij" .
+
+<http://data.dainst.de/zenon/000002382_MalkoTărnovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Malko Tărnovo" .
+
+<http://data.dainst.de/zenon/000002382_MalăkPorovec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Malăk Porovec" .
+
+<http://data.dainst.de/zenon/000002382_MalăkPreslavecvedi:Nigrinianis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Malăk Preslavec vedi: Nigrinianis" .
+
+<http://data.dainst.de/zenon/000002382_Markianopolisvedi:Devnja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Markianopolis vedi: Devnja" .
+
+<http://data.dainst.de/zenon/000002382_MarkovaMehana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Markova Mehana" .
+
+<http://data.dainst.de/zenon/000002382_Markovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Markovo" .
+
+<http://data.dainst.de/zenon/000002382_Masteira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Masteira" .
+
+<http://data.dainst.de/zenon/000002382_Melnik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Melnik" .
+
+<http://data.dainst.de/zenon/000002382_Meričleri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Meričleri" .
+
+<http://data.dainst.de/zenon/000002382_Mesambriavedi:Nesebăr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mesambria vedi: Nesebăr" .
+
+<http://data.dainst.de/zenon/000002382_Mesembriavedi:Nesebăr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mesembria vedi: Nesebăr" .
+
+<http://data.dainst.de/zenon/000002382_Messambriavedi:Nesebăr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Messambria vedi: Nesebăr" .
+
+<http://data.dainst.de/zenon/000002382_Mezideva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mezideva" .
+
+<http://data.dainst.de/zenon/000002382_Mihajlovgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mihajlovgrad" .
+
+<http://data.dainst.de/zenon/000002382_Mihilci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mihilci" .
+
+<http://data.dainst.de/zenon/000002382_Mikrevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mikrevo" .
+
+<http://data.dainst.de/zenon/000002382_Mirkovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mirkovo" .
+
+<http://data.dainst.de/zenon/000002382_Mogilec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Mogilec" .
+
+<http://data.dainst.de/zenon/000002382_Montanavedi:Mihajlovgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Montana vedi: Mihajlovgrad" .
+
+<http://data.dainst.de/zenon/000002382_Muletarovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Muletarovo" .
+
+<http://data.dainst.de/zenon/000002382_Măgliž> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Măgliž" .
+
+<http://data.dainst.de/zenon/000002382_Nebettepevedi:Plovdiv> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nebettepe vedi: Plovdiv" .
+
+<http://data.dainst.de/zenon/000002382_Neine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Neine" .
+
+<http://data.dainst.de/zenon/000002382_Nesebăr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nesebăr" .
+
+<http://data.dainst.de/zenon/000002382_Nigrinianis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nigrinianis" .
+
+<http://data.dainst.de/zenon/000002382_Nikopolis(Nestos)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nikopolis (Nestos)" .
+
+<http://data.dainst.de/zenon/000002382_NikopolisadIstrum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nikopolis ad Istrum" .
+
+<http://data.dainst.de/zenon/000002382_NovaMahala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nova Mahala" .
+
+<http://data.dainst.de/zenon/000002382_Novae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Novae" .
+
+<http://data.dainst.de/zenon/000002382_NovaČerna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Nova Černa" .
+
+<http://data.dainst.de/zenon/000002382_Novgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Novgrad" .
+
+<http://data.dainst.de/zenon/000002382_Obnova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Obnova" .
+
+<http://data.dainst.de/zenon/000002382_Obručište> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Obručište" .
+
+<http://data.dainst.de/zenon/000002382_Odărci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Odărci" .
+
+<http://data.dainst.de/zenon/000002382_Oescus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Oescus" .
+
+<http://data.dainst.de/zenon/000002382_Ognjanovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ognjanovo" .
+
+<http://data.dainst.de/zenon/000002382_Omurtag> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Omurtag" .
+
+<http://data.dainst.de/zenon/000002382_Orešnik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Orešnik" .
+
+<http://data.dainst.de/zenon/000002382_Ossenovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ossenovo" .
+
+<http://data.dainst.de/zenon/000002382_Paryl> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Paryl" .
+
+<http://data.dainst.de/zenon/000002382_Pautaliavedi:Kjustendil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pautalia vedi: Kjustendil" .
+
+<http://data.dainst.de/zenon/000002382_Pavlikeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pavlikeni" .
+
+<http://data.dainst.de/zenon/000002382_Pernik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pernik" .
+
+<http://data.dainst.de/zenon/000002382_Perperikon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Perperikon" .
+
+<http://data.dainst.de/zenon/000002382_Peruštica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Peruštica" .
+
+<http://data.dainst.de/zenon/000002382_Philippopolisvedi:Plovdiv> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Philippopolis vedi: Plovdiv" .
+
+<http://data.dainst.de/zenon/000002382_Phorounna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Phorounna" .
+
+<http://data.dainst.de/zenon/000002382_Piperica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Piperica" .
+
+<http://data.dainst.de/zenon/000002382_Pistiros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pistiros" .
+
+<http://data.dainst.de/zenon/000002382_Pleven> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pleven" .
+
+<http://data.dainst.de/zenon/000002382_Pliska> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pliska" .
+
+<http://data.dainst.de/zenon/000002382_Plovdiv> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Plovdiv" .
+
+<http://data.dainst.de/zenon/000002382_Pomorie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Pomorie" .
+
+<http://data.dainst.de/zenon/000002382_Poroj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Poroj" .
+
+<http://data.dainst.de/zenon/000002382_Preslav> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Preslav" .
+
+<http://data.dainst.de/zenon/000002382_Provadija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Provadija" .
+
+<http://data.dainst.de/zenon/000002382_Părvenec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Părvenec" .
+
+<http://data.dainst.de/zenon/000002382_Radomir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Radomir" .
+
+<http://data.dainst.de/zenon/000002382_Rakitovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Rakitovo" .
+
+<http://data.dainst.de/zenon/000002382_Ratiariavedi:Arčar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ratiaria vedi: Arčar" .
+
+<http://data.dainst.de/zenon/000002382_Ravnogor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ravnogor" .
+
+<http://data.dainst.de/zenon/000002382_Razgrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Razgrad" .
+
+<http://data.dainst.de/zenon/000002382_Rozovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Rozovo" .
+
+<http://data.dainst.de/zenon/000002382_Ruen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ruen" .
+
+<http://data.dainst.de/zenon/000002382_Rukaloto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Rukaloto" .
+
+<http://data.dainst.de/zenon/000002382_Ruse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ruse" .
+
+<http://data.dainst.de/zenon/000002382_Sadovec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sadovec" .
+
+<http://data.dainst.de/zenon/000002382_Sandanski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sandanski" .
+
+<http://data.dainst.de/zenon/000002382_SaparevaBanja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sapareva Banja" .
+
+<http://data.dainst.de/zenon/000002382_Sborjanovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sborjanovo" .
+
+<http://data.dainst.de/zenon/000002382_Scaptopara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Scaptopara" .
+
+<http://data.dainst.de/zenon/000002382_Seuthopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Seuthopolis" .
+
+<http://data.dainst.de/zenon/000002382_Sevlievo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sevlievo" .
+
+<http://data.dainst.de/zenon/000002382_SexagintaPristavedi:Ruse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sexaginta Prista vedi: Ruse" .
+
+<http://data.dainst.de/zenon/000002382_Silistra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Silistra" .
+
+<http://data.dainst.de/zenon/000002382_Sintiavedi:Sandanski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sintia vedi: Sandanski" .
+
+<http://data.dainst.de/zenon/000002382_Sliven> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sliven" .
+
+<http://data.dainst.de/zenon/000002382_Slivnitsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Slivnitsa" .
+
+<http://data.dainst.de/zenon/000002382_Slokoščica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Slokoščica" .
+
+<http://data.dainst.de/zenon/000002382_Smolyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Smolyan" .
+
+<http://data.dainst.de/zenon/000002382_Sofija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sofija" .
+
+<http://data.dainst.de/zenon/000002382_Sohače> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sohače" .
+
+<http://data.dainst.de/zenon/000002382_Somovit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Somovit" .
+
+<http://data.dainst.de/zenon/000002382_Sozopol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sozopol" .
+
+<http://data.dainst.de/zenon/000002382_Sredec> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sredec" .
+
+<http://data.dainst.de/zenon/000002382_StaraZagora> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Stara Zagora" .
+
+<http://data.dainst.de/zenon/000002382_Staroselka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Staroselka" .
+
+<http://data.dainst.de/zenon/000002382_StarozagorskiBani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Starozagorski Bani" .
+
+<http://data.dainst.de/zenon/000002382_Strelča> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Strelča" .
+
+<http://data.dainst.de/zenon/000002382_SubRadice> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sub Radice" .
+
+<http://data.dainst.de/zenon/000002382_Suhozem> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Suhozem" .
+
+<http://data.dainst.de/zenon/000002382_SvetiVracvedi:Sandanski> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sveti Vrac vedi: Sandanski" .
+
+<http://data.dainst.de/zenon/000002382_Sveštari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Sveštari" .
+
+<http://data.dainst.de/zenon/000002382_Svištovvedi:Novae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Svištov vedi: Novae" .
+
+<http://data.dainst.de/zenon/000002382_Săbranovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Săbranovo" .
+
+<http://data.dainst.de/zenon/000002382_Tatul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tatul" .
+
+<http://data.dainst.de/zenon/000002382_Tavaličevo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tavaličevo" .
+
+<http://data.dainst.de/zenon/000002382_Tiristis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tiristis" .
+
+<http://data.dainst.de/zenon/000002382_Tolbuchin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tolbuchin" .
+
+<http://data.dainst.de/zenon/000002382_Tonzus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tonzus" .
+
+<http://data.dainst.de/zenon/000002382_Topola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Topola" .
+
+<http://data.dainst.de/zenon/000002382_Transmariscavedi:Tutrakan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Transmarisca vedi: Tutrakan" .
+
+<http://data.dainst.de/zenon/000002382_Tulovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tulovo" .
+
+<http://data.dainst.de/zenon/000002382_Tutrakan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tutrakan" .
+
+<http://data.dainst.de/zenon/000002382_Tărgovište> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Tărgovište" .
+
+<http://data.dainst.de/zenon/000002382_UlpiaOescusvedi:Oescus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Ulpia Oescus vedi: Oescus" .
+
+<http://data.dainst.de/zenon/000002382_Varna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Varna" .
+
+<http://data.dainst.de/zenon/000002382_VelikoTărnovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Veliko Tărnovo" .
+
+<http://data.dainst.de/zenon/000002382_VicusTrullensiumvedi:Kunino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vicus Trullensium vedi: Kunino" .
+
+<http://data.dainst.de/zenon/000002382_Vidin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vidin" .
+
+<http://data.dainst.de/zenon/000002382_Vojvoda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vojvoda" .
+
+<http://data.dainst.de/zenon/000002382_Vojvodinovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vojvodinovo" .
+
+<http://data.dainst.de/zenon/000002382_Vojvodovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vojvodovo" .
+
+<http://data.dainst.de/zenon/000002382_Vraca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Vraca" .
+
+<http://data.dainst.de/zenon/000002382_Zàrenica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Zàrenica" .
+
+<http://data.dainst.de/zenon/000002382_Čatalarvedi:CarKrum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Čatalar vedi: Car Krum" .
+
+<http://data.dainst.de/zenon/000002382_Čatalka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Čatalka" .
+
+<http://data.dainst.de/zenon/000002382_Čertigrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Čertigrad" .
+
+<http://data.dainst.de/zenon/000002382_Červen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Červen" .
+
+<http://data.dainst.de/zenon/000002382_Čezava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Čezava" .
+
+<http://data.dainst.de/zenon/000002382_Čomakovci> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Čomakovci" .
+
+<http://data.dainst.de/zenon/000002382_Šejnovo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Šejnovo" .
+
+<http://data.dainst.de/zenon/000002382_Šipka> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Šipka" .
+
+<http://data.dainst.de/zenon/000002382_Šumen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002382> ;
+    skos:prefLabel "Šumen" .
+
+<http://data.dainst.de/zenon/000002382> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002381> ;
+    skos:hiddenLabel "xTopLandBulgOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014326> a skos:Concept ;
+    skos:altLabel "Biens économiques/marchandises"@fr,
+        "Goods/merchandise"@en,
+        "Gotowych wyrobów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014322> ;
+    skos:hiddenLabel "yRGKArch07 - WirtsHandeFerti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fertigprodukte"@de .
+

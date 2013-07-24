@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022868> a skos:Concept ;
+    skos:altLabel "Plumpton"@en,
+        "Plumpton"@fr,
+        "Plumpton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschPlumpton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plumpton"@de .
+

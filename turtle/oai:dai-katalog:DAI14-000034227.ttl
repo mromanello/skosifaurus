@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034227> a skos:Concept ;
+    skos:altLabel "Domald <von Kroatien>"@en,
+        "Domald <von Kroatien>"@fr,
+        "Domald <von Kroatien>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoDomald <von Kroatien>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Domald <von Kroatien>"@de .
+

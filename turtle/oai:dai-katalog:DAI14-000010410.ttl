@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010410> a skos:Concept ;
+    skos:altLabel "Zoll-Adamikowa, Helena"@en,
+        "Zoll-Adamikowa, Helena"@fr,
+        "Zoll-Adamikowa, Helena"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZoll-Adamikowa, Helena" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zoll-Adamikowa, Helena"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009647> a skos:Concept ;
+    skos:altLabel "Reicherstorffer, Georg"@en,
+        "Reicherstorffer, Georg"@fr,
+        "Reicherstorffer, Georg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoReicherstorffer, Georg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reicherstorffer, Georg"@de .
+

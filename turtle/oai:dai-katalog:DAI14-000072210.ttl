@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072210> a skos:Concept ;
+    skos:altLabel "Santa Maria della Roccella"@en,
+        "Santa Maria della Roccella"@fr,
+        "Santa Maria della Roccella"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039253> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCalabCatanSanta Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Santa Maria della Roccella"@de .
+

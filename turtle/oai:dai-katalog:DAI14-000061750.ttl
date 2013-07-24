@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061750> a skos:Concept ;
+    skos:altLabel "Habsburg"@en,
+        "Habsburg"@fr,
+        "Habsburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039036> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweAargaHabsburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Habsburg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046308> a skos:Concept ;
+    skos:altLabel "Claret-Rocher du Causse"@en,
+        "Claret-Rocher du Causse"@fr,
+        "Claret-Rocher du Causse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauClaret-Ro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Claret-Rocher du Causse"@de .
+

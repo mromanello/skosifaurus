@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017657> a skos:Concept ;
+    skos:altLabel "Amphora burials"@en,
+        "Groby w amforach"@pl,
+        "Tombes en amphores"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017653> ;
+    skos:hiddenLabel "yRGKArch11 - GräbeGrabbTotenAmpho" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amphorengräber"@de .
+

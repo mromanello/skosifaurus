@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053712> a skos:Concept ;
+    skos:altLabel "Bad Zwischenahn"@en,
+        "Bad Zwischenahn"@fr,
+        "Bad Zwischenahn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075548> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeAmmerBad Zwisc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Zwischenahn"@de .
+

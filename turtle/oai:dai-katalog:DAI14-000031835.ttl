@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031835> a skos:Concept ;
+    skos:altLabel "Raftery, Joseph"@en,
+        "Raftery, Joseph"@fr,
+        "Raftery, Joseph"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliRaftery, Joseph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Raftery, Joseph"@de .
+

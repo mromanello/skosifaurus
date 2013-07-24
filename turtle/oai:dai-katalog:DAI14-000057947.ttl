@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057947> a skos:Concept ;
+    skos:altLabel "Furth bei Göttweig, VB Krems"@en,
+        "Furth bei Göttweig, VB Krems"@fr,
+        "Furth bei Göttweig, VB Krems"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeFurth bei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Furth bei Göttweig, VB Krems"@de .
+

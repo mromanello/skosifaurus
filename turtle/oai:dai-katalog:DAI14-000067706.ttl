@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067706> a skos:Concept ;
+    skos:altLabel "Besov Nos, Onegasee"@en,
+        "Besov Nos, Onegasee"@fr,
+        "Besov Nos, Onegasee"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiBesov Nos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Besov Nos, Onegasee"@de .
+

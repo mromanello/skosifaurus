@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021900> a skos:Concept ;
+    skos:altLabel "Lamprecht <von Brunn>"@en,
+        "Lamprecht <von Brunn>"@fr,
+        "Lamprecht <von Brunn>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoLamprecht <von Brunn>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lamprecht <von Brunn>"@de .
+

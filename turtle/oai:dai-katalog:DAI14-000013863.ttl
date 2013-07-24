@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013863> a skos:Concept ;
+    skos:altLabel "Decorative techniques"@en,
+        "Techniki zdobienia"@pl,
+        "Techniques de décoration"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013861> ;
+    skos:hiddenLabel "yRGKArch06 - WirtsHandwProduHerstMetalDekor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dekorationstechniken"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018478> a skos:Concept ;
+    skos:altLabel "Cercueils en bois"@fr,
+        "Trumny drewniane"@pl,
+        "Wooden cists"@en ;
+    skos:broader <http://data.dainst.de/zenon/000018477> ;
+    skos:hiddenLabel "yRGKArch12 - GräbeGrabbTotenSärgeHolzs" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holzsärge"@de .
+

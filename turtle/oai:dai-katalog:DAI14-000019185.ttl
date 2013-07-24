@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019185> a skos:Concept ;
+    skos:altLabel "Dépôts"@fr,
+        "Hoards"@en,
+        "Skarby"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019093> ;
+    skos:hiddenLabel "yRGKArch14 - Depon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Deponierungen"@de .
+

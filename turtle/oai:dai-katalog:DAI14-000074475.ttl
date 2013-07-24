@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074475> a skos:Concept ;
+    skos:altLabel "Tell-'Ahmar - Til-Barsib"@en,
+        "Tell-'Ahmar - Til-Barsib"@fr,
+        "Tell-'Ahmar - Til-Barsib"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039389> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieTell-'Ahm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tell-'Ahmar - Til-Barsib"@de .
+

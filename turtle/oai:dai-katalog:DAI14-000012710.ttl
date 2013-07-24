@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012710> a skos:Concept ;
+    skos:altLabel "Analizy zebów"@pl,
+        "Analyses dentaires"@fr,
+        "Dental analyses"@en ;
+    skos:broader <http://data.dainst.de/zenon/000012699> ;
+    skos:hiddenLabel "yRGKArch03 - NaturAnthrZahnu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zahnuntersuchungen"@de .
+

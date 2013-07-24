@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065438> a skos:Concept ;
+    skos:altLabel "Tiszapolgár-Basatanya"@en,
+        "Tiszapolgár-Basatanya"@fr,
+        "Tiszapolgár-Basatanya"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039089> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunPestTiszapolg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tiszapolgár-Basatanya"@de .
+

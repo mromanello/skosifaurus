@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053956> a skos:Concept ;
+    skos:altLabel "Langenfeld"@en,
+        "Langenfeld"@fr,
+        "Langenfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075572> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHamelLangenfel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Langenfeld"@de .
+

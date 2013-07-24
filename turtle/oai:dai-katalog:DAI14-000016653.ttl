@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016653> a skos:Concept ;
+    skos:altLabel "Arcs d'honneur"@fr,
+        "Luki triumfalne"@pl,
+        "Triumphal archs"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016647> ;
+    skos:hiddenLabel "yRGKArch10 - BefunBauweÖffenEhren" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ehrenbögen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071276> a skos:Concept ;
+    skos:altLabel "Monteleone di Spoleto"@en,
+        "Monteleone di Spoleto"@fr,
+        "Monteleone di Spoleto"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039214> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaUmbriPerugMonteleon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monteleone di Spoleto"@de .
+

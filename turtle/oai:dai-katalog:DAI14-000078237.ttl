@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078237> a skos:Concept ;
+    skos:altLabel "Oxford-Orseney"@en,
+        "Oxford-Orseney"@fr,
+        "Oxford-Orseney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077703> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaOxforOxford-Or" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oxford-Orseney"@de .
+

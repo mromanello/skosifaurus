@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029107> a skos:Concept ;
+    skos:altLabel "Timişoara, Banat Museum"@en,
+        "Timişoara, Banat Museum"@fr,
+        "Timişoara, Banat Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTimişoara, Banat Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Timişoara, Banat Museum"@de .
+

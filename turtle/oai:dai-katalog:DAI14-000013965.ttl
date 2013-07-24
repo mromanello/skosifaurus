@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013965> a skos:Concept ;
+    skos:altLabel "Cornes à boire/garnitures"@fr,
+        "Drinking-horns"@en,
+        "Rogi do picia/okucia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013928> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGefäsTrink" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trinkhörner/Beschläge"@de .
+

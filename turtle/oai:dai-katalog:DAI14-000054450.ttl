@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054450> a skos:Concept ;
+    skos:altLabel "Gielde, Kukeriulenburg"@en,
+        "Gielde, Kukeriulenburg"@fr,
+        "Gielde, Kukeriulenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075556> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWolfeGielde, K" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gielde, Kukeriulenburg"@de .
+

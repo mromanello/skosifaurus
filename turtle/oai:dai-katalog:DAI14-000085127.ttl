@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085127> a skos:Concept ;
+    skos:altLabel "Till"@en,
+        "Till"@fr,
+        "Till"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075647> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrKleveTill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Till"@de .
+

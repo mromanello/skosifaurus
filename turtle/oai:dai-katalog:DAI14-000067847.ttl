@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067847> a skos:Concept ;
+    skos:altLabel "Merdshana"@en,
+        "Merdshana"@fr,
+        "Merdshana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiMerdshana" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Merdshana"@de .
+

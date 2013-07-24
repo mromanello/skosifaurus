@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048853> a skos:Concept ;
+    skos:altLabel "East Finnercy, Dunecht, Aberdeenshire"@en,
+        "East Finnercy, Dunecht, Aberdeenshire"@fr,
+        "East Finnercy, Dunecht, Aberdeenshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078509> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotGrampEast Finn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "East Finnercy, Dunecht, Aberdeenshire"@de .
+

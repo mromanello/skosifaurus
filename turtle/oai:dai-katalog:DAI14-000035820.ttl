@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035820> a skos:Concept ;
+    skos:altLabel "Frankfurt a. M. 2003"@en,
+        "Frankfurt a. M. 2003"@fr,
+        "Frankfurt a. M. 2003"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrFrankfurt a. M. 2003" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frankfurt a. M. 2003"@de .
+

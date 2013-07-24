@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028960> a skos:Concept ;
+    skos:altLabel "Savona, Civico Museo Storico-Archeologico"@en,
+        "Savona, Civico Museo Storico-Archeologico"@fr,
+        "Savona, Civico Museo Storico-Archeologico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSavona, Civico Museo Storico-Archeologico" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Savona, Civico Museo Storico-Archeologico"@de .
+

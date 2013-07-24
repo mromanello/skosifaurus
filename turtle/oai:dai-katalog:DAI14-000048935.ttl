@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048935> a skos:Concept ;
+    skos:altLabel "Milton of Leys, Inverness"@en,
+        "Milton of Leys, Inverness"@fr,
+        "Milton of Leys, Inverness"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlMilton of" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Milton of Leys, Inverness"@de .
+

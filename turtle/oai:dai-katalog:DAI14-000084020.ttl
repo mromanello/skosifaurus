@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084020> a skos:Concept ;
+    skos:altLabel "Finstermühle"@en,
+        "Finstermühle"@fr,
+        "Finstermühle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000079130> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNürnbFinstermü" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Finstermühle"@de .
+

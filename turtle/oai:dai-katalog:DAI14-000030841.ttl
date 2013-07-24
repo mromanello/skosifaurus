@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030841> a skos:Concept ;
+    skos:altLabel "English Heritage"@en,
+        "English Heritage"@fr,
+        "English Heritage"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiEnglish Heritage" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "English Heritage"@de .
+

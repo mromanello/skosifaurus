@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010578> a skos:Concept ;
+    skos:altLabel "Landschaftsgarten Eulbach"@en,
+        "Landschaftsgarten Eulbach"@fr,
+        "Landschaftsgarten Eulbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiLandschaftsgarten Eulbach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landschaftsgarten Eulbach"@de .
+

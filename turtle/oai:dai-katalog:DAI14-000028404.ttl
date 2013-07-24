@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028404> a skos:Concept ;
+    skos:altLabel "Lisboa, Museu do Carmo"@en,
+        "Lisboa, Museu do Carmo"@fr,
+        "Lisboa, Museu do Carmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLisboa, Museu do Carmo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lisboa, Museu do Carmo"@de .
+

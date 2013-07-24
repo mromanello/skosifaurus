@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059005> a skos:Concept ;
+    skos:altLabel "Sierakowice"@en,
+        "Sierakowice"@fr,
+        "Sierakowice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorSierakowi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sierakowice"@de .
+

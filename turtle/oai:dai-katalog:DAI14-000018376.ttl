@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018376> a skos:Concept ;
+    skos:altLabel "Galerie/arkady"@pl,
+        "Galeries"@fr,
+        "Galleries"@en ;
+    skos:broader <http://data.dainst.de/zenon/000018365> ;
+    skos:hiddenLabel "yRGKArch12 - BefunArchiGaler" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Galerien/Arkaden"@de .
+

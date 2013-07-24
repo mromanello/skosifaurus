@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032797> a skos:Concept ;
+    skos:altLabel "Aeneas <Tacticus>"@en,
+        "Aeneas <Tacticus>"@fr,
+        "Aeneas <Tacticus>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAeneas <Tacticus>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aeneas <Tacticus>"@de .
+

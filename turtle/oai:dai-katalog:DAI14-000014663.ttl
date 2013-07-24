@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014663> a skos:Concept ;
+    skos:altLabel "Eperons"@fr,
+        "Ostrogi"@pl,
+        "Spurs"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014661> ;
+    skos:hiddenLabel "yRGKArch08 - FundeTransReit-Spore" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sporen"@de .
+

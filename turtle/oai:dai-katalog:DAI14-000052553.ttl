@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052553> a skos:Concept ;
+    skos:altLabel "Buchholz, Gde. Gerswalde"@en,
+        "Buchholz, Gde. Gerswalde"@fr,
+        "Buchholz, Gde. Gerswalde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075484> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandUckerBuchholz," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buchholz, Gde. Gerswalde"@de .
+

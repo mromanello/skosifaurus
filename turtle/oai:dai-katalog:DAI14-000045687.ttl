@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045687> a skos:Concept ;
+    skos:altLabel "La Tour-Blanche"@en,
+        "La Tour-Blanche"@fr,
+        "La Tour-Blanche"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038814> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitDordoLa Tour-B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Tour-Blanche"@de .
+

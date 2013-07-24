@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044389> a skos:Concept ;
+    skos:altLabel "Jaulges-Villiers-Vineux"@en,
+        "Jaulges-Villiers-Vineux"@fr,
+        "Jaulges-Villiers-Vineux"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038780> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgYonneJaulges-V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jaulges-Villiers-Vineux"@de .
+

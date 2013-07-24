@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068837> a skos:Concept ;
+    skos:altLabel "Mezhirich, Kanev rai., Cherkassy obl."@en,
+        "Mezhirich, Kanev rai., Cherkassy obl."@fr,
+        "Mezhirich, Kanev rai., Cherkassy obl."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiMezhirich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mezhirich, Kanev rai., Cherkassy obl."@de .
+

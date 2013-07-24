@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034261> a skos:Concept ;
+    skos:altLabel "Mikoshiba"@en,
+        "Mikoshiba"@fr,
+        "Mikoshiba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Mikoshiba" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mikoshiba"@de .
+

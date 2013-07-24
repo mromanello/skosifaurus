@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084018> a skos:Concept ;
+    skos:altLabel "Mittelburg"@en,
+        "Mittelburg"@fr,
+        "Mittelburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000079130> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNürnbMittelbur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mittelburg"@de .
+

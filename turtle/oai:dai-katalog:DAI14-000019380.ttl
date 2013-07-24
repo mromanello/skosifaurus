@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019380> a skos:Concept ;
+    skos:altLabel "Langobards"@en,
+        "Lombards"@fr,
+        "Longobardowie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019354> ;
+    skos:hiddenLabel "yRGKEthnGermaLango" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Langobarden"@de .
+

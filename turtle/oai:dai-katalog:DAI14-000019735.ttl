@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019735> a skos:Concept ;
+    skos:altLabel "Chaille"@fr,
+        "Chert"@en,
+        "Rogowiec"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019733> ;
+    skos:hiddenLabel "yRGKNaturMaterGesteSilicHorns" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hornstein"@de .
+

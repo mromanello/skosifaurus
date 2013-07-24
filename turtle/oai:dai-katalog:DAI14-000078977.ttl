@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078977> a skos:Concept ;
+    skos:altLabel "Artjuščenko, raj. Temrjuk, obl. Krasnodar"@en,
+        "Artjuščenko, raj. Temrjuk, obl. Krasnodar"@fr,
+        "Artjuščenko, raj. Temrjuk, obl. Krasnodar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiArtjuščen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Artjuščenko, raj. Temrjuk, obl. Krasnodar"@de .
+

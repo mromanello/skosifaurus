@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023766> a skos:Concept ;
+    skos:altLabel "T. Arusi"@en,
+        "T. Arusi"@fr,
+        "T. Arusi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015755> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBaumaZiegeT. Arusi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "T. Arusi"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022898> a skos:Concept ;
+    skos:altLabel "Sentii Saturnini"@en,
+        "Sentii Saturnini"@fr,
+        "Sentii Saturnini"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschSentii Saturnini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sentii Saturnini"@de .
+

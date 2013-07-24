@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073804> a skos:Concept ;
+    skos:altLabel "Quesada"@en,
+        "Quesada"@fr,
+        "Quesada"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039356> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalJaénQuesada" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quesada"@de .
+

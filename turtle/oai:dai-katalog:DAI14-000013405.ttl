@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013405> a skos:Concept ;
+    skos:altLabel "Anthracologie"@fr,
+        "Okreslanie gatunku drzewa"@pl,
+        "Wood analysis"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013403> ;
+    skos:hiddenLabel "yRGKArch05 - NaturPaläoHolza" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holzartenbestimmungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063629> a skos:Concept ;
+    skos:altLabel "Jakub, okr. Kutná Hora"@en,
+        "Jakub, okr. Kutná Hora"@fr,
+        "Jakub, okr. Kutná Hora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyJakub, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jakub, okr. Kutná Hora"@de .
+

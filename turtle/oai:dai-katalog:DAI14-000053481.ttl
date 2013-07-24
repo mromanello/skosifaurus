@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053481> a skos:Concept ;
+    skos:altLabel "Nienhagen"@en,
+        "Nienhagen"@fr,
+        "Nienhagen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075531> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordvNienhagen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nienhagen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058899> a skos:Concept ;
+    skos:altLabel "Wierzchlas"@en,
+        "Wierzchlas"@fr,
+        "Wierzchlas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039007> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZachoWierzchla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wierzchlas"@de .
+

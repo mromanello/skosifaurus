@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072473> a skos:Concept ;
+    skos:altLabel "Monte Grande"@en,
+        "Monte Grande"@fr,
+        "Monte Grande"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039269> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilZZ--RMonte Gra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte Grande"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020955> a skos:Concept ;
+    skos:altLabel "Wartberg"@en,
+        "Wartberg"@fr,
+        "Wartberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Wartberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wartberg"@de .
+

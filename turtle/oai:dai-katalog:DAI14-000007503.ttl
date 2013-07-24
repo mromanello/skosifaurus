@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007503> a skos:Concept ;
+    skos:altLabel "Arribas Palau, Antonio"@en,
+        "Arribas Palau, Antonio"@fr,
+        "Arribas Palau, Antonio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoArribas Palau, Antonio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arribas Palau, Antonio"@de .
+

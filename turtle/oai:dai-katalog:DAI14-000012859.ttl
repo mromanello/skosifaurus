@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012859> a skos:Concept ;
+    skos:altLabel "Stele"@pl,
+        "Steles"@en,
+        "Stèles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012856> ;
+    skos:hiddenLabel "yRGKArch04 - GeselReligStele" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stelen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046391> a skos:Concept ;
+    skos:altLabel "Saint-Bauzille-de-Montmel"@en,
+        "Saint-Bauzille-de-Montmel"@fr,
+        "Saint-Bauzille-de-Montmel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauSaint-Bau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Bauzille-de-Montmel"@de .
+

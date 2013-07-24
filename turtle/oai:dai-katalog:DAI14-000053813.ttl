@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053813> a skos:Concept ;
+    skos:altLabel "Gudendorf"@en,
+        "Gudendorf"@fr,
+        "Gudendorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075569> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeCuxhaGudendorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gudendorf"@de .
+

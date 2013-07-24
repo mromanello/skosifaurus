@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043092> a skos:Concept ;
+    skos:altLabel "Folklingen"@en,
+        "Folklingen"@fr,
+        "Folklingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038750> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMoselFolklinge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Folklingen"@de .
+

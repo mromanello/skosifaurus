@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053532> a skos:Concept ;
+    skos:altLabel "šckeritz"@en,
+        "šckeritz"@fr,
+        "šckeritz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075533> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklOstvošckeritz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "šckeritz"@de .
+

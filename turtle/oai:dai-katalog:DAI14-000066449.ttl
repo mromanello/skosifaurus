@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066449> a skos:Concept ;
+    skos:altLabel "Tătărăuca Nouă, raj. Donduşeni"@en,
+        "Tătărăuca Nouă, raj. Donduşeni"@fr,
+        "Tătărăuca Nouă, raj. Donduşeni"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaTătărăuca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tătărăuca Nouă, raj. Donduşeni"@de .
+

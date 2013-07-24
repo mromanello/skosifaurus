@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026283> a skos:Concept ;
+    skos:altLabel "Eichenzell 2005"@en,
+        "Eichenzell 2005"@fr,
+        "Eichenzell 2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstEichenzell 2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eichenzell 2005"@de .
+

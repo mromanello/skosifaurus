@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080878> a skos:Concept ;
+    skos:altLabel "Sajószöged"@en,
+        "Sajószöged"@fr,
+        "Sajószöged"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039083> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBorsoSajószöge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sajószöged"@de .
+

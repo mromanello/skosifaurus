@@ -1,0 +1,2276 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002147_Saalburg1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saalburg 1998" .
+
+<http://data.dainst.de/zenon/000002147_Saalburg2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saalburg 2000" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 1964" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 1974" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 1988" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 1989" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 2002" .
+
+<http://data.dainst.de/zenon/000002147_Saarbrücken2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saarbrücken 2003" .
+
+<http://data.dainst.de/zenon/000002147_Sabaudia2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sabaudia 2004" .
+
+<http://data.dainst.de/zenon/000002147_Sackville1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sackville 1984" .
+
+<http://data.dainst.de/zenon/000002147_Saerbeck1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saerbeck 1984" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Bertrand-de-Comminges1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Bertrand-de-Comminges 1994" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Bertrand-de-Comminges1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Bertrand-de-Comminges 1999" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Bertrand-de-Comminges2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Bertrand-de-Comminges 2004" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Cloud1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Cloud 1965" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Cloud1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Cloud 1995" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Cloud1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Cloud 1996" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Denis2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Denis 2002" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1973" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1975" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1982" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1983" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1989" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1996" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Etienne1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Etienne 1999" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Germain-en-Laye1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Germain-en-Laye 1990" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Germain-en-Laye1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Germain-en-Laye 1992" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Gilles1953-54> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Gilles 1953-54" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Riquier1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Riquier 1982" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Romain-en-Gal1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Romain-en-Gal 1998" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Rémy1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Rémy 1957" .
+
+<http://data.dainst.de/zenon/000002147_Saint-Vincent1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint-Vincent 1989" .
+
+<http://data.dainst.de/zenon/000002147_SaintAndrews2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint Andrews 2007" .
+
+<http://data.dainst.de/zenon/000002147_SaintPaul,Minn.1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint Paul, Minn. 1973" .
+
+<http://data.dainst.de/zenon/000002147_SaintPaul1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saint Paul 1963" .
+
+<http://data.dainst.de/zenon/000002147_Saintes1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saintes 1976" .
+
+<http://data.dainst.de/zenon/000002147_Saintes2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saintes 2003" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 1970" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 1974" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 1987" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 1993" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 1996" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 2006" .
+
+<http://data.dainst.de/zenon/000002147_Salamanca2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salamanca 2008" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1963" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1964" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1974" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1977" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1987" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1988" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1990" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1995" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1996" .
+
+<http://data.dainst.de/zenon/000002147_Salerno1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 1997" .
+
+<http://data.dainst.de/zenon/000002147_Salerno2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 2003" .
+
+<http://data.dainst.de/zenon/000002147_Salerno2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salerno 2004" .
+
+<http://data.dainst.de/zenon/000002147_Salzau,2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzau, 2006" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1970" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1973" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1983" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1986" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1988" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1995" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 1997" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2001" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2004" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2005" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2008" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2009" .
+
+<http://data.dainst.de/zenon/000002147_Salzburg2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salzburg 2010" .
+
+<http://data.dainst.de/zenon/000002147_Salò1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Salò 1975" .
+
+<http://data.dainst.de/zenon/000002147_Samara1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samara 1990" .
+
+<http://data.dainst.de/zenon/000002147_Samara1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samara 1991" .
+
+<http://data.dainst.de/zenon/000002147_Samara2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samara 2000" .
+
+<http://data.dainst.de/zenon/000002147_Samarkand1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samarkand 1972" .
+
+<http://data.dainst.de/zenon/000002147_Samarkand1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samarkand 1983" .
+
+<http://data.dainst.de/zenon/000002147_Samarkand1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samarkand 1986" .
+
+<http://data.dainst.de/zenon/000002147_Samsun1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Samsun 1988" .
+
+<http://data.dainst.de/zenon/000002147_SanAntonio1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Antonio 1978" .
+
+<http://data.dainst.de/zenon/000002147_SanAntonio1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Antonio 1986" .
+
+<http://data.dainst.de/zenon/000002147_SanBenedettodelTronto1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Benedetto del Tronto 1993" .
+
+<http://data.dainst.de/zenon/000002147_SanCipirello2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Cipirello 2006" .
+
+<http://data.dainst.de/zenon/000002147_SanDaniele1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Daniele 1977" .
+
+<http://data.dainst.de/zenon/000002147_SanDiego1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Diego 1995" .
+
+<http://data.dainst.de/zenon/000002147_SanDiego2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Diego 2001" .
+
+<http://data.dainst.de/zenon/000002147_SanDonatoValdiComino2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Donato Val di Comino 2006" .
+
+<http://data.dainst.de/zenon/000002147_SanFernando2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Fernando 2000" .
+
+<http://data.dainst.de/zenon/000002147_SanFernando2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Fernando 2003" .
+
+<http://data.dainst.de/zenon/000002147_SanFrancisco1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Francisco 1975" .
+
+<http://data.dainst.de/zenon/000002147_SanFrancisco1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Francisco 1981" .
+
+<http://data.dainst.de/zenon/000002147_SanFrancisco2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Francisco 2002" .
+
+<http://data.dainst.de/zenon/000002147_SanGalgano2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Galgano 2006" .
+
+<http://data.dainst.de/zenon/000002147_SanGinesio1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Ginesio 1990" .
+
+<http://data.dainst.de/zenon/000002147_SanGiovanniinGalilea1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Giovanni in Galilea 1985" .
+
+<http://data.dainst.de/zenon/000002147_SanGiovanniinPersiceto2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Giovanni in Persiceto 2003" .
+
+<http://data.dainst.de/zenon/000002147_SanLorenzoinBanale2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Lorenzo in Banale 2002" .
+
+<http://data.dainst.de/zenon/000002147_SanLorenzoinCampo2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Lorenzo in Campo 2008" .
+
+<http://data.dainst.de/zenon/000002147_SanMarcoinLamis1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Marco in Lamis 1984" .
+
+<http://data.dainst.de/zenon/000002147_SanMarino1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Marino 1993" .
+
+<http://data.dainst.de/zenon/000002147_SanMarino1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Marino 1995" .
+
+<http://data.dainst.de/zenon/000002147_SanMarino2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Marino 2008" .
+
+<http://data.dainst.de/zenon/000002147_SanMatteo1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Matteo 1979" .
+
+<http://data.dainst.de/zenon/000002147_SanMiniato1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Miniato 1983" .
+
+<http://data.dainst.de/zenon/000002147_SanPieroaSieve1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Piero a Sieve 1994" .
+
+<http://data.dainst.de/zenon/000002147_SanPietroinCasale1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Pietro in Casale 1990" .
+
+<http://data.dainst.de/zenon/000002147_SanSebastián1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Sebastián 1987" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1979" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1980" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1981" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1982" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1983" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1984" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1985" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1986" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1987" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1988" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1989" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1990" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1991" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1993" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1994" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1995" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1996" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 1998" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 2000" .
+
+<http://data.dainst.de/zenon/000002147_SanSevero2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Severo 2002" .
+
+<http://data.dainst.de/zenon/000002147_SanVincenzo1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Vincenzo 1983" .
+
+<http://data.dainst.de/zenon/000002147_SanVitoalTagliamento1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "San Vito al Tagliamento 1978" .
+
+<http://data.dainst.de/zenon/000002147_Sandbjerg1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sandbjerg 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sandbjerg2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sandbjerg 2007" .
+
+<http://data.dainst.de/zenon/000002147_Sankelmark2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankelmark 2008" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Peterburg1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Peterburg 1991" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Peterburg1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Peterburg 1992" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Peterburg1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Peterburg 1994" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Peterburg1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Peterburg 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Peterburg2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Peterburg 2000" .
+
+<http://data.dainst.de/zenon/000002147_Sankt-Petersburg2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt-Petersburg 2003" .
+
+<http://data.dainst.de/zenon/000002147_SanktPölten1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sankt Pölten 1992" .
+
+<http://data.dainst.de/zenon/000002147_SannicandroGarganico1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sannicandro Garganico 1995" .
+
+<http://data.dainst.de/zenon/000002147_SanseverinoMarche1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sanseverino Marche 1968" .
+
+<http://data.dainst.de/zenon/000002147_Sant'Angelod'Alife1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sant'Angelo d'Alife 1987" .
+
+<http://data.dainst.de/zenon/000002147_Sant'Antioco1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sant'Antioco 1986" .
+
+<http://data.dainst.de/zenon/000002147_Sant'Antioco1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sant'Antioco 1997" .
+
+<http://data.dainst.de/zenon/000002147_Sant'ArcangelodiRomagna1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sant'Arcangelo di Romagna 1983" .
+
+<http://data.dainst.de/zenon/000002147_SantaFe1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Fe 1973" .
+
+<http://data.dainst.de/zenon/000002147_SantaFe1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Fe 1982" .
+
+<http://data.dainst.de/zenon/000002147_SantaFe1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Fe 1996" .
+
+<http://data.dainst.de/zenon/000002147_SantaMariaCapuaVetere1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Maria Capua Vetere 1996" .
+
+<http://data.dainst.de/zenon/000002147_SantaMariaCapuaVetere1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Maria Capua Vetere 1998" .
+
+<http://data.dainst.de/zenon/000002147_SantaMariaCapuaVetere2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Maria Capua Vetere 2002" .
+
+<http://data.dainst.de/zenon/000002147_SantaMariaCapuaVetere2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Maria Capua Vetere 2003" .
+
+<http://data.dainst.de/zenon/000002147_SantaMariaCapuaVetere2011> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Maria Capua Vetere 2011" .
+
+<http://data.dainst.de/zenon/000002147_SantaPola2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santa Pola 2004" .
+
+<http://data.dainst.de/zenon/000002147_Santander1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santander 1970" .
+
+<http://data.dainst.de/zenon/000002147_Santander1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santander 1982" .
+
+<http://data.dainst.de/zenon/000002147_Santander1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santander 1989" .
+
+<http://data.dainst.de/zenon/000002147_Santander2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santander 2002" .
+
+<http://data.dainst.de/zenon/000002147_Santander2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santander 2004" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeChile1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Chile 1989" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeCompostela1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Compostela 1973" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeCompostela1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Compostela 1980" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeCompostela1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Compostela 1986" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeCompostela1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Compostela 1992" .
+
+<http://data.dainst.de/zenon/000002147_SantiagodeCompostela1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Santiago de Compostela 1995" .
+
+<http://data.dainst.de/zenon/000002147_Sarajevo1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarajevo 1964" .
+
+<http://data.dainst.de/zenon/000002147_Sarajevo1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarajevo 1966" .
+
+<http://data.dainst.de/zenon/000002147_Saratov2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saratov 2000" .
+
+<http://data.dainst.de/zenon/000002147_Saratov2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saratov 2003" .
+
+<http://data.dainst.de/zenon/000002147_Sardegna1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sardegna 1978" .
+
+<http://data.dainst.de/zenon/000002147_Sarmizegetusa2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarmizegetusa 2003" .
+
+<http://data.dainst.de/zenon/000002147_Sarrebourg1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarrebourg 1981" .
+
+<http://data.dainst.de/zenon/000002147_Sarreguemines1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarreguemines 1987" .
+
+<http://data.dainst.de/zenon/000002147_Sarsina2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarsina 2008" .
+
+<http://data.dainst.de/zenon/000002147_Sarteano2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarteano 2001" .
+
+<http://data.dainst.de/zenon/000002147_Sarzana1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sarzana 1998" .
+
+<http://data.dainst.de/zenon/000002147_Saskatoon1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saskatoon 1997" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1973" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1978" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1982" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1983" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1984" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1985" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1986" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1987" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1988" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1989" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1990" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1991" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sassari1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 1999" .
+
+<http://data.dainst.de/zenon/000002147_Sassari2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 2000" .
+
+<http://data.dainst.de/zenon/000002147_Sassari2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 2003" .
+
+<http://data.dainst.de/zenon/000002147_Sassari2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 2004" .
+
+<http://data.dainst.de/zenon/000002147_Sassari2009> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassari 2009" .
+
+<http://data.dainst.de/zenon/000002147_Sassnitz1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassnitz 1999" .
+
+<http://data.dainst.de/zenon/000002147_Sassoferrato1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassoferrato 1980" .
+
+<http://data.dainst.de/zenon/000002147_Sassoferrato1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassoferrato 1992" .
+
+<http://data.dainst.de/zenon/000002147_Sassoferrato1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sassoferrato 1998" .
+
+<http://data.dainst.de/zenon/000002147_Satu-Mare1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Satu-Mare 1990" .
+
+<http://data.dainst.de/zenon/000002147_Saturnia1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saturnia 1975" .
+
+<http://data.dainst.de/zenon/000002147_Saturnia1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Saturnia 1991" .
+
+<http://data.dainst.de/zenon/000002147_Savona1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Savona 1987" .
+
+<http://data.dainst.de/zenon/000002147_Scalea2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Scalea 2002" .
+
+<http://data.dainst.de/zenon/000002147_Scansano2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Scansano 2005" .
+
+<http://data.dainst.de/zenon/000002147_Schaffhausen1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schaffhausen 1979" .
+
+<http://data.dainst.de/zenon/000002147_Schaffhausen1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schaffhausen 1993" .
+
+<http://data.dainst.de/zenon/000002147_Schleswig1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schleswig 1991" .
+
+<http://data.dainst.de/zenon/000002147_Schleswig2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schleswig 2007" .
+
+<http://data.dainst.de/zenon/000002147_SchlossHohenkammer2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schloss Hohenkammer 2004" .
+
+<http://data.dainst.de/zenon/000002147_SchlossMaretsch1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schloss Maretsch 1989" .
+
+<http://data.dainst.de/zenon/000002147_Schluderns2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schluderns 2000" .
+
+<http://data.dainst.de/zenon/000002147_Schwerin1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schwerin 1976" .
+
+<http://data.dainst.de/zenon/000002147_Schwerte1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schwerte 1992" .
+
+<http://data.dainst.de/zenon/000002147_SchwäbischHall1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Schwäbisch Hall 1973" .
+
+<http://data.dainst.de/zenon/000002147_Sciacca1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sciacca 1998" .
+
+<http://data.dainst.de/zenon/000002147_Scolacium1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Scolacium 1996" .
+
+<http://data.dainst.de/zenon/000002147_Seattle1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Seattle 1982" .
+
+<http://data.dainst.de/zenon/000002147_Seattle1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Seattle 1993" .
+
+<http://data.dainst.de/zenon/000002147_Seclin1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Seclin 1985" .
+
+<http://data.dainst.de/zenon/000002147_Segovia1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Segovia 1974" .
+
+<http://data.dainst.de/zenon/000002147_Segovia1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Segovia 1995" .
+
+<http://data.dainst.de/zenon/000002147_Segovia2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Segovia 2001" .
+
+<http://data.dainst.de/zenon/000002147_Selargius1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Selargius 1985" .
+
+<http://data.dainst.de/zenon/000002147_Selargius1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Selargius 1986" .
+
+<http://data.dainst.de/zenon/000002147_Selargius1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Selargius 1987" .
+
+<http://data.dainst.de/zenon/000002147_SelvadiFasano1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Selva di Fasano 1980" .
+
+<http://data.dainst.de/zenon/000002147_Sens2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sens 2003" .
+
+<http://data.dainst.de/zenon/000002147_Septemvri1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Septemvri 1998" .
+
+<http://data.dainst.de/zenon/000002147_Septemvri1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Septemvri 1999" .
+
+<http://data.dainst.de/zenon/000002147_Sestino1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sestino 1983" .
+
+<http://data.dainst.de/zenon/000002147_Sestino1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sestino 1989" .
+
+<http://data.dainst.de/zenon/000002147_Setúbal1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Setúbal 1985" .
+
+<http://data.dainst.de/zenon/000002147_Sevastopol'1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevastopol' 1983" .
+
+<http://data.dainst.de/zenon/000002147_Sevastopol'1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevastopol' 1992" .
+
+<http://data.dainst.de/zenon/000002147_Sevastopol'1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevastopol' 1997" .
+
+<http://data.dainst.de/zenon/000002147_Sevastopol'2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevastopol' 2001" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1963" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1980" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1981" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1982" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1986" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1990" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1991" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1994" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 2000" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 2001" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 2003" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 2004" .
+
+<http://data.dainst.de/zenon/000002147_Sevilla2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sevilla 2006" .
+
+<http://data.dainst.de/zenon/000002147_Sezzate1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sezzate 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1970" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1973" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1977" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1980" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1984" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1986" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1989" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 1995" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 2000" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 2001" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 2002" .
+
+<http://data.dainst.de/zenon/000002147_Sheffield2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sheffield 2006" .
+
+<http://data.dainst.de/zenon/000002147_Shiraz1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Shiraz 1971" .
+
+<http://data.dainst.de/zenon/000002147_Siegen2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siegen 2005" .
+
+<http://data.dainst.de/zenon/000002147_Sien2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sien 2004" .
+
+<http://data.dainst.de/zenon/000002147_Siena1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1969" .
+
+<http://data.dainst.de/zenon/000002147_Siena1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1976" .
+
+<http://data.dainst.de/zenon/000002147_Siena1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1981" .
+
+<http://data.dainst.de/zenon/000002147_Siena1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1983" .
+
+<http://data.dainst.de/zenon/000002147_Siena1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1986" .
+
+<http://data.dainst.de/zenon/000002147_Siena1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1987" .
+
+<http://data.dainst.de/zenon/000002147_Siena1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1988" .
+
+<http://data.dainst.de/zenon/000002147_Siena1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1989" .
+
+<http://data.dainst.de/zenon/000002147_Siena1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1990" .
+
+<http://data.dainst.de/zenon/000002147_Siena1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1991" .
+
+<http://data.dainst.de/zenon/000002147_Siena1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1992" .
+
+<http://data.dainst.de/zenon/000002147_Siena1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1993" .
+
+<http://data.dainst.de/zenon/000002147_Siena1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1996" .
+
+<http://data.dainst.de/zenon/000002147_Siena1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 1998" .
+
+<http://data.dainst.de/zenon/000002147_Siena2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 2001" .
+
+<http://data.dainst.de/zenon/000002147_Siena2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 2004" .
+
+<http://data.dainst.de/zenon/000002147_Siena2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siena 2007" .
+
+<http://data.dainst.de/zenon/000002147_Signachi1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Signachi 1978" .
+
+<http://data.dainst.de/zenon/000002147_Siliana2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siliana 2004" .
+
+<http://data.dainst.de/zenon/000002147_Silistra1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Silistra 1969" .
+
+<http://data.dainst.de/zenon/000002147_Simferopol'1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Simferopol' 1988" .
+
+<http://data.dainst.de/zenon/000002147_Siphnos2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siphnos 2002" .
+
+<http://data.dainst.de/zenon/000002147_Siponto1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siponto 1973" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1961" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1965" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1967" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1968" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1969" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1971" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1975" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1976" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1977" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1979" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1981" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1983" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1984" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1985" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1987" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1989" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1992" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1995" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1996" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1997" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1998" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 1999" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 2000" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 2001" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 2003" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 2004" .
+
+<http://data.dainst.de/zenon/000002147_Siracusa2012> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Siracusa 2012" .
+
+<http://data.dainst.de/zenon/000002147_Sirmione1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sirmione 1994" .
+
+<http://data.dainst.de/zenon/000002147_Skara1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Skara 1983" .
+
+<http://data.dainst.de/zenon/000002147_Skopje1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Skopje 1977" .
+
+<http://data.dainst.de/zenon/000002147_Skopje1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Skopje 1987" .
+
+<http://data.dainst.de/zenon/000002147_Skopje1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Skopje 1989" .
+
+<http://data.dainst.de/zenon/000002147_SlavonskiBrod1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Slavonski Brod 1988" .
+
+<http://data.dainst.de/zenon/000002147_Slupsk1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Slupsk 1979" .
+
+<http://data.dainst.de/zenon/000002147_Smolenice1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Smolenice 1970" .
+
+<http://data.dainst.de/zenon/000002147_Smolenice1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Smolenice 1980" .
+
+<http://data.dainst.de/zenon/000002147_Smoljan1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Smoljan 1976" .
+
+<http://data.dainst.de/zenon/000002147_Smoljan1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Smoljan 1984" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1966" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1970" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1972" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1976" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1980" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1986" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1987" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1990" .
+
+<http://data.dainst.de/zenon/000002147_Sofia1992-93> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofia 1992-93" .
+
+<http://data.dainst.de/zenon/000002147_Sofija1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofija 1994" .
+
+<http://data.dainst.de/zenon/000002147_Sofija2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sofija 2000" .
+
+<http://data.dainst.de/zenon/000002147_Soissons1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Soissons 1993" .
+
+<http://data.dainst.de/zenon/000002147_Solin1894> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Solin 1894" .
+
+<http://data.dainst.de/zenon/000002147_Solin2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Solin 2003" .
+
+<http://data.dainst.de/zenon/000002147_Solothurn1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Solothurn 1996" .
+
+<http://data.dainst.de/zenon/000002147_Sora1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sora 1984" .
+
+<http://data.dainst.de/zenon/000002147_Sora1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sora 1985" .
+
+<http://data.dainst.de/zenon/000002147_Soria1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Soria 1967" .
+
+<http://data.dainst.de/zenon/000002147_Soria1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Soria 1993" .
+
+<http://data.dainst.de/zenon/000002147_Soria2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Soria 2001" .
+
+<http://data.dainst.de/zenon/000002147_Sorrento1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sorrento 1982" .
+
+<http://data.dainst.de/zenon/000002147_Sorrento1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sorrento 1984" .
+
+<http://data.dainst.de/zenon/000002147_Sorrento1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sorrento 1985" .
+
+<http://data.dainst.de/zenon/000002147_Sorrento2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sorrento 2007" .
+
+<http://data.dainst.de/zenon/000002147_Sousse1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sousse 1960" .
+
+<http://data.dainst.de/zenon/000002147_SouthShields1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "South Shields 1985" .
+
+<http://data.dainst.de/zenon/000002147_SouthShields1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "South Shields 1999" .
+
+<http://data.dainst.de/zenon/000002147_SouthShields2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "South Shields 2006" .
+
+<http://data.dainst.de/zenon/000002147_Southampton1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 1971" .
+
+<http://data.dainst.de/zenon/000002147_Southampton1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 1973" .
+
+<http://data.dainst.de/zenon/000002147_Southampton1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 1980" .
+
+<http://data.dainst.de/zenon/000002147_Southampton1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 1986" .
+
+<http://data.dainst.de/zenon/000002147_Southampton1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 1992" .
+
+<http://data.dainst.de/zenon/000002147_Southampton2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Southampton 2008" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1979" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1982" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1985" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1988" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1991" .
+
+<http://data.dainst.de/zenon/000002147_Sozopol1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sozopol 1994" .
+
+<http://data.dainst.de/zenon/000002147_Spalato1894> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spalato 1894" .
+
+<http://data.dainst.de/zenon/000002147_Spannocchia1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spannocchia 1995" .
+
+<http://data.dainst.de/zenon/000002147_Sparte1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sparte 1975" .
+
+<http://data.dainst.de/zenon/000002147_Sparte1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sparte 1988" .
+
+<http://data.dainst.de/zenon/000002147_Spello1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1973" .
+
+<http://data.dainst.de/zenon/000002147_Spello1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1975" .
+
+<http://data.dainst.de/zenon/000002147_Spello1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1976" .
+
+<http://data.dainst.de/zenon/000002147_Spello1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1981" .
+
+<http://data.dainst.de/zenon/000002147_Spello1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1982" .
+
+<http://data.dainst.de/zenon/000002147_Spello1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1983" .
+
+<http://data.dainst.de/zenon/000002147_Spello1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1985" .
+
+<http://data.dainst.de/zenon/000002147_Spello1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1987" .
+
+<http://data.dainst.de/zenon/000002147_Spello1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1991" .
+
+<http://data.dainst.de/zenon/000002147_Spello1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1993" .
+
+<http://data.dainst.de/zenon/000002147_Spello1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spello 1995" .
+
+<http://data.dainst.de/zenon/000002147_Spetses1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spetses 1998" .
+
+<http://data.dainst.de/zenon/000002147_Speyer1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Speyer 1969" .
+
+<http://data.dainst.de/zenon/000002147_Split1894> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1894" .
+
+<http://data.dainst.de/zenon/000002147_Split1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1970" .
+
+<http://data.dainst.de/zenon/000002147_Split1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1984" .
+
+<http://data.dainst.de/zenon/000002147_Split1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1992" .
+
+<http://data.dainst.de/zenon/000002147_Split1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1994" .
+
+<http://data.dainst.de/zenon/000002147_Split1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 1998" .
+
+<http://data.dainst.de/zenon/000002147_Split2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 2001" .
+
+<http://data.dainst.de/zenon/000002147_Split2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Split 2003" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1955> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1955" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1956> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1956" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1957> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1957" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1958" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1959> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1959" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1960" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1961> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1961" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1962" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1963" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1964" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1965" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1966> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1966" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1967" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1969" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1970" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1971" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1973" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1974" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1975" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1976" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1977" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1978" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1979" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1980" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1981" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1982" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1983" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1984" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1985" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1986" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1987" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1988" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1989" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1991" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1992" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1993" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1994" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1995" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1997" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 1999" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 2000" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 2001" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 2002" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 2008" .
+
+<http://data.dainst.de/zenon/000002147_Spoleto2010> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Spoleto 2010" .
+
+<http://data.dainst.de/zenon/000002147_Squillace1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Squillace 1983" .
+
+<http://data.dainst.de/zenon/000002147_Squillace1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Squillace 1996" .
+
+<http://data.dainst.de/zenon/000002147_Sredetz2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sredetz 2007" .
+
+<http://data.dainst.de/zenon/000002147_St.Catharines1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Catharines 1986" .
+
+<http://data.dainst.de/zenon/000002147_St.Catherines1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Catherines 1971" .
+
+<http://data.dainst.de/zenon/000002147_St.Cloud1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Cloud 1997" .
+
+<http://data.dainst.de/zenon/000002147_St.Florian2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Florian 2003" .
+
+<http://data.dainst.de/zenon/000002147_St.Louis2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Louis 2002" .
+
+<http://data.dainst.de/zenon/000002147_St.Vincent1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St. Vincent 1987" .
+
+<http://data.dainst.de/zenon/000002147_StAlbans1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St Albans 1989" .
+
+<http://data.dainst.de/zenon/000002147_StAndrews1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St Andrews 1990" .
+
+<http://data.dainst.de/zenon/000002147_StAndrews1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St Andrews 1992" .
+
+<http://data.dainst.de/zenon/000002147_StAndrews1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St Andrews 1994" .
+
+<http://data.dainst.de/zenon/000002147_StAndrews1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "St Andrews 1998" .
+
+<http://data.dainst.de/zenon/000002147_Stabiae2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stabiae 2000" .
+
+<http://data.dainst.de/zenon/000002147_Stalinabad1956> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stalinabad 1956" .
+
+<http://data.dainst.de/zenon/000002147_Stanford2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stanford 2000" .
+
+<http://data.dainst.de/zenon/000002147_Stanford2001> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stanford 2001" .
+
+<http://data.dainst.de/zenon/000002147_Stanford2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stanford 2002" .
+
+<http://data.dainst.de/zenon/000002147_Stanford2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stanford 2008" .
+
+<http://data.dainst.de/zenon/000002147_StaraZagora1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stara Zagora 1984" .
+
+<http://data.dainst.de/zenon/000002147_Stavanger2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stavanger 2003" .
+
+<http://data.dainst.de/zenon/000002147_Steinförde1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Steinförde 1986" .
+
+<http://data.dainst.de/zenon/000002147_Stemnitsa2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stemnitsa 2008" .
+
+<http://data.dainst.de/zenon/000002147_Stendal1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stendal 1981" .
+
+<http://data.dainst.de/zenon/000002147_Stendal1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stendal 1985" .
+
+<http://data.dainst.de/zenon/000002147_Stendal1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stendal 1998" .
+
+<http://data.dainst.de/zenon/000002147_Stendal2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stendal 2002" .
+
+<http://data.dainst.de/zenon/000002147_Steyr1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Steyr 1980" .
+
+<http://data.dainst.de/zenon/000002147_Stirling1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stirling 1979" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1960" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1968> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1968" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1970> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1970" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1973" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1982" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1984" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1985" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1992" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1993" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 1997" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 2000" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 2003" .
+
+<http://data.dainst.de/zenon/000002147_Stockholm2007> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stockholm 2007" .
+
+<http://data.dainst.de/zenon/000002147_Stralsund1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stralsund 1962" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1956> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1956" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1958" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1960> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1960" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1962> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1962" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1964> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1964" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1965> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1965" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1967> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1967" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1971" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1972> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1972" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1973> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1973" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1974" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1975" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1977> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1977" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1979" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1980" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1981" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1983" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1984" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1985" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1986" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1987" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1988" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1989" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1990" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1991" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1992" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1993" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1994" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1995" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1996" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1997> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1997" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 1998" .
+
+<http://data.dainst.de/zenon/000002147_Strasbourg2000> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Strasbourg 2000" .
+
+<http://data.dainst.de/zenon/000002147_Straubing2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Straubing 2006" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1959> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1959" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1978> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1978" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1979> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1979" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1980> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1980" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1984" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1985" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1987" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1988> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1988" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1990> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1990" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1993> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1993" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1996> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1996" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 1999" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 2002" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart2005> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 2005" .
+
+<http://data.dainst.de/zenon/000002147_Stuttgart2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Stuttgart 2008" .
+
+<http://data.dainst.de/zenon/000002147_Sulmona1958> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sulmona 1958" .
+
+<http://data.dainst.de/zenon/000002147_Sulmona1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sulmona 1989" .
+
+<http://data.dainst.de/zenon/000002147_Supraśl1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Supraśl 1994" .
+
+<http://data.dainst.de/zenon/000002147_Susa1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Susa 1975" .
+
+<http://data.dainst.de/zenon/000002147_Sussex2002> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sussex 2002" .
+
+<http://data.dainst.de/zenon/000002147_Suzdal'1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Suzdal' 1989" .
+
+<http://data.dainst.de/zenon/000002147_Svištov1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Svištov 1984" .
+
+<http://data.dainst.de/zenon/000002147_Svištov1989> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Svištov 1989" .
+
+<http://data.dainst.de/zenon/000002147_Svištov1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Svištov 1998" .
+
+<http://data.dainst.de/zenon/000002147_Swansea1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Swansea 1981" .
+
+<http://data.dainst.de/zenon/000002147_Swansea1998> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Swansea 1998" .
+
+<http://data.dainst.de/zenon/000002147_Sydney1981> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 1981" .
+
+<http://data.dainst.de/zenon/000002147_Sydney1985> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 1985" .
+
+<http://data.dainst.de/zenon/000002147_Sydney1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 1992" .
+
+<http://data.dainst.de/zenon/000002147_Sydney1999> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 1999" .
+
+<http://data.dainst.de/zenon/000002147_Sydney2004> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 2004" .
+
+<http://data.dainst.de/zenon/000002147_Sydney2006> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sydney 2006" .
+
+<http://data.dainst.de/zenon/000002147_Szeged1969> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szeged 1969" .
+
+<http://data.dainst.de/zenon/000002147_Szeged1971> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szeged 1971" .
+
+<http://data.dainst.de/zenon/000002147_Szeged1983> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szeged 1983" .
+
+<http://data.dainst.de/zenon/000002147_Szeged1984> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szeged 1984" .
+
+<http://data.dainst.de/zenon/000002147_Szeged1994> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szeged 1994" .
+
+<http://data.dainst.de/zenon/000002147_Szolnok1991> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szolnok 1991" .
+
+<http://data.dainst.de/zenon/000002147_Szombathely1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Szombathely 1982" .
+
+<http://data.dainst.de/zenon/000002147_Székesfehérvár1974> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Székesfehérvár 1974" .
+
+<http://data.dainst.de/zenon/000002147_Székesfehérvár1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Székesfehérvár 1976" .
+
+<http://data.dainst.de/zenon/000002147_Székesfehérvár1982> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Székesfehérvár 1982" .
+
+<http://data.dainst.de/zenon/000002147_Székesfehérvár1992> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Székesfehérvár 1992" .
+
+<http://data.dainst.de/zenon/000002147_Sète1975> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sète 1975" .
+
+<http://data.dainst.de/zenon/000002147_Sèvres1987> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sèvres 1987" .
+
+<http://data.dainst.de/zenon/000002147_Södingberg2008> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Södingberg 2008" .
+
+<http://data.dainst.de/zenon/000002147_Sögel1963> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sögel 1963" .
+
+<http://data.dainst.de/zenon/000002147_Sønderborg2003> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Sønderborg 2003" .
+
+<http://data.dainst.de/zenon/000002147_Šibenik1995> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Šibenik 1995" .
+
+<http://data.dainst.de/zenon/000002147_Šumen1976> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Šumen 1976" .
+
+<http://data.dainst.de/zenon/000002147_Šumen1986> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002147> ;
+    skos:prefLabel "Šumen 1986" .
+
+<http://data.dainst.de/zenon/000002147> a skos:Concept ;
+    skos:altLabel "congresses and meetings S"@en,
+        "congressi, convegni, giornate di studio S"@it,
+        "congrès et journées d'études S"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002135> ;
+    skos:hiddenLabel "xPraxKongrS" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kongresse und Tagungen S"@de .
+

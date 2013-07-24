@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022429> a skos:Concept ;
+    skos:altLabel "Speusippos <Atheniensis>"@en,
+        "Speusippos <Atheniensis>"@fr,
+        "Speusippos <Atheniensis>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoSpeusippos <Atheniensis>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Speusippos <Atheniensis>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054124> a skos:Concept ;
+    skos:altLabel "Amt Neuhaus"@en,
+        "Amt Neuhaus"@fr,
+        "Amt Neuhaus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075553> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeLünebAmt Neuha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amt Neuhaus"@de .
+

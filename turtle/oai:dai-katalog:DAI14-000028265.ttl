@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028265> a skos:Concept ;
+    skos:altLabel "Kassel, Hessisches Landesmuseum"@en,
+        "Kassel, Hessisches Landesmuseum"@fr,
+        "Kassel, Hessisches Landesmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKassel, Hessisches Landesmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kassel, Hessisches Landesmuseum"@de .
+

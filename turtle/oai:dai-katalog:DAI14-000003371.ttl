@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003371> a skos:Concept ;
+    skos:altLabel "locks and keys"@en,
+        "serrature e chiavi"@it,
+        "serrures et clés"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003335> ;
+    skos:hiddenLabel "xGerSchloss" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schlösser und Schlüssel"@de .
+

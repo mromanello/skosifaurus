@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040090> a skos:Concept ;
+    skos:altLabel "Olgerdiget, Sønderjylland"@en,
+        "Olgerdiget, Sønderjylland"@fr,
+        "Olgerdiget, Sønderjylland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemOlgerdige" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Olgerdiget, Sønderjylland"@de .
+

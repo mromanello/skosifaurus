@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042705> a skos:Concept ;
+    skos:altLabel "Ivry-Bords-de-Seine"@en,
+        "Ivry-Bords-de-Seine"@fr,
+        "Ivry-Bords-de-Seine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038740> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dVal-dIvry-Bord" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivry-Bords-de-Seine"@de .
+

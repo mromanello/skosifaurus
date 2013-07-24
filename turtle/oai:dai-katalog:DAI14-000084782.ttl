@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084782> a skos:Concept ;
+    skos:altLabel "Isneauville"@en,
+        "Isneauville"@fr,
+        "Isneauville"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038734> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineIsneauville" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isneauville"@de .
+

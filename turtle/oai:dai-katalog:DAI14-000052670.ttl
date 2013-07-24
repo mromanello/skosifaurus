@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052670> a skos:Concept ;
+    skos:altLabel "Hünfeld-Mackenzell"@en,
+        "Hünfeld-Mackenzell"@fr,
+        "Hünfeld-Mackenzell"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075488> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseFuldaHünfeld-M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hünfeld-Mackenzell"@de .
+

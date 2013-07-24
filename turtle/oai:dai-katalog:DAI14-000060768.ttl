@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060768> a skos:Concept ;
+    skos:altLabel "Książenice"@en,
+        "Książenice"@fr,
+        "Książenice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039026> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskSlaskKsiążenic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Książenice"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071128> a skos:Concept ;
+    skos:altLabel "Castello di Perolla"@en,
+        "Castello di Perolla"@fr,
+        "Castello di Perolla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039205> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaGrossCastello" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castello di Perolla"@de .
+

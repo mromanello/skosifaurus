@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079806> a skos:Concept ;
+    skos:altLabel "Apsorus"@en,
+        "Apsorus"@fr,
+        "Apsorus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatApsorus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Apsorus"@de .
+

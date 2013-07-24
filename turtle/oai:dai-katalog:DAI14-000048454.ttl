@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048454> a skos:Concept ;
+    skos:altLabel "Winchcombe"@en,
+        "Winchcombe"@fr,
+        "Winchcombe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077689> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaGloucWinchcomb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winchcombe"@de .
+

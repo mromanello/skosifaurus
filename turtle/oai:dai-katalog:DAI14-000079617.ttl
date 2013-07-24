@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079617> a skos:Concept ;
+    skos:altLabel "NovýŠaldorf, okr. Znojmo"@en,
+        "NovýŠaldorf, okr. Znojmo"@fr,
+        "NovýŠaldorf, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravNovýŠaldo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "NovýŠaldorf, okr. Znojmo"@de .
+

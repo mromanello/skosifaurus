@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029545> a skos:Concept ;
+    skos:altLabel "Kalisz-Zawodzie, Archäologisches Freilichtmuseum"@en,
+        "Kalisz-Zawodzie, Archäologisches Freilichtmuseum"@fr,
+        "Kalisz-Zawodzie, Archäologisches Freilichtmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKalisz-Zawodzie, Archäologisches Freilichtmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalisz-Zawodzie, Archäologisches Freilichtmuseum"@de .
+

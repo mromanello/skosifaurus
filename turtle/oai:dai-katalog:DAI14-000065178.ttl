@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065178> a skos:Concept ;
+    skos:altLabel "Sajolád"@en,
+        "Sajolád"@fr,
+        "Sajolád"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039083> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBorsoSajolád" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sajolád"@de .
+

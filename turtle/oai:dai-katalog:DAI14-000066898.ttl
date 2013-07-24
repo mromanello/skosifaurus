@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066898> a skos:Concept ;
+    skos:altLabel "Sînnicolau Român, jud. Bihor"@en,
+        "Sînnicolau Român, jud. Bihor"@fr,
+        "Sînnicolau Român, jud. Bihor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatSînnicola" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sînnicolau Român, jud. Bihor"@de .
+

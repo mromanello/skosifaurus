@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072065> a skos:Concept ;
+    skos:altLabel "Genzano di Lucània"@en,
+        "Genzano di Lucània"@fr,
+        "Genzano di Lucània"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039245> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisBasilPotenGenzano d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Genzano di Lucània"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004819> a skos:Concept ;
+    skos:altLabel "geografia ed etnografia (1956 - 1997)"@it,
+        "geography and ethnology (1956 - 1997)"@en,
+        "géographie et éthnographie (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004816> ;
+    skos:hiddenLabel "xÄgAntWissGeogr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geographie und Völkerkunde (1956 - 1997)"@de .
+

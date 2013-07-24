@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015320> a skos:Concept ;
+    skos:altLabel "Beakers/bowls"@en,
+        "Gobelets"@fr,
+        "Puchary"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015317> ;
+    skos:hiddenLabel "yRGKArch09 - FundeGefäsMetalBeche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Becher/Schalen"@de .
+

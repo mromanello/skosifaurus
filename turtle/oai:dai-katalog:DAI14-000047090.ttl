@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047090> a skos:Concept ;
+    skos:altLabel "East Molesey"@en,
+        "East Molesey"@fr,
+        "East Molesey"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077709> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSurreEast Mole" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "East Molesey"@de .
+

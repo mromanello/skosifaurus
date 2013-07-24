@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035225> a skos:Concept ;
+    skos:altLabel "Bergen 1983"@en,
+        "Bergen 1983"@fr,
+        "Bergen 1983"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBergen 1983" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bergen 1983"@de .
+

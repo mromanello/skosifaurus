@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036781> a skos:Concept ;
+    skos:altLabel "Nantes 1999"@en,
+        "Nantes 1999"@fr,
+        "Nantes 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrNantes 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nantes 1999"@de .
+

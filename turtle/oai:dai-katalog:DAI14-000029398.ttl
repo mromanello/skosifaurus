@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029398> a skos:Concept ;
+    skos:altLabel "Bobrza, Muzeum Budownictwa Przemysłowego"@en,
+        "Bobrza, Muzeum Budownictwa Przemysłowego"@fr,
+        "Bobrza, Muzeum Budownictwa Przemysłowego"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBobrza, Muzeum Budownictwa Przemysłowego" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bobrza, Muzeum Budownictwa Przemysłowego"@de .
+

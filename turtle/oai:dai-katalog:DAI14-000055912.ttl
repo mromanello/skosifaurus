@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055912> a skos:Concept ;
+    skos:altLabel "Saar-Mosel-Raum"@en,
+        "Saar-Mosel-Raum"@fr,
+        "Saar-Mosel-Raum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038945> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinZZ--RSaar-Mose" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saar-Mosel-Raum"@de .
+

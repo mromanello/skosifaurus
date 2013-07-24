@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049978> a skos:Concept ;
+    skos:altLabel "Meersburg"@en,
+        "Meersburg"@fr,
+        "Meersburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075330> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBodenMeersburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meersburg"@de .
+

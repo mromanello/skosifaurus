@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078536> a skos:Concept ;
+    skos:altLabel "Beattock"@en,
+        "Beattock"@fr,
+        "Beattock"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078503> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotDumfrBeattock" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beattock"@de .
+

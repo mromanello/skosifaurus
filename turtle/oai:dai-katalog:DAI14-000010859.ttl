@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010859> a skos:Concept ;
+    skos:altLabel "Brinkmann, August"@en,
+        "Brinkmann, August"@fr,
+        "Brinkmann, August"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBrinkmann, August" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brinkmann, August"@de .
+

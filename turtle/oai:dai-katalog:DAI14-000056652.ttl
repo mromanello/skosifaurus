@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056652> a skos:Concept ;
+    skos:altLabel "Lübeck-Moisling"@en,
+        "Lübeck-Moisling"@fr,
+        "Lübeck-Moisling"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038977> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleLübecLübeck-Mo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lübeck-Moisling"@de .
+

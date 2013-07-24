@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052688> a skos:Concept ;
+    skos:altLabel "Laubach-Freienseen"@en,
+        "Laubach-Freienseen"@fr,
+        "Laubach-Freienseen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075489> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseGiessLaubach-F" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Laubach-Freienseen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007486> a skos:Concept ;
+    skos:altLabel "Anghelescu, Niţă"@en,
+        "Anghelescu, Niţă"@fr,
+        "Anghelescu, Niţă"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAnghelescu, Niţă" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anghelescu, Niţă"@de .
+

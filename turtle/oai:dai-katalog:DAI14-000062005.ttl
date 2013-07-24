@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062005> a skos:Concept ;
+    skos:altLabel "Buseno"@en,
+        "Buseno"@fr,
+        "Buseno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039043> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweGraubBuseno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buseno"@de .
+

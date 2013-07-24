@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058459> a skos:Concept ;
+    skos:altLabel "Pürgg-Burgstall, VB Liezen"@en,
+        "Pürgg-Burgstall, VB Liezen"@fr,
+        "Pürgg-Burgstall, VB Liezen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteiePürgg-Bur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pürgg-Burgstall, VB Liezen"@de .
+

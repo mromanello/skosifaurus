@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017388> a skos:Concept ;
+    skos:altLabel "Buckles with plate"@en,
+        "Dwuczesciowe garnitury pasa"@pl,
+        "Garnitures de ceinture avec contre-plaque"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017382> ;
+    skos:hiddenLabel "yRGKArch11 - FundeKleidGürteZweit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zweiteilige Gürtelgarnituren"@de .
+

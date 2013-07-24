@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041156> a skos:Concept ;
+    skos:altLabel "Tore, Gotland"@en,
+        "Tore, Gotland"@fr,
+        "Tore, Gotland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Tore, Got" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tore, Gotland"@de .
+

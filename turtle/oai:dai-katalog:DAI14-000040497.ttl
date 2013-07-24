@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040497> a skos:Concept ;
+    skos:altLabel "Baerum, Akershus"@en,
+        "Baerum, Akershus"@fr,
+        "Baerum, Akershus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweBaerum, A" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baerum, Akershus"@de .
+

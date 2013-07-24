@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028886> a skos:Concept ;
+    skos:altLabel "Roma, Museo Palazzo Venezia"@en,
+        "Roma, Museo Palazzo Venezia"@fr,
+        "Roma, Museo Palazzo Venezia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Museo Palazzo Venezia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Museo Palazzo Venezia"@de .
+

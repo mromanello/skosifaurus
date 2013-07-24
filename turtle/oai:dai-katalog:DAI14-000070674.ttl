@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070674> a skos:Concept ;
+    skos:altLabel "Acqua Fredda, com. Bedallo"@en,
+        "Acqua Fredda, com. Bedallo"@fr,
+        "Acqua Fredda, com. Bedallo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039188> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentTrentAcqua Fre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Acqua Fredda, com. Bedallo"@de .
+

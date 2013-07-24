@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046802> a skos:Concept ;
+    skos:altLabel "Bullock Down"@en,
+        "Bullock Down"@fr,
+        "Bullock Down"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077710> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSusseBullock D" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bullock Down"@de .
+

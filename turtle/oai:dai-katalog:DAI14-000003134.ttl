@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003134> a skos:Concept ;
+    skos:altLabel "di legno"@it,
+        "sarcophages de bois"@fr,
+        "wooden sarcophagi"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003092> ;
+    skos:hiddenLabel "xSarkHolz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holzsarkophage"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042166> a skos:Concept ;
+    skos:altLabel "Saint-Julien de la Liègue"@en,
+        "Saint-Julien de la Liègue"@fr,
+        "Saint-Julien de la Liègue"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038726> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEureSaint-Jul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Julien de la Liègue"@de .
+

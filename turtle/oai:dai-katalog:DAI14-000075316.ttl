@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075316> a skos:Concept ;
+    skos:altLabel "Dubník, okr. Nové Zámky"@en,
+        "Dubník, okr. Nové Zámky"@fr,
+        "Dubník, okr. Nové Zámky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaDubník, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dubník, okr. Nové Zámky"@de .
+

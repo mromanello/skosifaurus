@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027380> a skos:Concept ;
+    skos:altLabel "Tübingen/München/Moskau 1993-94"@en,
+        "Tübingen/München/Moskau 1993-94"@fr,
+        "Tübingen/München/Moskau 1993-94"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstTübingen/München/Moskau 1993-94" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tübingen/München/Moskau 1993-94"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038683> a skos:Concept ;
+    skos:altLabel "Thierhaupten 2008"@en,
+        "Thierhaupten 2008"@fr,
+        "Thierhaupten 2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrThierhaupten 2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thierhaupten 2008"@de .
+

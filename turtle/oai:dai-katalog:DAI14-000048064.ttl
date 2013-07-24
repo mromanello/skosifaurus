@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048064> a skos:Concept ;
+    skos:altLabel "Shipton Hill"@en,
+        "Shipton Hill"@fr,
+        "Shipton Hill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077686> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDorseShipton H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Shipton Hill"@de .
+

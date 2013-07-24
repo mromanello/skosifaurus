@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021847> a skos:Concept ;
+    skos:altLabel "Karol <von Angoulême>"@en,
+        "Karol <von Angoulême>"@fr,
+        "Karol <von Angoulême>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKarol <von Angoulême>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karol <von Angoulême>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033759> a skos:Concept ;
+    skos:altLabel "Charles <France, Roi, III.>"@en,
+        "Charles <France, Roi, III.>"@fr,
+        "Charles <France, Roi, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoCharles <France, Roi, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Charles <France, Roi, III.>"@de .
+

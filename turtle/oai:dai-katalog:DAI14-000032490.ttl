@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032490> a skos:Concept ;
+    skos:altLabel "Donja Brnjica-Gornja Stražava"@en,
+        "Donja Brnjica-Gornja Stražava"@fr,
+        "Donja Brnjica-Gornja Stražava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Donja Brnjica-Gornja Stražava" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Donja Brnjica-Gornja Stražava"@de .
+

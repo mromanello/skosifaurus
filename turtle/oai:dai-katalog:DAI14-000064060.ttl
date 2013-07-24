@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064060> a skos:Concept ;
+    skos:altLabel "Ustí nad Orlicí"@en,
+        "Ustí nad Orlicí"@fr,
+        "Ustí nad Orlicí"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyUstí nad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ustí nad Orlicí"@de .
+

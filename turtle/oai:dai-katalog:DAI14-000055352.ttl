@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055352> a skos:Concept ;
+    skos:altLabel "Brohl-Lützing"@en,
+        "Brohl-Lützing"@fr,
+        "Brohl-Lützing"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038909> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAhrweBrohl-Lüt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brohl-Lützing"@de .
+

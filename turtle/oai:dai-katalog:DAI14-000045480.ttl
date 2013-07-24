@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045480> a skos:Concept ;
+    skos:altLabel "Loubens, Le Portel"@en,
+        "Loubens, Le Portel"@fr,
+        "Loubens, Le Portel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038812> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitAriègLoubens," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Loubens, Le Portel"@de .
+

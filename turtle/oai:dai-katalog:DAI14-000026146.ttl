@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026146> a skos:Concept ;
+    skos:altLabel "Bruxelles 1976"@en,
+        "Bruxelles 1976"@fr,
+        "Bruxelles 1976"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBruxelles 1976" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruxelles 1976"@de .
+

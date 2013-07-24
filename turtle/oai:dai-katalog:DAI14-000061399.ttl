@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061399> a skos:Concept ;
+    skos:altLabel "Dobryń Mały"@en,
+        "Dobryń Mały"@fr,
+        "Dobryń Mały"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelDobryń Ma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dobryń Mały"@de .
+

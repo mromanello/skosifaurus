@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058551> a skos:Concept ;
+    skos:altLabel "Finkenberg, VB Schwaz"@en,
+        "Finkenberg, VB Schwaz"@fr,
+        "Finkenberg, VB Schwaz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolFinkenber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Finkenberg, VB Schwaz"@de .
+

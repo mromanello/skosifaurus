@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026598> a skos:Concept ;
+    skos:altLabel "Lattes 1989"@en,
+        "Lattes 1989"@fr,
+        "Lattes 1989"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstLattes 1989" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lattes 1989"@de .
+

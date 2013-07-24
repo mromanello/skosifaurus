@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008691> a skos:Concept ;
+    skos:altLabel "Isaeva, V. I."@en,
+        "Isaeva, V. I."@fr,
+        "Isaeva, V. I."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoIsaeva, V. I." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isaeva, V. I."@de .
+

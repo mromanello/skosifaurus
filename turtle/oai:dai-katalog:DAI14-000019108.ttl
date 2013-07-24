@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019108> a skos:Concept ;
+    skos:altLabel "Bone/horn tools"@en,
+        "Narzedzia kosciane/rogowe"@pl,
+        "Outils en os/corne"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019102> ;
+    skos:hiddenLabel "yRGKArch14 - FundeGerätKnoch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Knochen-/Horngeräte"@de .
+

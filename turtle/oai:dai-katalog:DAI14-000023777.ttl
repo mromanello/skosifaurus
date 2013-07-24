@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023777> a skos:Concept ;
+    skos:altLabel "Alardossus"@en,
+        "Alardossus"@fr,
+        "Alardossus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015937> ;
+    skos:hiddenLabel "yRGKArch09 - GeselReligGötteAlardossus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alardossus"@de .
+

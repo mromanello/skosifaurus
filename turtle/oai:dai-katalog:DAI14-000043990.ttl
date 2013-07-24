@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043990> a skos:Concept ;
+    skos:altLabel "Massif Armoricain"@en,
+        "Massif Armoricain"@fr,
+        "Massif Armoricain"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RMassif Ar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Massif Armoricain"@de .
+

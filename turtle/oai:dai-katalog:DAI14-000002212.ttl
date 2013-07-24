@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002212> a skos:Concept ;
+    skos:altLabel "Etats Unis d'Amérique"@fr,
+        "Stati Uniti d'America"@it,
+        "United States of America"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002180> ;
+    skos:hiddenLabel "xMusSlgMusLandUSA" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vereinigte Staaten von Amerika"@de .
+

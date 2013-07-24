@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055019> a skos:Concept ;
+    skos:altLabel "Jüchen-Priesterath"@en,
+        "Jüchen-Priesterath"@fr,
+        "Jüchen-Priesterath"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038888> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrNeussJüchen-Pr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jüchen-Priesterath"@de .
+

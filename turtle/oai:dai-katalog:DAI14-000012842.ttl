@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012842> a skos:Concept ;
+    skos:altLabel "Graves inside graves"@en,
+        "Groby w jaskiniach"@pl,
+        "Tombes en grottes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012841> ;
+    skos:hiddenLabel "yRGKArch04 - GräbeGrabbGräbe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gräber in Höhlen"@de .
+

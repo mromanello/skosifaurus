@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007479> a skos:Concept ;
+    skos:altLabel "Anderson, Samuel"@en,
+        "Anderson, Samuel"@fr,
+        "Anderson, Samuel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAnderson, Samuel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anderson, Samuel"@de .
+

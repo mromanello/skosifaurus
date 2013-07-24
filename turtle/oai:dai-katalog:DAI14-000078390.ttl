@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078390> a skos:Concept ;
+    skos:altLabel "Chittoe"@en,
+        "Chittoe"@fr,
+        "Chittoe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077712> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWiltsChittoe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chittoe"@de .
+

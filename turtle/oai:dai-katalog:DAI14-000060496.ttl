@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060496> a skos:Concept ;
+    skos:altLabel "Liegnitz"@en,
+        "Liegnitz"@fr,
+        "Liegnitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoLiegnitz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Liegnitz"@de .
+

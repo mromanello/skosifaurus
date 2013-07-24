@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056884> a skos:Concept ;
+    skos:altLabel "Haarhausen"@en,
+        "Haarhausen"@fr,
+        "Haarhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075606> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriIlm-KHaarhause" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haarhausen"@de .
+

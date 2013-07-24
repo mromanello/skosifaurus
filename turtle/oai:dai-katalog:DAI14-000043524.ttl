@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043524> a skos:Concept ;
+    skos:altLabel "La Roche aux Fées"@en,
+        "La Roche aux Fées"@fr,
+        "La Roche aux Fées"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038760> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIlle-La Roche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Roche aux Fées"@de .
+

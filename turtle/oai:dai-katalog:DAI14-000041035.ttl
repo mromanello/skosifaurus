@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041035> a skos:Concept ;
+    skos:altLabel "Noraskog, Västmanland"@en,
+        "Noraskog, Västmanland"@fr,
+        "Noraskog, Västmanland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Noraskog," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Noraskog, Västmanland"@de .
+

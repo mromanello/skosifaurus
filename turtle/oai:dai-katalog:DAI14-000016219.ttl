@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016219> a skos:Concept ;
+    skos:altLabel "Cranes"@en,
+        "Grues"@fr,
+        "Zurawie/dzwigi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016216> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsHandwMaschKräne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kräne"@de .
+

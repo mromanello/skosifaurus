@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022184> a skos:Concept ;
+    skos:altLabel "Petronius Asellio, Cnaeus"@en,
+        "Petronius Asellio, Cnaeus"@fr,
+        "Petronius Asellio, Cnaeus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPetronius Asellio, Cnaeus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petronius Asellio, Cnaeus"@de .
+

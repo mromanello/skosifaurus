@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041937> a skos:Concept ;
+    skos:altLabel "Grapfontaine, com. Neufchâteau"@en,
+        "Grapfontaine, com. Neufchâteau"@fr,
+        "Grapfontaine, com. Neufchâteau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038720> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLuxemGrapfonta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grapfontaine, com. Neufchâteau"@de .
+

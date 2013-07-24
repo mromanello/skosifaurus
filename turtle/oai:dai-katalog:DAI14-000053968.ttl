@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053968> a skos:Concept ;
+    skos:altLabel "Hannover-Wülferode"@en,
+        "Hannover-Wülferode"@fr,
+        "Hannover-Wülferode"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075559> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHannoHannover-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hannover-Wülferode"@de .
+

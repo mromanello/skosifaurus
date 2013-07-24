@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007626> a skos:Concept ;
+    skos:altLabel "Beresford, Maurice"@en,
+        "Beresford, Maurice"@fr,
+        "Beresford, Maurice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBeresford, Maurice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beresford, Maurice"@de .
+

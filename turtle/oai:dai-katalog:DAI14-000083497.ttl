@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083497> a skos:Concept ;
+    skos:altLabel "Roding-Strahlfeld"@en,
+        "Roding-Strahlfeld"@fr,
+        "Roding-Strahlfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075383> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerChamRoding-St" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roding-Strahlfeld"@de .
+

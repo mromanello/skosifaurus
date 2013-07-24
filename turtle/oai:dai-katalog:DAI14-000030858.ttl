@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030858> a skos:Concept ;
+    skos:altLabel "Freiburg, Institut für Ur- und Frühgeschichte"@en,
+        "Freiburg, Institut für Ur- und Frühgeschichte"@fr,
+        "Freiburg, Institut für Ur- und Frühgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiFreiburg, Institut für Ur- und Frühgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Freiburg, Institut für Ur- und Frühgeschichte"@de .
+

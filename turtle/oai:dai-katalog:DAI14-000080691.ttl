@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080691> a skos:Concept ;
+    skos:altLabel "Aubechies-Beloeil"@en,
+        "Aubechies-Beloeil"@fr,
+        "Aubechies-Beloeil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaAubechies" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aubechies-Beloeil"@de .
+

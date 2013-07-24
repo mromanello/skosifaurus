@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074352> a skos:Concept ;
+    skos:altLabel "Tell Deir 'Alla"@en,
+        "Tell Deir 'Alla"@fr,
+        "Tell Deir 'Alla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeTell Deir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tell Deir 'Alla"@de .
+

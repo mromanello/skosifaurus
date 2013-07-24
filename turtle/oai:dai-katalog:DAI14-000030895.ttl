@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030895> a skos:Concept ;
+    skos:altLabel "Kiel, AMLA, Arbeitsgruppe für maritime und limnische Archäologie der U"@en,
+        "Kiel, AMLA, Arbeitsgruppe für maritime und limnische Archäologie der U"@fr,
+        "Kiel, AMLA, Arbeitsgruppe für maritime und limnische Archäologie der U"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiKiel, AMLA, Arbeitsgruppe für maritime und limnische Archäologie der U" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kiel, AMLA, Arbeitsgruppe für maritime und limnische Archäologie der U"@de .
+

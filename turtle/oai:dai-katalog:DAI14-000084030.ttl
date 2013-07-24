@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084030> a skos:Concept ;
+    skos:altLabel "Altenthann"@en,
+        "Altenthann"@fr,
+        "Altenthann"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000079130> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNürnbAltenthan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altenthann"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060424> a skos:Concept ;
+    skos:altLabel "Breslau"@en,
+        "Breslau"@fr,
+        "Breslau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoBreslau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Breslau"@de .
+

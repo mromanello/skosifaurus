@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018076> a skos:Concept ;
+    skos:altLabel "Céramique de Pingsdorf"@fr,
+        "Pingsdorf ware"@en,
+        "Wyroby typu Pingsdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018070> ;
+    skos:hiddenLabel "yRGKArch12 - FundeGefäsKeramWarenPings" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pingsdorfer Ware"@de .
+

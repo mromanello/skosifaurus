@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050126> a skos:Concept ;
+    skos:altLabel "Eutingen-Rohrdorf"@en,
+        "Eutingen-Rohrdorf"@fr,
+        "Eutingen-Rohrdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075338> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenFreudEutingen-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eutingen-Rohrdorf"@de .
+

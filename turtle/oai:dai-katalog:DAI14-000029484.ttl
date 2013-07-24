@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029484> a skos:Concept ;
+    skos:altLabel "Gap, Musée de Gap"@en,
+        "Gap, Musée de Gap"@fr,
+        "Gap, Musée de Gap"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGap, Musée de Gap" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gap, Musée de Gap"@de .
+

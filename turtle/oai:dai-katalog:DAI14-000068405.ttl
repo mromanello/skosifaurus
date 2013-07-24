@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068405> a skos:Concept ;
+    skos:altLabel "Subotica"@en,
+        "Subotica"@fr,
+        "Subotica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiSubotica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Subotica"@de .
+

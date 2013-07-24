@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028813> a skos:Concept ;
+    skos:altLabel "Ravenna, Museo Nazionale"@en,
+        "Ravenna, Museo Nazionale"@fr,
+        "Ravenna, Museo Nazionale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRavenna, Museo Nazionale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ravenna, Museo Nazionale"@de .
+

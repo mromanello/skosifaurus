@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021474> a skos:Concept ;
+    skos:altLabel "Eunomius <Cyzicenus>"@en,
+        "Eunomius <Cyzicenus>"@fr,
+        "Eunomius <Cyzicenus>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEunomius <Cyzicenus>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eunomius <Cyzicenus>"@de .
+

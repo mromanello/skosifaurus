@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026888> a skos:Concept ;
+    skos:altLabel "Namur 1996/97"@en,
+        "Namur 1996/97"@fr,
+        "Namur 1996/97"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNamur 1996/97" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Namur 1996/97"@de .
+

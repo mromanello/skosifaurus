@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027835> a skos:Concept ;
+    skos:altLabel "Cambridge, Harvard University Museums"@en,
+        "Cambridge, Harvard University Museums"@fr,
+        "Cambridge, Harvard University Museums"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCambridge, Harvard University Museums" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cambridge, Harvard University Museums"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040511> a skos:Concept ;
+    skos:altLabel "Botne, Rogaland"@en,
+        "Botne, Rogaland"@fr,
+        "Botne, Rogaland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweBotne, Ro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Botne, Rogaland"@de .
+

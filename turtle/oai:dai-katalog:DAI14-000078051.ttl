@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078051> a skos:Concept ;
+    skos:altLabel "Donosy"@en,
+        "Donosy"@fr,
+        "Donosy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętDonosy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Donosy"@de .
+

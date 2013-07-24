@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041600> a skos:Concept ;
+    skos:altLabel "Ronquières"@en,
+        "Ronquières"@fr,
+        "Ronquières"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaRonquière" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ronquières"@de .
+

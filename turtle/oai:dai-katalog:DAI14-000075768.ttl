@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075768> a skos:Concept ;
+    skos:altLabel "Hawłowice Górne"@en,
+        "Hawłowice Górne"@fr,
+        "Hawłowice Górne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039031> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopPodkaHawłowice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hawłowice Górne"@de .
+

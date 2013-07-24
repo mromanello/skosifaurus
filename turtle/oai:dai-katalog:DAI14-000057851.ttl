@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057851> a skos:Concept ;
+    skos:altLabel "Maglern, Gde. Arnoldstein, VB Villach Land"@en,
+        "Maglern, Gde. Arnoldstein, VB Villach Land"@fr,
+        "Maglern, Gde. Arnoldstein, VB Villach Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntMaglern," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maglern, Gde. Arnoldstein, VB Villach Land"@de .
+

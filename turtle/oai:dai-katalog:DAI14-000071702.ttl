@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071702> a skos:Concept ;
+    skos:altLabel "Borgo San Martino"@en,
+        "Borgo San Martino"@fr,
+        "Borgo San Martino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039231> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioViterBorgo San" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borgo San Martino"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070521> a skos:Concept ;
+    skos:altLabel "Burguiso, com. Malles Venosta"@en,
+        "Burguiso, com. Malles Venosta"@fr,
+        "Burguiso, com. Malles Venosta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039187> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentBolzaBurguiso," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burguiso, com. Malles Venosta"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003061> a skos:Concept ;
+    skos:altLabel "Melian and Locrian reliefs"@en,
+        "melici e locridi"@it,
+        "méliens et locriens"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003050> ;
+    skos:hiddenLabel "xPlastRelMel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "melische und lokrische Reliefs"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073899> a skos:Concept ;
+    skos:altLabel "Cehegín"@en,
+        "Cehegín"@fr,
+        "Cehegín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039361> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMurciMurciCehegín" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cehegín"@de .
+

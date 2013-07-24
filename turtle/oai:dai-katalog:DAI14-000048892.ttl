@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048892> a skos:Concept ;
+    skos:altLabel "Kelso, Roxburghshire"@en,
+        "Kelso, Roxburghshire"@fr,
+        "Kelso, Roxburghshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078504> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotBordeKelso, Ro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kelso, Roxburghshire"@de .
+

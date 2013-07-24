@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020941> a skos:Concept ;
+    skos:altLabel "Volyno-Podol'skaja"@en,
+        "Volyno-Podol'skaja"@fr,
+        "Volyno-Podol'skaja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Volyno-Podol'skaja" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Volyno-Podol'skaja"@de .
+

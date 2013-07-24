@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054660> a skos:Concept ;
+    skos:altLabel "Jülich-Bourheim"@en,
+        "Jülich-Bourheim"@fr,
+        "Jülich-Bourheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075632> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrDürenJülich-Bo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jülich-Bourheim"@de .
+

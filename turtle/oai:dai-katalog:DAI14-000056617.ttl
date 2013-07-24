@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056617> a skos:Concept ;
+    skos:altLabel "Wennbüttel"@en,
+        "Wennbüttel"@fr,
+        "Wennbüttel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038973> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleDithmWennbütte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wennbüttel"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007722> a skos:Concept ;
+    skos:altLabel "Bottacin, Nicola"@en,
+        "Bottacin, Nicola"@fr,
+        "Bottacin, Nicola"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBottacin, Nicola" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bottacin, Nicola"@de .
+

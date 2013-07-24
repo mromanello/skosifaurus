@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062243> a skos:Concept ;
+    skos:altLabel "Lavertezzo"@en,
+        "Lavertezzo"@fr,
+        "Lavertezzo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039052> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweTessiLavertezz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lavertezzo"@de .
+

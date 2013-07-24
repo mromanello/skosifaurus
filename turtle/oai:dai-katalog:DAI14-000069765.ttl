@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069765> a skos:Concept ;
+    skos:altLabel "Venegono Inferiore"@en,
+        "Venegono Inferiore"@fr,
+        "Venegono Inferiore"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039155> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaVaresVenegono" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Venegono Inferiore"@de .
+

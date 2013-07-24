@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058527> a skos:Concept ;
+    skos:altLabel "Aldrans, VB Innsbruck-Land"@en,
+        "Aldrans, VB Innsbruck-Land"@fr,
+        "Aldrans, VB Innsbruck-Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolAldrans," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aldrans, VB Innsbruck-Land"@de .
+

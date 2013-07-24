@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049069> a skos:Concept ;
+    skos:altLabel "Kinross"@en,
+        "Kinross"@fr,
+        "Kinross"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078508> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotTaysiKinross" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kinross"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028963> a skos:Concept ;
+    skos:altLabel "Schaffhausen, Museum zu Allerheiligen"@en,
+        "Schaffhausen, Museum zu Allerheiligen"@fr,
+        "Schaffhausen, Museum zu Allerheiligen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSchaffhausen, Museum zu Allerheiligen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schaffhausen, Museum zu Allerheiligen"@de .
+

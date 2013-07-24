@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069776> a skos:Concept ;
+    skos:altLabel "Gremiasco"@en,
+        "Gremiasco"@fr,
+        "Gremiasco"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039157> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoAlessGremiasco" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gremiasco"@de .
+

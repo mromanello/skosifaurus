@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080833> a skos:Concept ;
+    skos:altLabel "Velika Gorica-Šepkovčica"@en,
+        "Velika Gorica-Šepkovčica"@fr,
+        "Velika Gorica-Šepkovčica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatVelika Go" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Velika Gorica-Šepkovčica"@de .
+

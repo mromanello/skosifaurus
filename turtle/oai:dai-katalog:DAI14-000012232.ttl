@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012232> a skos:Concept ;
+    skos:altLabel "Pouchet, Georges"@en,
+        "Pouchet, Georges"@fr,
+        "Pouchet, Georges"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPouchet, Georges" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pouchet, Georges"@de .
+

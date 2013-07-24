@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028862> a skos:Concept ;
+    skos:altLabel "Roma, Gabinetto Nazionale delle Stampe di Roma"@en,
+        "Roma, Gabinetto Nazionale delle Stampe di Roma"@fr,
+        "Roma, Gabinetto Nazionale delle Stampe di Roma"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Gabinetto Nazionale delle Stampe di Roma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Gabinetto Nazionale delle Stampe di Roma"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012318> a skos:Concept ;
+    skos:altLabel "Jones, Gwenllian Vaughan"@en,
+        "Jones, Gwenllian Vaughan"@fr,
+        "Jones, Gwenllian Vaughan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoJones, Gwenllian Vaughan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jones, Gwenllian Vaughan"@de .
+

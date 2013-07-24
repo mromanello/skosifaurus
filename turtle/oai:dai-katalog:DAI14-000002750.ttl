@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002750> a skos:Concept ;
+    skos:altLabel "arc, porte monumentale, tétrapylon"@fr,
+        "arch, monumental city gate, tetrapylon"@en,
+        "arco, porta monumentale, tetrapilo"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002737> ;
+    skos:hiddenLabel "xArchitKgBautypBog" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bogen, Prunktor, Tetrapylon"@de .
+

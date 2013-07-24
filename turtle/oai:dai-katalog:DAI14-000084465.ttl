@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084465> a skos:Concept ;
+    skos:altLabel "Schmid, Wolfgang"@en,
+        "Schmid, Wolfgang"@fr,
+        "Schmid, Wolfgang"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSchmid, Wolfgang" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schmid, Wolfgang"@de .
+

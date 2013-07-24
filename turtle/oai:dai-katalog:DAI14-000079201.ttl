@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079201> a skos:Concept ;
+    skos:altLabel "Saint-Hilaire"@en,
+        "Saint-Hilaire"@fr,
+        "Saint-Hilaire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038730> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOrneSaint-Hil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Hilaire"@de .
+

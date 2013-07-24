@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067220> a skos:Concept ;
+    skos:altLabel "Gura Canliei, jud. Constanţa"@en,
+        "Gura Canliei, jud. Constanţa"@fr,
+        "Gura Canliei, jud. Constanţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenGura Canl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gura Canliei, jud. Constanţa"@de .
+

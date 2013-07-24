@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080439> a skos:Concept ;
+    skos:altLabel "Dakhleh"@en,
+        "Dakhleh"@fr,
+        "Dakhleh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075137> ;
+    skos:hiddenLabel "zTopogAfrikNordaÄgyptDakhleh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dakhleh"@de .
+

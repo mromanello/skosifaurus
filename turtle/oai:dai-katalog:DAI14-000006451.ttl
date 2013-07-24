@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006451> a skos:Concept ;
+    skos:altLabel "Hausmann, Ulrich"@en,
+        "Hausmann, Ulrich"@fr,
+        "Hausmann, Ulrich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHausmann, Ulrich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hausmann, Ulrich"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010526> a skos:Concept ;
+    skos:altLabel "Gdańsk, Towarzystwo Przyrodnicze"@en,
+        "Gdańsk, Towarzystwo Przyrodnicze"@fr,
+        "Gdańsk, Towarzystwo Przyrodnicze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiGdańsk, Towarzystwo Przyrodnicze" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gdańsk, Towarzystwo Przyrodnicze"@de .
+

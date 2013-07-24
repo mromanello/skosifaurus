@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012400> a skos:Concept ;
+    skos:altLabel "Seetzen, Ulrich Jasper"@en,
+        "Seetzen, Ulrich Jasper"@fr,
+        "Seetzen, Ulrich Jasper"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSeetzen, Ulrich Jasper" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Seetzen, Ulrich Jasper"@de .
+

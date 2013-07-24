@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046921> a skos:Concept ;
+    skos:altLabel "Chipping Ongar"@en,
+        "Chipping Ongar"@fr,
+        "Chipping Ongar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077688> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaEssexChipping" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chipping Ongar"@de .
+

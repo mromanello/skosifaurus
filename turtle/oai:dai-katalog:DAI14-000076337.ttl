@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076337> a skos:Concept ;
+    skos:altLabel "Lopik"@en,
+        "Lopik"@fr,
+        "Lopik"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038860> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeUtrecLopik" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lopik"@de .
+

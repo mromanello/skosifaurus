@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021215> a skos:Concept ;
+    skos:altLabel "Baebius Atticus"@en,
+        "Baebius Atticus"@fr,
+        "Baebius Atticus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoBaebius Atticus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baebius Atticus"@de .
+

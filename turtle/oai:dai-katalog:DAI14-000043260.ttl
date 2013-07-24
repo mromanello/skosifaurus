@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043260> a skos:Concept ;
+    skos:altLabel "Réguisheim"@en,
+        "Réguisheim"@fr,
+        "Réguisheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038752> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacHaut-Réguishei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Réguisheim"@de .
+

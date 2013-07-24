@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074438> a skos:Concept ;
+    skos:altLabel "Qal'at Sem'an"@en,
+        "Qal'at Sem'an"@fr,
+        "Qal'at Sem'an"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000074492> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrieQal'at Se" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Qal'at Sem'an"@de .
+

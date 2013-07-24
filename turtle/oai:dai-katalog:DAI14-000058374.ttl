@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058374> a skos:Concept ;
+    skos:altLabel "Fürstenfeld, VB Fürstenfeld"@en,
+        "Fürstenfeld, VB Fürstenfeld"@fr,
+        "Fürstenfeld, VB Fürstenfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieFürstenfe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fürstenfeld, VB Fürstenfeld"@de .
+

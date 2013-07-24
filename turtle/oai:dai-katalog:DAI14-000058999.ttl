@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058999> a skos:Concept ;
+    skos:altLabel "Rowy"@en,
+        "Rowy"@fr,
+        "Rowy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorRowy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rowy"@de .
+

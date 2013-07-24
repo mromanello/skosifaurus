@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009415> a skos:Concept ;
+    skos:altLabel "Oboldueva, T. G."@en,
+        "Oboldueva, T. G."@fr,
+        "Oboldueva, T. G."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoOboldueva, T. G." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oboldueva, T. G."@de .
+

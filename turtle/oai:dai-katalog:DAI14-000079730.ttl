@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079730> a skos:Concept ;
+    skos:altLabel "Moos"@en,
+        "Moos"@fr,
+        "Moos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075393> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDeggeMoos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moos"@de .
+

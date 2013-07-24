@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082572> a skos:Concept ;
+    skos:altLabel "Gelsenkirchen-Buer"@en,
+        "Gelsenkirchen-Buer"@fr,
+        "Gelsenkirchen-Buer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075638> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrGelseGelsenkir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gelsenkirchen-Buer"@de .
+

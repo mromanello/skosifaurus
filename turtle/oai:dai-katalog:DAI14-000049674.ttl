@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049674> a skos:Concept ;
+    skos:altLabel "Ven-Zelderheide"@en,
+        "Ven-Zelderheide"@fr,
+        "Ven-Zelderheide"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038856> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeLimbuVen-Zelde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ven-Zelderheide"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011754> a skos:Concept ;
+    skos:altLabel "Svoboda, Bedřich"@en,
+        "Svoboda, Bedřich"@fr,
+        "Svoboda, Bedřich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSvoboda, Bedřich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Svoboda, Bedřich"@de .
+

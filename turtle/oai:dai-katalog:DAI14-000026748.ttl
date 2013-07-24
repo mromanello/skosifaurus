@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026748> a skos:Concept ;
+    skos:altLabel "Magdeburg/Braunschweig 1996"@en,
+        "Magdeburg/Braunschweig 1996"@fr,
+        "Magdeburg/Braunschweig 1996"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstMagdeburg/Braunschweig 1996" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Magdeburg/Braunschweig 1996"@de .
+

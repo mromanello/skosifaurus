@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026069> a skos:Concept ;
+    skos:altLabel "Biesheim 2001"@en,
+        "Biesheim 2001"@fr,
+        "Biesheim 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBiesheim 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Biesheim 2001"@de .
+

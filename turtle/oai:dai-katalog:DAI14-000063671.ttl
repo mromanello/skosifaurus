@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063671> a skos:Concept ;
+    skos:altLabel "Kopisty, okr. Litoměřice"@en,
+        "Kopisty, okr. Litoměřice"@fr,
+        "Kopisty, okr. Litoměřice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKopisty," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kopisty, okr. Litoměřice"@de .
+

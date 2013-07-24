@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049313> a skos:Concept ;
+    skos:altLabel "Thornhill, Co. Derry"@en,
+        "Thornhill, Co. Derry"@fr,
+        "Thornhill, Co. Derry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077477> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossNordiDerryThornhill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thornhill, Co. Derry"@de .
+

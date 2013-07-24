@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040531> a skos:Concept ;
+    skos:altLabel "Frebergsvik, Vestfold"@en,
+        "Frebergsvik, Vestfold"@fr,
+        "Frebergsvik, Vestfold"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweFrebergsv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frebergsvik, Vestfold"@de .
+

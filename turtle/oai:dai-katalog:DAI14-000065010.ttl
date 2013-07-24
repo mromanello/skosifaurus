@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065010> a skos:Concept ;
+    skos:altLabel "Keszthely-Fenékpuszta"@en,
+        "Keszthely-Fenékpuszta"@fr,
+        "Keszthely-Fenékpuszta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaKeszthely" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keszthely-Fenékpuszta"@de .
+

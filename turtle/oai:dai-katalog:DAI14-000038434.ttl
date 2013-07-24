@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038434> a skos:Concept ;
+    skos:altLabel "Freiburg (Schweiz) 1976"@en,
+        "Freiburg (Schweiz) 1976"@fr,
+        "Freiburg (Schweiz) 1976"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrFreiburg (Schweiz) 1976" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Freiburg (Schweiz) 1976"@de .
+

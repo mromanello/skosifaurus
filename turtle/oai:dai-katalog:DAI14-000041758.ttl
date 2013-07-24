@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041758> a skos:Concept ;
+    skos:altLabel "Dilsen"@en,
+        "Dilsen"@fr,
+        "Dilsen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038718> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLimbuDilsen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dilsen"@de .
+

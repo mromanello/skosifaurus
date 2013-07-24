@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082766> a skos:Concept ;
+    skos:altLabel "Döffingen"@en,
+        "Döffingen"@fr,
+        "Döffingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075332> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBöbliDöffingen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Döffingen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045848> a skos:Concept ;
+    skos:altLabel "La Lede du Gurp"@en,
+        "La Lede du Gurp"@fr,
+        "La Lede du Gurp"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038817> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitGironLa Lede d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Lede du Gurp"@de .
+

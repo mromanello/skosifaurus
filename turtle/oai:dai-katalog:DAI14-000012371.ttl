@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012371> a skos:Concept ;
+    skos:altLabel "Kunze, Max"@en,
+        "Kunze, Max"@fr,
+        "Kunze, Max"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKunze, Max" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kunze, Max"@de .
+

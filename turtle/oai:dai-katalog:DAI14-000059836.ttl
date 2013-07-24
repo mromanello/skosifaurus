@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059836> a skos:Concept ;
+    skos:altLabel "Tarnowo Pałuckie"@en,
+        "Tarnowo Pałuckie"@fr,
+        "Tarnowo Pałuckie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039016> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkWielkTarnowo P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tarnowo Pałuckie"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030604> a skos:Concept ;
+    skos:altLabel "Grossbritannien, National Trust"@en,
+        "Grossbritannien, National Trust"@fr,
+        "Grossbritannien, National Trust"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiGrossbritannien, National Trust" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossbritannien, National Trust"@de .
+

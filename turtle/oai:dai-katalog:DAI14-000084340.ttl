@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084340> a skos:Concept ;
+    skos:altLabel "Oberlinxweiler"@en,
+        "Oberlinxweiler"@fr,
+        "Oberlinxweiler"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038938> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinSanktOberlinxweiler" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oberlinxweiler"@de .
+

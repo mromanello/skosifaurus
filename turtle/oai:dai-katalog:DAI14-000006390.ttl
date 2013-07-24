@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006390> a skos:Concept ;
+    skos:altLabel "Glodariu, Ioan"@en,
+        "Glodariu, Ioan"@fr,
+        "Glodariu, Ioan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsGlodariu, Ioan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Glodariu, Ioan"@de .
+

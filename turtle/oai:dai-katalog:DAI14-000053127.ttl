@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053127> a skos:Concept ;
+    skos:altLabel "Kröpelin"@en,
+        "Kröpelin"@fr,
+        "Kröpelin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075522> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklBad DKröpelin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kröpelin"@de .
+

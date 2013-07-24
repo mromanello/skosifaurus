@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073414> a skos:Concept ;
+    skos:altLabel "San Esteban de Gormaz"@en,
+        "San Esteban de Gormaz"@fr,
+        "San Esteban de Gormaz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039333> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiSoriaSan Esteb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Esteban de Gormaz"@de .
+

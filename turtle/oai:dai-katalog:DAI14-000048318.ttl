@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048318> a skos:Concept ;
+    skos:altLabel "Upper Clatford"@en,
+        "Upper Clatford"@fr,
+        "Upper Clatford"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077690> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHampsUpper Cla" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Upper Clatford"@de .
+

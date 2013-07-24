@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083465> a skos:Concept ;
+    skos:altLabel "Eichenbirkig"@en,
+        "Eichenbirkig"@fr,
+        "Eichenbirkig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075379> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerBayreEichenbir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eichenbirkig"@de .
+

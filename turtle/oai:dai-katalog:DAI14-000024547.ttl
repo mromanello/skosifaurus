@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024547> a skos:Concept ;
+    skos:altLabel "Via Domitiana"@en,
+        "Via Domitiana"@fr,
+        "Via Domitiana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016130> ;
+    skos:hiddenLabel "yRGKArch09 - WirtsVerkeLandwStrasVia Domitiana" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Via Domitiana"@de .
+

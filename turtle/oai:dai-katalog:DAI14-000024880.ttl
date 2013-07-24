@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024880> a skos:Concept ;
+    skos:altLabel "Michael (Erzengel)"@en,
+        "Michael (Erzengel)"@fr,
+        "Michael (Erzengel)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016887> ;
+    skos:hiddenLabel "yRGKArch10 - GeselReligReligChrisHeiliMichael (Erzengel)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Michael (Erzengel)"@de .
+

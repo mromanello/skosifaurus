@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040582> a skos:Concept ;
+    skos:altLabel "Kolstø, Rogaland"@en,
+        "Kolstø, Rogaland"@fr,
+        "Kolstø, Rogaland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweKolstø, R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kolstø, Rogaland"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050203> a skos:Concept ;
+    skos:altLabel "Niedernhall-Waldzimmern"@en,
+        "Niedernhall-Waldzimmern"@fr,
+        "Niedernhall-Waldzimmern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075343> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHohenNiedernha" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niedernhall-Waldzimmern"@de .
+

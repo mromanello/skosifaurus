@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027785> a skos:Concept ;
+    skos:altLabel "Brixen, Diözesanmuseum"@en,
+        "Brixen, Diözesanmuseum"@fr,
+        "Brixen, Diözesanmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBrixen, Diözesanmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brixen, Diözesanmuseum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066710> a skos:Concept ;
+    skos:altLabel "Ilişua, jud. Bistriţa-Năsăud"@en,
+        "Ilişua, jud. Bistriţa-Năsăud"@fr,
+        "Ilişua, jud. Bistriţa-Năsăud"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatIlişua, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ilişua, jud. Bistriţa-Năsăud"@de .
+

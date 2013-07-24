@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079014> a skos:Concept ;
+    skos:altLabel "Mikol'cy, raj. Mjadel', obl. Minsk"@en,
+        "Mikol'cy, raj. Mjadel', obl. Minsk"@fr,
+        "Mikol'cy, raj. Mjadel', obl. Minsk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarMikol'cy," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mikol'cy, raj. Mjadel', obl. Minsk"@de .
+

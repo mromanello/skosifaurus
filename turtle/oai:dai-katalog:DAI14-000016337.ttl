@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016337> a skos:Concept ;
+    skos:altLabel "Latin paleography"@en,
+        "Paleografia lacinska"@pl,
+        "Paléographie latine"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016335> ;
+    skos:hiddenLabel "yRGKArch09 - HistoPaläoLatei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lateinische Paläographie"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016628> a skos:Concept ;
+    skos:altLabel "Bâtiments singulaires"@fr,
+        "Poszczególne budynki"@pl,
+        "Single buildings"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016621> ;
+    skos:hiddenLabel "yRGKArch10 - BefunBauweBefesEinze" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Einzelne Bauten"@de .
+

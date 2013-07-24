@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081342> a skos:Concept ;
+    skos:altLabel "Pitinum Pisaurense"@en,
+        "Pitinum Pisaurense"@fr,
+        "Pitinum Pisaurense"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039219> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchMacerPitinum P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pitinum Pisaurense"@de .
+

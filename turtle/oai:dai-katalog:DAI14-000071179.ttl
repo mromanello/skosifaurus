@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071179> a skos:Concept ;
+    skos:altLabel "San Quirico, Elba"@en,
+        "San Quirico, Elba"@fr,
+        "San Quirico, Elba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039206> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaLivorSan Quiri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Quirico, Elba"@de .
+

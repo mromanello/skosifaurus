@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048088> a skos:Concept ;
+    skos:altLabel "Snetterton"@en,
+        "Snetterton"@fr,
+        "Snetterton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077699> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorfoSnetterto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Snetterton"@de .
+

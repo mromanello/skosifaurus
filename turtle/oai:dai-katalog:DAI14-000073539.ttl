@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073539> a skos:Concept ;
+    skos:altLabel "Mola Alta de Serelles"@en,
+        "Mola Alta de Serelles"@fr,
+        "Mola Alta de Serelles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039344> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenAlicaMola Alta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mola Alta de Serelles"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050178> a skos:Concept ;
+    skos:altLabel "Ilsfeld"@en,
+        "Ilsfeld"@fr,
+        "Ilsfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075342> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeilbIlsfeld" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ilsfeld"@de .
+

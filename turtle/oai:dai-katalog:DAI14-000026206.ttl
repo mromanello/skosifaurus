@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026206> a skos:Concept ;
+    skos:altLabel "Celle 1953"@en,
+        "Celle 1953"@fr,
+        "Celle 1953"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstCelle 1953" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Celle 1953"@de .
+

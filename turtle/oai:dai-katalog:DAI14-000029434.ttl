@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029434> a skos:Concept ;
+    skos:altLabel "Castello Sforzesco, Museo Artistico Municipale"@en,
+        "Castello Sforzesco, Museo Artistico Municipale"@fr,
+        "Castello Sforzesco, Museo Artistico Municipale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCastello Sforzesco, Museo Artistico Municipale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castello Sforzesco, Museo Artistico Municipale"@de .
+

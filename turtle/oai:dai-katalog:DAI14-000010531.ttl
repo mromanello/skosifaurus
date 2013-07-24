@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010531> a skos:Concept ;
+    skos:altLabel "Görres-Gesellschaft"@en,
+        "Görres-Gesellschaft"@fr,
+        "Görres-Gesellschaft"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiGörres-Gesellschaft" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Görres-Gesellschaft"@de .
+

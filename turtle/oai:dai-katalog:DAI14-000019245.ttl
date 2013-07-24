@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019245> a skos:Concept ;
+    skos:altLabel "Economy organisation/models"@en,
+        "Mode d'organisation économique/modèles"@fr,
+        "Modele gospodarcze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019244> ;
+    skos:hiddenLabel "yRGKArch14 - WirtsWirts" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wirtschaftsformen/Modelle"@de .
+

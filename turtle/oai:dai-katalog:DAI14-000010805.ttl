@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010805> a skos:Concept ;
+    skos:altLabel "Gisevius, Karl Eduard"@en,
+        "Gisevius, Karl Eduard"@fr,
+        "Gisevius, Karl Eduard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGisevius, Karl Eduard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gisevius, Karl Eduard"@de .
+

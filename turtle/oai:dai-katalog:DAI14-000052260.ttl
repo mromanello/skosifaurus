@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052260> a skos:Concept ;
+    skos:altLabel "Altreetz"@en,
+        "Altreetz"@fr,
+        "Altreetz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075475> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandMärkiAltreetz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altreetz"@de .
+

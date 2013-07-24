@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031606> a skos:Concept ;
+    skos:altLabel "Kákosy, László"@en,
+        "Kákosy, László"@fr,
+        "Kákosy, László"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliKákosy, László" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kákosy, László"@de .
+

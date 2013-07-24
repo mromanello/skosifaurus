@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028704> a skos:Concept ;
+    skos:altLabel "Pamplona, Museo de Navarra"@en,
+        "Pamplona, Museo de Navarra"@fr,
+        "Pamplona, Museo de Navarra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPamplona, Museo de Navarra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pamplona, Museo de Navarra"@de .
+

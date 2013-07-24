@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083367> a skos:Concept ;
+    skos:altLabel "Górna Grupa"@en,
+        "Górna Grupa"@fr,
+        "Górna Grupa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039009> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorKujawGórna Gru" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Górna Grupa"@de .
+

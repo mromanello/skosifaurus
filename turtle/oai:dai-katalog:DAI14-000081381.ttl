@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081381> a skos:Concept ;
+    skos:altLabel "Sennecé-lès-Mâcon"@en,
+        "Sennecé-lès-Mâcon"@fr,
+        "Sennecé-lès-Mâcon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038779> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgSaôneSennecé-l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sennecé-lès-Mâcon"@de .
+

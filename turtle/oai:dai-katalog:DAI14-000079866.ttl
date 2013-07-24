@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079866> a skos:Concept ;
+    skos:altLabel "Ashbourne"@en,
+        "Ashbourne"@fr,
+        "Ashbourne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077684> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDerbyAshbourne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ashbourne"@de .
+

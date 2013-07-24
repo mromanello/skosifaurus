@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042203> a skos:Concept ;
+    skos:altLabel "Bavinchove"@en,
+        "Bavinchove"@fr,
+        "Bavinchove"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038728> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dNordBavinchov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bavinchove"@de .
+

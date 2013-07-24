@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055112> a skos:Concept ;
+    skos:altLabel "Elsdorf-Desdorf"@en,
+        "Elsdorf-Desdorf"@fr,
+        "Elsdorf-Desdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038895> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrRheinElsdorf-D" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Elsdorf-Desdorf"@de .
+

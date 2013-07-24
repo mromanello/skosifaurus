@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006474> a skos:Concept ;
+    skos:altLabel "Hilczer-Kurnatowska, Zofia"@en,
+        "Hilczer-Kurnatowska, Zofia"@fr,
+        "Hilczer-Kurnatowska, Zofia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHilczer-Kurnatowska, Zofia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hilczer-Kurnatowska, Zofia"@de .
+

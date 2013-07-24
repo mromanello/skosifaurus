@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040146> a skos:Concept ;
+    skos:altLabel "Skaerup"@en,
+        "Skaerup"@fr,
+        "Skaerup"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemSkaerup" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skaerup"@de .
+

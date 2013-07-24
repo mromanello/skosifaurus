@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043336> a skos:Concept ;
+    skos:altLabel "Val de Bruche"@en,
+        "Val de Bruche"@fr,
+        "Val de Bruche"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038754> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacZZ--RVal de Br" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Val de Bruche"@de .
+

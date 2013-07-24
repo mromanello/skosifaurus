@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079557> a skos:Concept ;
+    skos:altLabel "Zwiniarz"@en,
+        "Zwiniarz"@fr,
+        "Zwiniarz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039012> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazurWarmiZwiniarz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zwiniarz"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022527> a skos:Concept ;
+    skos:altLabel "Traianus <Imperium Romanum, Imperator>"@en,
+        "Traianus <Imperium Romanum, Imperator>"@fr,
+        "Traianus <Imperium Romanum, Imperator>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoTraianus <Imperium Romanum, Imperator>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Traianus <Imperium Romanum, Imperator>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075354> a skos:Concept ;
+    skos:altLabel "Rastatt"@en,
+        "Rastatt"@fr,
+        "Rastatt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038866> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRastatt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rastatt"@de .
+

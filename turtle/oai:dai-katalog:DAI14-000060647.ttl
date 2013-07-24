@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060647> a skos:Concept ;
+    skos:altLabel "Bielice"@en,
+        "Bielice"@fr,
+        "Bielice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsBielice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bielice"@de .
+

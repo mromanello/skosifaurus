@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077081> a skos:Concept ;
+    skos:altLabel "Köln-Lövenich"@en,
+        "Köln-Lövenich"@fr,
+        "Köln-Lövenich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038879> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrKölnKöln-Löve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Köln-Lövenich"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057323> a skos:Concept ;
+    skos:altLabel "Kriżovljan"@en,
+        "Kriżovljan"@fr,
+        "Kriżovljan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatKriżovlja" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kriżovljan"@de .
+

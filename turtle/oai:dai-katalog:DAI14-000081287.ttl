@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081287> a skos:Concept ;
+    skos:altLabel "Fosos de Bayona"@en,
+        "Fosos de Bayona"@fr,
+        "Fosos de Bayona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039340> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiCuencFosos de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fosos de Bayona"@de .
+

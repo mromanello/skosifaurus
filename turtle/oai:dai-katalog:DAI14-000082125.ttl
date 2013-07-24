@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082125> a skos:Concept ;
+    skos:altLabel "Babięta"@en,
+        "Babięta"@fr,
+        "Babięta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039012> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazurWarmiBabięta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Babięta"@de .
+

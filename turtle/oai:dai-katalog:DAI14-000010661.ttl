@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010661> a skos:Concept ;
+    skos:altLabel "Rheinische Glashütten AG"@en,
+        "Rheinische Glashütten AG"@fr,
+        "Rheinische Glashütten AG"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRheinische Glashütten AG" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rheinische Glashütten AG"@de .
+

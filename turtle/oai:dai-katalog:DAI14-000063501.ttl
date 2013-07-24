@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063501> a skos:Concept ;
+    skos:altLabel "Dolní Břeżany, okr. Praha-západ"@en,
+        "Dolní Břeżany, okr. Praha-západ"@fr,
+        "Dolní Břeżany, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyDolní Bře" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dolní Břeżany, okr. Praha-západ"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008929> a skos:Concept ;
+    skos:altLabel "Kulikowski, Michael"@en,
+        "Kulikowski, Michael"@fr,
+        "Kulikowski, Michael"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKulikowski, Michael" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kulikowski, Michael"@de .
+

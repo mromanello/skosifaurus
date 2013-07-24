@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037903> a skos:Concept ;
+    skos:altLabel "Vela Luka 1991"@en,
+        "Vela Luka 1991"@fr,
+        "Vela Luka 1991"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrVela Luka 1991" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vela Luka 1991"@de .
+

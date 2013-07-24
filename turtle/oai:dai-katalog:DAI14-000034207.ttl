@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034207> a skos:Concept ;
+    skos:altLabel "Tata, Német Nemzetiségi Múzeum"@en,
+        "Tata, Német Nemzetiségi Múzeum"@fr,
+        "Tata, Német Nemzetiségi Múzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTata, Német Nemzetiségi Múzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tata, Német Nemzetiségi Múzeum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062921> a skos:Concept ;
+    skos:altLabel "Šal'a, okr. Šal'a"@en,
+        "Šal'a, okr. Šal'a"@fr,
+        "Šal'a, okr. Šal'a"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaŠal'a, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šal'a, okr. Šal'a"@de .
+

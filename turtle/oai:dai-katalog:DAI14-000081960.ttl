@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081960> a skos:Concept ;
+    skos:altLabel "Le Mesnil-Aubry"@en,
+        "Le Mesnil-Aubry"@fr,
+        "Le Mesnil-Aubry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038729> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOiseLe Mesnil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Le Mesnil-Aubry"@de .
+

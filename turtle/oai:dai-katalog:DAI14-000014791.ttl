@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014791> a skos:Concept ;
+    skos:altLabel "Coastal settlements"@en,
+        "Osady nadbrzezne"@pl,
+        "Sites côtiers"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014789> ;
+    skos:hiddenLabel "yRGKArch08 - SiedlSiedlKüste" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Küstennahe Siedlungen"@de .
+

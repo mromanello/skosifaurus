@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077495> a skos:Concept ;
+    skos:altLabel "Sillees River"@en,
+        "Sillees River"@fr,
+        "Sillees River"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077480> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossNordiFermaSillees R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sillees River"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070677> a skos:Concept ;
+    skos:altLabel "Avio, Busa dei Preeri"@en,
+        "Avio, Busa dei Preeri"@fr,
+        "Avio, Busa dei Preeri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039188> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentTrentAvio, Bus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Avio, Busa dei Preeri"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073025> a skos:Concept ;
+    skos:altLabel "Cueva de Zubialde"@en,
+        "Cueva de Zubialde"@fr,
+        "Cueva de Zubialde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039310> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniBaskeAlavaCueva de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cueva de Zubialde"@de .
+

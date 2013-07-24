@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067094> a skos:Concept ;
+    skos:altLabel "Băleni, jud. Galaţi"@en,
+        "Băleni, jud. Galaţi"@fr,
+        "Băleni, jud. Galaţi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenBăleni, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Băleni, jud. Galaţi"@de .
+

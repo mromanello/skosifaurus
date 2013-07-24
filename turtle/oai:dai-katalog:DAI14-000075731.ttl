@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075731> a skos:Concept ;
+    skos:altLabel "Vranov nad Toplou, Slovakia"@en,
+        "Vranov nad Toplou, Slovakia"@fr,
+        "Vranov nad Toplou, Slovakia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039374> ;
+    skos:hiddenLabel "zTopogEuropZZ--RVranov na" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vranov nad Toplou, Slovakia"@de .
+

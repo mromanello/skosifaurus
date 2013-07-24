@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064595> a skos:Concept ;
+    skos:altLabel "Šumice, okr. Znojmo"@en,
+        "Šumice, okr. Znojmo"@fr,
+        "Šumice, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravŠumice, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šumice, okr. Znojmo"@de .
+

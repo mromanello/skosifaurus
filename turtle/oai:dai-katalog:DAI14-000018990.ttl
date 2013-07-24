@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018990> a skos:Concept ;
+    skos:altLabel "Dachy/dachówki"@pl,
+        "Roofs/roof tiles"@en,
+        "Toits/tuiles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000018988> ;
+    skos:hiddenLabel "yRGKArch13 - BefunArchiDäche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dächer/Dachziegel"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048141> a skos:Concept ;
+    skos:altLabel "Stafford"@en,
+        "Stafford"@fr,
+        "Stafford"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077707> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaStaffStafford" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stafford"@de .
+

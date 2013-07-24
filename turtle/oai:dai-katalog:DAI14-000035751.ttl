@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035751> a skos:Concept ;
+    skos:altLabel "Ekaterinburg/Chelyabinsk/Arkaim 1999"@en,
+        "Ekaterinburg/Chelyabinsk/Arkaim 1999"@fr,
+        "Ekaterinburg/Chelyabinsk/Arkaim 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrEkaterinburg/Chelyabinsk/Arkaim 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ekaterinburg/Chelyabinsk/Arkaim 1999"@de .
+

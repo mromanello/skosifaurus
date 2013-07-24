@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030857> a skos:Concept ;
+    skos:altLabel "Freiberg, Institut für Archäometrie an der TU Bergakademie"@en,
+        "Freiberg, Institut für Archäometrie an der TU Bergakademie"@fr,
+        "Freiberg, Institut für Archäometrie an der TU Bergakademie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiFreiberg, Institut für Archäometrie an der TU Bergakademie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Freiberg, Institut für Archäometrie an der TU Bergakademie"@de .
+

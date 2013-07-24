@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030757> a skos:Concept ;
+    skos:altLabel "Aix-en-Provence, Centre Camille Jullian"@en,
+        "Aix-en-Provence, Centre Camille Jullian"@fr,
+        "Aix-en-Provence, Centre Camille Jullian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiAix-en-Provence, Centre Camille Jullian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aix-en-Provence, Centre Camille Jullian"@de .
+

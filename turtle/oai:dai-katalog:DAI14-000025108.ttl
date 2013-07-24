@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025108> a skos:Concept ;
+    skos:altLabel "Venetia et Histria"@en,
+        "Venetia et Histria"@fr,
+        "Venetia et Histria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017117> ;
+    skos:hiddenLabel "yRGKArch10 - GeschGebieVenetia et Histria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Venetia et Histria"@de .
+

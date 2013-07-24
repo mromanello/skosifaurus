@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004078> a skos:Concept ;
+    skos:altLabel "questioni demografiche"@it,
+        "questions démographiques"@fr,
+        "questions of population"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004009> ;
+    skos:hiddenLabel "xGeschBevölk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bevölkerungsgeschichte"@de .
+

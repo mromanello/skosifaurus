@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010538> a skos:Concept ;
+    skos:altLabel "Halle, Landesamt für Archäologie Sachsen-Anhalt"@en,
+        "Halle, Landesamt für Archäologie Sachsen-Anhalt"@fr,
+        "Halle, Landesamt für Archäologie Sachsen-Anhalt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiHalle, Landesamt für Archäologie Sachsen-Anhalt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Halle, Landesamt für Archäologie Sachsen-Anhalt"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052466> a skos:Concept ;
+    skos:altLabel "Wittenberge"@en,
+        "Wittenberge"@fr,
+        "Wittenberge"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075481> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandPrignWittenber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wittenberge"@de .
+

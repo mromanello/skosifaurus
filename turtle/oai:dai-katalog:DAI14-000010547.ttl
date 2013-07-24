@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010547> a skos:Concept ;
+    skos:altLabel "Kijiv, Institut Arheologiji NAN Ukrajini"@en,
+        "Kijiv, Institut Arheologiji NAN Ukrajini"@fr,
+        "Kijiv, Institut Arheologiji NAN Ukrajini"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiKijiv, Institut Arheologiji NAN Ukrajini" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kijiv, Institut Arheologiji NAN Ukrajini"@de .
+

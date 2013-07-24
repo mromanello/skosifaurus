@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025820> a skos:Concept ;
+    skos:altLabel "Albert de Bertekow"@en,
+        "Albert de Bertekow"@fr,
+        "Albert de Bertekow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018913> ;
+    skos:hiddenLabel "yRGKArch12 - HistoProsoEinzeAlbert de Bertekow" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Albert de Bertekow"@de .
+

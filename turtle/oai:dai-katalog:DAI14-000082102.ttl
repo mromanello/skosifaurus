@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082102> a skos:Concept ;
+    skos:altLabel "Saint-Sébastien-de-Morsent"@en,
+        "Saint-Sébastien-de-Morsent"@fr,
+        "Saint-Sébastien-de-Morsent"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038726> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEureSaint-Séb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Sébastien-de-Morsent"@de .
+

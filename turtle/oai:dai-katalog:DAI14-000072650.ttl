@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072650> a skos:Concept ;
+    skos:altLabel "Gigantija"@en,
+        "Gigantija"@fr,
+        "Gigantija"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039277> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliMaltaGigantija" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gigantija"@de .
+

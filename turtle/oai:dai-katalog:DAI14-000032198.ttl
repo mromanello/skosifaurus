@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032198> a skos:Concept ;
+    skos:altLabel "Römisches Gallien"@en,
+        "Römisches Gallien"@fr,
+        "Römisches Gallien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliRömisches Gallien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Römisches Gallien"@de .
+

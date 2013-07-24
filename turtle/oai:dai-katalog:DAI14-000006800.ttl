@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006800> a skos:Concept ;
+    skos:altLabel "Perrot, Georges"@en,
+        "Perrot, Georges"@fr,
+        "Perrot, Georges"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsPerrot, Georges" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Perrot, Georges"@de .
+

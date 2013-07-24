@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010867> a skos:Concept ;
+    skos:altLabel "Vogt, Emil"@en,
+        "Vogt, Emil"@fr,
+        "Vogt, Emil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoVogt, Emil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vogt, Emil"@de .
+

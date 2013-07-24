@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021893> a skos:Concept ;
+    skos:altLabel "Lactantius, Lucius Caecilius Firmianus"@en,
+        "Lactantius, Lucius Caecilius Firmianus"@fr,
+        "Lactantius, Lucius Caecilius Firmianus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoLactantius, Lucius Caecilius Firmianus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lactantius, Lucius Caecilius Firmianus"@de .
+

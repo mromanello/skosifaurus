@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018729> a skos:Concept ;
+    skos:altLabel "Goudron/poix"@fr,
+        "Smola/dziegiec"@pl,
+        "Tar/pitch"@en ;
+    skos:broader <http://data.dainst.de/zenon/000018728> ;
+    skos:hiddenLabel "yRGKArch12 - WirtsHandwRohstOrganTeer/" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Teer/Pech"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062844> a skos:Concept ;
+    skos:altLabel "Plavecký Mikuláš"@en,
+        "Plavecký Mikuláš"@fr,
+        "Plavecký Mikuláš"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaPlavecký" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plavecký Mikuláš"@de .
+

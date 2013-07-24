@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081773> a skos:Concept ;
+    skos:altLabel "Khirbet Omrit, Israel"@en,
+        "Khirbet Omrit, Israel"@fr,
+        "Khirbet Omrit, Israel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeKhirbet O" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Khirbet Omrit, Israel"@de .
+

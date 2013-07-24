@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078497> a skos:Concept ;
+    skos:altLabel "Leason"@en,
+        "Leason"@fr,
+        "Leason"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078211> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesSwansLeason" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leason"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040914> a skos:Concept ;
+    skos:altLabel "Häggsta, Södermanland"@en,
+        "Häggsta, Södermanland"@fr,
+        "Häggsta, Södermanland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Häggsta," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Häggsta, Södermanland"@de .
+

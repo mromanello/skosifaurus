@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072393> a skos:Concept ;
+    skos:altLabel "Collesano"@en,
+        "Collesano"@fr,
+        "Collesano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039265> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilPalerCollesano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Collesano"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081015> a skos:Concept ;
+    skos:altLabel "Dakudava, raj. Lida, obl. Grodna"@en,
+        "Dakudava, raj. Lida, obl. Grodna"@fr,
+        "Dakudava, raj. Lida, obl. Grodna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarDakudava," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dakudava, raj. Lida, obl. Grodna"@de .
+

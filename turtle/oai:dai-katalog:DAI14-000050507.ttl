@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050507> a skos:Concept ;
+    skos:altLabel "Eningen unter Achalm"@en,
+        "Eningen unter Achalm"@fr,
+        "Eningen unter Achalm"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075357> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenReutlEningen u" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eningen unter Achalm"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019543> a skos:Concept ;
+    skos:altLabel "Geograficzne Systemy Informacyjne"@pl,
+        "Geographical Informationssystems"@en,
+        "Systèmes d'informations géographiques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019540> ;
+    skos:hiddenLabel "yRGKMethCompuGeogr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geographische Informationssysteme"@de .
+

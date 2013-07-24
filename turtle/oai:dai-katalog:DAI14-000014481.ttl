@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014481> a skos:Concept ;
+    skos:altLabel "Situle"@pl,
+        "Situles"@en,
+        "Situles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014472> ;
+    skos:hiddenLabel "yRGKArch08 - FundeGefäsKeramGefäsSitul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Situlen"@de .
+

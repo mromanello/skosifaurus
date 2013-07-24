@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031797> a skos:Concept ;
+    skos:altLabel "Pescheck, Christian"@en,
+        "Pescheck, Christian"@fr,
+        "Pescheck, Christian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliPescheck, Christian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pescheck, Christian"@de .
+

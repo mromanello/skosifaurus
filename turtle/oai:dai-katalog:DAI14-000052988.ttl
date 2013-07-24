@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052988> a skos:Concept ;
+    skos:altLabel "Hatzfeld (Eder)"@en,
+        "Hatzfeld (Eder)"@fr,
+        "Hatzfeld (Eder)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075507> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWaldeHatzfeld" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hatzfeld (Eder)"@de .
+

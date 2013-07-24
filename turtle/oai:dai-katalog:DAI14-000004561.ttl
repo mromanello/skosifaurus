@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004561> a skos:Concept ;
+    skos:altLabel "Goths (1956 - 1997)"@en,
+        "Goths (1956 - 1997)"@fr,
+        "Goti (1956 - 1997)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004555> ;
+    skos:hiddenLabel "xFrMAVolkGot" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Goten (1956 - 1997)"@de .
+

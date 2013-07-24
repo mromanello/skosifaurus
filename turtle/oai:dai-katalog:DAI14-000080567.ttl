@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080567> a skos:Concept ;
+    skos:altLabel "Val Polcevera"@en,
+        "Val Polcevera"@fr,
+        "Val Polcevera"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039167> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLigurGenovVal Polce" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Val Polcevera"@de .
+

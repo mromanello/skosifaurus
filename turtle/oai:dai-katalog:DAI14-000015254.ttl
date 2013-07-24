@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015254> a skos:Concept ;
+    skos:altLabel "Monety punickie"@pl,
+        "Monnaies puniques"@fr,
+        "Punic coins"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015239> ;
+    skos:hiddenLabel "yRGKArch08 - HistoNumisPräguPunis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Punische Münzen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050051> a skos:Concept ;
+    skos:altLabel "Bad Liebenzell-Möttlingen"@en,
+        "Bad Liebenzell-Möttlingen"@fr,
+        "Bad Liebenzell-Möttlingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075333> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenCalwBad Liebe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Liebenzell-Möttlingen"@de .
+

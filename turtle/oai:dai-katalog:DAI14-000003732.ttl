@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003732> a skos:Concept ;
+    skos:altLabel "edicts (untill 1997)"@en,
+        "editti (fino a 1997)"@it,
+        "édits (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003728> ;
+    skos:hiddenLabel "xEpigrGrActaPublEdikt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Edikte (bis 1997)"@de .
+

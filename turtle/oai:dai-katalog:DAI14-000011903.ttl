@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011903> a skos:Concept ;
+    skos:altLabel "Wallman, Johan Haquin"@en,
+        "Wallman, Johan Haquin"@fr,
+        "Wallman, Johan Haquin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWallman, Johan Haquin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wallman, Johan Haquin"@de .
+

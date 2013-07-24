@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022550> a skos:Concept ;
+    skos:altLabel "Vaballathus Athenodorus, Lucius Iulius Aurelius Septimius"@en,
+        "Vaballathus Athenodorus, Lucius Iulius Aurelius Septimius"@fr,
+        "Vaballathus Athenodorus, Lucius Iulius Aurelius Septimius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoVaballathus Athenodorus, Lucius Iulius Aurelius Septimius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vaballathus Athenodorus, Lucius Iulius Aurelius Septimius"@de .
+

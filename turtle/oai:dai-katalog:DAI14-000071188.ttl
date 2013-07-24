@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071188> a skos:Concept ;
+    skos:altLabel "Grotta all'Onda"@en,
+        "Grotta all'Onda"@fr,
+        "Grotta all'Onda"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039207> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaLuccaGrotta al" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotta all'Onda"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064689> a skos:Concept ;
+    skos:altLabel "Prostějov (okr.)"@en,
+        "Prostějov (okr.)"@fr,
+        "Prostějov (okr.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077426> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheZZ-ReProstějov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prostějov (okr.)"@de .
+

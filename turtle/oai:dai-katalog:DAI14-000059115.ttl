@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059115> a skos:Concept ;
+    skos:altLabel "Kołuda Wielka"@en,
+        "Kołuda Wielka"@fr,
+        "Kołuda Wielka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039009> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorKujawKołuda Wi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kołuda Wielka"@de .
+

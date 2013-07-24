@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058175> a skos:Concept ;
+    skos:altLabel "Altheim-Simetsberg, VB Braunau a. Inn"@en,
+        "Altheim-Simetsberg, VB Braunau a. Inn"@fr,
+        "Altheim-Simetsberg, VB Braunau a. Inn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöAltheim-S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altheim-Simetsberg, VB Braunau a. Inn"@de .
+

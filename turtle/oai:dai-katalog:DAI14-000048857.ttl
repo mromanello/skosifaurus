@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048857> a skos:Concept ;
+    skos:altLabel "Fair Isle, Shetland"@en,
+        "Fair Isle, Shetland"@fr,
+        "Fair Isle, Shetland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078653> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotShetlFair Isle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fair Isle, Shetland"@de .
+

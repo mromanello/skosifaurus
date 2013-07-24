@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019462> a skos:Concept ;
+    skos:altLabel "Vindelicii"@en,
+        "Vindelicii"@fr,
+        "Vindelicii"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019420> ;
+    skos:hiddenLabel "yRGKEthnKelteVinde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vindelicii"@de .
+

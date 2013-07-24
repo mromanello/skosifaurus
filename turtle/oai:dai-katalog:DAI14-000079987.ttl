@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079987> a skos:Concept ;
+    skos:altLabel "Caron Uwch Clawdd"@en,
+        "Caron Uwch Clawdd"@fr,
+        "Caron Uwch Clawdd"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078200> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesCeredCaron Uwc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caron Uwch Clawdd"@de .
+

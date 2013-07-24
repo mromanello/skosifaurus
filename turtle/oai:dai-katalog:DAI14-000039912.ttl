@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039912> a skos:Concept ;
+    skos:altLabel "Hedegård, Vejle Amt"@en,
+        "Hedegård, Vejle Amt"@fr,
+        "Hedegård, Vejle Amt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemHedegård," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hedegård, Vejle Amt"@de .
+

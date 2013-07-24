@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007887> a skos:Concept ;
+    skos:altLabel "Choiseul-Gouffier, Marie Gabriel Florent Auguste Comte de"@en,
+        "Choiseul-Gouffier, Marie Gabriel Florent Auguste Comte de"@fr,
+        "Choiseul-Gouffier, Marie Gabriel Florent Auguste Comte de"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoChoiseul-Gouffier, Marie Gabriel Florent Auguste Comte de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Choiseul-Gouffier, Marie Gabriel Florent Auguste Comte de"@de .
+

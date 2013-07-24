@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015402> a skos:Concept ;
+    skos:altLabel "Forces"@fr,
+        "Nozyce"@pl,
+        "Shears"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015391> ;
+    skos:hiddenLabel "yRGKArch09 - FundeGerätHandwScher" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Scheren"@de .
+

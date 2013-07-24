@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062578> a skos:Concept ;
+    skos:altLabel "Andovce, okr. Nové Zámky"@en,
+        "Andovce, okr. Nové Zámky"@fr,
+        "Andovce, okr. Nové Zámky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaAndovce," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Andovce, okr. Nové Zámky"@de .
+

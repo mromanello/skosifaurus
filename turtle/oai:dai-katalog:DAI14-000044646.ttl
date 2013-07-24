@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044646> a skos:Concept ;
+    skos:altLabel "Saint-Feyre"@en,
+        "Saint-Feyre"@fr,
+        "Saint-Feyre"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038789> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverCreusSaint-Fey" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Feyre"@de .
+

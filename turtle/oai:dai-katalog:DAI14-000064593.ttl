@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064593> a skos:Concept ;
+    skos:altLabel "Štramberk-Kotouč, okr. Nový Jičín"@en,
+        "Štramberk-Kotouč, okr. Nový Jičín"@fr,
+        "Štramberk-Kotouč, okr. Nový Jičín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravŠtramberk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Štramberk-Kotouč, okr. Nový Jičín"@de .
+

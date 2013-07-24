@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020745> a skos:Concept ;
+    skos:altLabel "Schussenried"@en,
+        "Schussenried"@fr,
+        "Schussenried"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Schussenried" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schussenried"@de .
+

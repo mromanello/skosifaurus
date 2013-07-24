@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043380> a skos:Concept ;
+    skos:altLabel "Pabu"@en,
+        "Pabu"@fr,
+        "Pabu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038757> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaCôtesPabu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pabu"@de .
+

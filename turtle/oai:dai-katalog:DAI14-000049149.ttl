@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049149> a skos:Concept ;
+    skos:altLabel "Strangford Lough"@en,
+        "Strangford Lough"@fr,
+        "Strangford Lough"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077478> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossNordiDownStrangfor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strangford Lough"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014478> a skos:Concept ;
+    skos:altLabel "Face urns"@en,
+        "Urnes à figure humaine"@fr,
+        "Urny twarzowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014472> ;
+    skos:hiddenLabel "yRGKArch08 - FundeGefäsKeramGefäsGesic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gesichtsgefässe"@de .
+

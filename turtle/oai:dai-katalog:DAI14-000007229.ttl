@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007229> a skos:Concept ;
+    skos:altLabel "Costea, Florea"@en,
+        "Costea, Florea"@fr,
+        "Costea, Florea"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsCostea, Florea" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Costea, Florea"@de .
+

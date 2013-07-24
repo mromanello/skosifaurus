@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073139> a skos:Concept ;
+    skos:altLabel "Monreal de Ariza"@en,
+        "Monreal de Ariza"@fr,
+        "Monreal de Ariza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039318> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóZaragMonreal d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monreal de Ariza"@de .
+

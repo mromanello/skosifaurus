@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082933> a skos:Concept ;
+    skos:altLabel "Zarichanka, obl. Chmelnitsky"@en,
+        "Zarichanka, obl. Chmelnitsky"@fr,
+        "Zarichanka, obl. Chmelnitsky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiZarichank" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zarichanka, obl. Chmelnitsky"@de .
+

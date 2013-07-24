@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056846> a skos:Concept ;
+    skos:altLabel "Gera-Schloss Osterstein"@en,
+        "Gera-Schloss Osterstein"@fr,
+        "Gera-Schloss Osterstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075602> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriGera Gera-Schl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gera-Schloss Osterstein"@de .
+

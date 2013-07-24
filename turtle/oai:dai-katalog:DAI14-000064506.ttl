@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064506> a skos:Concept ;
+    skos:altLabel "Panská Lhota, okr. Jihlava"@en,
+        "Panská Lhota, okr. Jihlava"@fr,
+        "Panská Lhota, okr. Jihlava"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravPanská Lh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Panská Lhota, okr. Jihlava"@de .
+

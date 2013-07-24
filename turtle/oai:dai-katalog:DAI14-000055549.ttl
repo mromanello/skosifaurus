@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055549> a skos:Concept ;
+    skos:altLabel "Kettig"@en,
+        "Kettig"@fr,
+        "Kettig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038923> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKobleKettig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kettig"@de .
+

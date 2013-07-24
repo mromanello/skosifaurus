@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071172> a skos:Concept ;
+    skos:altLabel "Piombino"@en,
+        "Piombino"@fr,
+        "Piombino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039206> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaLivorPiombino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Piombino"@de .
+

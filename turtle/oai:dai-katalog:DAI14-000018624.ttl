@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018624> a skos:Concept ;
+    skos:altLabel "Romanesque style"@en,
+        "Styl romanski"@pl,
+        "Style roman"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000018616> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstOrnamRoman" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Romanik"@de .
+

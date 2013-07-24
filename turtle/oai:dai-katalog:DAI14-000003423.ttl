@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003423> a skos:Concept ;
+    skos:altLabel "dea a viticci"@it,
+        "déesse à vrilles"@fr,
+        "goddess with tendrils"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003404> ;
+    skos:hiddenLabel "xBthGMythRankeng" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rankengöttin"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051020> a skos:Concept ;
+    skos:altLabel "Winzer"@en,
+        "Winzer"@fr,
+        "Winzer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075393> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerDeggeWinzer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winzer"@de .
+

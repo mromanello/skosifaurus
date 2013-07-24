@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046771> a skos:Concept ;
+    skos:altLabel "Brigstock Manor"@en,
+        "Brigstock Manor"@fr,
+        "Brigstock Manor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077700> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthBrigstock" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brigstock Manor"@de .
+

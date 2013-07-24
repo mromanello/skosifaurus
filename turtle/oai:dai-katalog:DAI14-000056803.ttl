@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056803> a skos:Concept ;
+    skos:altLabel "Lübbecker Becken"@en,
+        "Lübbecker Becken"@fr,
+        "Lübbecker Becken"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038988> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleZZ--RLübbecker" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lübbecker Becken"@de .
+

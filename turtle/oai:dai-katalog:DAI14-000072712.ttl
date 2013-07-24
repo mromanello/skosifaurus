@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072712> a skos:Concept ;
+    skos:altLabel "Passos"@en,
+        "Passos"@fr,
+        "Passos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039283> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuBragaPassos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Passos"@de .
+

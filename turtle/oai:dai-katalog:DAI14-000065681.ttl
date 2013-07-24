@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065681> a skos:Concept ;
+    skos:altLabel "Daorsona"@en,
+        "Daorsona"@fr,
+        "Daorsona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039095> ;
+    skos:hiddenLabel "zTopogEuropOsteuBosniDaorsona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Daorsona"@de .
+

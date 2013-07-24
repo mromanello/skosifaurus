@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040392> a skos:Concept ;
+    skos:altLabel "Lapuri"@en,
+        "Lapuri"@fr,
+        "Lapuri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038704> ;
+    skos:hiddenLabel "zTopogEuropNordeFinnlLapuri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lapuri"@de .
+

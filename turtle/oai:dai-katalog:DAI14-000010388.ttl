@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010388> a skos:Concept ;
+    skos:altLabel "Zancani Montuoro, Paola"@en,
+        "Zancani Montuoro, Paola"@fr,
+        "Zancani Montuoro, Paola"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZancani Montuoro, Paola" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zancani Montuoro, Paola"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072168> a skos:Concept ;
+    skos:altLabel "Giuggianello"@en,
+        "Giuggianello"@fr,
+        "Giuggianello"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039250> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliLecceGiuggiane" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Giuggianello"@de .
+

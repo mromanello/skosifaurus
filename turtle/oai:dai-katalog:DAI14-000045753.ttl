@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045753> a skos:Concept ;
+    skos:altLabel "Gourdan-Polignan"@en,
+        "Gourdan-Polignan"@fr,
+        "Gourdan-Polignan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038815> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitHauteGourdan-P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gourdan-Polignan"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040753> a skos:Concept ;
+    skos:altLabel "Sogn og Fjordane"@en,
+        "Sogn og Fjordane"@fr,
+        "Sogn og Fjordane"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077437> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweSogn og F" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sogn og Fjordane"@de .
+

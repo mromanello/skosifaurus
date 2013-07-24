@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074896> a skos:Concept ;
+    skos:altLabel "Agia Varvara-Almyras"@en,
+        "Agia Varvara-Almyras"@fr,
+        "Agia Varvara-Almyras"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039393> ;
+    skos:hiddenLabel "zTopogAsienVordeZyperAgia Varv" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Agia Varvara-Almyras"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034128> a skos:Concept ;
+    skos:altLabel "Bears"@en,
+        "Bären"@pl,
+        "Ours"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012932> ;
+    skos:hiddenLabel "yRGKArch04 - NaturPaläoBären" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bären"@de .
+

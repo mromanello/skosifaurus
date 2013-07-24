@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017706> a skos:Concept ;
+    skos:altLabel "Droits - Fonds de terre"@fr,
+        "Land law"@en,
+        "Podstawy wladzy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017701> ;
+    skos:hiddenLabel "yRGKArch11 - GeselGeselRechtGrund" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grundherrschaft"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050695> a skos:Concept ;
+    skos:altLabel "Jestetten-Altenburg"@en,
+        "Jestetten-Altenburg"@fr,
+        "Jestetten-Altenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075367> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenWaldsJestetten-Altenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jestetten-Altenburg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050225> a skos:Concept ;
+    skos:altLabel "Ettlingen"@en,
+        "Ettlingen"@fr,
+        "Ettlingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075344> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenKarlsEttlingen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ettlingen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045363> a skos:Concept ;
+    skos:altLabel "Mondragon"@en,
+        "Mondragon"@fr,
+        "Mondragon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038809> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVauclMondragon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mondragon"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031897> a skos:Concept ;
+    skos:altLabel "Selirand, Jüri"@en,
+        "Selirand, Jüri"@fr,
+        "Selirand, Jüri"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSelirand, Jüri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Selirand, Jüri"@de .
+

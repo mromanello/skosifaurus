@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035607> a skos:Concept ;
+    skos:altLabel "Córdoba 1997"@en,
+        "Córdoba 1997"@fr,
+        "Córdoba 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCórdoba 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Córdoba 1997"@de .
+

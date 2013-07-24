@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045073> a skos:Concept ;
+    skos:altLabel "Chatuzange-le-Goubet"@en,
+        "Chatuzange-le-Goubet"@fr,
+        "Chatuzange-le-Goubet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômeChatuzang" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chatuzange-le-Goubet"@de .
+

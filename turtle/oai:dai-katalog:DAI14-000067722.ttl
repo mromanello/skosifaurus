@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067722> a skos:Concept ;
+    skos:altLabel "Chorezma"@en,
+        "Chorezma"@fr,
+        "Chorezma"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiChorezma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chorezma"@de .
+

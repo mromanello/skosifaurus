@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062924> a skos:Concept ;
+    skos:altLabel "Šarišské Sokolovce, okr. Sabinov"@en,
+        "Šarišské Sokolovce, okr. Sabinov"@fr,
+        "Šarišské Sokolovce, okr. Sabinov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaŠarišské" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šarišské Sokolovce, okr. Sabinov"@de .
+

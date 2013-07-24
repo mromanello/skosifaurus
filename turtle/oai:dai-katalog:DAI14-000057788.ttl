@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057788> a skos:Concept ;
+    skos:altLabel "Müllendorf, VB Eisenstadt-Umgebung"@en,
+        "Müllendorf, VB Eisenstadt-Umgebung"@fr,
+        "Müllendorf, VB Eisenstadt-Umgebung"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038995> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterBurgeMüllendor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Müllendorf, VB Eisenstadt-Umgebung"@de .
+

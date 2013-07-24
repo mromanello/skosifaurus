@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054054> a skos:Concept ;
+    skos:altLabel "Forst, Gde. Bevern"@en,
+        "Forst, Gde. Bevern"@fr,
+        "Forst, Gde. Bevern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075582> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHolzmForst, Gd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Forst, Gde. Bevern"@de .
+

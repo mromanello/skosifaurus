@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073129> a skos:Concept ;
+    skos:altLabel "Colonia Victrix Iulia Lepida"@en,
+        "Colonia Victrix Iulia Lepida"@fr,
+        "Colonia Victrix Iulia Lepida"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039318> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAragóZaragColonia V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Colonia Victrix Iulia Lepida"@de .
+

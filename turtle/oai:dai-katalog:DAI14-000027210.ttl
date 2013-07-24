@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027210> a skos:Concept ;
+    skos:altLabel "Schwerin 2001"@en,
+        "Schwerin 2001"@fr,
+        "Schwerin 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSchwerin 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwerin 2001"@de .
+

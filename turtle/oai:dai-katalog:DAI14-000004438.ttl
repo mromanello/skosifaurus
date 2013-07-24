@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004438> a skos:Concept ;
+    skos:altLabel "Linear B (untill 1997)"@en,
+        "lineare B (fino a 1997)"@it,
+        "linéaire B (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004434> ;
+    skos:hiddenLabel "xKretPhilLinB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linear B (bis 1997)"@de .
+

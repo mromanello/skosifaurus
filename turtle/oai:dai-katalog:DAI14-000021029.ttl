@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021029> a skos:Concept ;
+    skos:altLabel "Aelius Cesorinus, Publius"@en,
+        "Aelius Cesorinus, Publius"@fr,
+        "Aelius Cesorinus, Publius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAelius Cesorinus, Publius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aelius Cesorinus, Publius"@de .
+

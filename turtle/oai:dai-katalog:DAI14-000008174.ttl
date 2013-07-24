@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008174> a skos:Concept ;
+    skos:altLabel "Ellmers, Detlev"@en,
+        "Ellmers, Detlev"@fr,
+        "Ellmers, Detlev"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoEllmers, Detlev" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ellmers, Detlev"@de .
+

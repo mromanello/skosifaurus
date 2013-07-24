@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081924> a skos:Concept ;
+    skos:altLabel "Čehovice, okr. Prostějov"@en,
+        "Čehovice, okr. Prostějov"@fr,
+        "Čehovice, okr. Prostějov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravČehovice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Čehovice, okr. Prostějov"@de .
+

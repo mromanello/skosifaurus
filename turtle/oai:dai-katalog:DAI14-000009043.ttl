@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009043> a skos:Concept ;
+    skos:altLabel "Lewis-Williams, David"@en,
+        "Lewis-Williams, David"@fr,
+        "Lewis-Williams, David"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLewis-Williams, David" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lewis-Williams, David"@de .
+

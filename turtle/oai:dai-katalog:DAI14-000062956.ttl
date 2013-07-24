@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062956> a skos:Concept ;
+    skos:altLabel "Valaliky-Všechvätých, okr. Košice"@en,
+        "Valaliky-Všechvätých, okr. Košice"@fr,
+        "Valaliky-Všechvätých, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaValaliky-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Valaliky-Všechvätých, okr. Košice"@de .
+

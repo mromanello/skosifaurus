@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075617> a skos:Concept ;
+    skos:altLabel "Unstrut-Hainich-Kreis"@en,
+        "Unstrut-Hainich-Kreis"@fr,
+        "Unstrut-Hainich-Kreis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038989> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriUnstrut-H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Unstrut-Hainich-Kreis"@de .
+

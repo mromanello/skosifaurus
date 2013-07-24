@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053467> a skos:Concept ;
+    skos:altLabel "Bad Sülze"@en,
+        "Bad Sülze"@fr,
+        "Bad Sülze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075531> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordvBad Sülze" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Sülze"@de .
+

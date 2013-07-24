@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052319> a skos:Concept ;
+    skos:altLabel "Pritzen"@en,
+        "Pritzen"@fr,
+        "Pritzen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075477> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandObersPritzen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pritzen"@de .
+

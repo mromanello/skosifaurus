@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054321> a skos:Concept ;
+    skos:altLabel "Bückeburg, Burg Arnheim"@en,
+        "Bückeburg, Burg Arnheim"@fr,
+        "Bückeburg, Burg Arnheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075584> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeSchauBückeburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bückeburg, Burg Arnheim"@de .
+

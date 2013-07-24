@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066283> a skos:Concept ;
+    skos:altLabel "Prosek-Demir Kapija"@en,
+        "Prosek-Demir Kapija"@fr,
+        "Prosek-Demir Kapija"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039130> ;
+    skos:hiddenLabel "zTopogEuropOsteuMazedProsek-De" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prosek-Demir Kapija"@de .
+

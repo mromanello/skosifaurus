@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048718> a skos:Concept ;
+    skos:altLabel "Powys, Radnorshire"@en,
+        "Powys, Radnorshire"@fr,
+        "Powys, Radnorshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078209> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossWalesPowysPowys, Ra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Powys, Radnorshire"@de .
+

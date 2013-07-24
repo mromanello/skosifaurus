@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046063> a skos:Concept ;
+    skos:altLabel "Puylaroque"@en,
+        "Puylaroque"@fr,
+        "Puylaroque"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038824> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitTarn-Puylaroqu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Puylaroque"@de .
+

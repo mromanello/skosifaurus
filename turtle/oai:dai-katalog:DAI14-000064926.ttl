@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064926> a skos:Concept ;
+    skos:altLabel "Sé"@en,
+        "Sé"@fr,
+        "Sé"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039076> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuVasSé" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sé"@de .
+

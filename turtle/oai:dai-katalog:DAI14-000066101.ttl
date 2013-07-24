@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066101> a skos:Concept ;
+    skos:altLabel "Dibič"@en,
+        "Dibič"@fr,
+        "Dibič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039122> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaVarnaSumenDibič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dibič"@de .
+

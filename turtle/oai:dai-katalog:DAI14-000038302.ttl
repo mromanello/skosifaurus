@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038302> a skos:Concept ;
+    skos:altLabel "Ajaccio 1901"@en,
+        "Ajaccio 1901"@fr,
+        "Ajaccio 1901"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrAjaccio 1901" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ajaccio 1901"@de .
+

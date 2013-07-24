@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044348> a skos:Concept ;
+    skos:altLabel "Sanguignis à Boyer"@en,
+        "Sanguignis à Boyer"@fr,
+        "Sanguignis à Boyer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038779> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgSaôneSanguigni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sanguignis à Boyer"@de .
+

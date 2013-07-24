@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010019> a skos:Concept ;
+    skos:altLabel "Sulger, Georg"@en,
+        "Sulger, Georg"@fr,
+        "Sulger, Georg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSulger, Georg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sulger, Georg"@de .
+

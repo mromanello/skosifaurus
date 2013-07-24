@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007878> a skos:Concept ;
+    skos:altLabel "Cheluţă-Georgescu, N. C. Valeriu"@en,
+        "Cheluţă-Georgescu, N. C. Valeriu"@fr,
+        "Cheluţă-Georgescu, N. C. Valeriu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoCheluţă-Georgescu, N. C. Valeriu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cheluţă-Georgescu, N. C. Valeriu"@de .
+

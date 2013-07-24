@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004606> a skos:Concept ;
+    skos:altLabel "piante (1956 - 1997)"@it,
+        "plantes (1956 - 1997)"@fr,
+        "plants (1956 - 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004585> ;
+    skos:hiddenLabel "xFrMAAntPflanz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pflanzen (1956 - 1997)"@de .
+

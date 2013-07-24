@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045457> a skos:Concept ;
+    skos:altLabel "Vallon des Arcs"@en,
+        "Vallon des Arcs"@fr,
+        "Vallon des Arcs"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RVallon de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vallon des Arcs"@de .
+

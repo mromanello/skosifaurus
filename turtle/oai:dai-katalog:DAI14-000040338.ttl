@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040338> a skos:Concept ;
+    skos:altLabel "Store Baelt"@en,
+        "Store Baelt"@fr,
+        "Store Baelt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077433> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemStore Bae" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Store Baelt"@de .
+

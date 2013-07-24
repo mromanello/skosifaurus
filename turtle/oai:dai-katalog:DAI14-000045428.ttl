@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045428> a skos:Concept ;
+    skos:altLabel "Montagnette"@en,
+        "Montagnette"@fr,
+        "Montagnette"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038810> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveZZ--RMontagnet" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montagnette"@de .
+

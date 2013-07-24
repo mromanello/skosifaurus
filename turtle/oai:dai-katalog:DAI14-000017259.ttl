@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017259> a skos:Concept ;
+    skos:altLabel "Bassins coptique"@fr,
+        "Coptic basins"@en,
+        "Misy koptyjskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017258> ;
+    skos:hiddenLabel "yRGKArch11 - FundeGefäsMetalBeckeKopti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Koptische Becken"@de .
+

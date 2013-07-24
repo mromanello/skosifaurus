@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068329> a skos:Concept ;
+    skos:altLabel "Ostrvica"@en,
+        "Ostrvica"@fr,
+        "Ostrvica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiOstrvica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ostrvica"@de .
+

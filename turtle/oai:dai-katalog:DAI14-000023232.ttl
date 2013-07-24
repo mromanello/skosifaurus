@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023232> a skos:Concept ;
+    skos:altLabel "Magna Mater"@en,
+        "Magna Mater"@fr,
+        "Magna Mater"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014940> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligGötteMagna Mater" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Magna Mater"@de .
+

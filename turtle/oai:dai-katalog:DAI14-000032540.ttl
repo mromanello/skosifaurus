@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032540> a skos:Concept ;
+    skos:altLabel "Edward <England, King, IV.>"@en,
+        "Edward <England, King, IV.>"@fr,
+        "Edward <England, King, IV.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEdward <England, King, IV.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Edward <England, King, IV.>"@de .
+

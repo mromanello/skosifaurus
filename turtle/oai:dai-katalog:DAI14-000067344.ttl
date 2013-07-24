@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067344> a skos:Concept ;
+    skos:altLabel "Sirna, jud. Prahova"@en,
+        "Sirna, jud. Prahova"@fr,
+        "Sirna, jud. Prahova"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenSirna, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sirna, jud. Prahova"@de .
+

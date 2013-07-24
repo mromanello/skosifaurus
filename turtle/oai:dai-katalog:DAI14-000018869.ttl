@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018869> a skos:Concept ;
+    skos:altLabel "Hispanic coinage"@en,
+        "Monety hiszpanskie"@pl,
+        "Monnayages ispanique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000018851> ;
+    skos:hiddenLabel "yRGKArch12 - HistoNumisPräguHispa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hispanische Münzen"@de .
+

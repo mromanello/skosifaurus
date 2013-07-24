@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021086> a skos:Concept ;
+    skos:altLabel "Alfred <England, King>"@en,
+        "Alfred <England, King>"@fr,
+        "Alfred <England, King>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAlfred <England, King>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alfred <England, King>"@de .
+

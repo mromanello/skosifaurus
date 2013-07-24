@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035008> a skos:Concept ;
+    skos:altLabel "Amay/Liège 1985"@en,
+        "Amay/Liège 1985"@fr,
+        "Amay/Liège 1985"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrAmay/Liège 1985" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amay/Liège 1985"@de .
+

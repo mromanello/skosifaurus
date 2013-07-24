@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052894> a skos:Concept ;
+    skos:altLabel "Bad König"@en,
+        "Bad König"@fr,
+        "Bad König"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075502> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseOdenwBad König" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad König"@de .
+

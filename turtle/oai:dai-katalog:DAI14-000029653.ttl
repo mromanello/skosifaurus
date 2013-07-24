@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029653> a skos:Concept ;
+    skos:altLabel "Neuwied-Monrepos, Museum für die Archäologie des Eiszeitalters"@en,
+        "Neuwied-Monrepos, Museum für die Archäologie des Eiszeitalters"@fr,
+        "Neuwied-Monrepos, Museum für die Archäologie des Eiszeitalters"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuNeuwied-Monrepos, Museum für die Archäologie des Eiszeitalters" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Neuwied-Monrepos, Museum für die Archäologie des Eiszeitalters"@de .
+

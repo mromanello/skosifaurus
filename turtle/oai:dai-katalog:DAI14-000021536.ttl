@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021536> a skos:Concept ;
+    skos:altLabel "Friedrich <Brandenburg-Ansbach, Markgraf, 1497-1536>"@en,
+        "Friedrich <Brandenburg-Ansbach, Markgraf, 1497-1536>"@fr,
+        "Friedrich <Brandenburg-Ansbach, Markgraf, 1497-1536>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoFriedrich <Brandenburg-Ansbach, Markgraf, 1497-1536>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Friedrich <Brandenburg-Ansbach, Markgraf, 1497-1536>"@de .
+

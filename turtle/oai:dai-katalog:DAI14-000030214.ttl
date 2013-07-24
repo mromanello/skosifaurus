@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030214> a skos:Concept ;
+    skos:altLabel "Maes, Gustaaf"@en,
+        "Maes, Gustaaf"@fr,
+        "Maes, Gustaaf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaMaes, Gustaaf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maes, Gustaaf"@de .
+

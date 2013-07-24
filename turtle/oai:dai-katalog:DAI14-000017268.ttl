@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017268> a skos:Concept ;
+    skos:altLabel "Anglo-saxon pottery"@en,
+        "Ceramika anglosaska"@pl,
+        "Céramique anglo-saxon"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017267> ;
+    skos:hiddenLabel "yRGKArch11 - FundeGefäsKeramAngel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Angelsächsische Keramik"@de .
+

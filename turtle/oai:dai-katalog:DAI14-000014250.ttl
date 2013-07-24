@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014250> a skos:Concept ;
+    skos:altLabel "Art des situles"@fr,
+        "Situlae art"@en,
+        "Sztuka situl"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014248> ;
+    skos:hiddenLabel "yRGKArch07 - GeselKunstOrnamSitul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Situlenkunst"@de .
+

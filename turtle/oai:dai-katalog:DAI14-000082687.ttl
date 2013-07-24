@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082687> a skos:Concept ;
+    skos:altLabel "El Albaicín"@en,
+        "El Albaicín"@fr,
+        "El Albaicín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039354> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalGranaEl Albaic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "El Albaicín"@de .
+

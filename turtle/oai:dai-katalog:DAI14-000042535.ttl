@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042535> a skos:Concept ;
+    skos:altLabel "Eu-Bois l'Abbé"@en,
+        "Eu-Bois l'Abbé"@fr,
+        "Eu-Bois l'Abbé"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038734> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineEu-Bois l" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eu-Bois l'Abbé"@de .
+

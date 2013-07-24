@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067079> a skos:Concept ;
+    skos:altLabel "Aliman, jud. Constanţa"@en,
+        "Aliman, jud. Constanţa"@fr,
+        "Aliman, jud. Constanţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenAliman, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aliman, jud. Constanţa"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054797> a skos:Concept ;
+    skos:altLabel "Erkelenz-Terheeg"@en,
+        "Erkelenz-Terheeg"@fr,
+        "Erkelenz-Terheeg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075642> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHeinsErkelenz-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erkelenz-Terheeg"@de .
+

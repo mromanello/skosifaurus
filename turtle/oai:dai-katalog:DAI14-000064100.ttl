@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064100> a skos:Concept ;
+    skos:altLabel "Vrané nad Vltavou, okr. Praha-západ"@en,
+        "Vrané nad Vltavou, okr. Praha-západ"@fr,
+        "Vrané nad Vltavou, okr. Praha-západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyVrané nad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vrané nad Vltavou, okr. Praha-západ"@de .
+

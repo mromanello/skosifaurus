@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030991> a skos:Concept ;
+    skos:altLabel "Siena, Università"@en,
+        "Siena, Università"@fr,
+        "Siena, Università"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiSiena, Università" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siena, Università"@de .
+

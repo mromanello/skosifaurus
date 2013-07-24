@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015743> a skos:Concept ;
+    skos:altLabel "Porticus/cryptoporticus"@en,
+        "Portiques/cryptoportiques"@fr,
+        "Portyki/kryptoportyki/arkady"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015730> ;
+    skos:hiddenLabel "yRGKArch09 - BefunArchiPorti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Portiken/Kryptoportiken/Arkaden"@de .
+

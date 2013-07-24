@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078338> a skos:Concept ;
+    skos:altLabel "Monte do Padrão"@en,
+        "Monte do Padrão"@fr,
+        "Monte do Padrão"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039281> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuPortoMonte do" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte do Padrão"@de .
+

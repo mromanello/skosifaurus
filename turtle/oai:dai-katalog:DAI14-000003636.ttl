@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003636> a skos:Concept ;
+    skos:altLabel "prodotti tessili"@it,
+        "textiles"@en,
+        "textiles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003600> ;
+    skos:hiddenLabel "xAntWirtschObjTextil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Textilien"@de .
+

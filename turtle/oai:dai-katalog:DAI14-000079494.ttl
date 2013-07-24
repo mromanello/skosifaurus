@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079494> a skos:Concept ;
+    skos:altLabel "Karwowo"@en,
+        "Karwowo"@fr,
+        "Karwowo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039007> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZachoKarwowo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karwowo"@de .
+

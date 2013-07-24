@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054969> a skos:Concept ;
+    skos:altLabel "Porta Westfalica-Barkhausen"@en,
+        "Porta Westfalica-Barkhausen"@fr,
+        "Porta Westfalica-Barkhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038884> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrMindePorta Wes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Porta Westfalica-Barkhausen"@de .
+

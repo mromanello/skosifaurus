@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029305> a skos:Concept ;
+    skos:altLabel "Xanten, Archäologischer Park"@en,
+        "Xanten, Archäologischer Park"@fr,
+        "Xanten, Archäologischer Park"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuXanten, Archäologischer Park" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Xanten, Archäologischer Park"@de .
+

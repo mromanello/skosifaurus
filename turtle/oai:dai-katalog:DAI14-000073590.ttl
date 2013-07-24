@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073590> a skos:Concept ;
+    skos:altLabel "Covalta (Albaida)"@en,
+        "Covalta (Albaida)"@fr,
+        "Covalta (Albaida)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039346> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenValenCovalta (" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Covalta (Albaida)"@de .
+

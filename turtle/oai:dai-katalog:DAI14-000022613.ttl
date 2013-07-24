@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022613> a skos:Concept ;
+    skos:altLabel "Walther <von der Vogelweide>"@en,
+        "Walther <von der Vogelweide>"@fr,
+        "Walther <von der Vogelweide>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoWalther <von der Vogelweide>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Walther <von der Vogelweide>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031257> a skos:Concept ;
+    skos:altLabel "Baatz, Dietwulf"@en,
+        "Baatz, Dietwulf"@fr,
+        "Baatz, Dietwulf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliBaatz, Dietwulf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baatz, Dietwulf"@de .
+

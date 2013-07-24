@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029408> a skos:Concept ;
+    skos:altLabel "Bottrop, Museum für Ur- und Ortsgeschichte"@en,
+        "Bottrop, Museum für Ur- und Ortsgeschichte"@fr,
+        "Bottrop, Museum für Ur- und Ortsgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBottrop, Museum für Ur- und Ortsgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bottrop, Museum für Ur- und Ortsgeschichte"@de .
+

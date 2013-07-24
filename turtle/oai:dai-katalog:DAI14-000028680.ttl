@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028680> a skos:Concept ;
+    skos:altLabel "Oslo, Viking Ship Museum"@en,
+        "Oslo, Viking Ship Museum"@fr,
+        "Oslo, Viking Ship Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuOslo, Viking Ship Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oslo, Viking Ship Museum"@de .
+

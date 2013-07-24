@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073002> a skos:Concept ;
+    skos:altLabel "Cueva del Rey"@en,
+        "Cueva del Rey"@fr,
+        "Cueva del Rey"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039308> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCantaCueva del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cueva del Rey"@de .
+

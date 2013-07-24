@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060753> a skos:Concept ;
+    skos:altLabel "Jaskinia Komarowa, Częstochowa"@en,
+        "Jaskinia Komarowa, Częstochowa"@fr,
+        "Jaskinia Komarowa, Częstochowa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039026> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskSlaskJaskinia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jaskinia Komarowa, Częstochowa"@de .
+

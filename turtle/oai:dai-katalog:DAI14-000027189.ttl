@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027189> a skos:Concept ;
+    skos:altLabel "Sanzeno 2005"@en,
+        "Sanzeno 2005"@fr,
+        "Sanzeno 2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstSanzeno 2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sanzeno 2005"@de .
+

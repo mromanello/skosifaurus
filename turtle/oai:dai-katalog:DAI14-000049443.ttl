@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049443> a skos:Concept ;
+    skos:altLabel "Eext"@en,
+        "Eext"@fr,
+        "Eext"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038851> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeDrentEext" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eext"@de .
+

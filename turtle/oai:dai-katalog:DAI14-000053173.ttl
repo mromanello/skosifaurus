@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053173> a skos:Concept ;
+    skos:altLabel "Kummerow"@en,
+        "Kummerow"@fr,
+        "Kummerow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075524> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklDemmiKummerow" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kummerow"@de .
+

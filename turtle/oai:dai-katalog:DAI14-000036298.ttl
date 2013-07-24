@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036298> a skos:Concept ;
+    skos:altLabel "Lecce 1986"@en,
+        "Lecce 1986"@fr,
+        "Lecce 1986"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLecce 1986" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lecce 1986"@de .
+

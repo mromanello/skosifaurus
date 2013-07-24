@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066636> a skos:Concept ;
+    skos:altLabel "Dosul Napului, jud. Cluj"@en,
+        "Dosul Napului, jud. Cluj"@fr,
+        "Dosul Napului, jud. Cluj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatDosul Nap" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dosul Napului, jud. Cluj"@de .
+

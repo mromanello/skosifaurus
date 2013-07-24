@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029029> a skos:Concept ;
+    skos:altLabel "St. Petersburg, Staatliche Ermitage"@en,
+        "St. Petersburg, Staatliche Ermitage"@fr,
+        "St. Petersburg, Staatliche Ermitage"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSt. Petersburg, Staatliche Ermitage" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "St. Petersburg, Staatliche Ermitage"@de .
+

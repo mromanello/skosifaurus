@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046119> a skos:Concept ;
+    skos:altLabel "Vic-Bilh"@en,
+        "Vic-Bilh"@fr,
+        "Vic-Bilh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038825> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitZZ--RVic-Bilh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vic-Bilh"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029215> a skos:Concept ;
+    skos:altLabel "Vieil-Évreux, Centre d'interprétation archéologiqueque"@en,
+        "Vieil-Évreux, Centre d'interprétation archéologiqueque"@fr,
+        "Vieil-Évreux, Centre d'interprétation archéologiqueque"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuVieil-Évreux, Centre d'interprétation archéologiqueque" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vieil-Évreux, Centre d'interprétation archéologiqueque"@de .
+

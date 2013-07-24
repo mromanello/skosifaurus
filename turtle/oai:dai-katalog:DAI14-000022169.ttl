@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022169> a skos:Concept ;
+    skos:altLabel "Paweł z Przemankowa"@en,
+        "Paweł z Przemankowa"@fr,
+        "Paweł z Przemankowa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPaweł z Przemankowa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paweł z Przemankowa"@de .
+

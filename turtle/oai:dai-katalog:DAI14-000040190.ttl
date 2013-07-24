@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040190> a skos:Concept ;
+    skos:altLabel "Stevns-Ornehus, Praestø Amt"@en,
+        "Stevns-Ornehus, Praestø Amt"@fr,
+        "Stevns-Ornehus, Praestø Amt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038703> ;
+    skos:hiddenLabel "zTopogEuropNordeDänemStevns-Or" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stevns-Ornehus, Praestø Amt"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073071> a skos:Concept ;
+    skos:altLabel "Vera de Bidasoa"@en,
+        "Vera de Bidasoa"@fr,
+        "Vera de Bidasoa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039313> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniNavarVera de B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vera de Bidasoa"@de .
+

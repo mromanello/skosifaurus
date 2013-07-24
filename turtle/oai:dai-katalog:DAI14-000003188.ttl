@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003188> a skos:Concept ;
+    skos:altLabel "mosaico di parete e soffitto"@it,
+        "mosaïques des murs et des plafonds"@fr,
+        "wall and vault mosaics"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003149> ;
+    skos:hiddenLabel "xMosWand" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wand- und Deckenmosaik"@de .
+

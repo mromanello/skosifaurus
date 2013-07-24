@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084134> a skos:Concept ;
+    skos:altLabel "Mainz-Laubenheim"@en,
+        "Mainz-Laubenheim"@fr,
+        "Mainz-Laubenheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038927> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinMainzMainz-Lau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mainz-Laubenheim"@de .
+

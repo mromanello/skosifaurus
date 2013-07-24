@@ -1,0 +1,900 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002410_Ab-Yaneh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ab-Yaneh" .
+
+<http://data.dainst.de/zenon/000002410_AbuSkhair> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Abu Skhair" .
+
+<http://data.dainst.de/zenon/000002410_AgrabTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Agrab Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Aivan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Aivan" .
+
+<http://data.dainst.de/zenon/000002410_AliKosh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ali Kosh" .
+
+<http://data.dainst.de/zenon/000002410_Alulak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Alulak" .
+
+<http://data.dainst.de/zenon/000002410_Anshanvedi:Tall-iMalyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Anshan vedi: Tall-i Malyan" .
+
+<http://data.dainst.de/zenon/000002410_Arjan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Arjan" .
+
+<http://data.dainst.de/zenon/000002410_ArjaqQalʿeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Arjaq Qalʿeh" .
+
+<http://data.dainst.de/zenon/000002410_Atesh-Kuh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Atesh-Kuh" .
+
+<http://data.dainst.de/zenon/000002410_BabaJan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Baba Jan" .
+
+<http://data.dainst.de/zenon/000002410_Bampur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bampur" .
+
+<http://data.dainst.de/zenon/000002410_Bandian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bandian" .
+
+<http://data.dainst.de/zenon/000002410_Bard-i-Bal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bard-i-Bal" .
+
+<http://data.dainst.de/zenon/000002410_Bard-èNechandeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bard-è Nechandeh" .
+
+<http://data.dainst.de/zenon/000002410_Barm-iDelak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Barm-i Delak" .
+
+<http://data.dainst.de/zenon/000002410_Bastam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bastam" .
+
+<http://data.dainst.de/zenon/000002410_Baz-iHur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Baz-i Hur" .
+
+<http://data.dainst.de/zenon/000002410_Bendebal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bendebal" .
+
+<http://data.dainst.de/zenon/000002410_Bishapur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bishapur" .
+
+<http://data.dainst.de/zenon/000002410_Bisutun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bisutun" .
+
+<http://data.dainst.de/zenon/000002410_Bolurabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Bolurabad" .
+
+<http://data.dainst.de/zenon/000002410_Buzpar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Buzpar" .
+
+<http://data.dainst.de/zenon/000002410_ChaghaSefid> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Chagha Sefid" .
+
+<http://data.dainst.de/zenon/000002410_ChaharTaq> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Chahar Taq" .
+
+<http://data.dainst.de/zenon/000002410_ChamzhiMumah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Chamzhi Mumah" .
+
+<http://data.dainst.de/zenon/000002410_Chehelkhana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Chehelkhana" .
+
+<http://data.dainst.de/zenon/000002410_CheshmehAli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Cheshmeh Ali" .
+
+<http://data.dainst.de/zenon/000002410_ChogaMish> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Choga Mish" .
+
+<http://data.dainst.de/zenon/000002410_Corbulaq> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Corbulaq" .
+
+<http://data.dainst.de/zenon/000002410_Dahan-iGhulaman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dahan-i Ghulaman" .
+
+<http://data.dainst.de/zenon/000002410_Dailaman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dailaman" .
+
+<http://data.dainst.de/zenon/000002410_DalmaTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dalma Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Damin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Damin" .
+
+<http://data.dainst.de/zenon/000002410_Darabgird> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Darabgird" .
+
+<http://data.dainst.de/zenon/000002410_Dargaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dargaz" .
+
+<http://data.dainst.de/zenon/000002410_Deh-Bozan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Deh-Bozan" .
+
+<http://data.dainst.de/zenon/000002410_Didgan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Didgan" .
+
+<http://data.dainst.de/zenon/000002410_DinkhaTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dinkha Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Djaffarabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Djaffarabad" .
+
+<http://data.dainst.de/zenon/000002410_Djamgaran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Djamgaran" .
+
+<http://data.dainst.de/zenon/000002410_Dodehak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dodehak" .
+
+<http://data.dainst.de/zenon/000002410_Dorudzan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dorudzan" .
+
+<http://data.dainst.de/zenon/000002410_Dum-iMil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dum-i Mil" .
+
+<http://data.dainst.de/zenon/000002410_DumGarParchinah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dum Gar Parchinah" .
+
+<http://data.dainst.de/zenon/000002410_DurUntashvedi:TchogaZanbil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Dur Untash vedi: Tchoga Zanbil" .
+
+<http://data.dainst.de/zenon/000002410_Evoghlu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Evoghlu" .
+
+<http://data.dainst.de/zenon/000002410_Eywan-iKerkha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Eywan-i Kerkha" .
+
+<http://data.dainst.de/zenon/000002410_Fakhrikah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Fakhrikah" .
+
+<http://data.dainst.de/zenon/000002410_Farrashband> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Farrashband" .
+
+<http://data.dainst.de/zenon/000002410_Firuzabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Firuzabad" .
+
+<http://data.dainst.de/zenon/000002410_GaliZerdak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gali Zerdak" .
+
+<http://data.dainst.de/zenon/000002410_GanjDareh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ganj Dareh" .
+
+<http://data.dainst.de/zenon/000002410_GardanahGalumushukvedi:Qir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gardanah Galumushuk vedi: Qir" .
+
+<http://data.dainst.de/zenon/000002410_GeoyTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Geoy Tepe" .
+
+<http://data.dainst.de/zenon/000002410_GhagaŠahr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ghaga Šahr" .
+
+<http://data.dainst.de/zenon/000002410_Gilkart> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gilkart" .
+
+<http://data.dainst.de/zenon/000002410_Gilzanu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gilzanu" .
+
+<http://data.dainst.de/zenon/000002410_Girre> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Girre" .
+
+<http://data.dainst.de/zenon/000002410_GodinTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Godin Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Gorgan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gorgan" .
+
+<http://data.dainst.de/zenon/000002410_Gundešapur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Gundešapur" .
+
+<http://data.dainst.de/zenon/000002410_HaftTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Haft Tepe" .
+
+<http://data.dainst.de/zenon/000002410_HaftavanTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Haftavan Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Hajiabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hajiabad" .
+
+<http://data.dainst.de/zenon/000002410_Hakalan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hakalan" .
+
+<http://data.dainst.de/zenon/000002410_Halimehjan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Halimehjan" .
+
+<http://data.dainst.de/zenon/000002410_Hamadan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hamadan" .
+
+<http://data.dainst.de/zenon/000002410_Harsin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Harsin" .
+
+<http://data.dainst.de/zenon/000002410_Hasanlu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hasanlu" .
+
+<http://data.dainst.de/zenon/000002410_Hong-eKamalwand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hong-e Kamalwand" .
+
+<http://data.dainst.de/zenon/000002410_Hong-eYarʿAliwand> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hong-e Yar ʿAliwand" .
+
+<http://data.dainst.de/zenon/000002410_Hormoz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hormoz" .
+
+<http://data.dainst.de/zenon/000002410_Huhnur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Huhnur" .
+
+<http://data.dainst.de/zenon/000002410_Hung-iNauruzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Hung-i Nauruzi" .
+
+<http://data.dainst.de/zenon/000002410_IlanQara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ilan Qara" .
+
+<http://data.dainst.de/zenon/000002410_Imamzadeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Imamzadeh" .
+
+<http://data.dainst.de/zenon/000002410_Ishchali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ishchali" .
+
+<http://data.dainst.de/zenon/000002410_Ismailabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ismailabad" .
+
+<http://data.dainst.de/zenon/000002410_Istakhr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Istakhr" .
+
+<http://data.dainst.de/zenon/000002410_Izadkhast> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Izadkhast" .
+
+<http://data.dainst.de/zenon/000002410_Izeh-Malamir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Izeh-Malamir" .
+
+<http://data.dainst.de/zenon/000002410_KaleSiah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kale Siah" .
+
+<http://data.dainst.de/zenon/000002410_KallehNisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kalleh Nisar" .
+
+<http://data.dainst.de/zenon/000002410_Kalwali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kalwali" .
+
+<http://data.dainst.de/zenon/000002410_Kangavar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kangavar" .
+
+<http://data.dainst.de/zenon/000002410_Karaftu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Karaftu" .
+
+<http://data.dainst.de/zenon/000002410_Kermanshah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kermanshah" .
+
+<http://data.dainst.de/zenon/000002410_Kharg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kharg" .
+
+<http://data.dainst.de/zenon/000002410_Khawrabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Khawrabad" .
+
+<http://data.dainst.de/zenon/000002410_Khenaman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Khenaman" .
+
+<http://data.dainst.de/zenon/000002410_KheyrabadBala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kheyrabad Bala" .
+
+<http://data.dainst.de/zenon/000002410_KheyrabadPaïn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kheyrabad Païn" .
+
+<http://data.dainst.de/zenon/000002410_Khonsar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Khonsar" .
+
+<http://data.dainst.de/zenon/000002410_Khurha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Khurha" .
+
+<http://data.dainst.de/zenon/000002410_Khurvin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Khurvin" .
+
+<http://data.dainst.de/zenon/000002410_Kighal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kighal" .
+
+<http://data.dainst.de/zenon/000002410_KizKalesi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kiz Kalesi" .
+
+<http://data.dainst.de/zenon/000002410_KordlarTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kordlar Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Kuh-eKhwadjavedi:GhagaŠahr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kuh-e Khwadja vedi: Ghaga Šahr" .
+
+<http://data.dainst.de/zenon/000002410_Kuh-iShahrak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kuh-i Shahrak" .
+
+<http://data.dainst.de/zenon/000002410_Kul-iFarah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kul-i Farah" .
+
+<http://data.dainst.de/zenon/000002410_Kurangun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kurangun" .
+
+<http://data.dainst.de/zenon/000002410_Kutal-iGulgul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Kutal-i Gulgul" .
+
+<http://data.dainst.de/zenon/000002410_LamehZamin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Lameh Zamin" .
+
+<http://data.dainst.de/zenon/000002410_Lang-iRud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Lang-i Rud" .
+
+<http://data.dainst.de/zenon/000002410_Lar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Lar" .
+
+<http://data.dainst.de/zenon/000002410_Leilan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Leilan" .
+
+<http://data.dainst.de/zenon/000002410_Madaktu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Madaktu" .
+
+<http://data.dainst.de/zenon/000002410_Madjdabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Madjdabad" .
+
+<http://data.dainst.de/zenon/000002410_Malamir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Malamir" .
+
+<http://data.dainst.de/zenon/000002410_Maliyun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Maliyun" .
+
+<http://data.dainst.de/zenon/000002410_Malyanvedi:Tall-iMalyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Malyan vedi: Tall-i Malyan" .
+
+<http://data.dainst.de/zenon/000002410_Marlik> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Marlik" .
+
+<http://data.dainst.de/zenon/000002410_MarlikTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Marlik Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Masjid-iSangi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Masjid-i Sangi" .
+
+<http://data.dainst.de/zenon/000002410_Masjid-iSolaiman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Masjid-i Solaiman" .
+
+<http://data.dainst.de/zenon/000002410_Mayar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Mayar" .
+
+<http://data.dainst.de/zenon/000002410_MirKhair> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Mir Khair" .
+
+<http://data.dainst.de/zenon/000002410_Nakhlak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Nakhlak" .
+
+<http://data.dainst.de/zenon/000002410_Naqsh-iRağab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Naqsh-i Rağab" .
+
+<http://data.dainst.de/zenon/000002410_Naqsh-iRustam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Naqsh-i Rustam" .
+
+<http://data.dainst.de/zenon/000002410_Neh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Neh" .
+
+<http://data.dainst.de/zenon/000002410_Niasar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Niasar" .
+
+<http://data.dainst.de/zenon/000002410_Nush-iJan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Nush-i Jan" .
+
+<http://data.dainst.de/zenon/000002410_Pa-yiKal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pa-yi Kal" .
+
+<http://data.dainst.de/zenon/000002410_Pasargadai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pasargadai" .
+
+<http://data.dainst.de/zenon/000002410_Pasavedi:Tall-iZohak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pasa vedi: Tall-i Zohak" .
+
+<http://data.dainst.de/zenon/000002410_Pengan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pengan" .
+
+<http://data.dainst.de/zenon/000002410_Persepolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Persepolis" .
+
+<http://data.dainst.de/zenon/000002410_PilehQualʿeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pileh Qualʿeh" .
+
+<http://data.dainst.de/zenon/000002410_PisdeliTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pisdeli Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Pul-iʿAbbasi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Pul-i ʿAbbasi" .
+
+<http://data.dainst.de/zenon/000002410_Qadamgah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qadamgah" .
+
+<http://data.dainst.de/zenon/000002410_Qalatgah> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalatgah" .
+
+<http://data.dainst.de/zenon/000002410_QalehSeidjDukkan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qaleh Seidj Dukkan" .
+
+<http://data.dainst.de/zenon/000002410_Qalʿa-yeDukhtar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿa-ye Dukhtar" .
+
+<http://data.dainst.de/zenon/000002410_Qalʿat-iHaidari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿat-i Haidari" .
+
+<http://data.dainst.de/zenon/000002410_Qalʿeh-iYazdigird> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿeh-i Yazdigird" .
+
+<http://data.dainst.de/zenon/000002410_QalʿehGabri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿeh Gabri" .
+
+<http://data.dainst.de/zenon/000002410_QalʿehGavur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿeh Gavur" .
+
+<http://data.dainst.de/zenon/000002410_QalʿehHadjestan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿeh Hadjestan" .
+
+<http://data.dainst.de/zenon/000002410_QalʿehZohak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qalʿeh Zohak" .
+
+<http://data.dainst.de/zenon/000002410_Qanat-iBagh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qanat-i Bagh" .
+
+<http://data.dainst.de/zenon/000002410_Qasr-iAbuNasr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qasr-i Abu Nasr" .
+
+<http://data.dainst.de/zenon/000002410_Qasr-iŠirin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qasr-i Širin" .
+
+<http://data.dainst.de/zenon/000002410_Qeshm> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qeshm" .
+
+<http://data.dainst.de/zenon/000002410_Qeytharieh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qeytharieh" .
+
+<http://data.dainst.de/zenon/000002410_Qir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qir" .
+
+<http://data.dainst.de/zenon/000002410_QizQalʿeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qiz Qalʿeh" .
+
+<http://data.dainst.de/zenon/000002410_QualʿehZari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Qualʿeh Zari" .
+
+<http://data.dainst.de/zenon/000002410_Raddana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Raddana" .
+
+<http://data.dainst.de/zenon/000002410_Ravansar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ravansar" .
+
+<http://data.dainst.de/zenon/000002410_Ravaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ravaz" .
+
+<http://data.dainst.de/zenon/000002410_Ribat-iSefidvedi:Baz-iHur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ribat-i Sefid vedi: Baz-i Hur" .
+
+<http://data.dainst.de/zenon/000002410_Sagzabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sagzabad" .
+
+<http://data.dainst.de/zenon/000002410_Salmas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Salmas" .
+
+<http://data.dainst.de/zenon/000002410_Sar-i-Darreh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sar-i-Darreh" .
+
+<http://data.dainst.de/zenon/000002410_Sar-i-Pul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sar-i-Pul" .
+
+<http://data.dainst.de/zenon/000002410_SarMašhad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sar Mašhad" .
+
+<http://data.dainst.de/zenon/000002410_Sarab-iQandil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sarab-i Qandil" .
+
+<http://data.dainst.de/zenon/000002410_Sarmag> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sarmag" .
+
+<http://data.dainst.de/zenon/000002410_Sarpol-iZohab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sarpol-i Zohab" .
+
+<http://data.dainst.de/zenon/000002410_Sarvistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sarvistan" .
+
+<http://data.dainst.de/zenon/000002410_SehGabi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Seh Gabi" .
+
+<http://data.dainst.de/zenon/000002410_Seleukeia(Hedyphon)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Seleukeia (Hedyphon)" .
+
+<http://data.dainst.de/zenon/000002410_Sequindel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sequindel" .
+
+<http://data.dainst.de/zenon/000002410_Shahdad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Shahdad" .
+
+<http://data.dainst.de/zenon/000002410_Shahr-iSokhta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Shahr-i Sokhta" .
+
+<http://data.dainst.de/zenon/000002410_Shahriyar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Shahriyar" .
+
+<http://data.dainst.de/zenon/000002410_Shikaft-iGulgul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Shikaft-i Gulgul" .
+
+<http://data.dainst.de/zenon/000002410_Shimbar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Shimbar" .
+
+<http://data.dainst.de/zenon/000002410_Siraf> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Siraf" .
+
+<http://data.dainst.de/zenon/000002410_Sultanabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sultanabad" .
+
+<http://data.dainst.de/zenon/000002410_Susa(Elam)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Susa (Elam)" .
+
+<http://data.dainst.de/zenon/000002410_SéGirdan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Sé Girdan" .
+
+<http://data.dainst.de/zenon/000002410_TaAzara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ta Azara" .
+
+<http://data.dainst.de/zenon/000002410_Tahlab> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tahlab" .
+
+<http://data.dainst.de/zenon/000002410_Takht-iBelqis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Takht-i Belqis" .
+
+<http://data.dainst.de/zenon/000002410_Takht-iBenaru> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Takht-i Benaru" .
+
+<http://data.dainst.de/zenon/000002410_Takht-iRustam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Takht-i Rustam" .
+
+<http://data.dainst.de/zenon/000002410_Takht-iSuleiman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Takht-i Suleiman" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iBakun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Bakun" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iIblis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Iblis" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iJarri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Jarri" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iMalyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Malyan" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iMushki> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Mushki" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iNokhodivedi:Pasargadai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Nokhodi vedi: Pasargadai" .
+
+<http://data.dainst.de/zenon/000002410_Tall-iZohak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tall-i Zohak" .
+
+<http://data.dainst.de/zenon/000002410_Tamar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tamar" .
+
+<http://data.dainst.de/zenon/000002410_Tang-iQandil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tang-i Qandil" .
+
+<http://data.dainst.de/zenon/000002410_Tang-iSarvak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tang-i Sarvak" .
+
+<http://data.dainst.de/zenon/000002410_Taq-iBustan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Taq-i Bustan" .
+
+<http://data.dainst.de/zenon/000002410_TchogaZanbil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tchoga Zanbil" .
+
+<http://data.dainst.de/zenon/000002410_Teheran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Teheran" .
+
+<http://data.dainst.de/zenon/000002410_TepeDjowi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Djowi" .
+
+<http://data.dainst.de/zenon/000002410_TepeEshqabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Eshqabad" .
+
+<http://data.dainst.de/zenon/000002410_TepeGhabristan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Ghabristan" .
+
+<http://data.dainst.de/zenon/000002410_TepeGiyan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Giyan" .
+
+<http://data.dainst.de/zenon/000002410_TepeGuran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Guran" .
+
+<http://data.dainst.de/zenon/000002410_TepeHissar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Hissar" .
+
+<http://data.dainst.de/zenon/000002410_TepeKalwali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Kalwali" .
+
+<http://data.dainst.de/zenon/000002410_TepeMill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Mill" .
+
+<http://data.dainst.de/zenon/000002410_TepeSharafabad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Sharafabad" .
+
+<http://data.dainst.de/zenon/000002410_TepeSialk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Sialk" .
+
+<http://data.dainst.de/zenon/000002410_TepeWarKabud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe War Kabud" .
+
+<http://data.dainst.de/zenon/000002410_TepeYahya> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tepe Yahya" .
+
+<http://data.dainst.de/zenon/000002410_TurengTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Tureng Tepe" .
+
+<http://data.dainst.de/zenon/000002410_Urlangaz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Urlangaz" .
+
+<http://data.dainst.de/zenon/000002410_Veshnoveh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Veshnoveh" .
+
+<http://data.dainst.de/zenon/000002410_WarKabud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "War Kabud" .
+
+<http://data.dainst.de/zenon/000002410_Werachram> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Werachram" .
+
+<http://data.dainst.de/zenon/000002410_Xong-eAždar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Xong-e Aždar" .
+
+<http://data.dainst.de/zenon/000002410_Yakhvali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Yakhvali" .
+
+<http://data.dainst.de/zenon/000002410_YanikTepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Yanik Tepe" .
+
+<http://data.dainst.de/zenon/000002410_YarimTepe(Iran)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Yarim Tepe (Iran)" .
+
+<http://data.dainst.de/zenon/000002410_YazdeQalʾeh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Yazde Qalʾeh" .
+
+<http://data.dainst.de/zenon/000002410_Zargaran> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Zargaran" .
+
+<http://data.dainst.de/zenon/000002410_Zendan-iSuleiman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Zendan-i Suleiman" .
+
+<http://data.dainst.de/zenon/000002410_Ziwiye> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Ziwiye" .
+
+<http://data.dainst.de/zenon/000002410_ČalTarkhan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Čal Tarkhan" .
+
+<http://data.dainst.de/zenon/000002410_Šekaf-eSalman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002410> ;
+    skos:prefLabel "Šekaf-e Salman" .
+
+<http://data.dainst.de/zenon/000002410> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002408> ;
+    skos:hiddenLabel "xTopLandIranOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

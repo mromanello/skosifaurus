@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057538> a skos:Concept ;
+    skos:altLabel "Stankovci-Benkovac"@en,
+        "Stankovci-Benkovac"@fr,
+        "Stankovci-Benkovac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatStankovci" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stankovci-Benkovac"@de .
+

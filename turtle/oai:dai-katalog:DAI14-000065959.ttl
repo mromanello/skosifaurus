@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065959> a skos:Concept ;
+    skos:altLabel "Sedlare"@en,
+        "Sedlare"@fr,
+        "Sedlare"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039113> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaPlovdKardzSedlare" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sedlare"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084103> a skos:Concept ;
+    skos:altLabel "Carmanhall"@en,
+        "Carmanhall"@fr,
+        "Carmanhall"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077515> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubDubliCarmanhal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carmanhall"@de .
+

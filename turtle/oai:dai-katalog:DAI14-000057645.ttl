@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057645> a skos:Concept ;
+    skos:altLabel "Vrehovine, Bezdanjača špilja"@en,
+        "Vrehovine, Bezdanjača špilja"@fr,
+        "Vrehovine, Bezdanjača špilja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatVrehovine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vrehovine, Bezdanjača špilja"@de .
+

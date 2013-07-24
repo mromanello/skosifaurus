@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063711> a skos:Concept ;
+    skos:altLabel "Ledeč nad Sázavou, okr. Havlíčkův Brod"@en,
+        "Ledeč nad Sázavou, okr. Havlíčkův Brod"@fr,
+        "Ledeč nad Sázavou, okr. Havlíčkův Brod"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyLedeč nad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ledeč nad Sázavou, okr. Havlíčkův Brod"@de .
+

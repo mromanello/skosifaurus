@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017317> a skos:Concept ;
+    skos:altLabel "Passoirs"@fr,
+        "Sieves"@en,
+        "Sita/cedzaki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017311> ;
+    skos:hiddenLabel "yRGKArch11 - FundeGerätHandwSiebe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siebe/Sieblöffel"@de .
+

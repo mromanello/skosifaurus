@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054914> a skos:Concept ;
+    skos:altLabel "Kalletal-Lüdenhausen"@en,
+        "Kalletal-Lüdenhausen"@fr,
+        "Kalletal-Lüdenhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038881> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrLippeKalletal-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalletal-Lüdenhausen"@de .
+

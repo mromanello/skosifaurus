@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047455> a skos:Concept ;
+    skos:altLabel "Kennet Valley"@en,
+        "Kennet Valley"@fr,
+        "Kennet Valley"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077678> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaBerksKennet Va" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kennet Valley"@de .
+

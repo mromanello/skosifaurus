@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053924> a skos:Concept ;
+    skos:altLabel "Sieboldshausen, Gde. Rosdorf"@en,
+        "Sieboldshausen, Gde. Rosdorf"@fr,
+        "Sieboldshausen, Gde. Rosdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075577> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGöttiSieboldsh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sieboldshausen, Gde. Rosdorf"@de .
+

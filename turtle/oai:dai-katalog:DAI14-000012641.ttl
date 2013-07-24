@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012641> a skos:Concept ;
+    skos:altLabel "Choroby/urazy"@pl,
+        "Diseases/traumas"@en,
+        "Maladies/blessures"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012639> ;
+    skos:hiddenLabel "yRGKArch03 - GeselMedizKrank" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Krankheiten/Verletzungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082813> a skos:Concept ;
+    skos:altLabel "Enzberg"@en,
+        "Enzberg"@fr,
+        "Enzberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075335> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenEnzkrEnzberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Enzberg"@de .
+

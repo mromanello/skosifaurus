@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032040> a skos:Concept ;
+    skos:altLabel "Zachar, Lev"@en,
+        "Zachar, Lev"@fr,
+        "Zachar, Lev"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliZachar, Lev" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zachar, Lev"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025446> a skos:Concept ;
+    skos:altLabel "Gregor von Tour"@en,
+        "Gregor von Tour"@fr,
+        "Gregor von Tour"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018030> ;
+    skos:hiddenLabel "yRGKArch11 - HistoProsoEinzeGregor von Tour" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gregor von Tour"@de .
+

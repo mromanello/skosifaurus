@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016343> a skos:Concept ;
+    skos:altLabel "Histoire de la science"@fr,
+        "Historia nauki"@pl,
+        "History of sciences"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016260> ;
+    skos:hiddenLabel "yRGKArch09 - HistoWisse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wissenschaftsgeschichte"@de .
+

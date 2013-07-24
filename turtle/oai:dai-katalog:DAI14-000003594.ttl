@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003594> a skos:Concept ;
+    skos:altLabel "economia statale"@it,
+        "state economy"@en,
+        "économie publique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003592> ;
+    skos:hiddenLabel "xAntWirtschStaat" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Staat"@de .
+

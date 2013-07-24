@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013580> a skos:Concept ;
+    skos:altLabel "Rzezby/plastyka"@pl,
+        "Sculptures/plastiques"@fr,
+        "Sculptures/statues"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013578> ;
+    skos:hiddenLabel "yRGKArch06 - FundeKunstSkulp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skulpturen/Plastiken"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051602> a skos:Concept ;
+    skos:altLabel "Reichenschwand"@en,
+        "Reichenschwand"@fr,
+        "Reichenschwand"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000079130> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNürnbReichensc" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reichenschwand"@de .
+

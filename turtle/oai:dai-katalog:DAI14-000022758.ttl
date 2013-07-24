@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022758> a skos:Concept ;
+    skos:altLabel "Gens Calestria"@en,
+        "Gens Calestria"@fr,
+        "Gens Calestria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschGens Calestria" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gens Calestria"@de .
+

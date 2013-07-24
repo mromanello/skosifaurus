@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031530> a skos:Concept ;
+    skos:altLabel "Harck, Ole"@en,
+        "Harck, Ole"@fr,
+        "Harck, Ole"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliHarck, Ole" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Harck, Ole"@de .
+

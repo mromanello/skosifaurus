@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006493> a skos:Concept ;
+    skos:altLabel "Höbarth, Josef"@en,
+        "Höbarth, Josef"@fr,
+        "Höbarth, Josef"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHöbarth, Josef" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Höbarth, Josef"@de .
+

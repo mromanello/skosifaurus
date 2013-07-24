@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065332> a skos:Concept ;
+    skos:altLabel "Szelevény"@en,
+        "Szelevény"@fr,
+        "Szelevény"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039087> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunJász-Szelevény" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Szelevény"@de .
+

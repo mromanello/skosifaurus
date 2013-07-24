@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066908> a skos:Concept ;
+    skos:altLabel "Stupini, jud. Bistriţa-Năsăud"@en,
+        "Stupini, jud. Bistriţa-Năsăud"@fr,
+        "Stupini, jud. Bistriţa-Năsăud"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatStupini," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stupini, jud. Bistriţa-Năsăud"@de .
+

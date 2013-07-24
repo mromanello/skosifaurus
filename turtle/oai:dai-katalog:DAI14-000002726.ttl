@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002726> a skos:Concept ;
+    skos:altLabel "temi letterari antichi nell'arte post-antica"@it,
+        "themes of ancient literature in post-ancient art"@en,
+        "thèmes littéraires antiques repris par l'art post-antique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002690> ;
+    skos:hiddenLabel "xKgLitnachant" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Themen der antiken Literatur in der nachantiken Kunst"@de .
+

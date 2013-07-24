@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074294> a skos:Concept ;
+    skos:altLabel "Gerar"@en,
+        "Gerar"@fr,
+        "Gerar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeGerar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gerar"@de .
+

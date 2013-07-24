@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036717> a skos:Concept ;
+    skos:altLabel "Moskva 1892"@en,
+        "Moskva 1892"@fr,
+        "Moskva 1892"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMoskva 1892" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moskva 1892"@de .
+

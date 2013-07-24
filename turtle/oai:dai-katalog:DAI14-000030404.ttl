@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030404> a skos:Concept ;
+    skos:altLabel "Sl'ažany (Slowakei), Sammlung M. Koprda"@en,
+        "Sl'ažany (Slowakei), Sammlung M. Koprda"@fr,
+        "Sl'ažany (Slowakei), Sammlung M. Koprda"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaSl'ažany (Slowakei), Sammlung M. Koprda" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sl'ažany (Slowakei), Sammlung M. Koprda"@de .
+

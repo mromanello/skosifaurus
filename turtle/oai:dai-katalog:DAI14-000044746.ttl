@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044746> a skos:Concept ;
+    skos:altLabel "Cieux-Abri des Fées"@en,
+        "Cieux-Abri des Fées"@fr,
+        "Cieux-Abri des Fées"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038793> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverHauteCieux-Abr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cieux-Abri des Fées"@de .
+

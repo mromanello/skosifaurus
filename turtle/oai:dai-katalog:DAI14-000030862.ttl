@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030862> a skos:Concept ;
+    skos:altLabel "Gent, Université, HAVIK"@en,
+        "Gent, Université, HAVIK"@fr,
+        "Gent, Université, HAVIK"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiGent, Université, HAVIK" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gent, Université, HAVIK"@de .
+

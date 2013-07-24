@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046513> a skos:Concept ;
+    skos:altLabel "Hyse"@en,
+        "Hyse"@fr,
+        "Hyse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038832> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguZZ--RHyse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hyse"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003397> a skos:Concept ;
+    skos:altLabel "altri e non classificati"@it,
+        "autres et non déterminés"@fr,
+        "other and unclassified jewelry"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003390> ;
+    skos:hiddenLabel "xSchmuckAnd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "anderer und unklassifizierter Schmuck"@de .
+

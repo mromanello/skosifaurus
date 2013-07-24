@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064408> a skos:Concept ;
+    skos:altLabel "Klimkovice, okr. Nový Jičín"@en,
+        "Klimkovice, okr. Nový Jičín"@fr,
+        "Klimkovice, okr. Nový Jičín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravKlimkovic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klimkovice, okr. Nový Jičín"@de .
+

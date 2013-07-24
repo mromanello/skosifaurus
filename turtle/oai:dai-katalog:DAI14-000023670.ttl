@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023670> a skos:Concept ;
+    skos:altLabel "Iulius Zoilos"@en,
+        "Iulius Zoilos"@fr,
+        "Iulius Zoilos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015293> ;
+    skos:hiddenLabel "yRGKArch08 - HistoProsoEinzeIulius Zoilos" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iulius Zoilos"@de .
+

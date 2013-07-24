@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082792> a skos:Concept ;
+    skos:altLabel "Münstertal-Untermünstertal"@en,
+        "Münstertal-Untermünstertal"@fr,
+        "Münstertal-Untermünstertal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075331> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBreisMünsterta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Münstertal-Untermünstertal"@de .
+

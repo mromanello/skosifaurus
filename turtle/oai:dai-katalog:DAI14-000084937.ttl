@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084937> a skos:Concept ;
+    skos:altLabel "Eggardon Hill"@en,
+        "Eggardon Hill"@fr,
+        "Eggardon Hill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077686> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaDorseEggardon Hill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eggardon Hill"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036623> a skos:Concept ;
+    skos:altLabel "Mátrafüred 1989"@en,
+        "Mátrafüred 1989"@fr,
+        "Mátrafüred 1989"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMátrafüred 1989" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mátrafüred 1989"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072556> a skos:Concept ;
+    skos:altLabel "Bingia 'e Monti"@en,
+        "Bingia 'e Monti"@fr,
+        "Bingia 'e Monti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039273> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeOristBingia 'e" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bingia 'e Monti"@de .
+

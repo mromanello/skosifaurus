@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022984> a skos:Concept ;
+    skos:altLabel "Epitome de Caesaribus"@en,
+        "Epitome de Caesaribus"@fr,
+        "Epitome de Caesaribus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012490> ;
+    skos:hiddenLabel "yRGKArch02 - SchriHistoEpitome de Caesaribus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Epitome de Caesaribus"@de .
+

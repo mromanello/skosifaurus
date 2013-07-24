@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039715> a skos:Concept ;
+    skos:altLabel "Žeimenis, Švenčionys raj."@en,
+        "Žeimenis, Švenčionys raj."@fr,
+        "Žeimenis, Švenčionys raj."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038702> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiLitauŽeimenis," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Žeimenis, Švenčionys raj."@de .
+

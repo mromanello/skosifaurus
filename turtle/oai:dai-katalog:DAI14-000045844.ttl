@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045844> a skos:Concept ;
+    skos:altLabel "Cambes"@en,
+        "Cambes"@fr,
+        "Cambes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038817> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitGironCambes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cambes"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077676> a skos:Concept ;
+    skos:altLabel "Immenbeck"@en,
+        "Immenbeck"@fr,
+        "Immenbeck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075586> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeStadeImmenbeck" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Immenbeck"@de .
+

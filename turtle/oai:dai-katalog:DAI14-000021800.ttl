@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021800> a skos:Concept ;
+    skos:altLabel "Johannes <Papa, IX.>"@en,
+        "Johannes <Papa, IX.>"@fr,
+        "Johannes <Papa, IX.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoJohannes <Papa, IX.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Johannes <Papa, IX.>"@de .
+

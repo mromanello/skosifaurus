@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002885> a skos:Concept ;
+    skos:altLabel "obelischi"@it,
+        "obelisks"@en,
+        "obélisques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002808> ;
+    skos:hiddenLabel "xArchitBauObel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obelisken"@de .
+

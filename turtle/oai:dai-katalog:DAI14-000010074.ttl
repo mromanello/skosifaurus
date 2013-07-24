@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010074> a skos:Concept ;
+    skos:altLabel "Talko-Hryncewicz, Julian"@en,
+        "Talko-Hryncewicz, Julian"@fr,
+        "Talko-Hryncewicz, Julian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoTalko-Hryncewicz, Julian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Talko-Hryncewicz, Julian"@de .
+

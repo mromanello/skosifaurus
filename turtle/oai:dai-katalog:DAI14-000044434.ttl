@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044434> a skos:Concept ;
+    skos:altLabel "Bassigny"@en,
+        "Bassigny"@fr,
+        "Bassigny"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038782> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgZZ--RBassigny" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bassigny"@de .
+

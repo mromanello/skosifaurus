@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024949> a skos:Concept ;
+    skos:altLabel "Phönix"@en,
+        "Phönix"@fr,
+        "Phönix"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016916> ;
+    skos:hiddenLabel "yRGKArch10 - GeselKunstIkonoSakraMythoMythoPhönix" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Phönix"@de .
+

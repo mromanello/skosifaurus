@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007800> a skos:Concept ;
+    skos:altLabel "Bukovanský, Karel Jaromír"@en,
+        "Bukovanský, Karel Jaromír"@fr,
+        "Bukovanský, Karel Jaromír"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBukovanský, Karel Jaromír" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bukovanský, Karel Jaromír"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053932> a skos:Concept ;
+    skos:altLabel "Bad Harzburg"@en,
+        "Bad Harzburg"@fr,
+        "Bad Harzburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075558> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGoslaBad Harzb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Harzburg"@de .
+

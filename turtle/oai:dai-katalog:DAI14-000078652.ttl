@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078652> a skos:Concept ;
+    skos:altLabel "Orkney Islands"@en,
+        "Orkney Islands"@fr,
+        "Orkney Islands"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038842> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotOrkney Is" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orkney Islands"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047820> a skos:Concept ;
+    skos:altLabel "Old Penrith"@en,
+        "Old Penrith"@fr,
+        "Old Penrith"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrOld Penri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Old Penrith"@de .
+

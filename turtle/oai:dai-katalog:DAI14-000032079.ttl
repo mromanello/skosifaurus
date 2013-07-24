@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032079> a skos:Concept ;
+    skos:altLabel "Botanik"@en,
+        "Botanik"@fr,
+        "Botanik"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliBotanik" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Botanik"@de .
+

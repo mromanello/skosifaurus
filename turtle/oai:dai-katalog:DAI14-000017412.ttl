@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017412> a skos:Concept ;
+    skos:altLabel "Armes offensives"@fr,
+        "Bron ofensywna"@pl,
+        "Offensive weapons"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017411> ;
+    skos:hiddenLabel "yRGKArch11 - FundeBewafAngri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Angriffswaffen"@de .
+

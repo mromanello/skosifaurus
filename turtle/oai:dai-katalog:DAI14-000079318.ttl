@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079318> a skos:Concept ;
+    skos:altLabel "Ryckholt-St. Geertruid"@en,
+        "Ryckholt-St. Geertruid"@fr,
+        "Ryckholt-St. Geertruid"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038718> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLimbuRyckholt-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ryckholt-St. Geertruid"@de .
+

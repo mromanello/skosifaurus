@@ -1,0 +1,52 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002510_Azania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Azania" .
+
+<http://data.dainst.de/zenon/000002510_DysoronOros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Dysoron Oros" .
+
+<http://data.dainst.de/zenon/000002510_Hubuškia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Hubuškia" .
+
+<http://data.dainst.de/zenon/000002510_Iotabe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Iotabe" .
+
+<http://data.dainst.de/zenon/000002510_Kerne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Kerne" .
+
+<http://data.dainst.de/zenon/000002510_LucernariaBurgus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Lucernaria Burgus" .
+
+<http://data.dainst.de/zenon/000002510_PrasiasLimne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Prasias Limne" .
+
+<http://data.dainst.de/zenon/000002510_Sarpedonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Sarpedonia" .
+
+<http://data.dainst.de/zenon/000002510_Tadum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Tadum" .
+
+<http://data.dainst.de/zenon/000002510_Thule> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002510> ;
+    skos:prefLabel "Thule" .
+
+<http://data.dainst.de/zenon/000002510> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002509> ;
+    skos:hiddenLabel "xTopLandUnbestOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

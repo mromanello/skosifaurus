@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065237> a skos:Concept ;
+    skos:altLabel "Szegvár"@en,
+        "Szegvár"@fr,
+        "Szegvár"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039084> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunCsongSzegvár" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Szegvár"@de .
+

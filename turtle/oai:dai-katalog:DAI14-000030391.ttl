@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030391> a skos:Concept ;
+    skos:altLabel "Schweiz (allgem.)"@en,
+        "Schweiz (allgem.)"@fr,
+        "Schweiz (allgem.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaSchweiz (allgem.)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schweiz (allgem.)"@de .
+

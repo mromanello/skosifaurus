@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074698> a skos:Concept ;
+    skos:altLabel "Labraunda, Karien"@en,
+        "Labraunda, Karien"@fr,
+        "Labraunda, Karien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeLabraunda" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Labraunda, Karien"@de .
+

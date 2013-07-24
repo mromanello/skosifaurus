@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070006> a skos:Concept ;
+    skos:altLabel "Lerici"@en,
+        "Lerici"@fr,
+        "Lerici"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039169> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLigurLa SpLerici" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lerici"@de .
+

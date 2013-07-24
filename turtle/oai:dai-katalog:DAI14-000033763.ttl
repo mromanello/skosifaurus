@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033763> a skos:Concept ;
+    skos:altLabel "AG Eisenzeit"@en,
+        "AG Eisenzeit"@fr,
+        "AG Eisenzeit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiAG Eisenzeit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "AG Eisenzeit"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007569> a skos:Concept ;
+    skos:altLabel "Bastian, Adolf"@en,
+        "Bastian, Adolf"@fr,
+        "Bastian, Adolf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBastian, Adolf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bastian, Adolf"@de .
+

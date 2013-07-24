@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084666> a skos:Concept ;
+    skos:altLabel "Haselbach"@en,
+        "Haselbach"@fr,
+        "Haselbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075463> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerUnterHaselbach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haselbach"@de .
+

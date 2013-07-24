@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025984> a skos:Concept ;
+    skos:altLabel "Bad Buchau 2000"@en,
+        "Bad Buchau 2000"@fr,
+        "Bad Buchau 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstBad Buchau 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Buchau 2000"@de .
+

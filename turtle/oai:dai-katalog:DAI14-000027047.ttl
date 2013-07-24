@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027047> a skos:Concept ;
+    skos:altLabel "Piano di Sorrento 1990/91"@en,
+        "Piano di Sorrento 1990/91"@fr,
+        "Piano di Sorrento 1990/91"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstPiano di Sorrento 1990/91" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Piano di Sorrento 1990/91"@de .
+

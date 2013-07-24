@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041577> a skos:Concept ;
+    skos:altLabel "Liberchies (Pont-á-Celles)"@en,
+        "Liberchies (Pont-á-Celles)"@fr,
+        "Liberchies (Pont-á-Celles)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaLiberchie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Liberchies (Pont-á-Celles)"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044548> a skos:Concept ;
+    skos:altLabel "Roullet Saint-Estephe, Le Petit Berguiile"@en,
+        "Roullet Saint-Estephe, Le Petit Berguiile"@fr,
+        "Roullet Saint-Estephe, Le Petit Berguiile"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038786> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareRoullet S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roullet Saint-Estephe, Le Petit Berguiile"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017611> a skos:Concept ;
+    skos:altLabel "Coutumes des mobiliers funéraires"@fr,
+        "Grave-goods"@en,
+        "Wyposazenie grobowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017610> ;
+    skos:hiddenLabel "yRGKArch11 - GräbeBeiga" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beigabensitten"@de .
+

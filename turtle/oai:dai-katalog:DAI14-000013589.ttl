@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013589> a skos:Concept ;
+    skos:altLabel "Lurs"@en,
+        "Lurs"@fr,
+        "Lury/traby"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013587> ;
+    skos:hiddenLabel "yRGKArch06 - FundeMusikLuren" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Luren"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022998> a skos:Concept ;
+    skos:altLabel "Hypatiuschronik"@en,
+        "Hypatiuschronik"@fr,
+        "Hypatiuschronik"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012490> ;
+    skos:hiddenLabel "yRGKArch02 - SchriHistoHypatiuschronik" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hypatiuschronik"@de .
+

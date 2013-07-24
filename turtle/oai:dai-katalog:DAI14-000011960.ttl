@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011960> a skos:Concept ;
+    skos:altLabel "Gibelin, A. E."@en,
+        "Gibelin, A. E."@fr,
+        "Gibelin, A. E."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGibelin, A. E." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gibelin, A. E."@de .
+

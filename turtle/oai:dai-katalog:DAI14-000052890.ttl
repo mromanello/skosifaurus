@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052890> a skos:Concept ;
+    skos:altLabel "Warzenbach, Stadt Wetter, Burg Hollende"@en,
+        "Warzenbach, Stadt Wetter, Burg Hollende"@fr,
+        "Warzenbach, Stadt Wetter, Burg Hollende"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075501> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMarbuWarzenbac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Warzenbach, Stadt Wetter, Burg Hollende"@de .
+

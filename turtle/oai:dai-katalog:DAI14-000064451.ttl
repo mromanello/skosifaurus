@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064451> a skos:Concept ;
+    skos:altLabel "Mašovice, okr. Znojmo"@en,
+        "Mašovice, okr. Znojmo"@fr,
+        "Mašovice, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravMašovice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mašovice, okr. Znojmo"@de .
+

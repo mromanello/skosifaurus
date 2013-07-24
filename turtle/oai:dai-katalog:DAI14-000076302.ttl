@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076302> a skos:Concept ;
+    skos:altLabel "Pont-de-Barret"@en,
+        "Pont-de-Barret"@fr,
+        "Pont-de-Barret"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômePont-de-B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pont-de-Barret"@de .
+

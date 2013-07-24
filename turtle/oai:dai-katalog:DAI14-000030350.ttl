@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030350> a skos:Concept ;
+    skos:altLabel "Roma, Collezione dell'Abbazia di San Paolo fuori le mura"@en,
+        "Roma, Collezione dell'Abbazia di San Paolo fuori le mura"@fr,
+        "Roma, Collezione dell'Abbazia di San Paolo fuori le mura"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaRoma, Collezione dell'Abbazia di San Paolo fuori le mura" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Collezione dell'Abbazia di San Paolo fuori le mura"@de .
+

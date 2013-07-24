@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027990> a skos:Concept ;
+    skos:altLabel "Duisburg, Museum der Deutschen Binnenschiffahrt*"@en,
+        "Duisburg, Museum der Deutschen Binnenschiffahrt*"@fr,
+        "Duisburg, Museum der Deutschen Binnenschiffahrt*"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuDuisburg, Museum der Deutschen Binnenschiffahrt*" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Duisburg, Museum der Deutschen Binnenschiffahrt*"@de .
+

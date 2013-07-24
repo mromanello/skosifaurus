@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033653> a skos:Concept ;
+    skos:altLabel "Irene <Byzantinisches Reich, Kaiserin, -1160>"@en,
+        "Irene <Byzantinisches Reich, Kaiserin, -1160>"@fr,
+        "Irene <Byzantinisches Reich, Kaiserin, -1160>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoIrene <Byzantinisches Reich, Kaiserin, -1160>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Irene <Byzantinisches Reich, Kaiserin, -1160>"@de .
+

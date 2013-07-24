@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021927> a skos:Concept ;
+    skos:altLabel "Liutprand <Langobarden, König>"@en,
+        "Liutprand <Langobarden, König>"@fr,
+        "Liutprand <Langobarden, König>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoLiutprand <Langobarden, König>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Liutprand <Langobarden, König>"@de .
+

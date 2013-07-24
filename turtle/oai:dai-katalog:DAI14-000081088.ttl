@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081088> a skos:Concept ;
+    skos:altLabel "Ridge Green, Shaw"@en,
+        "Ridge Green, Shaw"@fr,
+        "Ridge Green, Shaw"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077712> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaWiltsRidge Gre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ridge Green, Shaw"@de .
+

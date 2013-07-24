@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029473> a skos:Concept ;
+    skos:altLabel "Florenz, Galeria degli Uffizi"@en,
+        "Florenz, Galeria degli Uffizi"@fr,
+        "Florenz, Galeria degli Uffizi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuFlorenz, Galeria degli Uffizi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Florenz, Galeria degli Uffizi"@de .
+

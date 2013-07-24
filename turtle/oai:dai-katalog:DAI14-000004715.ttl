@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004715> a skos:Concept ;
+    skos:altLabel "Indus countries (1956 - 1997)"@en,
+        "regioni dell'Indus (1956 - 1997)"@it,
+        "régions de l'Indus (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004622> ;
+    skos:hiddenLabel "xOrIndus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Indusgebiete (1956 - 1997)"@de .
+

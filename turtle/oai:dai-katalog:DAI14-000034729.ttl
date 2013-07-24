@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034729> a skos:Concept ;
+    skos:altLabel "Nürnberg 1988/1989"@en,
+        "Nürnberg 1988/1989"@fr,
+        "Nürnberg 1988/1989"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNürnberg 1988/1989" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nürnberg 1988/1989"@de .
+

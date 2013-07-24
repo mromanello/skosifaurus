@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002626> a skos:Concept ;
+    skos:altLabel "pottery-repairs"@en,
+        "riparazione di vasi"@it,
+        "réparation de vases"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002618> ;
+    skos:hiddenLabel "xTMMatTonVasRep" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vasenreparatur"@de .
+

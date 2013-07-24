@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070055> a skos:Concept ;
+    skos:altLabel "Alpi meridionali"@en,
+        "Alpi meridionali"@fr,
+        "Alpi meridionali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039171> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliLombaZZ--RAlpi meri" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alpi meridionali"@de .
+

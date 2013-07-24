@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065310> a skos:Concept ;
+    skos:altLabel "Jászberény-Négyszállás"@en,
+        "Jászberény-Négyszállás"@fr,
+        "Jászberény-Négyszállás"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039087> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunJász-Jászberén" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jászberény-Négyszállás"@de .
+

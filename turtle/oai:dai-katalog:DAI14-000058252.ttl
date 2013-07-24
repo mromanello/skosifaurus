@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058252> a skos:Concept ;
+    skos:altLabel "Perg, Burg Mitterberg, VB Perg"@en,
+        "Perg, Burg Mitterberg, VB Perg"@fr,
+        "Perg, Burg Mitterberg, VB Perg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöPerg, Bur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Perg, Burg Mitterberg, VB Perg"@de .
+

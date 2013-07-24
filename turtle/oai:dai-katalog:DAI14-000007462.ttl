@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007462> a skos:Concept ;
+    skos:altLabel "Allain, Jacques"@en,
+        "Allain, Jacques"@fr,
+        "Allain, Jacques"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAllain, Jacques" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Allain, Jacques"@de .
+

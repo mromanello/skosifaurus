@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025943> a skos:Concept ;
+    skos:altLabel "Arles 1990/1991"@en,
+        "Arles 1990/1991"@fr,
+        "Arles 1990/1991"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstArles 1990/1991" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arles 1990/1991"@de .
+

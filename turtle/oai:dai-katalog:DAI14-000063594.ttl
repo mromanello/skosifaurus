@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063594> a skos:Concept ;
+    skos:altLabel "Hrad Valdek, okr. Beroun"@en,
+        "Hrad Valdek, okr. Beroun"@fr,
+        "Hrad Valdek, okr. Beroun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Vald" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Valdek, okr. Beroun"@de .
+

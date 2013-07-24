@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074055> a skos:Concept ;
+    skos:altLabel "'Aqar Quf, Irak"@en,
+        "'Aqar Quf, Irak"@fr,
+        "'Aqar Quf, Irak"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039377> ;
+    skos:hiddenLabel "zTopogAsienVordeArabi'Aqar Quf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "'Aqar Quf, Irak"@de .
+

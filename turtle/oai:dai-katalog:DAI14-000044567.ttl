@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044567> a skos:Concept ;
+    skos:altLabel "Aytré"@en,
+        "Aytré"@fr,
+        "Aytré"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038787> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareAytré" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aytré"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049665> a skos:Concept ;
+    skos:altLabel "Schinnen, Sweikhuizen"@en,
+        "Schinnen, Sweikhuizen"@fr,
+        "Schinnen, Sweikhuizen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038856> ;
+    skos:hiddenLabel "zTopogEuropWesteNiedeLimbuSchinnen," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schinnen, Sweikhuizen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044588> a skos:Concept ;
+    skos:altLabel "La Grande-Pigouille"@en,
+        "La Grande-Pigouille"@fr,
+        "La Grande-Pigouille"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038787> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareLa Grande" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Grande-Pigouille"@de .
+

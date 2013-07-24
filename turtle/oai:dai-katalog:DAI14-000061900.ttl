@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061900> a skos:Concept ;
+    skos:altLabel "Thun-Allmendingen"@en,
+        "Thun-Allmendingen"@fr,
+        "Thun-Allmendingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernThun-Allm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thun-Allmendingen"@de .
+

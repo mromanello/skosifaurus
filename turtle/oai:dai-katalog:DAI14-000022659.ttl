@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022659> a skos:Concept ;
+    skos:altLabel "Zosimos <Historiker>"@en,
+        "Zosimos <Historiker>"@fr,
+        "Zosimos <Historiker>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoZosimos <Historiker>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zosimos <Historiker>"@de .
+

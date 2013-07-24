@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009640> a skos:Concept ;
+    skos:altLabel "Rechberg, Carl von"@en,
+        "Rechberg, Carl von"@fr,
+        "Rechberg, Carl von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoRechberg, Carl von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rechberg, Carl von"@de .
+

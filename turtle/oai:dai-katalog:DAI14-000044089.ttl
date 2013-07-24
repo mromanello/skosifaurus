@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044089> a skos:Concept ;
+    skos:altLabel "Nod-sur-Seine"@en,
+        "Nod-sur-Seine"@fr,
+        "Nod-sur-Seine"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038774> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgCôte-Nod-sur-S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nod-sur-Seine"@de .
+

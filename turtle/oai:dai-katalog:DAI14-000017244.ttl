@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017244> a skos:Concept ;
+    skos:altLabel "Metody statystyczne"@pl,
+        "Méthodes statistiques"@fr,
+        "Statistical methods"@en ;
+    skos:broader <http://data.dainst.de/zenon/000017234> ;
+    skos:hiddenLabel "yRGKArch11 - ChronStati" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Statistische Methoden"@de .
+

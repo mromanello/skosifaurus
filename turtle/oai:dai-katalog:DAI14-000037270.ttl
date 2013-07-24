@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037270> a skos:Concept ;
+    skos:altLabel "Rennes 1971"@en,
+        "Rennes 1971"@fr,
+        "Rennes 1971"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrRennes 1971" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rennes 1971"@de .
+

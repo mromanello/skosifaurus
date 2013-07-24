@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062725> a skos:Concept ;
+    skos:altLabel "Kamenná tvar, okr. Košice"@en,
+        "Kamenná tvar, okr. Košice"@fr,
+        "Kamenná tvar, okr. Košice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaKamenná t" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kamenná tvar, okr. Košice"@de .
+

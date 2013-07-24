@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004566> a skos:Concept ;
+    skos:altLabel "Vandales (1956- 1997)"@fr,
+        "Vandali (1956 - 1997)"@it,
+        "Vandals (1956 - 1997)"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004555> ;
+    skos:hiddenLabel "xFrMAVolkVand" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vandalen (1956 - 1997)"@de .
+

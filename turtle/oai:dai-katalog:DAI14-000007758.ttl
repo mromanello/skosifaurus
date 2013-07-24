@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007758> a skos:Concept ;
+    skos:altLabel "Briard, Jacques"@en,
+        "Briard, Jacques"@fr,
+        "Briard, Jacques"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBriard, Jacques" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Briard, Jacques"@de .
+

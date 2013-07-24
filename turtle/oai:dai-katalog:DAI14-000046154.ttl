@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046154> a skos:Concept ;
+    skos:altLabel "Fontanès-de-Sault"@en,
+        "Fontanès-de-Sault"@fr,
+        "Fontanès-de-Sault"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038827> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguAudeFontanès-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fontanès-de-Sault"@de .
+

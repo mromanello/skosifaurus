@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077313> a skos:Concept ;
+    skos:altLabel "Kétegyháza"@en,
+        "Kétegyháza"@fr,
+        "Kétegyháza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039082> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBékésKétegyház" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kétegyháza"@de .
+

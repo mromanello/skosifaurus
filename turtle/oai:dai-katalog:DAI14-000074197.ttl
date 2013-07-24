@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074197> a skos:Concept ;
+    skos:altLabel "Samtavro"@en,
+        "Samtavro"@fr,
+        "Samtavro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039383> ;
+    skos:hiddenLabel "zTopogAsienVordeGeorgSamtavro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Samtavro"@de .
+

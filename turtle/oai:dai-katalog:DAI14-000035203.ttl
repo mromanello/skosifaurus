@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035203> a skos:Concept ;
+    skos:altLabel "Beaulieu-sur-Mer 2001"@en,
+        "Beaulieu-sur-Mer 2001"@fr,
+        "Beaulieu-sur-Mer 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBeaulieu-sur-Mer 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beaulieu-sur-Mer 2001"@de .
+

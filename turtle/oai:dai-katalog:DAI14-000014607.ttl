@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014607> a skos:Concept ;
+    skos:altLabel "Discoid necklaces"@en,
+        "Naszyjniki z tarczka"@pl,
+        "Torques à disques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014606> ;
+    skos:hiddenLabel "yRGKArch08 - FundeKleidSchmuRingsHalsrSchei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Scheibenhalsringe"@de .
+

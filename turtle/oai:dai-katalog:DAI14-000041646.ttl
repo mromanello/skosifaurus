@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041646> a skos:Concept ;
+    skos:altLabel "Engis"@en,
+        "Engis"@fr,
+        "Engis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038717> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLiègeEngis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Engis"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082146> a skos:Concept ;
+    skos:altLabel "Näfels"@en,
+        "Näfels"@fr,
+        "Näfels"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039042> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweGlaruNäfels" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Näfels"@de .
+

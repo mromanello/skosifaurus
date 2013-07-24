@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037771> a skos:Concept ;
+    skos:altLabel "Torri del Benaco 1985"@en,
+        "Torri del Benaco 1985"@fr,
+        "Torri del Benaco 1985"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrTorri del Benaco 1985" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Torri del Benaco 1985"@de .
+

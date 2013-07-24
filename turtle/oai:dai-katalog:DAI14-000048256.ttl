@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048256> a skos:Concept ;
+    skos:altLabel "Thompson's Castle"@en,
+        "Thompson's Castle"@fr,
+        "Thompson's Castle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077690> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHampsThompson'" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thompson's Castle"@de .
+

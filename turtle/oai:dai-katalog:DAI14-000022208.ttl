@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022208> a skos:Concept ;
+    skos:altLabel "Photinus <Sirmiensis>"@en,
+        "Photinus <Sirmiensis>"@fr,
+        "Photinus <Sirmiensis>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPhotinus <Sirmiensis>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Photinus <Sirmiensis>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066907> a skos:Concept ;
+    skos:altLabel "Strei, jud. Hunedoara"@en,
+        "Strei, jud. Hunedoara"@fr,
+        "Strei, jud. Hunedoara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatStrei, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strei, jud. Hunedoara"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009107> a skos:Concept ;
+    skos:altLabel "Łopata-Łowiński, Janusz"@en,
+        "Łopata-Łowiński, Janusz"@fr,
+        "Łopata-Łowiński, Janusz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoŁopata-Łowiński, Janusz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Łopata-Łowiński, Janusz"@de .
+

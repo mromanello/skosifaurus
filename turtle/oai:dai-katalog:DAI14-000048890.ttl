@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048890> a skos:Concept ;
+    skos:altLabel "John O'Groats, Caithness"@en,
+        "John O'Groats, Caithness"@fr,
+        "John O'Groats, Caithness"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078510> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotHighlJohn O'Gr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "John O'Groats, Caithness"@de .
+

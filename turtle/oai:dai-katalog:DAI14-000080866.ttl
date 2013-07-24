@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080866> a skos:Concept ;
+    skos:altLabel "Podnorodgoe"@en,
+        "Podnorodgoe"@fr,
+        "Podnorodgoe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiPodnorodg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Podnorodgoe"@de .
+

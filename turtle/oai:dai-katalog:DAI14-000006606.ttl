@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006606> a skos:Concept ;
+    skos:altLabel "Leeds, Edward Thurlow"@en,
+        "Leeds, Edward Thurlow"@fr,
+        "Leeds, Edward Thurlow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsLeeds, Edward Thurlow" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Leeds, Edward Thurlow"@de .
+

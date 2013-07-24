@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039490> a skos:Concept ;
+    skos:altLabel "Siksali"@en,
+        "Siksali"@fr,
+        "Siksali"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038700> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiEstlaSiksali" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siksali"@de .
+

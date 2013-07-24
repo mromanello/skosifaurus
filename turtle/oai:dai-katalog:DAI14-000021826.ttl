@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021826> a skos:Concept ;
+    skos:altLabel "Jost <von Silenen>"@en,
+        "Jost <von Silenen>"@fr,
+        "Jost <von Silenen>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoJost <von Silenen>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jost <von Silenen>"@de .
+

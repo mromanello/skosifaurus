@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059292> a skos:Concept ;
+    skos:altLabel "Pobrzeże Koszalińskie"@en,
+        "Pobrzeże Koszalińskie"@fr,
+        "Pobrzeże Koszalińskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039010> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorZZ--RPobrzeże" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pobrzeże Koszalińskie"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034368> a skos:Concept ;
+    skos:altLabel "Rzeszów 2007"@en,
+        "Rzeszów 2007"@fr,
+        "Rzeszów 2007"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstRzeszów 2007" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rzeszów 2007"@de .
+

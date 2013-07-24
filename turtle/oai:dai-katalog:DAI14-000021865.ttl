@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021865> a skos:Concept ;
+    skos:altLabel "Konrad <von Hochstaden>"@en,
+        "Konrad <von Hochstaden>"@fr,
+        "Konrad <von Hochstaden>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKonrad <von Hochstaden>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Konrad <von Hochstaden>"@de .
+

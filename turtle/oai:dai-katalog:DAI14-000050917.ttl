@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050917> a skos:Concept ;
+    skos:altLabel "Lenggries-Fall"@en,
+        "Lenggries-Fall"@fr,
+        "Lenggries-Fall"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075377> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerBad TLenggries" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lenggries-Fall"@de .
+

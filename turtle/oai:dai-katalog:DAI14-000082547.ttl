@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082547> a skos:Concept ;
+    skos:altLabel "Westerkappeln-Brennesch"@en,
+        "Westerkappeln-Brennesch"@fr,
+        "Westerkappeln-Brennesch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038901> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrSteinWesterkap" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Westerkappeln-Brennesch"@de .
+

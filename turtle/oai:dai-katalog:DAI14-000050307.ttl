@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050307> a skos:Concept ;
+    skos:altLabel "Besigheim"@en,
+        "Besigheim"@fr,
+        "Besigheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075346> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenLudwiBesigheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Besigheim"@de .
+

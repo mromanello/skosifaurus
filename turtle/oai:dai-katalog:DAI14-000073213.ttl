@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073213> a skos:Concept ;
+    skos:altLabel "Cueva de Can Simon"@en,
+        "Cueva de Can Simon"@fr,
+        "Cueva de Can Simon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039322> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCatalGironCueva de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cueva de Can Simon"@de .
+

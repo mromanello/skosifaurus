@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064822> a skos:Concept ;
+    skos:altLabel "Barcs-Vukovári"@en,
+        "Barcs-Vukovári"@fr,
+        "Barcs-Vukovári"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039074> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuSomogBarcs-Vuk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barcs-Vukovári"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069633> a skos:Concept ;
+    skos:altLabel "Acquanegra sul Chiese"@en,
+        "Acquanegra sul Chiese"@fr,
+        "Acquanegra sul Chiese"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039151> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaMantoAcquanegr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Acquanegra sul Chiese"@de .
+

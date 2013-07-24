@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024793> a skos:Concept ;
+    skos:altLabel "Philippopolis"@en,
+        "Philippopolis"@fr,
+        "Philippopolis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016301> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPrägePhilippopolis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philippopolis"@de .
+

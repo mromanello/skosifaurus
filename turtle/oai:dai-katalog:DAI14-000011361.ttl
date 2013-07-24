@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011361> a skos:Concept ;
+    skos:altLabel "Wegner, Günter"@en,
+        "Wegner, Günter"@fr,
+        "Wegner, Günter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWegner, Günter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wegner, Günter"@de .
+

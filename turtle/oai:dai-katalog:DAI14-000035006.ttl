@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035006> a skos:Concept ;
+    skos:altLabel "Alzey 1999"@en,
+        "Alzey 1999"@fr,
+        "Alzey 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrAlzey 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alzey 1999"@de .
+

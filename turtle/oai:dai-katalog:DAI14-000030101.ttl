@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030101> a skos:Concept ;
+    skos:altLabel "Göttingen, Institut f. Geologie und Paläontologie"@en,
+        "Göttingen, Institut f. Geologie und Paläontologie"@fr,
+        "Göttingen, Institut f. Geologie und Paläontologie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGöttingen, Institut f. Geologie und Paläontologie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Göttingen, Institut f. Geologie und Paläontologie"@de .
+

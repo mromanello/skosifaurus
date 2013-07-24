@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034812> a skos:Concept ;
+    skos:altLabel "Paris 2011/2012"@en,
+        "Paris 2011/2012"@fr,
+        "Paris 2011/2012"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstParis 2011/2012" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paris 2011/2012"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015177> a skos:Concept ;
+    skos:altLabel "Empire de Pergamon"@fr,
+        "Empire of Pergamon"@en,
+        "Królestwo Pergamonu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015173> ;
+    skos:hiddenLabel "yRGKArch08 - GeschGriecPerga" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pergamenisches Reich"@de .
+

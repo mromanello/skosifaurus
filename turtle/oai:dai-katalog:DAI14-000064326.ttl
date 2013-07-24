@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064326> a skos:Concept ;
+    skos:altLabel "Diváky, okr. Břeclav"@en,
+        "Diváky, okr. Břeclav"@fr,
+        "Diváky, okr. Břeclav"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravDiváky, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Diváky, okr. Břeclav"@de .
+

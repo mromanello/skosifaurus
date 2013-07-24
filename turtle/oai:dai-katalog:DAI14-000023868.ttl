@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023868> a skos:Concept ;
+    skos:altLabel "Hercules Magusanus"@en,
+        "Hercules Magusanus"@fr,
+        "Hercules Magusanus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015937> ;
+    skos:hiddenLabel "yRGKArch09 - GeselReligGötteHercules Magusanus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hercules Magusanus"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006873> a skos:Concept ;
+    skos:altLabel "Roesch, Paul"@en,
+        "Roesch, Paul"@fr,
+        "Roesch, Paul"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsRoesch, Paul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roesch, Paul"@de .
+

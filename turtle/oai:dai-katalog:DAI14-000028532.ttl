@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028532> a skos:Concept ;
+    skos:altLabel "Molina di Ledro, museo delle palafitte"@en,
+        "Molina di Ledro, museo delle palafitte"@fr,
+        "Molina di Ledro, museo delle palafitte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMolina di Ledro, museo delle palafitte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Molina di Ledro, museo delle palafitte"@de .
+

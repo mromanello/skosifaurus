@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050731> a skos:Concept ;
+    skos:altLabel "Rosenfeld"@en,
+        "Rosenfeld"@fr,
+        "Rosenfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075368> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenZolleRosenfeld" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rosenfeld"@de .
+

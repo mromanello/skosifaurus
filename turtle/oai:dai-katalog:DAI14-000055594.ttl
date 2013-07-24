@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055594> a skos:Concept ;
+    skos:altLabel "Albessen"@en,
+        "Albessen"@fr,
+        "Albessen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038924> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKuselAlbessen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Albessen"@de .
+

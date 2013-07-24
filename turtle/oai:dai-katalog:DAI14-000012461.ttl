@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012461> a skos:Concept ;
+    skos:altLabel "Franciscis, Alfonso de"@en,
+        "Franciscis, Alfonso de"@fr,
+        "Franciscis, Alfonso de"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFranciscis, Alfonso de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Franciscis, Alfonso de"@de .
+

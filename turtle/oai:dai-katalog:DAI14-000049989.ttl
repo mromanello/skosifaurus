@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049989> a skos:Concept ;
+    skos:altLabel "Ehningen"@en,
+        "Ehningen"@fr,
+        "Ehningen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075332> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBöbliEhningen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ehningen"@de .
+

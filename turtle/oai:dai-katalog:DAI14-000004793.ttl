@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004793> a skos:Concept ;
+    skos:altLabel "cosmetica (1956 - 1997)"@it,
+        "cosmetics (1956 - 1997)"@en,
+        "cosmétique (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004780> ;
+    skos:hiddenLabel "xÄgAntKosm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kosmetik (1956 - 1997)"@de .
+

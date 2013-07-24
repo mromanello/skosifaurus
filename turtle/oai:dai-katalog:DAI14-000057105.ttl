@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057105> a skos:Concept ;
+    skos:altLabel "Saale"@en,
+        "Saale"@fr,
+        "Saale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038991> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsZZ--RSaale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saale"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045936> a skos:Concept ;
+    skos:altLabel "Saint Géry-La Bergerie"@en,
+        "Saint Géry-La Bergerie"@fr,
+        "Saint Géry-La Bergerie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038819> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLotSaint Gér" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint Géry-La Bergerie"@de .
+

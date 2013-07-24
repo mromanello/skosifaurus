@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036580> a skos:Concept ;
+    skos:altLabel "Manchester 1986"@en,
+        "Manchester 1986"@fr,
+        "Manchester 1986"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrManchester 1986" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Manchester 1986"@de .
+

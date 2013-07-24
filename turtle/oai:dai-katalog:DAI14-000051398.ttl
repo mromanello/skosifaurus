@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051398> a skos:Concept ;
+    skos:altLabel "Landshut-Hascherkeller"@en,
+        "Landshut-Hascherkeller"@fr,
+        "Landshut-Hascherkeller"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075431> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerLandsLandshut-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landshut-Hascherkeller"@de .
+

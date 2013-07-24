@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047354> a skos:Concept ;
+    skos:altLabel "High Cayton, North Yorkshire"@en,
+        "High Cayton, North Yorkshire"@fr,
+        "High Cayton, North Yorkshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksHigh Cayt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "High Cayton, North Yorkshire"@de .
+

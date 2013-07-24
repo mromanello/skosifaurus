@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002659> a skos:Concept ;
+    skos:altLabel "altre sostanze organiche"@it,
+        "autres matériaux animaux et végétaux"@fr,
+        "other animal and vegetable materials"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002596> ;
+    skos:hiddenLabel "xTMMatOrgan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "andere organische Stoffe"@de .
+

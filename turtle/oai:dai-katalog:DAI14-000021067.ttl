@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021067> a skos:Concept ;
+    skos:altLabel "Albert <von Livland>"@en,
+        "Albert <von Livland>"@fr,
+        "Albert <von Livland>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAlbert <von Livland>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Albert <von Livland>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067786> a skos:Concept ;
+    skos:altLabel "Karagodeuašch"@en,
+        "Karagodeuašch"@fr,
+        "Karagodeuašch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiKaragodeu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Karagodeuašch"@de .
+

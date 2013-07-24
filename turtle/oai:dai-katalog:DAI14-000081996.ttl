@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081996> a skos:Concept ;
+    skos:altLabel "Niżegorodskoj"@en,
+        "Niżegorodskoj"@fr,
+        "Niżegorodskoj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiNiżegorod" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niżegorodskoj"@de .
+

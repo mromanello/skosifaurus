@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061935> a skos:Concept ;
+    skos:altLabel "Es Nés, com. Arconciel"@en,
+        "Es Nés, com. Arconciel"@fr,
+        "Es Nés, com. Arconciel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039040> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweFreibEs Nés, c" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Es Nés, com. Arconciel"@de .
+

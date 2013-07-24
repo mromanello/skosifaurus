@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062468> a skos:Concept ;
+    skos:altLabel "Zürich-Niederdorf"@en,
+        "Zürich-Niederdorf"@fr,
+        "Zürich-Niederdorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039057> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweZüricZürich-Ni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zürich-Niederdorf"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010332> a skos:Concept ;
+    skos:altLabel "Williams-Freeman, J. P."@en,
+        "Williams-Freeman, J. P."@fr,
+        "Williams-Freeman, J. P."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWilliams-Freeman, J. P." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Williams-Freeman, J. P."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060568> a skos:Concept ;
+    skos:altLabel "Samotwór"@en,
+        "Samotwór"@fr,
+        "Samotwór"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoSamotwór" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Samotwór"@de .
+

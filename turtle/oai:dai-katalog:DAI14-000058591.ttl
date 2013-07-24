@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058591> a skos:Concept ;
+    skos:altLabel "Oetz, VB Imst"@en,
+        "Oetz, VB Imst"@fr,
+        "Oetz, VB Imst"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolOetz, VB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oetz, VB Imst"@de .
+

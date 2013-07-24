@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063556> a skos:Concept ;
+    skos:altLabel "Hostomice, okr. Teplice"@en,
+        "Hostomice, okr. Teplice"@fr,
+        "Hostomice, okr. Teplice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHostomice" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hostomice, okr. Teplice"@de .
+

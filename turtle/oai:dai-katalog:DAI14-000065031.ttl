@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065031> a skos:Concept ;
+    skos:altLabel "Zalaszentbalázs-Pusztatető"@en,
+        "Zalaszentbalázs-Pusztatető"@fr,
+        "Zalaszentbalázs-Pusztatető"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039078> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuZalaZalaszent" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zalaszentbalázs-Pusztatető"@de .
+

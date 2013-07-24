@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011170> a skos:Concept ;
+    skos:altLabel "København, Rigsantikvarens Sekretariat"@en,
+        "København, Rigsantikvarens Sekretariat"@fr,
+        "København, Rigsantikvarens Sekretariat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiKøbenhavn, Rigsantikvarens Sekretariat" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "København, Rigsantikvarens Sekretariat"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052039> a skos:Concept ;
+    skos:altLabel "Ammertal"@en,
+        "Ammertal"@fr,
+        "Ammertal"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038869> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerZZ--RAmmertal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ammertal"@de .
+

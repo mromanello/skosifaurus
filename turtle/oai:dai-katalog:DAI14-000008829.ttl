@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008829> a skos:Concept ;
+    skos:altLabel "Klejn, Lew S."@en,
+        "Klejn, Lew S."@fr,
+        "Klejn, Lew S."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKlejn, Lew S." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klejn, Lew S."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064279> a skos:Concept ;
+    skos:altLabel "Bořanovice, okr. Břeclav"@en,
+        "Bořanovice, okr. Břeclav"@fr,
+        "Bořanovice, okr. Břeclav"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravBořanovic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bořanovice, okr. Břeclav"@de .
+

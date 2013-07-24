@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080913> a skos:Concept ;
+    skos:altLabel "Twardiza"@en,
+        "Twardiza"@fr,
+        "Twardiza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039128> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaBurgaSliveTwardiza" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Twardiza"@de .
+

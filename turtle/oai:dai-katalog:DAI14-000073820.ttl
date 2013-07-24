@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073820> a skos:Concept ;
+    skos:altLabel "Cerro de la Tortuga"@en,
+        "Cerro de la Tortuga"@fr,
+        "Cerro de la Tortuga"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039357> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalMálagCerro de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cerro de la Tortuga"@de .
+

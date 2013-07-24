@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041176> a skos:Concept ;
+    skos:altLabel "Vadstena"@en,
+        "Vadstena"@fr,
+        "Vadstena"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Vadstena" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vadstena"@de .
+

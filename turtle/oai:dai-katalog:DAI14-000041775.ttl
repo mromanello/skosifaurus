@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041775> a skos:Concept ;
+    skos:altLabel "Maaseik-Heppeneert"@en,
+        "Maaseik-Heppeneert"@fr,
+        "Maaseik-Heppeneert"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038718> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLimbuMaaseik-H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maaseik-Heppeneert"@de .
+

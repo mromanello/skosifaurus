@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032370> a skos:Concept ;
+    skos:altLabel "Ziemowit <Masowien, Herzog, IV.>"@en,
+        "Ziemowit <Masowien, Herzog, IV.>"@fr,
+        "Ziemowit <Masowien, Herzog, IV.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoZiemowit <Masowien, Herzog, IV.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ziemowit <Masowien, Herzog, IV.>"@de .
+

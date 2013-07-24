@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015264> a skos:Concept ;
+    skos:altLabel "Bronze coinage"@en,
+        "Monety brazowe/miedziane"@pl,
+        "Monnaies de bronze et de cuivre"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015259> ;
+    skos:hiddenLabel "yRGKArch08 - HistoNumisMünzmBronz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bronze-/Kupfermünzen"@de .
+

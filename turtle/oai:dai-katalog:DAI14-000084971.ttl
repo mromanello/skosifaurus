@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084971> a skos:Concept ;
+    skos:altLabel "Bingenheim"@en,
+        "Bingenheim"@fr,
+        "Bingenheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075509> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWetteBingenheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bingenheim"@de .
+

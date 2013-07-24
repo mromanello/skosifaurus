@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043321> a skos:Concept ;
+    skos:altLabel "Nouvelle-Cuisine (Gourmet)"@en,
+        "Nouvelle-Cuisine (Gourmet)"@fr,
+        "Nouvelle-Cuisine (Gourmet)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038754> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacZZ--RNouvelle-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nouvelle-Cuisine (Gourmet)"@de .
+

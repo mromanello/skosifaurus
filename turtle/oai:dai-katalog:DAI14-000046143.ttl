@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046143> a skos:Concept ;
+    skos:altLabel "Caunes-Minervois"@en,
+        "Caunes-Minervois"@fr,
+        "Caunes-Minervois"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038827> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguAudeCaunes-Mi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caunes-Minervois"@de .
+

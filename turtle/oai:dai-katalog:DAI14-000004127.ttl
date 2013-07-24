@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004127> a skos:Concept ;
+    skos:altLabel "Alpine countries (untill 1997)"@en,
+        "Paesi delle Alpi (fino a 1997)"@it,
+        "Pays alpins (jusqu'á 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004117> ;
+    skos:hiddenLabel "xVgAlp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alpenländer (bis 1997)"@de .
+

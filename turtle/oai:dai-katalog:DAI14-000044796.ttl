@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044796> a skos:Concept ;
+    skos:altLabel "Derrière-le-Chateau"@en,
+        "Derrière-le-Chateau"@fr,
+        "Derrière-le-Chateau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038796> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAinDerrière-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Derrière-le-Chateau"@de .
+

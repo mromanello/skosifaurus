@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062139> a skos:Concept ;
+    skos:altLabel "Monruz"@en,
+        "Monruz"@fr,
+        "Monruz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039046> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweNeuenMonruz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monruz"@de .
+

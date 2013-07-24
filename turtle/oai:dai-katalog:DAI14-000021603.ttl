@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021603> a skos:Concept ;
+    skos:altLabel "Eberhard <Württemberg, Herzog, I.>"@en,
+        "Eberhard <Württemberg, Herzog, I.>"@fr,
+        "Eberhard <Württemberg, Herzog, I.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoEberhard <Württemberg, Herzog, I.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eberhard <Württemberg, Herzog, I.>"@de .
+

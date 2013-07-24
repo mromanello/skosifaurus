@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014192> a skos:Concept ;
+    skos:altLabel "Kamienie grobowe/stele"@pl,
+        "Pierres tombales/stèles funéraires"@fr,
+        "Tombstones/stelae"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014185> ;
+    skos:hiddenLabel "yRGKArch07 - GräbeGrabbGrabbGrabs" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grabsteine/-stelen"@de .
+

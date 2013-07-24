@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079389> a skos:Concept ;
+    skos:altLabel "Baierbrunn"@en,
+        "Baierbrunn"@fr,
+        "Baierbrunn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075435> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMünchBaierbrun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baierbrunn"@de .
+

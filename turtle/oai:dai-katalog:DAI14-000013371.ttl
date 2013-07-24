@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013371> a skos:Concept ;
+    skos:altLabel "Grinding/sharpening/polishing"@en,
+        "Meuler/affûter/polir"@fr,
+        "Ostrzenie/szlifowanie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013364> ;
+    skos:hiddenLabel "yRGKArch05 - WirtsHandwProduHerstSchle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schleifen/schärfen/polieren"@de .
+

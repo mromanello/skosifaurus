@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040807> a skos:Concept ;
+    skos:altLabel "Barum"@en,
+        "Barum"@fr,
+        "Barum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Barum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Barum"@de .
+

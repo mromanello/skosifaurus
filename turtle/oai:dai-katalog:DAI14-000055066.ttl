@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055066> a skos:Concept ;
+    skos:altLabel "Paderborn-Sande"@en,
+        "Paderborn-Sande"@fr,
+        "Paderborn-Sande"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038892> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrPaderPaderborn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paderborn-Sande"@de .
+

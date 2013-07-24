@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024795> a skos:Concept ;
+    skos:altLabel "Roma"@en,
+        "Roma"@fr,
+        "Roma"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016301> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPrägeRoma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma"@de .
+

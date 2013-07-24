@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076593> a skos:Concept ;
+    skos:altLabel "San Cassiano di Crespino"@en,
+        "San Cassiano di Crespino"@fr,
+        "San Cassiano di Crespino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039176> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetRovigSan Cassi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Cassiano di Crespino"@de .
+

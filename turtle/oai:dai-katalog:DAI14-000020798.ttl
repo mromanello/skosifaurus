@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020798> a skos:Concept ;
+    skos:altLabel "Strefy leśnej kultury (paraneolityczne)"@en,
+        "Strefy leśnej kultury (paraneolityczne)"@fr,
+        "Strefy leśnej kultury (paraneolityczne)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Strefy leśnej kultury (paraneolityczne)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strefy leśnej kultury (paraneolityczne)"@de .
+

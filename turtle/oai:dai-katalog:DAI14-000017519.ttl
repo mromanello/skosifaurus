@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017519> a skos:Concept ;
+    skos:altLabel "Ramparts/ditches"@en,
+        "Remparts/fossées"@fr,
+        "Waly/fosy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017510> ;
+    skos:hiddenLabel "yRGKArch11 - BefunBauweBefesWall/" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wall/Graben"@de .
+

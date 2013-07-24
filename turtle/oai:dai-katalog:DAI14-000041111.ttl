@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041111> a skos:Concept ;
+    skos:altLabel "Sparlösa, Västergötland"@en,
+        "Sparlösa, Västergötland"@fr,
+        "Sparlösa, Västergötland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038708> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweSüd- Sparlösa," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sparlösa, Västergötland"@de .
+

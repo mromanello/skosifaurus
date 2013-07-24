@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004219> a skos:Concept ;
+    skos:altLabel "medicina"@it,
+        "medicine"@en,
+        "médecine"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004209> ;
+    skos:hiddenLabel "xRkIberAntMed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Medizin"@de .
+

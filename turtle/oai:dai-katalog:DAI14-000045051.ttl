@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045051> a skos:Concept ;
+    skos:altLabel "Saintes-Maries-de-la-Mer"@en,
+        "Saintes-Maries-de-la-Mer"@fr,
+        "Saintes-Maries-de-la-Mer"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchSaintes-M" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saintes-Maries-de-la-Mer"@de .
+

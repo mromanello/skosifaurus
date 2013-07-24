@@ -1,0 +1,57 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001043_Altyn-depe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Altyn-depe" .
+
+<http://data.dainst.de/zenon/000001043_Anau> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Anau" .
+
+<http://data.dainst.de/zenon/000001043_Džejtun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Džejtun" .
+
+<http://data.dainst.de/zenon/000001043_Geoksjur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Geoksjur" .
+
+<http://data.dainst.de/zenon/000001043_Jylgynly-Depe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Jylgynly-Depe" .
+
+<http://data.dainst.de/zenon/000001043_Merv> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Merv" .
+
+<http://data.dainst.de/zenon/000001043_Namazga-Depe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Namazga-Depe" .
+
+<http://data.dainst.de/zenon/000001043_Namazga-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Namazga-Tepe" .
+
+<http://data.dainst.de/zenon/000001043_Nisa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Nisa" .
+
+<http://data.dainst.de/zenon/000001043_Ulug-Tepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Ulug-Tepe" .
+
+<http://data.dainst.de/zenon/000001043_Čaštepe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Čaštepe" .
+
+<http://data.dainst.de/zenon/000001043_Čopan-depe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001043> ;
+    skos:prefLabel "Čopan-depe" .
+
+<http://data.dainst.de/zenon/000001043> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001016> ;
+    skos:hiddenLabel "4.02.06.06" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Turkmenistan"@de .
+

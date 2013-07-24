@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027805> a skos:Concept ;
+    skos:altLabel "Budapest, Hadtörténeti Múzeum"@en,
+        "Budapest, Hadtörténeti Múzeum"@fr,
+        "Budapest, Hadtörténeti Múzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBudapest, Hadtörténeti Múzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Budapest, Hadtörténeti Múzeum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081098> a skos:Concept ;
+    skos:altLabel "Nøkleby"@en,
+        "Nøkleby"@fr,
+        "Nøkleby"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweNøkleby" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nøkleby"@de .
+

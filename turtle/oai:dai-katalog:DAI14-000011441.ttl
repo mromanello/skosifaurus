@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011441> a skos:Concept ;
+    skos:altLabel "Prinz Johann Georg, Herzog zu Sachsen"@en,
+        "Prinz Johann Georg, Herzog zu Sachsen"@fr,
+        "Prinz Johann Georg, Herzog zu Sachsen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPrinz Johann Georg, Herzog zu Sachsen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prinz Johann Georg, Herzog zu Sachsen"@de .
+

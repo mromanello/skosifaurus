@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065081> a skos:Concept ;
+    skos:altLabel "Szeremle"@en,
+        "Szeremle"@fr,
+        "Szeremle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039081> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunBács-Szeremle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Szeremle"@de .
+

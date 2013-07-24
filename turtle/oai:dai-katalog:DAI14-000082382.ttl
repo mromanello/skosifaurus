@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082382> a skos:Concept ;
+    skos:altLabel "Hanau-Grossauheim"@en,
+        "Hanau-Grossauheim"@fr,
+        "Hanau-Grossauheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075500> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMain-Hanau-Gro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hanau-Grossauheim"@de .
+

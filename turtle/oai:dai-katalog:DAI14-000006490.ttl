@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006490> a skos:Concept ;
+    skos:altLabel "Horedt, Otto Kurt"@en,
+        "Horedt, Otto Kurt"@fr,
+        "Horedt, Otto Kurt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsHoredt, Otto Kurt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Horedt, Otto Kurt"@de .
+

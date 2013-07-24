@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054271> a skos:Concept ;
+    skos:altLabel "Walkenried, Ruine Sachsenstein"@en,
+        "Walkenried, Ruine Sachsenstein"@fr,
+        "Walkenried, Ruine Sachsenstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075597> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeOsterWalkenrie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Walkenried, Ruine Sachsenstein"@de .
+

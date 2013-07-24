@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012655> a skos:Concept ;
+    skos:altLabel "Matière première/matériel"@fr,
+        "Raw materials"@en,
+        "Surowce"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012654> ;
+    skos:hiddenLabel "yRGKArch03 - WirtsHandwRohma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rohmaterialien/Werkstoffe"@de .
+

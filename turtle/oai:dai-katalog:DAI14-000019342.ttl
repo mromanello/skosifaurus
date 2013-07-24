@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019342> a skos:Concept ;
+    skos:altLabel "Norvegians"@en,
+        "Norvégiens"@fr,
+        "Norwegowie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019325> ;
+    skos:hiddenLabel "yRGKEthnModerNorwe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Norweger"@de .
+

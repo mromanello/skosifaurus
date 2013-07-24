@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065567> a skos:Concept ;
+    skos:altLabel "Prosek, distr. Mirdita"@en,
+        "Prosek, distr. Mirdita"@fr,
+        "Prosek, distr. Mirdita"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039093> ;
+    skos:hiddenLabel "zTopogEuropOsteuAlbanProsek, d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prosek, distr. Mirdita"@de .
+

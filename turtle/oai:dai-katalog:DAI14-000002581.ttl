@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002581> a skos:Concept ;
+    skos:altLabel "costruzione di gallerie"@it,
+        "tunnelling"@en,
+        "tunnels"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002575> ;
+    skos:hiddenLabel "xTMIngTunnel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tunnelbau"@de .
+

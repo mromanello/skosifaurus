@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083882> a skos:Concept ;
+    skos:altLabel "Walldürn-Reinhardsachsen"@en,
+        "Walldürn-Reinhardsachsen"@fr,
+        "Walldürn-Reinhardsachsen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075350> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenNeckaWalldürn-Reinhardsachsen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Walldürn-Reinhardsachsen"@de .
+

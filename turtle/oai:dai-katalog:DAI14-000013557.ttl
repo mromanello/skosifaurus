@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013557> a skos:Concept ;
+    skos:altLabel "Anklets"@en,
+        "Anneaux de cheville"@fr,
+        "Nagolenniki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013555> ;
+    skos:hiddenLabel "yRGKArch06 - FundeKleidSchmuRingsBeinr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beinringe"@de .
+

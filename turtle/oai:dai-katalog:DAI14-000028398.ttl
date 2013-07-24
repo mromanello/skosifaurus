@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028398> a skos:Concept ;
+    skos:altLabel "Linz, Museum Francisco Carolinum"@en,
+        "Linz, Museum Francisco Carolinum"@fr,
+        "Linz, Museum Francisco Carolinum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLinz, Museum Francisco Carolinum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linz, Museum Francisco Carolinum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009615> a skos:Concept ;
+    skos:altLabel "Radovani, Kosta Angeli"@en,
+        "Radovani, Kosta Angeli"@fr,
+        "Radovani, Kosta Angeli"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoRadovani, Kosta Angeli" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Radovani, Kosta Angeli"@de .
+

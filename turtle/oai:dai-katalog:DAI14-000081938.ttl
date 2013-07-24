@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081938> a skos:Concept ;
+    skos:altLabel "Eppelsheim"@en,
+        "Eppelsheim"@fr,
+        "Eppelsheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038911> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAlzeyEppelshei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eppelsheim"@de .
+

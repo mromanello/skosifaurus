@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034868> a skos:Concept ;
+    skos:altLabel "Istria 2011"@en,
+        "Istria 2011"@fr,
+        "Istria 2011"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstIstria 2011" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Istria 2011"@de .
+

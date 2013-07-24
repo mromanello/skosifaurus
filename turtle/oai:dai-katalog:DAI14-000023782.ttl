@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023782> a skos:Concept ;
+    skos:altLabel "Anatolische Reitergottheit"@en,
+        "Anatolische Reitergottheit"@fr,
+        "Anatolische Reitergottheit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015937> ;
+    skos:hiddenLabel "yRGKArch09 - GeselReligGötteAnatolische Reitergottheit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Anatolische Reitergottheit"@de .
+

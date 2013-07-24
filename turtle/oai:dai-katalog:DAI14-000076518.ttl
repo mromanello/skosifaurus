@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076518> a skos:Concept ;
+    skos:altLabel "Uelvesbüller Koog"@en,
+        "Uelvesbüller Koog"@fr,
+        "Uelvesbüller Koog"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038988> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleZZ--RUelvesbül" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Uelvesbüller Koog"@de .
+

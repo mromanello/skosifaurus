@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012289> a skos:Concept ;
+    skos:altLabel "Thomas Bruce, Lord of Elgin"@en,
+        "Thomas Bruce, Lord of Elgin"@fr,
+        "Thomas Bruce, Lord of Elgin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoThomas Bruce, Lord of Elgin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Thomas Bruce, Lord of Elgin"@de .
+

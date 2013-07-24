@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064179> a skos:Concept ;
+    skos:altLabel "Goldener Steig"@en,
+        "Goldener Steig"@fr,
+        "Goldener Steig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077426> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheZZ-ReGoldener" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Goldener Steig"@de .
+

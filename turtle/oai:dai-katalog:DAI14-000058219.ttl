@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058219> a skos:Concept ;
+    skos:altLabel "Kremsmünster, VB Kirchdorf an der Krems"@en,
+        "Kremsmünster, VB Kirchdorf an der Krems"@fr,
+        "Kremsmünster, VB Kirchdorf an der Krems"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038998> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterOberöKremsmüns" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kremsmünster, VB Kirchdorf an der Krems"@de .
+

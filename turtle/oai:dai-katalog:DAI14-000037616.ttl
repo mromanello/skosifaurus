@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037616> a skos:Concept ;
+    skos:altLabel "Stockholm 1874"@en,
+        "Stockholm 1874"@fr,
+        "Stockholm 1874"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrStockholm 1874" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockholm 1874"@de .
+

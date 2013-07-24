@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032384> a skos:Concept ;
+    skos:altLabel "Chojnów, Muzeum Regionalne w Chojnowie"@en,
+        "Chojnów, Muzeum Regionalne w Chojnowie"@fr,
+        "Chojnów, Muzeum Regionalne w Chojnowie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuChojnów, Muzeum Regionalne w Chojnowie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chojnów, Muzeum Regionalne w Chojnowie"@de .
+

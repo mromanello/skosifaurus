@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026181> a skos:Concept ;
+    skos:altLabel "Caen 1992"@en,
+        "Caen 1992"@fr,
+        "Caen 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstCaen 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caen 1992"@de .
+

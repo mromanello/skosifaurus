@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082165> a skos:Concept ;
+    skos:altLabel "Vráble, okr. Nitra"@en,
+        "Vráble, okr. Nitra"@fr,
+        "Vráble, okr. Nitra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaVráble, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vráble, okr. Nitra"@de .
+

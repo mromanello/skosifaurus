@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043024> a skos:Concept ;
+    skos:altLabel "Fontenoy-sur-Moselle"@en,
+        "Fontenoy-sur-Moselle"@fr,
+        "Fontenoy-sur-Moselle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038748> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMeurtFontenoy-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fontenoy-sur-Moselle"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027848> a skos:Concept ;
+    skos:altLabel "Cardiff, National Museum of Wales"@en,
+        "Cardiff, National Museum of Wales"@fr,
+        "Cardiff, National Museum of Wales"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCardiff, National Museum of Wales" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cardiff, National Museum of Wales"@de .
+

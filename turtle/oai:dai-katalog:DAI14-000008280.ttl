@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008280> a skos:Concept ;
+    skos:altLabel "Foscolo, Ugo"@en,
+        "Foscolo, Ugo"@fr,
+        "Foscolo, Ugo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFoscolo, Ugo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Foscolo, Ugo"@de .
+

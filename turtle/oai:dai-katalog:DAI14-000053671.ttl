@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053671> a skos:Concept ;
+    skos:altLabel "Haffstausee-Gebiet"@en,
+        "Haffstausee-Gebiet"@fr,
+        "Haffstausee-Gebiet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038875> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklZZ--RHaffstaus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haffstausee-Gebiet"@de .
+

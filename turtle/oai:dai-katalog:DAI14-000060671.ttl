@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060671> a skos:Concept ;
+    skos:altLabel "Kędzierzyn-Koźle"@en,
+        "Kędzierzyn-Koźle"@fr,
+        "Kędzierzyn-Koźle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsKędzierzy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kędzierzyn-Koźle"@de .
+

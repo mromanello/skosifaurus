@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012138> a skos:Concept ;
+    skos:altLabel "Parović-Pešikan, Maja"@en,
+        "Parović-Pešikan, Maja"@fr,
+        "Parović-Pešikan, Maja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoParović-Pešikan, Maja" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Parović-Pešikan, Maja"@de .
+

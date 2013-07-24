@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012513> a skos:Concept ;
+    skos:altLabel "Later Palaeolithic"@en,
+        "Paléolithique ultérieur"@fr,
+        "Późny/Schyłkowy paleolit"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012509> ;
+    skos:hiddenLabel "yRGKArch03 - ChronDatieSpät-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Spät-/Endpaläolithikum"@de .
+

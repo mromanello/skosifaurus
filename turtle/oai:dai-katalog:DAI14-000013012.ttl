@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013012> a skos:Concept ;
+    skos:altLabel "Antler axes/maceheads"@en,
+        "Hâches de corne"@fr,
+        "Topory/maczugi rogowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013011> ;
+    skos:hiddenLabel "yRGKArch05 - FundeGerätKnochGewei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geweihäxte/-keulen"@de .
+

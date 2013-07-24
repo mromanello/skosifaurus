@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072117> a skos:Concept ;
+    skos:altLabel "Grotta di Santa Maria d'Agnano"@en,
+        "Grotta di Santa Maria d'Agnano"@fr,
+        "Grotta di Santa Maria d'Agnano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039248> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliBrindGrotta di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotta di Santa Maria d'Agnano"@de .
+

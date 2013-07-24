@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030360> a skos:Concept ;
+    skos:altLabel "Rose, Franz von"@en,
+        "Rose, Franz von"@fr,
+        "Rose, Franz von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaRose, Franz von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rose, Franz von"@de .
+

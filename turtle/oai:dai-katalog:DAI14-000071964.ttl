@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071964> a skos:Concept ;
+    skos:altLabel "San Tammaro"@en,
+        "San Tammaro"@fr,
+        "San Tammaro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039240> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCampaCaserSan Tamma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Tammaro"@de .
+

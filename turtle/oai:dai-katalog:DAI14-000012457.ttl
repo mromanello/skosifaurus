@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012457> a skos:Concept ;
+    skos:altLabel "Eichstätt, Historischer Verein"@en,
+        "Eichstätt, Historischer Verein"@fr,
+        "Eichstätt, Historischer Verein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiEichstätt, Historischer Verein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eichstätt, Historischer Verein"@de .
+

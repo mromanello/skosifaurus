@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072167> a skos:Concept ;
+    skos:altLabel "Cutrofiano"@en,
+        "Cutrofiano"@fr,
+        "Cutrofiano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039250> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliLecceCutrofian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cutrofiano"@de .
+

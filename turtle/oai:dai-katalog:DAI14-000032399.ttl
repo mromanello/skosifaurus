@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032399> a skos:Concept ;
+    skos:altLabel "La Tour-de-Peilz, Spielmuseum"@en,
+        "La Tour-de-Peilz, Spielmuseum"@fr,
+        "La Tour-de-Peilz, Spielmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuLa Tour-de-Peilz, Spielmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Tour-de-Peilz, Spielmuseum"@de .
+

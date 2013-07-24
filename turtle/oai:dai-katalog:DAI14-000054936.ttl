@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054936> a skos:Concept ;
+    skos:altLabel "Erkrath-Hochdahl"@en,
+        "Erkrath-Hochdahl"@fr,
+        "Erkrath-Hochdahl"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038883> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrMettmErkrath-H" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erkrath-Hochdahl"@de .
+

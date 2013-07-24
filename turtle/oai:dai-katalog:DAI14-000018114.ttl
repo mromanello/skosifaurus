@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018114> a skos:Concept ;
+    skos:altLabel "Pincers"@en,
+        "Pinces"@fr,
+        "Szczypce/kleszcze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018103> ;
+    skos:hiddenLabel "yRGKArch12 - FundeGerätHandwZange" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zangen"@de .
+

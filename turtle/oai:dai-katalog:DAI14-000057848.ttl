@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057848> a skos:Concept ;
+    skos:altLabel "Liebenfels-Zweikirchen, VB St. Veit/Glan"@en,
+        "Liebenfels-Zweikirchen, VB St. Veit/Glan"@fr,
+        "Liebenfels-Zweikirchen, VB St. Veit/Glan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038996> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterKärntLiebenfel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Liebenfels-Zweikirchen, VB St. Veit/Glan"@de .
+

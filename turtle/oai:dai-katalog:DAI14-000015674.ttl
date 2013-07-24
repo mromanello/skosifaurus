@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015674> a skos:Concept ;
+    skos:altLabel "Baignoire"@fr,
+        "Miednice/wanny"@pl,
+        "Tub"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015673> ;
+    skos:hiddenLabel "yRGKArch09 - BefunBauweWasseBäderBecke" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Becken/Wanne"@de .
+

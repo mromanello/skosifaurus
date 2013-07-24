@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081328> a skos:Concept ;
+    skos:altLabel "Bischofsreuter Waldhufen"@en,
+        "Bischofsreuter Waldhufen"@fr,
+        "Bischofsreuter Waldhufen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038869> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerZZ--RBischofsr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bischofsreuter Waldhufen"@de .
+

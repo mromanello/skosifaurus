@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029483> a skos:Concept ;
+    skos:altLabel "Fürth, Jüdisches Museum Franken"@en,
+        "Fürth, Jüdisches Museum Franken"@fr,
+        "Fürth, Jüdisches Museum Franken"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuFürth, Jüdisches Museum Franken" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fürth, Jüdisches Museum Franken"@de .
+

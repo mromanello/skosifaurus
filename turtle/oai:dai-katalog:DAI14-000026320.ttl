@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026320> a skos:Concept ;
+    skos:altLabel "Firenze 1996/97"@en,
+        "Firenze 1996/97"@fr,
+        "Firenze 1996/97"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstFirenze 1996/97" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Firenze 1996/97"@de .
+

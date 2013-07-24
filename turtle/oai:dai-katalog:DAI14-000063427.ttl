@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063427> a skos:Concept ;
+    skos:altLabel "Buštěhrad, okr. Kladno"@en,
+        "Buštěhrad, okr. Kladno"@fr,
+        "Buštěhrad, okr. Kladno"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBuštěhrad" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buštěhrad, okr. Kladno"@de .
+

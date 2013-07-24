@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006734> a skos:Concept ;
+    skos:altLabel "Müller-Beck, Hansjürgen"@en,
+        "Müller-Beck, Hansjürgen"@fr,
+        "Müller-Beck, Hansjürgen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsMüller-Beck, Hansjürgen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Müller-Beck, Hansjürgen"@de .
+

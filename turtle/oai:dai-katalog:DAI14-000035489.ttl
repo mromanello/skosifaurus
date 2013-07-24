@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035489> a skos:Concept ;
+    skos:altLabel "Canterbury 1989"@en,
+        "Canterbury 1989"@fr,
+        "Canterbury 1989"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCanterbury 1989" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Canterbury 1989"@de .
+

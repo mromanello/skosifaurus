@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037091> a skos:Concept ;
+    skos:altLabel "Philadelphia 2000"@en,
+        "Philadelphia 2000"@fr,
+        "Philadelphia 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrPhiladelphia 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philadelphia 2000"@de .
+

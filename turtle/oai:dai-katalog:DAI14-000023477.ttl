@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023477> a skos:Concept ;
+    skos:altLabel "Via Clodia"@en,
+        "Via Clodia"@fr,
+        "Via Clodia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015104> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsVerkeLandwStrasVia Clodia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Via Clodia"@de .
+

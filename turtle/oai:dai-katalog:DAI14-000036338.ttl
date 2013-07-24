@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036338> a skos:Concept ;
+    skos:altLabel "Levroux 1978"@en,
+        "Levroux 1978"@fr,
+        "Levroux 1978"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLevroux 1978" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Levroux 1978"@de .
+

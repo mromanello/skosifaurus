@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063577> a skos:Concept ;
+    skos:altLabel "Hrad Osvračin, okr. Domażlice"@en,
+        "Hrad Osvračin, okr. Domażlice"@fr,
+        "Hrad Osvračin, okr. Domażlice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Osvr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Osvračin, okr. Domażlice"@de .
+

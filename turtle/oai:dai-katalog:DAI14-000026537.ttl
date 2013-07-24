@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026537> a skos:Concept ;
+    skos:altLabel "Khartoum 2005"@en,
+        "Khartoum 2005"@fr,
+        "Khartoum 2005"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstKhartoum 2005" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Khartoum 2005"@de .
+

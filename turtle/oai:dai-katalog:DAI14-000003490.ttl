@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003490> a skos:Concept ;
+    skos:altLabel "s"@en,
+        "s"@fr,
+        "s"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003441> ;
+    skos:hiddenLabel "xBthAndSchrift" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schriftwesen"@de .
+

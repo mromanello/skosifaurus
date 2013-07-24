@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025236> a skos:Concept ;
+    skos:altLabel "Miejsca kultu przyrody"@pl,
+        "Natural sacred sites"@en,
+        "Sanctuaires naturels"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017721> ;
+    skos:hiddenLabel "yRGKArch11 - GeselReligKulteNatur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Naturheiligtümer"@de .
+

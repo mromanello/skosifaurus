@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008950> a skos:Concept ;
+    skos:altLabel "L'Helgouac'h, Jean"@en,
+        "L'Helgouac'h, Jean"@fr,
+        "L'Helgouac'h, Jean"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoL'Helgouac'h, Jean" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "L'Helgouac'h, Jean"@de .
+

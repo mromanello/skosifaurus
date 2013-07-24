@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026388> a skos:Concept ;
+    skos:altLabel "Gniezno 2001"@en,
+        "Gniezno 2001"@fr,
+        "Gniezno 2001"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstGniezno 2001" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gniezno 2001"@de .
+

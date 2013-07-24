@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053631> a skos:Concept ;
+    skos:altLabel "Schwerin-Muess"@en,
+        "Schwerin-Muess"@fr,
+        "Schwerin-Muess"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075537> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklSchweSchwerin-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwerin-Muess"@de .
+

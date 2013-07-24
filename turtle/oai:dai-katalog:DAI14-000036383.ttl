@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036383> a skos:Concept ;
+    skos:altLabel "Lindau 1991"@en,
+        "Lindau 1991"@fr,
+        "Lindau 1991"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLindau 1991" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lindau 1991"@de .
+

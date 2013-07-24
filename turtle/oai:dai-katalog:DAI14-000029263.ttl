@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029263> a skos:Concept ;
+    skos:altLabel "Weiden, Internationales Keramik-Museum"@en,
+        "Weiden, Internationales Keramik-Museum"@fr,
+        "Weiden, Internationales Keramik-Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuWeiden, Internationales Keramik-Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Weiden, Internationales Keramik-Museum"@de .
+

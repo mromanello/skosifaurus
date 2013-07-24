@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042000> a skos:Concept ;
+    skos:altLabel "Schelde"@en,
+        "Schelde"@fr,
+        "Schelde"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038721> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiZZ--RSchelde" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schelde"@de .
+

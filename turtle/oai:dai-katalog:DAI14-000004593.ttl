@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004593> a skos:Concept ;
+    skos:altLabel "calendario e cronologia (1956 - 1997)"@it,
+        "calender and chronology (1956 - 1997)"@en,
+        "calendrier et chronologie (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004585> ;
+    skos:hiddenLabel "xFrMAAntKal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalender und Chronologie (1956 - 1997)"@de .
+

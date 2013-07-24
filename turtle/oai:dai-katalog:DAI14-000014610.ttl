@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014610> a skos:Concept ;
+    skos:altLabel "Spirale"@pl,
+        "Spirales"@fr,
+        "Spirals"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014597> ;
+    skos:hiddenLabel "yRGKArch08 - FundeKleidSchmuRingsSpira" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Spiralen"@de .
+

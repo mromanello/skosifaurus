@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076674> a skos:Concept ;
+    skos:altLabel "Bystřec, okr. Ustí nad Orlicí"@en,
+        "Bystřec, okr. Ustí nad Orlicí"@fr,
+        "Bystřec, okr. Ustí nad Orlicí"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBystřec," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bystřec, okr. Ustí nad Orlicí"@de .
+

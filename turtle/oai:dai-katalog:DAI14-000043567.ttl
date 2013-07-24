@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043567> a skos:Concept ;
+    skos:altLabel "Fressignes"@en,
+        "Fressignes"@fr,
+        "Fressignes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038761> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaIndreFressigne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fressignes"@de .
+

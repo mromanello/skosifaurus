@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055709> a skos:Concept ;
+    skos:altLabel "Melsbach"@en,
+        "Melsbach"@fr,
+        "Melsbach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038931> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinNeuwiMelsbach" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Melsbach"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059974> a skos:Concept ;
+    skos:altLabel "Kompina"@en,
+        "Kompina"@fr,
+        "Kompina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkKompina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kompina"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024674> a skos:Concept ;
+    skos:altLabel "Divus Claudius"@en,
+        "Divus Claudius"@fr,
+        "Divus Claudius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016297> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPräguRömisPrägeDivus Claudius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Divus Claudius"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076707> a skos:Concept ;
+    skos:altLabel "Kaulonia"@en,
+        "Kaulonia"@fr,
+        "Kaulonia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039256> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisCalabReggiKaulonia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaulonia"@de .
+

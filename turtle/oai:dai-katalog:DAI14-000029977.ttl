@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029977> a skos:Concept ;
+    skos:altLabel "Campana, Giovanni Pietro"@en,
+        "Campana, Giovanni Pietro"@fr,
+        "Campana, Giovanni Pietro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaCampana, Giovanni Pietro" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Campana, Giovanni Pietro"@de .
+

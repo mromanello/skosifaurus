@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054354> a skos:Concept ;
+    skos:altLabel "Horneburg"@en,
+        "Horneburg"@fr,
+        "Horneburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075586> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeStadeHorneburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Horneburg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047631> a skos:Concept ;
+    skos:altLabel "Lower Farm, Nuneham Courtenay"@en,
+        "Lower Farm, Nuneham Courtenay"@fr,
+        "Lower Farm, Nuneham Courtenay"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077703> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaOxforLower Far" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lower Farm, Nuneham Courtenay"@de .
+

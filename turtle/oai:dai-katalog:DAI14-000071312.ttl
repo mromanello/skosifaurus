@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071312> a skos:Concept ;
+    skos:altLabel "Corinaldo"@en,
+        "Corinaldo"@fr,
+        "Corinaldo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039217> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaMarchAnconCorinaldo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Corinaldo"@de .
+

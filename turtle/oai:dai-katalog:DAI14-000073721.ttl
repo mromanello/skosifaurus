@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073721> a skos:Concept ;
+    skos:altLabel "Fuenteobejuna, La Loba"@en,
+        "Fuenteobejuna, La Loba"@fr,
+        "Fuenteobejuna, La Loba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039353> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalCórdoFuenteobe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fuenteobejuna, La Loba"@de .
+

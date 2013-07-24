@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078097> a skos:Concept ;
+    skos:altLabel "Andravida-Lechaina, Peloponnes"@en,
+        "Andravida-Lechaina, Peloponnes"@fr,
+        "Andravida-Lechaina, Peloponnes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039141> ;
+    skos:hiddenLabel "zTopogEuropSüdeuGriecAndravida" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Andravida-Lechaina, Peloponnes"@de .
+

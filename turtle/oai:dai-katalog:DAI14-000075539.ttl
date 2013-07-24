@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075539> a skos:Concept ;
+    skos:altLabel "Uecker-Randow"@en,
+        "Uecker-Randow"@fr,
+        "Uecker-Randow"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038874> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklUecker-Ra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Uecker-Randow"@de .
+

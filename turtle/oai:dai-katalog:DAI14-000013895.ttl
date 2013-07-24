@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013895> a skos:Concept ;
+    skos:altLabel "Environnement/reconstitutions de l'environnement"@fr,
+        "Reconstruction of environment"@en,
+        "Rekonstrukcja srodowiska naturalnego"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013881> ;
+    skos:hiddenLabel "yRGKArch06 - NaturNatur" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Naturräumliche Ausstattung/Umweltrekonstruktion"@de .
+

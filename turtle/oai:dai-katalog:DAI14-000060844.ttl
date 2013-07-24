@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060844> a skos:Concept ;
+    skos:altLabel "Drawa"@en,
+        "Drawa"@fr,
+        "Drawa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039027> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskZZ--RDrawa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Drawa"@de .
+

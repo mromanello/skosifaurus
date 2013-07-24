@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032972> a skos:Concept ;
+    skos:altLabel "Ptolemaios <Ägypten, König, XIII.>"@en,
+        "Ptolemaios <Ägypten, König, XIII.>"@fr,
+        "Ptolemaios <Ägypten, König, XIII.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPtolemaios <Ägypten, König, XIII.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ptolemaios <Ägypten, König, XIII.>"@de .
+

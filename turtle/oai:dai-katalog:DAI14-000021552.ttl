@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021552> a skos:Concept ;
+    skos:altLabel "Memmius, Gaius Luci filius"@en,
+        "Memmius, Gaius Luci filius"@fr,
+        "Memmius, Gaius Luci filius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMemmius, Gaius Luci filius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Memmius, Gaius Luci filius"@de .
+

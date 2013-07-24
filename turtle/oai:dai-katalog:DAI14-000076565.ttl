@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076565> a skos:Concept ;
+    skos:altLabel "Summerhill, Naunton"@en,
+        "Summerhill, Naunton"@fr,
+        "Summerhill, Naunton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077689> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaGloucSummerhil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Summerhill, Naunton"@de .
+

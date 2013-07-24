@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014320> a skos:Concept ;
+    skos:altLabel "Cooking"@en,
+        "Cuire"@fr,
+        "Gotowanie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014318> ;
+    skos:hiddenLabel "yRGKArch07 - WirtsErnähNahruKoche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kochen"@de .
+

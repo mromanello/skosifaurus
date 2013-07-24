@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048869> a skos:Concept ;
+    skos:altLabel "Galson, Isle of Lewis"@en,
+        "Galson, Isle of Lewis"@fr,
+        "Galson, Isle of Lewis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078511> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotWesteGalson, I" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Galson, Isle of Lewis"@de .
+

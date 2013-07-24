@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073882> a skos:Concept ;
+    skos:altLabel "Hoya de Santa Ana"@en,
+        "Hoya de Santa Ana"@fr,
+        "Hoya de Santa Ana"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039360> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMurciAlbacHoya de S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hoya de Santa Ana"@de .
+

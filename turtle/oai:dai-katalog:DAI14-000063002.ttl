@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063002> a skos:Concept ;
+    skos:altLabel "Žiarska kotlina"@en,
+        "Žiarska kotlina"@fr,
+        "Žiarska kotlina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaŽiarska k" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Žiarska kotlina"@de .
+

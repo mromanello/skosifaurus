@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003899> a skos:Concept ;
+    skos:altLabel "Roman religion"@en,
+        "religion romaine"@fr,
+        "religione romana"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003895> ;
+    skos:hiddenLabel "xReligRöm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "römische Religion"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027684> a skos:Concept ;
+    skos:altLabel "Berkeley, University Art Collections"@en,
+        "Berkeley, University Art Collections"@fr,
+        "Berkeley, University Art Collections"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBerkeley, University Art Collections" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Berkeley, University Art Collections"@de .
+

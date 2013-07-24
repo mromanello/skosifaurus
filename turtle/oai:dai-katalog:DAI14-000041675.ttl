@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041675> a skos:Concept ;
+    skos:altLabel "Huccorgne-Grotte du Docteur"@en,
+        "Huccorgne-Grotte du Docteur"@fr,
+        "Huccorgne-Grotte du Docteur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038717> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLiègeHuccorgne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Huccorgne-Grotte du Docteur"@de .
+

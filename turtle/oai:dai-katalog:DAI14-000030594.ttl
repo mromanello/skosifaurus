@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030594> a skos:Concept ;
+    skos:altLabel "Genève, Kantonsarchäologie"@en,
+        "Genève, Kantonsarchäologie"@fr,
+        "Genève, Kantonsarchäologie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiGenève, Kantonsarchäologie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Genève, Kantonsarchäologie"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063496> a skos:Concept ;
+    skos:altLabel "Dobšice, okr. Nymburk"@en,
+        "Dobšice, okr. Nymburk"@fr,
+        "Dobšice, okr. Nymburk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyDobšice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dobšice, okr. Nymburk"@de .
+

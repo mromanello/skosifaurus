@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042395> a skos:Concept ;
+    skos:altLabel "Quentovic"@en,
+        "Quentovic"@fr,
+        "Quentovic"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038731> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dPas-dQuentovic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quentovic"@de .
+

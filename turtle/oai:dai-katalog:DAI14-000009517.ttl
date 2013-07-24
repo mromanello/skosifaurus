@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009517> a skos:Concept ;
+    skos:altLabel "Petrivna Rusanova, Irina"@en,
+        "Petrivna Rusanova, Irina"@fr,
+        "Petrivna Rusanova, Irina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPetrivna Rusanova, Irina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petrivna Rusanova, Irina"@de .
+

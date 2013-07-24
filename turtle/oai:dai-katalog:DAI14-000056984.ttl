@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056984> a skos:Concept ;
+    skos:altLabel "Burg Raspenburg, Stadt Rastenberg"@en,
+        "Burg Raspenburg, Stadt Rastenberg"@fr,
+        "Burg Raspenburg, Stadt Rastenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075616> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriSömmeBurg Rasp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burg Raspenburg, Stadt Rastenberg"@de .
+

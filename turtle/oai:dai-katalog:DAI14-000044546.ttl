@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044546> a skos:Concept ;
+    skos:altLabel "Rivières-Ribérolles"@en,
+        "Rivières-Ribérolles"@fr,
+        "Rivières-Ribérolles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038786> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareRivières-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rivières-Ribérolles"@de .
+

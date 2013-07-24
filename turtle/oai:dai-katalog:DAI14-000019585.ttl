@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019585> a skos:Concept ;
+    skos:altLabel "Hermeneutic"@en,
+        "Hermeneutyka"@pl,
+        "Herméneutique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019580> ;
+    skos:hiddenLabel "yRGKMethTheorKonzeHerme" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hermeneutik"@de .
+

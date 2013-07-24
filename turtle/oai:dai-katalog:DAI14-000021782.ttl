@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021782> a skos:Concept ;
+    skos:altLabel "Ivo <Carnotensis>"@en,
+        "Ivo <Carnotensis>"@fr,
+        "Ivo <Carnotensis>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoIvo <Carnotensis>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ivo <Carnotensis>"@de .
+

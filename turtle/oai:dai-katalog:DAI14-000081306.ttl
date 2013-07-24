@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081306> a skos:Concept ;
+    skos:altLabel "Marsens-Riaz"@en,
+        "Marsens-Riaz"@fr,
+        "Marsens-Riaz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039040> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweFreibMarsens-R" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marsens-Riaz"@de .
+

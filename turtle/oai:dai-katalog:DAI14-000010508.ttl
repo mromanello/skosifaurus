@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010508> a skos:Concept ;
+    skos:altLabel "Dürrnberg, Forschungszentrum"@en,
+        "Dürrnberg, Forschungszentrum"@fr,
+        "Dürrnberg, Forschungszentrum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiDürrnberg, Forschungszentrum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dürrnberg, Forschungszentrum"@de .
+

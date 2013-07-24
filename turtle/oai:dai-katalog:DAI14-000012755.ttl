@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012755> a skos:Concept ;
+    skos:altLabel "Mesolithic"@en,
+        "Mezolit"@pl,
+        "Mésolithique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012476> ;
+    skos:hiddenLabel "yRGKArch04 -" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "04 - Mesolithikum"@de .
+

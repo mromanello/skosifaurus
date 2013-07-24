@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035524> a skos:Concept ;
+    skos:altLabel "Cchaltubo 1977"@en,
+        "Cchaltubo 1977"@fr,
+        "Cchaltubo 1977"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCchaltubo 1977" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cchaltubo 1977"@de .
+

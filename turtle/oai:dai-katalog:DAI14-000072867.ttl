@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072867> a skos:Concept ;
+    skos:altLabel "Odemira"@en,
+        "Odemira"@fr,
+        "Odemira"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039295> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuBejaOdemira" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Odemira"@de .
+

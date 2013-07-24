@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031886> a skos:Concept ;
+    skos:altLabel "Schoppa, Helmut"@en,
+        "Schoppa, Helmut"@fr,
+        "Schoppa, Helmut"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliSchoppa, Helmut" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schoppa, Helmut"@de .
+

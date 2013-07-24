@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042172> a skos:Concept ;
+    skos:altLabel "Vatteville-la-Rue"@en,
+        "Vatteville-la-Rue"@fr,
+        "Vatteville-la-Rue"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038726> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEureVattevill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vatteville-la-Rue"@de .
+

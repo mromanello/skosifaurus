@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077820> a skos:Concept ;
+    skos:altLabel "Arthuret"@en,
+        "Arthuret"@fr,
+        "Arthuret"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrArthuret" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arthuret"@de .
+

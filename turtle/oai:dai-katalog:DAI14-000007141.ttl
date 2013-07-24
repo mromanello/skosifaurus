@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007141> a skos:Concept ;
+    skos:altLabel "Wien, Institut für Numismatik und Geldgeschichte"@en,
+        "Wien, Institut für Numismatik und Geldgeschichte"@fr,
+        "Wien, Institut für Numismatik und Geldgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsWien, Institut für Numismatik und Geldgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wien, Institut für Numismatik und Geldgeschichte"@de .
+

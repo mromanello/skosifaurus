@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079354> a skos:Concept ;
+    skos:altLabel "Étigny-le-Brassot"@en,
+        "Étigny-le-Brassot"@fr,
+        "Étigny-le-Brassot"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038780> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgYonneÉtigny-le" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Étigny-le-Brassot"@de .
+

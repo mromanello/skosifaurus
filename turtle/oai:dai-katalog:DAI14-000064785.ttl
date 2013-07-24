@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064785> a skos:Concept ;
+    skos:altLabel "Almásfüzitő"@en,
+        "Almásfüzitő"@fr,
+        "Almásfüzitő"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039073> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarWestuKomárAlmásfüzi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Almásfüzitő"@de .
+

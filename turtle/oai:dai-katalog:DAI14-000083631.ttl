@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083631> a skos:Concept ;
+    skos:altLabel "Kleinseebach"@en,
+        "Kleinseebach"@fr,
+        "Kleinseebach"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075408> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerErlanKleinseeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kleinseebach"@de .
+

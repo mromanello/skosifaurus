@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069097> a skos:Concept ;
+    skos:altLabel "Zaozernoe"@en,
+        "Zaozernoe"@fr,
+        "Zaozernoe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiZaozernoe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zaozernoe"@de .
+

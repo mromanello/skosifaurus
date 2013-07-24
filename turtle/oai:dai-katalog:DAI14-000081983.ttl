@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081983> a skos:Concept ;
+    skos:altLabel "Ronai"@en,
+        "Ronai"@fr,
+        "Ronai"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038730> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOrneRonai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ronai"@de .
+

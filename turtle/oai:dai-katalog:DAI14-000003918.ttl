@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003918> a skos:Concept ;
+    skos:altLabel "miti e culti di singoli luoghi e regioni"@it,
+        "mythes et cultes de régions et lieux particuliers"@fr,
+        "myths and cults of single countries and places"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003895> ;
+    skos:hiddenLabel "xReligOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mythen und Kulte örtlich"@de .
+

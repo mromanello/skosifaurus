@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082855> a skos:Concept ;
+    skos:altLabel "Gatas"@en,
+        "Gatas"@fr,
+        "Gatas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039351> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalAlmerGatas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gatas"@de .
+

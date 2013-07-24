@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079189> a skos:Concept ;
+    skos:altLabel "Gura Bâcului, raj. Anenii Noi"@en,
+        "Gura Bâcului, raj. Anenii Noi"@fr,
+        "Gura Bâcului, raj. Anenii Noi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaGura Bâcu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gura Bâcului, raj. Anenii Noi"@de .
+

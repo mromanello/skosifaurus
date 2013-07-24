@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008486> a skos:Concept ;
+    skos:altLabel "Gunjača, Zlatko"@en,
+        "Gunjača, Zlatko"@fr,
+        "Gunjača, Zlatko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoGunjača, Zlatko" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gunjača, Zlatko"@de .
+

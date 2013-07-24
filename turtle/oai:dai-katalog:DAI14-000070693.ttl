@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070693> a skos:Concept ;
+    skos:altLabel "Fiavè-Carera"@en,
+        "Fiavè-Carera"@fr,
+        "Fiavè-Carera"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039188> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetTrentTrentFiavè-Car" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fiavè-Carera"@de .
+

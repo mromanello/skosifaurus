@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063732> a skos:Concept ;
+    skos:altLabel "Lišice, okr. Kutná Hora"@en,
+        "Lišice, okr. Kutná Hora"@fr,
+        "Lišice, okr. Kutná Hora"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyLišice, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lišice, okr. Kutná Hora"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032781> a skos:Concept ;
+    skos:altLabel "Roma, Palazzo Colonna"@en,
+        "Roma, Palazzo Colonna"@fr,
+        "Roma, Palazzo Colonna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Palazzo Colonna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Palazzo Colonna"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035522> a skos:Concept ;
+    skos:altLabel "Catania/Camarina/Gela/Vittoria 1990"@en,
+        "Catania/Camarina/Gela/Vittoria 1990"@fr,
+        "Catania/Camarina/Gela/Vittoria 1990"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrCatania/Camarina/Gela/Vittoria 1990" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Catania/Camarina/Gela/Vittoria 1990"@de .
+

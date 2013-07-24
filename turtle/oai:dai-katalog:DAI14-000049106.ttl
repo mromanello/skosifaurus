@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049106> a skos:Concept ;
+    skos:altLabel "Ballynahone Beg"@en,
+        "Ballynahone Beg"@fr,
+        "Ballynahone Beg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077476> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossNordiArmagBallynaho" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ballynahone Beg"@de .
+

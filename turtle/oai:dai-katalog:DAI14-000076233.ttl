@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076233> a skos:Concept ;
+    skos:altLabel "Mielniki, obl. Čerkassy"@en,
+        "Mielniki, obl. Čerkassy"@fr,
+        "Mielniki, obl. Čerkassy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiMielniki," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mielniki, obl. Čerkassy"@de .
+

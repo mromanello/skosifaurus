@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036953> a skos:Concept ;
+    skos:altLabel "Osterburken 1990"@en,
+        "Osterburken 1990"@fr,
+        "Osterburken 1990"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrOsterburken 1990" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osterburken 1990"@de .
+

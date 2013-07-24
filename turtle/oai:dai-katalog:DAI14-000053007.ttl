@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053007> a skos:Concept ;
+    skos:altLabel "Witzenhausen"@en,
+        "Witzenhausen"@fr,
+        "Witzenhausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075508> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseWerraWitzenhau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Witzenhausen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082339> a skos:Concept ;
+    skos:altLabel "Kanín, okr. Nymburk"@en,
+        "Kanín, okr. Nymburk"@fr,
+        "Kanín, okr. Nymburk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKanín, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kanín, okr. Nymburk"@de .
+

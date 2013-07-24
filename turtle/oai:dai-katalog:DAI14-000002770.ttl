@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002770> a skos:Concept ;
+    skos:altLabel "convento, romitorio"@it,
+        "monastery, hermitage"@en,
+        "monastère, hermitage"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002737> ;
+    skos:hiddenLabel "xArchitKgBautypKlost" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kloster, Einsiedelei"@de .
+

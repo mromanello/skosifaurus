@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032609> a skos:Concept ;
+    skos:altLabel "Giessen, Antikensammlung der Universität"@en,
+        "Giessen, Antikensammlung der Universität"@fr,
+        "Giessen, Antikensammlung der Universität"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGiessen, Antikensammlung der Universität" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Giessen, Antikensammlung der Universität"@de .
+

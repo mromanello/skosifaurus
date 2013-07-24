@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004567> a skos:Concept ;
+    skos:altLabel "Visigoths (1956 - 1997)"@en,
+        "Visigoths (1956 - 1997)"@fr,
+        "Visigoti (1956 - 1997)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004555> ;
+    skos:hiddenLabel "xFrMAVolkWestgot" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Westgoten (1956 - 1997)"@de .
+

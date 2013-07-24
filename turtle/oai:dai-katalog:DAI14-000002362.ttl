@@ -1,0 +1,56 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002362_Adulis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Adulis" .
+
+<http://data.dainst.de/zenon/000002362_Axum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Axum" .
+
+<http://data.dainst.de/zenon/000002362_DaaròCaulòs> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Daarò Caulòs" .
+
+<http://data.dainst.de/zenon/000002362_DebraDamo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Debra Damo" .
+
+<http://data.dainst.de/zenon/000002362_Haoulti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Haoulti" .
+
+<http://data.dainst.de/zenon/000002362_Lalibela> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Lalibela" .
+
+<http://data.dainst.de/zenon/000002362_Lasta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Lasta" .
+
+<http://data.dainst.de/zenon/000002362_Matara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Matara" .
+
+<http://data.dainst.de/zenon/000002362_Ophir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Ophir" .
+
+<http://data.dainst.de/zenon/000002362_OuchateiGolo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Ouchatei Golo" .
+
+<http://data.dainst.de/zenon/000002362_Yeha> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002362> ;
+    skos:prefLabel "Yeha" .
+
+<http://data.dainst.de/zenon/000002362> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "loughi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002361> ;
+    skos:hiddenLabel "xTopLandÄthOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

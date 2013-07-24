@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018207> a skos:Concept ;
+    skos:altLabel "Armes à feu"@fr,
+        "Bron palna"@pl,
+        "Fire-arms"@en ;
+    skos:broader <http://data.dainst.de/zenon/000018193> ;
+    skos:hiddenLabel "yRGKArch12 - FundeBewafAngriFeuer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Feuerwaffen"@de .
+

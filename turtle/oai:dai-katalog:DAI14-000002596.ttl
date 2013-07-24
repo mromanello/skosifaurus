@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002596> a skos:Concept ;
+    skos:altLabel "material and treatment"@en,
+        "materiali e lavorazione"@it,
+        "matériaux et traitements"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002573> ;
+    skos:hiddenLabel "xTMMat" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Material und Bearbeitung"@de .
+

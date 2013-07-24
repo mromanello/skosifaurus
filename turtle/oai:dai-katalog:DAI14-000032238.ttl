@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032238> a skos:Concept ;
+    skos:altLabel "Collectio Canonum Hibernensis"@en,
+        "Collectio Canonum Hibernensis"@fr,
+        "Collectio Canonum Hibernensis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012500> ;
+    skos:hiddenLabel "yRGKArch02 - SchriJurisLegesCollectio Canonum Hibernensis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Collectio Canonum Hibernensis"@de .
+

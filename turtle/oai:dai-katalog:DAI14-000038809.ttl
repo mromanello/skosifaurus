@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038809> a skos:Concept ;
+    skos:altLabel "Vaucluse"@en,
+        "Vaucluse"@fr,
+        "Vaucluse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038795> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVaucl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vaucluse"@de .
+

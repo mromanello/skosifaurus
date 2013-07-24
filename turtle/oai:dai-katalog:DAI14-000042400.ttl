@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042400> a skos:Concept ;
+    skos:altLabel "Saint-Étienne-au-Mont"@en,
+        "Saint-Étienne-au-Mont"@fr,
+        "Saint-Étienne-au-Mont"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038731> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dPas-dSaint-Éti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Étienne-au-Mont"@de .
+

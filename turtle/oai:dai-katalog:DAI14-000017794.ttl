@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017794> a skos:Concept ;
+    skos:altLabel "Floor mosaics"@en,
+        "MosaÃ£ques de plancher"@fr,
+        "Mozaiki podlogowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017793> ;
+    skos:hiddenLabel "yRGKArch11 - GeselKunstMosaiBoden" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bodenmosaiken"@de .
+

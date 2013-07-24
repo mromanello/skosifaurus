@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032327> a skos:Concept ;
+    skos:altLabel "Pitt-Rivers, Augustus"@en,
+        "Pitt-Rivers, Augustus"@fr,
+        "Pitt-Rivers, Augustus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019606> ;
+    skos:hiddenLabel "yRGKMusMuseeNachlPitt-Rivers, Augustus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pitt-Rivers, Augustus"@de .
+

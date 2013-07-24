@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028214> a skos:Concept ;
+    skos:altLabel "Ince Blundell Hall"@en,
+        "Ince Blundell Hall"@fr,
+        "Ince Blundell Hall"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuInce Blundell Hall" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ince Blundell Hall"@de .
+

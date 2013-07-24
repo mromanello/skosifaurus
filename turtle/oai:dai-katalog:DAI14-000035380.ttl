@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035380> a skos:Concept ;
+    skos:altLabel "Brentino Belluno 2004"@en,
+        "Brentino Belluno 2004"@fr,
+        "Brentino Belluno 2004"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBrentino Belluno 2004" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brentino Belluno 2004"@de .
+

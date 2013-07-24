@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046459> a skos:Concept ;
+    skos:altLabel "Saint-Germain-de-Calberte"@en,
+        "Saint-Germain-de-Calberte"@fr,
+        "Saint-Germain-de-Calberte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038830> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguLozèrSaint-Ger" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Germain-de-Calberte"@de .
+

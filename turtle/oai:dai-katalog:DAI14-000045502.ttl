@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045502> a skos:Concept ;
+    skos:altLabel "Aven-Grotte des Plos"@en,
+        "Aven-Grotte des Plos"@fr,
+        "Aven-Grotte des Plos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038813> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitAveyrAven-Grot" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aven-Grotte des Plos"@de .
+

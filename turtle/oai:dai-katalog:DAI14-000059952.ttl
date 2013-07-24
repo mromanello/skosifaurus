@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059952> a skos:Concept ;
+    skos:altLabel "Dąbrówka Mała"@en,
+        "Dąbrówka Mała"@fr,
+        "Dąbrówka Mała"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkDąbrówka" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dąbrówka Mała"@de .
+

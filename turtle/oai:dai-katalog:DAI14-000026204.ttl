@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026204> a skos:Concept ;
+    skos:altLabel "Celje 1999"@en,
+        "Celje 1999"@fr,
+        "Celje 1999"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstCelje 1999" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Celje 1999"@de .
+

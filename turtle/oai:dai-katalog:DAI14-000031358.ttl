@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031358> a skos:Concept ;
+    skos:altLabel "Chvojka, V. V."@en,
+        "Chvojka, V. V."@fr,
+        "Chvojka, V. V."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliChvojka, V. V." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chvojka, V. V."@de .
+

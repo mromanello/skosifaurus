@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049090> a skos:Concept ;
+    skos:altLabel "Skye (Isle)"@en,
+        "Skye (Isle)"@fr,
+        "Skye (Isle)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038843> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotZZ-ScSkye (Isl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skye (Isle)"@de .
+

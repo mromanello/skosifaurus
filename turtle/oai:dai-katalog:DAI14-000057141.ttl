@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057141> a skos:Concept ;
+    skos:altLabel "Bjelovar"@en,
+        "Bjelovar"@fr,
+        "Bjelovar"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatBjelovar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bjelovar"@de .
+

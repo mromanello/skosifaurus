@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077242> a skos:Concept ;
+    skos:altLabel "Martin Brod"@en,
+        "Martin Brod"@fr,
+        "Martin Brod"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039095> ;
+    skos:hiddenLabel "zTopogEuropOsteuBosniMartin Br" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Martin Brod"@de .
+

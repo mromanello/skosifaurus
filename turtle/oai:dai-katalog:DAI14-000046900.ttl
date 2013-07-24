@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046900> a skos:Concept ;
+    skos:altLabel "Cherry Hinton"@en,
+        "Cherry Hinton"@fr,
+        "Cherry Hinton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077680> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCambrCherry Hi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cherry Hinton"@de .
+

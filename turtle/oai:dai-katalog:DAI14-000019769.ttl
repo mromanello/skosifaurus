@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019769> a skos:Concept ;
+    skos:altLabel "Badania rentgenowskie"@pl,
+        "Radiographie"@fr,
+        "X-ray analysis"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019757> ;
+    skos:hiddenLabel "yRGKNaturMaterSpeziRöntg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Röntgenuntersuchungen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057196> a skos:Concept ;
+    skos:altLabel "Donji Humac"@en,
+        "Donji Humac"@fr,
+        "Donji Humac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatDonji Hum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Donji Humac"@de .
+

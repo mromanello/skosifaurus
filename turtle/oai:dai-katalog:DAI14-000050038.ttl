@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050038> a skos:Concept ;
+    skos:altLabel "Münster"@en,
+        "Münster"@fr,
+        "Münster"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075331> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBreisMünster" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Münster"@de .
+

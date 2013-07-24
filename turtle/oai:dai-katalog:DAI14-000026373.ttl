@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026373> a skos:Concept ;
+    skos:altLabel "Gap 1983"@en,
+        "Gap 1983"@fr,
+        "Gap 1983"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstGap 1983" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gap 1983"@de .
+

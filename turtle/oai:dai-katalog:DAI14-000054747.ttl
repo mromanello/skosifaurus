@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054747> a skos:Concept ;
+    skos:altLabel "Eiserfey-Weyer, Kartstein"@en,
+        "Eiserfey-Weyer, Kartstein"@fr,
+        "Eiserfey-Weyer, Kartstein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075637> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrEuskiEiserfey-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eiserfey-Weyer, Kartstein"@de .
+

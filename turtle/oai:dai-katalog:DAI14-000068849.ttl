@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068849> a skos:Concept ;
+    skos:altLabel "Mogilev-Podolsky, Vinnica obl."@en,
+        "Mogilev-Podolsky, Vinnica obl."@fr,
+        "Mogilev-Podolsky, Vinnica obl."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiMogilev-P" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mogilev-Podolsky, Vinnica obl."@de .
+

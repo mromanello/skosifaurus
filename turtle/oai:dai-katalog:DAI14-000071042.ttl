@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071042> a skos:Concept ;
+    skos:altLabel "Verucchio"@en,
+        "Verucchio"@fr,
+        "Verucchio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039199> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliRiminVerucchio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Verucchio"@de .
+

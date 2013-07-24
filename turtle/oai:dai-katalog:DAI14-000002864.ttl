@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002864> a skos:Concept ;
+    skos:altLabel "barracks"@en,
+        "caserme"@it,
+        "casernes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002808> ;
+    skos:hiddenLabel "xArchitBauKasern" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kasernen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022660> a skos:Concept ;
+    skos:altLabel "Zwentibold <Lothringen, König>"@en,
+        "Zwentibold <Lothringen, König>"@fr,
+        "Zwentibold <Lothringen, König>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoZwentibold <Lothringen, König>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zwentibold <Lothringen, König>"@de .
+

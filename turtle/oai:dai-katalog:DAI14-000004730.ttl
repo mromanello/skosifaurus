@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004730> a skos:Concept ;
+    skos:altLabel "Mesopotamia (1956 - 1997)"@en,
+        "Mesopotamia (1956 - 1997)"@it,
+        "Mésopotamie (1956 - 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004622> ;
+    skos:hiddenLabel "xOrMes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mesopotamien (1956 - 1997)"@de .
+

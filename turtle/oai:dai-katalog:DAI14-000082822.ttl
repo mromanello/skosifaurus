@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082822> a skos:Concept ;
+    skos:altLabel "Owen"@en,
+        "Owen"@fr,
+        "Owen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075336> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenEssliOwen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Owen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029485> a skos:Concept ;
+    skos:altLabel "Gavardo, Museo Gruppo Grotte Gavardo"@en,
+        "Gavardo, Museo Gruppo Grotte Gavardo"@fr,
+        "Gavardo, Museo Gruppo Grotte Gavardo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGavardo, Museo Gruppo Grotte Gavardo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gavardo, Museo Gruppo Grotte Gavardo"@de .
+

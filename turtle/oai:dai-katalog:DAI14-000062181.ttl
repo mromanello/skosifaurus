@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062181> a skos:Concept ;
+    skos:altLabel "Schaffhausen-Schweizersbild"@en,
+        "Schaffhausen-Schweizersbild"@fr,
+        "Schaffhausen-Schweizersbild"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039049> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweSchafSchaffhau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schaffhausen-Schweizersbild"@de .
+

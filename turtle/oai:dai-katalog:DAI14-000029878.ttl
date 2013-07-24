@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029878> a skos:Concept ;
+    skos:altLabel "Alster, Gerhard"@en,
+        "Alster, Gerhard"@fr,
+        "Alster, Gerhard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaAlster, Gerhard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alster, Gerhard"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012012> a skos:Concept ;
+    skos:altLabel "Zawadzki, Tadeusz"@en,
+        "Zawadzki, Tadeusz"@fr,
+        "Zawadzki, Tadeusz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZawadzki, Tadeusz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zawadzki, Tadeusz"@de .
+

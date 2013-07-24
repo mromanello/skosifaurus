@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028117> a skos:Concept ;
+    skos:altLabel "Gotha, Münzkabinett"@en,
+        "Gotha, Münzkabinett"@fr,
+        "Gotha, Münzkabinett"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuGotha, Münzkabinett" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gotha, Münzkabinett"@de .
+

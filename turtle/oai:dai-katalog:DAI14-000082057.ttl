@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082057> a skos:Concept ;
+    skos:altLabel "Elemir"@en,
+        "Elemir"@fr,
+        "Elemir"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiElemir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Elemir"@de .
+

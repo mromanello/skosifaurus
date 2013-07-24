@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010411> a skos:Concept ;
+    skos:altLabel "Zoller, Dieter"@en,
+        "Zoller, Dieter"@fr,
+        "Zoller, Dieter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZoller, Dieter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zoller, Dieter"@de .
+

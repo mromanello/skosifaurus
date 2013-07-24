@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062104> a skos:Concept ;
+    skos:altLabel "Aesch"@en,
+        "Aesch"@fr,
+        "Aesch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039045> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweLuzerAesch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aesch"@de .
+

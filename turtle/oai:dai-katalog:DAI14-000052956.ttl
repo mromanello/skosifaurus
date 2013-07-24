@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052956> a skos:Concept ;
+    skos:altLabel "Lenderscheid"@en,
+        "Lenderscheid"@fr,
+        "Lenderscheid"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075505> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseSchwaLendersch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lenderscheid"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067276> a skos:Concept ;
+    skos:altLabel "Nicolae Bălescu, jud. Constanţa"@en,
+        "Nicolae Bălescu, jud. Constanţa"@fr,
+        "Nicolae Bălescu, jud. Constanţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenNicolae B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nicolae Bălescu, jud. Constanţa"@de .
+

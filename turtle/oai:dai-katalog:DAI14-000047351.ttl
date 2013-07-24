@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047351> a skos:Concept ;
+    skos:altLabel "Hexham"@en,
+        "Hexham"@fr,
+        "Hexham"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077701> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthHexham" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hexham"@de .
+

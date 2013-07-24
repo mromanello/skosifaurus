@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035881> a skos:Concept ;
+    skos:altLabel "Giessen 1987"@en,
+        "Giessen 1987"@fr,
+        "Giessen 1987"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrGiessen 1987" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Giessen 1987"@de .
+

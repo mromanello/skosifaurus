@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010453> a skos:Concept ;
+    skos:altLabel "Bayerischer Heimatverein für Landespflege"@en,
+        "Bayerischer Heimatverein für Landespflege"@fr,
+        "Bayerischer Heimatverein für Landespflege"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiBayerischer Heimatverein für Landespflege" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bayerischer Heimatverein für Landespflege"@de .
+

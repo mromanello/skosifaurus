@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014417> a skos:Concept ;
+    skos:altLabel "Jezykoznawstwo"@pl,
+        "Linguistic philology"@en,
+        "Linguistique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014411> ;
+    skos:hiddenLabel "yRGKArch07 - HistoSprac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sprachwissenschaft"@de .
+

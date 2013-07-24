@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021598> a skos:Concept ;
+    skos:altLabel "Gordian <Römisches Reich, Kaiser, III.>"@en,
+        "Gordian <Römisches Reich, Kaiser, III.>"@fr,
+        "Gordian <Römisches Reich, Kaiser, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGordian <Römisches Reich, Kaiser, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gordian <Römisches Reich, Kaiser, III.>"@de .
+

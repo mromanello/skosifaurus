@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023212> a skos:Concept ;
+    skos:altLabel "Io"@en,
+        "Io"@fr,
+        "Io"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014940> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligGötteIo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Io"@de .
+

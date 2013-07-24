@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066339> a skos:Concept ;
+    skos:altLabel "Bobuleşti, raj. Floreşti"@en,
+        "Bobuleşti, raj. Floreşti"@fr,
+        "Bobuleşti, raj. Floreşti"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaBobuleşti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bobuleşti, raj. Floreşti"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030997> a skos:Concept ;
+    skos:altLabel "Stockholm, Geochronologisches Institut"@en,
+        "Stockholm, Geochronologisches Institut"@fr,
+        "Stockholm, Geochronologisches Institut"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiStockholm, Geochronologisches Institut" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stockholm, Geochronologisches Institut"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055028> a skos:Concept ;
+    skos:altLabel "Meerbusch-Lank Latum"@en,
+        "Meerbusch-Lank Latum"@fr,
+        "Meerbusch-Lank Latum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038888> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrNeussMeerbusch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Meerbusch-Lank Latum"@de .
+

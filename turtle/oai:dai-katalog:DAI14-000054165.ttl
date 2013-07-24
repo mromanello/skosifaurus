@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054165> a skos:Concept ;
+    skos:altLabel "Nienburg (Weser)"@en,
+        "Nienburg (Weser)"@fr,
+        "Nienburg (Weser)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075583> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeNienbNienburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nienburg (Weser)"@de .
+

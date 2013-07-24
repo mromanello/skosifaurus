@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035018> a skos:Concept ;
+    skos:altLabel "Amsterdam 1927"@en,
+        "Amsterdam 1927"@fr,
+        "Amsterdam 1927"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrAmsterdam 1927" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Amsterdam 1927"@de .
+

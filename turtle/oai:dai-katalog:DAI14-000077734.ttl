@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077734> a skos:Concept ;
+    skos:altLabel "Banwell"@en,
+        "Banwell"@fr,
+        "Banwell"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077706> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSomerBanwell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Banwell"@de .
+

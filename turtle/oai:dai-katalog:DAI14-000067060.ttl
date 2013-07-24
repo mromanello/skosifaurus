@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067060> a skos:Concept ;
+    skos:altLabel "Timişoara (jud.)"@en,
+        "Timişoara (jud.)"@fr,
+        "Timişoara (jud.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReTimişoara" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Timişoara (jud.)"@de .
+

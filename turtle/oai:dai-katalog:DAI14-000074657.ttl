@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074657> a skos:Concept ;
+    skos:altLabel "Kaleköy-Yenibademli Höyük"@en,
+        "Kaleköy-Yenibademli Höyük"@fr,
+        "Kaleköy-Yenibademli Höyük"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeKaleköy-Y" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaleköy-Yenibademli Höyük"@de .
+

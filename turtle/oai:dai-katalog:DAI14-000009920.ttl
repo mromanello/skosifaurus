@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009920> a skos:Concept ;
+    skos:altLabel "Skružný, Ludvík"@en,
+        "Skružný, Ludvík"@fr,
+        "Skružný, Ludvík"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSkružný, Ludvík" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Skružný, Ludvík"@de .
+

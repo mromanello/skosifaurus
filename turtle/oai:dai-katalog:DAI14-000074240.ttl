@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074240> a skos:Concept ;
+    skos:altLabel "Takht-i-Suleiman"@en,
+        "Takht-i-Suleiman"@fr,
+        "Takht-i-Suleiman"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039385> ;
+    skos:hiddenLabel "zTopogAsienVordeIranTakht-i-S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Takht-i-Suleiman"@de .
+

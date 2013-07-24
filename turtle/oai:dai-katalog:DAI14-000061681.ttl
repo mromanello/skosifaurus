@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061681> a skos:Concept ;
+    skos:altLabel "Lublin (woj.)"@en,
+        "Lublin (woj.)"@fr,
+        "Lublin (woj.)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039033> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopZZ--RLublin (w" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lublin (woj.)"@de .
+

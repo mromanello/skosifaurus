@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067828> a skos:Concept ;
+    skos:altLabel "L'vovskij Šestoj, Dagestan"@en,
+        "L'vovskij Šestoj, Dagestan"@fr,
+        "L'vovskij Šestoj, Dagestan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiL'vovskij" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "L'vovskij Šestoj, Dagestan"@de .
+

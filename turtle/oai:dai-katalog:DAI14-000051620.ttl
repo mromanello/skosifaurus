@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051620> a skos:Concept ;
+    skos:altLabel "Osterzell"@en,
+        "Osterzell"@fr,
+        "Osterzell"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075447> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerOstalOsterzell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Osterzell"@de .
+

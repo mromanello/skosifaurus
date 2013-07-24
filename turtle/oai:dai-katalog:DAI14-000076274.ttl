@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076274> a skos:Concept ;
+    skos:altLabel "Brugny-Vaudancourt"@en,
+        "Brugny-Vaudancourt"@fr,
+        "Brugny-Vaudancourt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038746> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMarneBrugny-Va" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brugny-Vaudancourt"@de .
+

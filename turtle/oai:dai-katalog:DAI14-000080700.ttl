@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080700> a skos:Concept ;
+    skos:altLabel "Le Gardon"@en,
+        "Le Gardon"@fr,
+        "Le Gardon"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038796> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveAinLe Gardon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Le Gardon"@de .
+

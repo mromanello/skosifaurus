@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014457> a skos:Concept ;
+    skos:altLabel "Autochthonous ware"@en,
+        "Céramique autochtone"@fr,
+        "Wyroby miejscowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014453> ;
+    skos:hiddenLabel "yRGKArch08 - FundeGefäsKeramEinhe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Einheimische Waren"@de .
+

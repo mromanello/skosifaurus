@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020808> a skos:Concept ;
+    skos:altLabel "Sukow-Szeligi"@en,
+        "Sukow-Szeligi"@fr,
+        "Sukow-Szeligi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Sukow-Szeligi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sukow-Szeligi"@de .
+

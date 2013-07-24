@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050143> a skos:Concept ;
+    skos:altLabel "Giengen an der Brenz"@en,
+        "Giengen an der Brenz"@fr,
+        "Giengen an der Brenz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075341> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenHeideGiengen a" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Giengen an der Brenz"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019536> a skos:Concept ;
+    skos:altLabel "Narzedzia/broń"@pl,
+        "Tools/Weapons"@en,
+        "Utils/armes"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000019532> ;
+    skos:hiddenLabel "yRGKMethRekonGerät" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Geräte/Waffen"@de .
+

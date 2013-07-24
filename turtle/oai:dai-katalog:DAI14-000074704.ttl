@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074704> a skos:Concept ;
+    skos:altLabel "Lidar Höyük"@en,
+        "Lidar Höyük"@fr,
+        "Lidar Höyük"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeLidar Höy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lidar Höyük"@de .
+

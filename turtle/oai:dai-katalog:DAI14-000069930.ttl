@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069930> a skos:Concept ;
+    skos:altLabel "Alpe Veglia"@en,
+        "Alpe Veglia"@fr,
+        "Alpe Veglia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039163> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoVerbaAlpe Vegl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alpe Veglia"@de .
+

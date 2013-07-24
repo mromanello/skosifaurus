@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029059> a skos:Concept ;
+    skos:altLabel "Suceava, Muzeul Naţional al Bucovinei"@en,
+        "Suceava, Muzeul Naţional al Bucovinei"@fr,
+        "Suceava, Muzeul Naţional al Bucovinei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSuceava, Muzeul Naţional al Bucovinei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Suceava, Muzeul Naţional al Bucovinei"@de .
+

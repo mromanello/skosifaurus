@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015294> a skos:Concept ;
+    skos:altLabel "Grupy osób"@pl,
+        "Personnes/groupes"@fr,
+        "Several persons/groups"@en ;
+    skos:broader <http://data.dainst.de/zenon/000015292> ;
+    skos:hiddenLabel "yRGKArch08 - HistoProsoMehre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mehrere Personen/Gruppen"@de .
+

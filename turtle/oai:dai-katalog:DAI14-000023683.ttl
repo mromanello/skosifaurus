@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023683> a skos:Concept ;
+    skos:altLabel "Rabirius Postumus, Gaius"@en,
+        "Rabirius Postumus, Gaius"@fr,
+        "Rabirius Postumus, Gaius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015293> ;
+    skos:hiddenLabel "yRGKArch08 - HistoProsoEinzeRabirius Postumus, Gaius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rabirius Postumus, Gaius"@de .
+

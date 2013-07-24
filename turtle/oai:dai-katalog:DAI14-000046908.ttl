@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046908> a skos:Concept ;
+    skos:altLabel "Chesters"@en,
+        "Chesters"@fr,
+        "Chesters"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077701> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaNorthChesters" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chesters"@de .
+

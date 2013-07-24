@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027634> a skos:Concept ;
+    skos:altLabel "Badajoz, Museo Arqueológico Provincial"@en,
+        "Badajoz, Museo Arqueológico Provincial"@fr,
+        "Badajoz, Museo Arqueológico Provincial"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBadajoz, Museo Arqueológico Provincial" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Badajoz, Museo Arqueológico Provincial"@de .
+

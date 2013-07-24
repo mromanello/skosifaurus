@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068020> a skos:Concept ;
+    skos:altLabel "Donets-Severski"@en,
+        "Donets-Severski"@fr,
+        "Donets-Severski"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077452> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiDonets-Se" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Donets-Severski"@de .
+

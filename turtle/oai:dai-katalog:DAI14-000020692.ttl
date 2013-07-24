@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020692> a skos:Concept ;
+    skos:altLabel "Ripiceni-Brânzeni"@en,
+        "Ripiceni-Brânzeni"@fr,
+        "Ripiceni-Brânzeni"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Ripiceni-Brânzeni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ripiceni-Brânzeni"@de .
+

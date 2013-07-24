@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043983> a skos:Concept ;
+    skos:altLabel "Loire"@en,
+        "Loire"@fr,
+        "Loire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038772> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaZZ--RLoire" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Loire"@de .
+

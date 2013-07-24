@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067386> a skos:Concept ;
+    skos:altLabel "Tulcea"@en,
+        "Tulcea"@fr,
+        "Tulcea"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenTulcea" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tulcea"@de .
+

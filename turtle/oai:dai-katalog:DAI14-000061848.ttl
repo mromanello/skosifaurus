@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061848> a skos:Concept ;
+    skos:altLabel "Grächwil"@en,
+        "Grächwil"@fr,
+        "Grächwil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernGrächwil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grächwil"@de .
+

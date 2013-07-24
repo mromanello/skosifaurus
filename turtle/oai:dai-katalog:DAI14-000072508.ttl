@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072508> a skos:Concept ;
+    skos:altLabel "San Nicolò Gerrei"@en,
+        "San Nicolò Gerrei"@fr,
+        "San Nicolò Gerrei"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039271> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSardeCagliSan Nicol" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Nicolò Gerrei"@de .
+

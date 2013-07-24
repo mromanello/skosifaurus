@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070751> a skos:Concept ;
+    skos:altLabel "Alta Valle dell'Adige"@en,
+        "Alta Valle dell'Adige"@fr,
+        "Alta Valle dell'Adige"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039189> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliVenetZZ--RAlta Vall" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alta Valle dell'Adige"@de .
+

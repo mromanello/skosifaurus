@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000047285> a skos:Concept ;
+    skos:altLabel "Hambledon Manor"@en,
+        "Hambledon Manor"@fr,
+        "Hambledon Manor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077690> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaHampsHambledon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hambledon Manor"@de .
+

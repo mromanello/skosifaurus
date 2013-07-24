@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021315> a skos:Concept ;
+    skos:altLabel "Chlotar <Fränkisches Reich, König, II.>"@en,
+        "Chlotar <Fränkisches Reich, König, II.>"@fr,
+        "Chlotar <Fränkisches Reich, König, II.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoChlotar <Fränkisches Reich, König, II.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chlotar <Fränkisches Reich, König, II.>"@de .
+

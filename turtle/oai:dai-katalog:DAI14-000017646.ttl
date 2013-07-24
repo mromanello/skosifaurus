@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017646> a skos:Concept ;
+    skos:altLabel "Groby niszowe"@pl,
+        "Neach graves"@en,
+        "Tombes à niche"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017639> ;
+    skos:hiddenLabel "yRGKArch11 - GräbeGrabbGrabbNisch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nischengräber"@de .
+

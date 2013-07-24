@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053484> a skos:Concept ;
+    skos:altLabel "Oldenburg, Gde. Preetz"@en,
+        "Oldenburg, Gde. Preetz"@fr,
+        "Oldenburg, Gde. Preetz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075531> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordvOldenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oldenburg, Gde. Preetz"@de .
+

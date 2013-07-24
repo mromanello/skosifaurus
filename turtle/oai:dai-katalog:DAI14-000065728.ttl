@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065728> a skos:Concept ;
+    skos:altLabel "Sekulica"@en,
+        "Sekulica"@fr,
+        "Sekulica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039095> ;
+    skos:hiddenLabel "zTopogEuropOsteuBosniSekulica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sekulica"@de .
+

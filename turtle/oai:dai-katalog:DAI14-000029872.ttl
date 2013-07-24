@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029872> a skos:Concept ;
+    skos:altLabel "Zschille, Louis Richard"@en,
+        "Zschille, Louis Richard"@fr,
+        "Zschille, Louis Richard"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019606> ;
+    skos:hiddenLabel "yRGKMusMuseeNachlZschille, Louis Richard" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zschille, Louis Richard"@de .
+

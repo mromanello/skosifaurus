@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030679> a skos:Concept ;
+    skos:altLabel "Polska, Służba Ochrony Zabytków"@en,
+        "Polska, Służba Ochrony Zabytków"@fr,
+        "Polska, Służba Ochrony Zabytków"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiPolska, Służba Ochrony Zabytków" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polska, Służba Ochrony Zabytków"@de .
+

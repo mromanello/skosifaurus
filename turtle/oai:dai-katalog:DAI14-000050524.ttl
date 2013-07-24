@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050524> a skos:Concept ;
+    skos:altLabel "St. Johann-Würtingen"@en,
+        "St. Johann-Würtingen"@fr,
+        "St. Johann-Würtingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075357> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenReutlSt. Johan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "St. Johann-Würtingen"@de .
+

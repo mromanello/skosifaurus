@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072148> a skos:Concept ;
+    skos:altLabel "Mattinata"@en,
+        "Mattinata"@fr,
+        "Mattinata"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039249> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliFoggiMattinata" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mattinata"@de .
+

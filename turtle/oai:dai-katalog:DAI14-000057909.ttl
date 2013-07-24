@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057909> a skos:Concept ;
+    skos:altLabel "Bad Fischau, VB Wiener Neustadt"@en,
+        "Bad Fischau, VB Wiener Neustadt"@fr,
+        "Bad Fischau, VB Wiener Neustadt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeBad Fisch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Fischau, VB Wiener Neustadt"@de .
+

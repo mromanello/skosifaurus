@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031371> a skos:Concept ;
+    skos:altLabel "Cook, John M."@en,
+        "Cook, John M."@fr,
+        "Cook, John M."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliCook, John M." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cook, John M."@de .
+

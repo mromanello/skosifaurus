@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066511> a skos:Concept ;
+    skos:altLabel "Bernadea, jud. Mureş"@en,
+        "Bernadea, jud. Mureş"@fr,
+        "Bernadea, jud. Mureş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatBernadea," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bernadea, jud. Mureş"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053441> a skos:Concept ;
+    skos:altLabel "Klein Klütz Höved"@en,
+        "Klein Klütz Höved"@fr,
+        "Klein Klütz Höved"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075532> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklNordwKlein Klü" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klein Klütz Höved"@de .
+

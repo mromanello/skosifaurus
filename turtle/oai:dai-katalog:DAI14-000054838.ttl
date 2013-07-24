@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054838> a skos:Concept ;
+    skos:altLabel "Corvey, Stadt Höxter"@en,
+        "Corvey, Stadt Höxter"@fr,
+        "Corvey, Stadt Höxter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075646> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHöxteCorvey, S" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Corvey, Stadt Höxter"@de .
+

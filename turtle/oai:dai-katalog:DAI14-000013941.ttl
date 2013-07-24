@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013941> a skos:Concept ;
+    skos:altLabel "Naczynia kamienne"@pl,
+        "Stone vessels"@en,
+        "Vases en pierre"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013928> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGefäsStein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Steingefässe"@de .
+

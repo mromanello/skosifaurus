@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079457> a skos:Concept ;
+    skos:altLabel "Castelnuovo Berardenga"@en,
+        "Castelnuovo Berardenga"@fr,
+        "Castelnuovo Berardenga"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039212> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaSienaCastelnuo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castelnuovo Berardenga"@de .
+

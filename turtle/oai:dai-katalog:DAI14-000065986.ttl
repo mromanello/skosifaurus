@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065986> a skos:Concept ;
+    skos:altLabel "Boljarino"@en,
+        "Boljarino"@fr,
+        "Boljarino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039115> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaPlovdPlovdBoljarino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boljarino"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076291> a skos:Concept ;
+    skos:altLabel "Casinum"@en,
+        "Casinum"@fr,
+        "Casinum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039227> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioFrosiCasinum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Casinum"@de .
+

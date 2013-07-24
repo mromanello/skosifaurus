@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051873> a skos:Concept ;
+    skos:altLabel "Wörthsee-Steinebach a. Wörthsee"@en,
+        "Wörthsee-Steinebach a. Wörthsee"@fr,
+        "Wörthsee-Steinebach a. Wörthsee"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075459> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerStarnWörthsee-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wörthsee-Steinebach a. Wörthsee"@de .
+

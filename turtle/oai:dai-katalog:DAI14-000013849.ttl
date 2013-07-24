@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013849> a skos:Concept ;
+    skos:altLabel "Mollusques"@fr,
+        "Muszle"@pl,
+        "Shells"@en ;
+    skos:broader <http://data.dainst.de/zenon/000013843> ;
+    skos:hiddenLabel "yRGKArch06 - WirtsHandwRohmaOrganMusch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Muscheln/Schnecken"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034943> a skos:Concept ;
+    skos:altLabel "Ariuşd-Cucuteni-Tripolje"@en,
+        "Ariuşd-Cucuteni-Tripolje"@fr,
+        "Ariuşd-Cucuteni-Tripolje"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Ariuşd-Cucuteni-Tripolje" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ariuşd-Cucuteni-Tripolje"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017771> a skos:Concept ;
+    skos:altLabel "Cavaliers"@fr,
+        "Equestrians"@en,
+        "Jezdzcy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017768> ;
+    skos:hiddenLabel "yRGKArch11 - GeselKunstIkonoProfaReite" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reiter"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063582> a skos:Concept ;
+    skos:altLabel "Hrad Pšov, okr. Mélnik"@en,
+        "Hrad Pšov, okr. Mélnik"@fr,
+        "Hrad Pšov, okr. Mélnik"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Pšov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Pšov, okr. Mélnik"@de .
+

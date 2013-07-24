@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062140> a skos:Concept ;
+    skos:altLabel "Montmirail"@en,
+        "Montmirail"@fr,
+        "Montmirail"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039046> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweNeuenMontmirai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montmirail"@de .
+

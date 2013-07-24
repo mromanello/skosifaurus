@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013227> a skos:Concept ;
+    skos:altLabel "Ethnic interpretation"@en,
+        "Interpretacja etniczna"@pl,
+        "Interpretation ethnique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013221> ;
+    skos:hiddenLabel "yRGKArch05 - GeselKultuEthni" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ethnische Deutung"@de .
+

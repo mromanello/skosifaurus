@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019610> a skos:Concept ;
+    skos:altLabel "Ochrona zabytków"@pl,
+        "Preservation of monuments"@en,
+        "Préservation des monuments"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000012479> ;
+    skos:hiddenLabel "yRGKMusDenkm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Denkmalpflege"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024648> a skos:Concept ;
+    skos:altLabel "Regio VIII (Aemilia)"@en,
+        "Regio VIII (Aemilia)"@fr,
+        "Regio VIII (Aemilia)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016235> ;
+    skos:hiddenLabel "yRGKArch09 - GeschRömisRegio VIII (Aemilia)" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Regio VIII (Aemilia)"@de .
+

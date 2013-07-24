@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010298> a skos:Concept ;
+    skos:altLabel "Wernert, Paul"@en,
+        "Wernert, Paul"@fr,
+        "Wernert, Paul"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWernert, Paul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wernert, Paul"@de .
+

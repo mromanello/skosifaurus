@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001390> a skos:Concept ;
+    skos:altLabel "Depot, Hort"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000063> ;
+    skos:hiddenLabel "3.02.01.04.01.14" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Depot, Hort"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069946> a skos:Concept ;
+    skos:altLabel "San Michele di Trino"@en,
+        "San Michele di Trino"@fr,
+        "San Michele di Trino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039164> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoVerceSan Miche" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Michele di Trino"@de .
+

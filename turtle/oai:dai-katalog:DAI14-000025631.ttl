@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025631> a skos:Concept ;
+    skos:altLabel "Lombard, Lambert"@en,
+        "Lombard, Lambert"@fr,
+        "Lombard, Lambert"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018606> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstKünstLombard, Lambert" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lombard, Lambert"@de .
+

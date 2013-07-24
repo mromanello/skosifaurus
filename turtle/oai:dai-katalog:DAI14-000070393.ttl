@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070393> a skos:Concept ;
+    skos:altLabel "Aurisina, Caverna della Ossa"@en,
+        "Aurisina, Caverna della Ossa"@fr,
+        "Aurisina, Caverna della Ossa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039184> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetFriulTriesAurisina," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aurisina, Caverna della Ossa"@de .
+

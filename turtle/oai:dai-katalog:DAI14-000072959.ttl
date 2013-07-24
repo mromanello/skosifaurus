@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072959> a skos:Concept ;
+    skos:altLabel "Asturica Augusta"@en,
+        "Asturica Augusta"@fr,
+        "Asturica Augusta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039306> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAsturAsturica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asturica Augusta"@de .
+

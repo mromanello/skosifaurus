@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053731> a skos:Concept ;
+    skos:altLabel "Grossefehn"@en,
+        "Grossefehn"@fr,
+        "Grossefehn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075549> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeAuricGrossefeh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grossefehn"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049973> a skos:Concept ;
+    skos:altLabel "Kressbronn-Betznau"@en,
+        "Kressbronn-Betznau"@fr,
+        "Kressbronn-Betznau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075330> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBodenKressbron" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kressbronn-Betznau"@de .
+

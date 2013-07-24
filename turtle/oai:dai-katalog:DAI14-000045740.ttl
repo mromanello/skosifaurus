@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045740> a skos:Concept ;
+    skos:altLabel "Castillon de Saint-Martory"@en,
+        "Castillon de Saint-Martory"@fr,
+        "Castillon de Saint-Martory"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038815> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitHauteCastillon" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castillon de Saint-Martory"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038185> a skos:Concept ;
+    skos:altLabel "Gdańsk 2007"@en,
+        "Gdańsk 2007"@fr,
+        "Gdańsk 2007"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrGdańsk 2007" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gdańsk 2007"@de .
+

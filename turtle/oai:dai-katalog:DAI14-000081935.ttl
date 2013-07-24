@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081935> a skos:Concept ;
+    skos:altLabel "Khirbet Bal'ama, Israel"@en,
+        "Khirbet Bal'ama, Israel"@fr,
+        "Khirbet Bal'ama, Israel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeKhirbet B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Khirbet Bal'ama, Israel"@de .
+

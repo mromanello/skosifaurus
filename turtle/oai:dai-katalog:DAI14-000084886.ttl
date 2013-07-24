@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084886> a skos:Concept ;
+    skos:altLabel "Maastricht 2009"@en,
+        "Maastricht 2009"@fr,
+        "Maastricht 2009"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMaastricht 2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maastricht 2009"@de .
+

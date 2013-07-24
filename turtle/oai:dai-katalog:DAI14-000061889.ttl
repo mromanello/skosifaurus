@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061889> a skos:Concept ;
+    skos:altLabel "Rüegsau"@en,
+        "Rüegsau"@fr,
+        "Rüegsau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernRüegsau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rüegsau"@de .
+

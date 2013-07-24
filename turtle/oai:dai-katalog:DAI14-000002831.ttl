@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002831> a skos:Concept ;
+    skos:altLabel "ninfei (fino a 1997)"@it,
+        "nymphaea (untill 1997)"@en,
+        "nymphées (jusqu'à 1997)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002826> ;
+    skos:hiddenLabel "xArchitBauBrunnNymph" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nymphäen (bis 1997)"@de .
+

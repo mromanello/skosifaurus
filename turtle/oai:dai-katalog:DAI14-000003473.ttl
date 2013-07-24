@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003473> a skos:Concept ;
+    skos:altLabel "body parts"@en,
+        "parti del corpo umano"@it,
+        "éléments du corps humain"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003441> ;
+    skos:hiddenLabel "xBthAndKörper" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Körperteile"@de .
+

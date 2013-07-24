@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011915> a skos:Concept ;
+    skos:altLabel "Pistarino, Geo"@en,
+        "Pistarino, Geo"@fr,
+        "Pistarino, Geo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPistarino, Geo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pistarino, Geo"@de .
+

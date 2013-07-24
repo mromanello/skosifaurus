@@ -1,0 +1,112 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002111_Anglo-IsraelArchaeologicalSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Anglo-Israel Archaeological Society" .
+
+<http://data.dainst.de/zenon/000002111_AshmoleanMuseumOxford.BeazleyArchive> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Ashmolean Museum Oxford. Beazley Archive" .
+
+<http://data.dainst.de/zenon/000002111_EgyptExplorationFund> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Egypt Exploration Fund" .
+
+<http://data.dainst.de/zenon/000002111_EgyptExplorationSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Egypt Exploration Society" .
+
+<http://data.dainst.de/zenon/000002111_EnglishHeritage> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "English Heritage" .
+
+<http://data.dainst.de/zenon/000002111_InternationalAssociationofProfessionalNumismatists> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "International Association of Professional Numismatists" .
+
+<http://data.dainst.de/zenon/000002111_KentArchaeologicalSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Kent Archaeological Society" .
+
+<http://data.dainst.de/zenon/000002111_LeedsUniversityOrientalSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Leeds University Oriental Society" .
+
+<http://data.dainst.de/zenon/000002111_OxfordUniversity> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Oxford University" .
+
+<http://data.dainst.de/zenon/000002111_PalestineExplorationFund> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Palestine Exploration Fund" .
+
+<http://data.dainst.de/zenon/000002111_PrehistoricSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Prehistoric Society" .
+
+<http://data.dainst.de/zenon/000002111_RoyalNumismaticSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Royal Numismatic Society" .
+
+<http://data.dainst.de/zenon/000002111_SocietyforthePromotionofByzantineStudies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Society for the Promotion of Byzantine Studies" .
+
+<http://data.dainst.de/zenon/000002111_SociétéGuernesiaise> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Société Guernesiaise" .
+
+<http://data.dainst.de/zenon/000002111_Sotheby's> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "Sotheby's" .
+
+<http://data.dainst.de/zenon/000002111_TheAerialReconnaissanceArchives(TARA)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Aerial Reconnaissance Archives (TARA)" .
+
+<http://data.dainst.de/zenon/000002111_TheClassicalAssociation> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Classical Association" .
+
+<http://data.dainst.de/zenon/000002111_TheHadrianicSociety> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Hadrianic Society" .
+
+<http://data.dainst.de/zenon/000002111_TheRoyalArchaeologicalInstitute> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Royal Archaeological Institute" .
+
+<http://data.dainst.de/zenon/000002111_TheSocietyforthePromotionofHellenicStudies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Society for the Promotion of Hellenic Studies" .
+
+<http://data.dainst.de/zenon/000002111_TheSocietyforthePromotionofRomanStudies> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Society for the Promotion of Roman Studies" .
+
+<http://data.dainst.de/zenon/000002111_TheSocietyofAntiquaries> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Society of Antiquaries" .
+
+<http://data.dainst.de/zenon/000002111_TheSocietyofAntiquariesofLondon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The Society of Antiquaries of London" .
+
+<http://data.dainst.de/zenon/000002111_TheUnitedKingdomAdvisoryCommitteeonhistoricwrecksites> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "The United Kingdom Advisory Committee on historic wreck sites" .
+
+<http://data.dainst.de/zenon/000002111_UniversityofLondon.InstituteofArchaeology> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002111> ;
+    skos:prefLabel "University of London. Institute of Archaeology" .
+
+<http://data.dainst.de/zenon/000002111> a skos:Concept ;
+    skos:altLabel "Gran Bretagna"@it,
+        "Grande-Bretagne"@fr,
+        "Great Britain"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstGB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gross-Britannien"@de .
+

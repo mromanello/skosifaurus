@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017509> a skos:Concept ;
+    skos:altLabel "Cult houses"@en,
+        "Domy kultu/swiatynie"@pl,
+        "Maisons de culte"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017491> ;
+    skos:hiddenLabel "yRGKArch11 - BefunBauweKultaTempe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tempel/Opferplätze/Heiligtümer"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041479> a skos:Concept ;
+    skos:altLabel "Gavere-Asper"@en,
+        "Gavere-Asper"@fr,
+        "Gavere-Asper"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038715> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiOost-Gavere-As" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gavere-Asper"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043819> a skos:Concept ;
+    skos:altLabel "Saint-Laurent-sur-Oust"@en,
+        "Saint-Laurent-sur-Oust"@fr,
+        "Saint-Laurent-sur-Oust"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038768> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaMorbiSaint-Lau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Laurent-sur-Oust"@de .
+

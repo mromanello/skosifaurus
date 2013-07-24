@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006731> a skos:Concept ;
+    skos:altLabel "Muzeum w Grudziądzu"@en,
+        "Muzeum w Grudziądzu"@fr,
+        "Muzeum w Grudziądzu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsMuzeum w Grudziądzu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Muzeum w Grudziądzu"@de .
+

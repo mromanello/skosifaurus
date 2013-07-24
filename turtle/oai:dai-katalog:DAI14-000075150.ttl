@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075150> a skos:Concept ;
+    skos:altLabel "Ain Hanech"@en,
+        "Ain Hanech"@fr,
+        "Ain Hanech"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000080718> ;
+    skos:hiddenLabel "zTopogAfrikNordaAlgerAin Hanec" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ain Hanech"@de .
+

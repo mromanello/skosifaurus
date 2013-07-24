@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030180> a skos:Concept ;
+    skos:altLabel "Kraków, Muzeum Narodowe, Slg. Jasieński"@en,
+        "Kraków, Muzeum Narodowe, Slg. Jasieński"@fr,
+        "Kraków, Muzeum Narodowe, Slg. Jasieński"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaKraków, Muzeum Narodowe, Slg. Jasieński" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kraków, Muzeum Narodowe, Slg. Jasieński"@de .
+

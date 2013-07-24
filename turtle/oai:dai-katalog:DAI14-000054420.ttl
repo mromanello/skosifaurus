@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054420> a skos:Concept ;
+    skos:altLabel "Wilhelmshaven-Bant"@en,
+        "Wilhelmshaven-Bant"@fr,
+        "Wilhelmshaven-Bant"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075623> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeWilheWilhelmsh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wilhelmshaven-Bant"@de .
+

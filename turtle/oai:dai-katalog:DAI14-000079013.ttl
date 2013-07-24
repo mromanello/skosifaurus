@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079013> a skos:Concept ;
+    skos:altLabel "Maskovici, raj. Braslav, obl. Vitebsk"@en,
+        "Maskovici, raj. Braslav, obl. Vitebsk"@fr,
+        "Maskovici, raj. Braslav, obl. Vitebsk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarMaskovici" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maskovici, raj. Braslav, obl. Vitebsk"@de .
+

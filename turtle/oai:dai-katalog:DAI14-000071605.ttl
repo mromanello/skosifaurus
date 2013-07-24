@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071605> a skos:Concept ;
+    skos:altLabel "Rebibbia, Casal de' Pazzi"@en,
+        "Rebibbia, Casal de' Pazzi"@fr,
+        "Rebibbia, Casal de' Pazzi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRebibbia," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rebibbia, Casal de' Pazzi"@de .
+

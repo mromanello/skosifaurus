@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031263> a skos:Concept ;
+    skos:altLabel "Balcer, Bogdan"@en,
+        "Balcer, Bogdan"@fr,
+        "Balcer, Bogdan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliBalcer, Bogdan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Balcer, Bogdan"@de .
+

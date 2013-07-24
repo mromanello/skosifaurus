@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002179> a skos:Concept ;
+    skos:altLabel "musei"@it,
+        "museums"@en,
+        "musées"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002178> ;
+    skos:hiddenLabel "xMusSlgMus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Museen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058017> a skos:Concept ;
+    skos:altLabel "Mannersdorf, VB Bruck an der Leitha"@en,
+        "Mannersdorf, VB Bruck an der Leitha"@fr,
+        "Mannersdorf, VB Bruck an der Leitha"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeMannersdo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mannersdorf, VB Bruck an der Leitha"@de .
+

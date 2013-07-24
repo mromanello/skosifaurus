@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003930> a skos:Concept ;
+    skos:altLabel "divinità generali"@it,
+        "divinités générales"@fr,
+        "general divinities"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003924> ;
+    skos:hiddenLabel "xReligGMythElem" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Elementargottheiten"@de .
+

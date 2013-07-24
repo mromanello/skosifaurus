@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082717> a skos:Concept ;
+    skos:altLabel "Obergriesingen"@en,
+        "Obergriesingen"@fr,
+        "Obergriesingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075326> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenAlb-DObergries" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Obergriesingen"@de .
+

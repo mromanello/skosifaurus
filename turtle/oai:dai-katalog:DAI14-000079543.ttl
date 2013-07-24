@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079543> a skos:Concept ;
+    skos:altLabel "Timişoara-Ronaţ, jud. Timiş"@en,
+        "Timişoara-Ronaţ, jud. Timiş"@fr,
+        "Timişoara-Ronaţ, jud. Timiş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatTimişoara" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Timişoara-Ronaţ, jud. Timiş"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069108> a skos:Concept ;
+    skos:altLabel "Zdołbnica"@en,
+        "Zdołbnica"@fr,
+        "Zdołbnica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiZdołbnica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zdołbnica"@de .
+

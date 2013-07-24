@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046560> a skos:Concept ;
+    skos:altLabel "Palasca"@en,
+        "Palasca"@fr,
+        "Palasca"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038835> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankCorseHautePalasca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Palasca"@de .
+

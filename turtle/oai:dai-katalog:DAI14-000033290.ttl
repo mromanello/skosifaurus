@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033290> a skos:Concept ;
+    skos:altLabel "Asterix"@en,
+        "Asterix"@fr,
+        "Asterix"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoAsterix" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asterix"@de .
+

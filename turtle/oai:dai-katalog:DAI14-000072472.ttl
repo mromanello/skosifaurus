@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072472> a skos:Concept ;
+    skos:altLabel "Monte della Guidecca"@en,
+        "Monte della Guidecca"@fr,
+        "Monte della Guidecca"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039269> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilZZ--RMonte del" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Monte della Guidecca"@de .
+

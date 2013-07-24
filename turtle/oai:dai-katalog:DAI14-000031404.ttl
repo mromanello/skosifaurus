@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031404> a skos:Concept ;
+    skos:altLabel "Dobson, Brian"@en,
+        "Dobson, Brian"@fr,
+        "Dobson, Brian"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliDobson, Brian" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dobson, Brian"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026479> a skos:Concept ;
+    skos:altLabel "Hildesheim 1993"@en,
+        "Hildesheim 1993"@fr,
+        "Hildesheim 1993"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstHildesheim 1993" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hildesheim 1993"@de .
+

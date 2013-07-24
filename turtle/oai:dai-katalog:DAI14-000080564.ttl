@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080564> a skos:Concept ;
+    skos:altLabel "San Lazzaro di Savena"@en,
+        "San Lazzaro di Savena"@fr,
+        "San Lazzaro di Savena"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039191> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliEmiliBologSan Lazza" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Lazzaro di Savena"@de .
+

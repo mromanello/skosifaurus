@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062006> a skos:Concept ;
+    skos:altLabel "Carschenna, Gde. Sils im Domleschg"@en,
+        "Carschenna, Gde. Sils im Domleschg"@fr,
+        "Carschenna, Gde. Sils im Domleschg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039043> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweGraubCarschenn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carschenna, Gde. Sils im Domleschg"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031231> a skos:Concept ;
+    skos:altLabel "Agnello, Santi Luigi"@en,
+        "Agnello, Santi Luigi"@fr,
+        "Agnello, Santi Luigi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliAgnello, Santi Luigi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Agnello, Santi Luigi"@de .
+

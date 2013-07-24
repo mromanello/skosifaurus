@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012121> a skos:Concept ;
+    skos:altLabel "Paris, Université"@en,
+        "Paris, Université"@fr,
+        "Paris, Université"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiParis, Université" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Paris, Université"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062604> a skos:Concept ;
+    skos:altLabel "Borinka, okr. Malacky"@en,
+        "Borinka, okr. Malacky"@fr,
+        "Borinka, okr. Malacky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaBorinka," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borinka, okr. Malacky"@de .
+

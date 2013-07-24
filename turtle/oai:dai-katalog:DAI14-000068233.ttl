@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068233> a skos:Concept ;
+    skos:altLabel "Iliča Brdo"@en,
+        "Iliča Brdo"@fr,
+        "Iliča Brdo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiIliča Brd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iliča Brdo"@de .
+

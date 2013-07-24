@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032375> a skos:Concept ;
+    skos:altLabel "Detroit, Institute of Arts"@en,
+        "Detroit, Institute of Arts"@fr,
+        "Detroit, Institute of Arts"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuDetroit, Institute of Arts" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Detroit, Institute of Arts"@de .
+

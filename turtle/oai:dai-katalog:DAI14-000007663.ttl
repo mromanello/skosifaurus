@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007663> a skos:Concept ;
+    skos:altLabel "Bittel, Kurt"@en,
+        "Bittel, Kurt"@fr,
+        "Bittel, Kurt"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBittel, Kurt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bittel, Kurt"@de .
+

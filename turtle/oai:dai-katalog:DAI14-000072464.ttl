@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072464> a skos:Concept ;
+    skos:altLabel "Isola di Capo Passero"@en,
+        "Isola di Capo Passero"@fr,
+        "Isola di Capo Passero"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039269> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliSicilZZ--RIsola di" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Isola di Capo Passero"@de .
+

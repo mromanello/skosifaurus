@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073833> a skos:Concept ;
+    skos:altLabel "Morro de Mezquitilla"@en,
+        "Morro de Mezquitilla"@fr,
+        "Morro de Mezquitilla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039357> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalMálagMorro de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Morro de Mezquitilla"@de .
+

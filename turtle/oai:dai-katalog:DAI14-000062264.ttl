@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062264> a skos:Concept ;
+    skos:altLabel "Schönholzerswilen"@en,
+        "Schönholzerswilen"@fr,
+        "Schönholzerswilen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039053> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweThurgSchönholz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schönholzerswilen"@de .
+

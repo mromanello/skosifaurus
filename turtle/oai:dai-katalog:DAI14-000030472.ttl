@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030472> a skos:Concept ;
+    skos:altLabel "Washington, Dumbarton Oaks Research Library and Collection"@en,
+        "Washington, Dumbarton Oaks Research Library and Collection"@fr,
+        "Washington, Dumbarton Oaks Research Library and Collection"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaWashington, Dumbarton Oaks Research Library and Collection" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Washington, Dumbarton Oaks Research Library and Collection"@de .
+

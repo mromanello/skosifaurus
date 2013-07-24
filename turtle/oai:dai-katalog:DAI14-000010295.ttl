@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010295> a skos:Concept ;
+    skos:altLabel "Werneck, Heinrich Ludwig"@en,
+        "Werneck, Heinrich Ludwig"@fr,
+        "Werneck, Heinrich Ludwig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWerneck, Heinrich Ludwig" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Werneck, Heinrich Ludwig"@de .
+

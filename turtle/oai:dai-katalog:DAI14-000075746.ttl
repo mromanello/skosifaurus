@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075746> a skos:Concept ;
+    skos:altLabel "Săveni, jud. Ialomiţa"@en,
+        "Săveni, jud. Ialomiţa"@fr,
+        "Săveni, jud. Ialomiţa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039134> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänOltenSăveni, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Săveni, jud. Ialomiţa"@de .
+

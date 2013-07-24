@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045058> a skos:Concept ;
+    skos:altLabel "Vallat-de-Monsieur"@en,
+        "Vallat-de-Monsieur"@fr,
+        "Vallat-de-Monsieur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchVallat-de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vallat-de-Monsieur"@de .
+

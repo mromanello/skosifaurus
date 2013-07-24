@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009434> a skos:Concept ;
+    skos:altLabel "Oppenheim, Moritz Daniel"@en,
+        "Oppenheim, Moritz Daniel"@fr,
+        "Oppenheim, Moritz Daniel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoOppenheim, Moritz Daniel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oppenheim, Moritz Daniel"@de .
+

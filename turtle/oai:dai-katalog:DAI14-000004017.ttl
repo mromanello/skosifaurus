@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004017> a skos:Concept ;
+    skos:altLabel "classica"@it,
+        "classical period"@en,
+        "époque classique"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004013> ;
+    skos:hiddenLabel "xGeschUmfGrKlass" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "klassische Zeit"@de .
+

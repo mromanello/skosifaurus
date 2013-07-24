@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066411> a skos:Concept ;
+    skos:altLabel "Odaia, com. Miciurin, raj. Drochia"@en,
+        "Odaia, com. Miciurin, raj. Drochia"@fr,
+        "Odaia, com. Miciurin, raj. Drochia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039131> ;
+    skos:hiddenLabel "zTopogEuropOsteuMoldaOdaia, co" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Odaia, com. Miciurin, raj. Drochia"@de .
+

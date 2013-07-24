@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067024> a skos:Concept ;
+    skos:altLabel "Cheile Turzii"@en,
+        "Cheile Turzii"@fr,
+        "Cheile Turzii"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077451> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänZZ-ReCheile Tu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cheile Turzii"@de .
+

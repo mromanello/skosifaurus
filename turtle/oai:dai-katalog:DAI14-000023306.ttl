@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023306> a skos:Concept ;
+    skos:altLabel "Achill"@en,
+        "Achill"@fr,
+        "Achill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014975> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKunstIkonoSakraMythoAchill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Achill"@de .
+

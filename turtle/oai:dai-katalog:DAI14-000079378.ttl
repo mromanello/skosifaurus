@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079378> a skos:Concept ;
+    skos:altLabel "Zafra"@en,
+        "Zafra"@fr,
+        "Zafra"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039348> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniExtreBadajZafra" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zafra"@de .
+

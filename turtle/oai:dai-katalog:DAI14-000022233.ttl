@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022233> a skos:Concept ;
+    skos:altLabel "Polemius <Silvius>"@en,
+        "Polemius <Silvius>"@fr,
+        "Polemius <Silvius>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPolemius <Silvius>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Polemius <Silvius>"@de .
+

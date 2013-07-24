@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063571> a skos:Concept ;
+    skos:altLabel "Hrad Michalovic, okr. Mladá Boleslav"@en,
+        "Hrad Michalovic, okr. Mladá Boleslav"@fr,
+        "Hrad Michalovic, okr. Mladá Boleslav"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Mich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Michalovic, okr. Mladá Boleslav"@de .
+

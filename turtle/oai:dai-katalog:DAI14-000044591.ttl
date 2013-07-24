@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044591> a skos:Concept ;
+    skos:altLabel "Landrais"@en,
+        "Landrais"@fr,
+        "Landrais"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038787> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareLandrais" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landrais"@de .
+

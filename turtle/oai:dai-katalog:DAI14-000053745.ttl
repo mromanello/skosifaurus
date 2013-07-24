@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053745> a skos:Concept ;
+    skos:altLabel "Wiesmoor"@en,
+        "Wiesmoor"@fr,
+        "Wiesmoor"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075549> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeAuricWiesmoor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wiesmoor"@de .
+

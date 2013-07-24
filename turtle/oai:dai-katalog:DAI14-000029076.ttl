@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029076> a skos:Concept ;
+    skos:altLabel "Taman', Archeologičeskij Muzej"@en,
+        "Taman', Archeologičeskij Muzej"@fr,
+        "Taman', Archeologičeskij Muzej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTaman', Archeologičeskij Muzej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Taman', Archeologičeskij Muzej"@de .
+

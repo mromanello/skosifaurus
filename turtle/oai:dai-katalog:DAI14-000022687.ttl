@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022687> a skos:Concept ;
+    skos:altLabel "Babenberger"@en,
+        "Babenberger"@fr,
+        "Babenberger"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschBabenberger" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Babenberger"@de .
+

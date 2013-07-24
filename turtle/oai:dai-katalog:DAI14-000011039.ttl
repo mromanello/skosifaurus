@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011039> a skos:Concept ;
+    skos:altLabel "Archäologisches Museum des Vorerzgebirges, Bílina"@en,
+        "Archäologisches Museum des Vorerzgebirges, Bílina"@fr,
+        "Archäologisches Museum des Vorerzgebirges, Bílina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiArchäologisches Museum des Vorerzgebirges, Bílina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Archäologisches Museum des Vorerzgebirges, Bílina"@de .
+

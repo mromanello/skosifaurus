@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009596> a skos:Concept ;
+    skos:altLabel "Pugačenkova, Galina A."@en,
+        "Pugačenkova, Galina A."@fr,
+        "Pugačenkova, Galina A."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPugačenkova, Galina A." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pugačenkova, Galina A."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060670> a skos:Concept ;
+    skos:altLabel "Jemielnica"@en,
+        "Jemielnica"@fr,
+        "Jemielnica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039025> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskOpolsJemielnic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jemielnica"@de .
+

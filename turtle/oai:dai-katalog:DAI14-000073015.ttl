@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073015> a skos:Concept ;
+    skos:altLabel "Morín, Hornos de la Peña"@en,
+        "Morín, Hornos de la Peña"@fr,
+        "Morín, Hornos de la Peña"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039308> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCantaMorín, Ho" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Morín, Hornos de la Peña"@de .
+

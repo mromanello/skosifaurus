@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019964> a skos:Concept ;
+    skos:altLabel "Ceramiki dołkowo-grzebykowej"@en,
+        "Ceramiki dołkowo-grzebykowej"@fr,
+        "Ceramiki dołkowo-grzebykowej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Ceramiki dołkowo-grzebykowej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ceramiki dołkowo-grzebykowej"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025637> a skos:Concept ;
+    skos:altLabel "Mistrz z Gościszowa"@en,
+        "Mistrz z Gościszowa"@fr,
+        "Mistrz z Gościszowa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018606> ;
+    skos:hiddenLabel "yRGKArch12 - GeselKunstKünstMistrz z Gościszowa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mistrz z Gościszowa"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030098> a skos:Concept ;
+    skos:altLabel "Gottorf, Sammlung des Herzog von Holstein-Gottorf"@en,
+        "Gottorf, Sammlung des Herzog von Holstein-Gottorf"@fr,
+        "Gottorf, Sammlung des Herzog von Holstein-Gottorf"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaGottorf, Sammlung des Herzog von Holstein-Gottorf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gottorf, Sammlung des Herzog von Holstein-Gottorf"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032640> a skos:Concept ;
+    skos:altLabel "Florenz, Uffizien"@en,
+        "Florenz, Uffizien"@fr,
+        "Florenz, Uffizien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuFlorenz, Uffizien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Florenz, Uffizien"@de .
+

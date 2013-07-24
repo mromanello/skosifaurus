@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068644> a skos:Concept ;
+    skos:altLabel "Dudarkov"@en,
+        "Dudarkov"@fr,
+        "Dudarkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiDudarkov" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dudarkov"@de .
+

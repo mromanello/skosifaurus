@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057068> a skos:Concept ;
+    skos:altLabel "Altenburger Land"@en,
+        "Altenburger Land"@fr,
+        "Altenburger Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038990> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriZZ--RAltenburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altenburger Land"@de .
+

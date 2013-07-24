@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073444> a skos:Concept ;
+    skos:altLabel "Alcalá de Henares"@en,
+        "Alcalá de Henares"@fr,
+        "Alcalá de Henares"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039337> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMadriAlcalá de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alcalá de Henares"@de .
+

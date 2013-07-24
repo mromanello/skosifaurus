@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037232> a skos:Concept ;
+    skos:altLabel "Ravenna 1981"@en,
+        "Ravenna 1981"@fr,
+        "Ravenna 1981"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrRavenna 1981" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ravenna 1981"@de .
+

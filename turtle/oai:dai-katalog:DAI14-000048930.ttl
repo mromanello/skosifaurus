@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048930> a skos:Concept ;
+    skos:altLabel "Melfort, Argyllshire"@en,
+        "Melfort, Argyllshire"@fr,
+        "Melfort, Argyllshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078502> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotStratMelfort," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Melfort, Argyllshire"@de .
+

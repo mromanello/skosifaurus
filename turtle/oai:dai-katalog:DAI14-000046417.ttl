@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046417> a skos:Concept ;
+    skos:altLabel "Trois Chênes"@en,
+        "Trois Chênes"@fr,
+        "Trois Chênes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauTrois Chê" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trois Chênes"@de .
+

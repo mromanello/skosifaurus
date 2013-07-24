@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069666> a skos:Concept ;
+    skos:altLabel "Roverbella"@en,
+        "Roverbella"@fr,
+        "Roverbella"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039151> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaMantoRoverbell" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roverbella"@de .
+

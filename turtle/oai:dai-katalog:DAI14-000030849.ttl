@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030849> a skos:Concept ;
+    skos:altLabel "Frankfurt, Institut f. Arch. u. Kulturgesch. Vorderer Orient"@en,
+        "Frankfurt, Institut f. Arch. u. Kulturgesch. Vorderer Orient"@fr,
+        "Frankfurt, Institut f. Arch. u. Kulturgesch. Vorderer Orient"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiFrankfurt, Institut f. Arch. u. Kulturgesch. Vorderer Orient" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frankfurt, Institut f. Arch. u. Kulturgesch. Vorderer Orient"@de .
+

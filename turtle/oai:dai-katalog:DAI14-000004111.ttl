@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004111> a skos:Concept ;
+    skos:altLabel "Egitto greco-romano"@it,
+        "Egypte hellénistique et romaine"@fr,
+        "hellenistic-Roman Egypt"@en ;
+    skos:broader <http://data.dainst.de/zenon/000004097> ;
+    skos:hiddenLabel "xJuraRömÄg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "hellenistisch-römisches Ägypten"@de .
+

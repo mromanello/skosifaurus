@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053633> a skos:Concept ;
+    skos:altLabel "Wüstmark"@en,
+        "Wüstmark"@fr,
+        "Wüstmark"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075537> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsMecklSchweWüstmark" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wüstmark"@de .
+

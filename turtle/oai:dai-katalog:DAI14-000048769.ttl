@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048769> a skos:Concept ;
+    skos:altLabel "Arbroath, Forfarshire (Angus)"@en,
+        "Arbroath, Forfarshire (Angus)"@fr,
+        "Arbroath, Forfarshire (Angus)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078508> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotTaysiArbroath," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arbroath, Forfarshire (Angus)"@de .
+

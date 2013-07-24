@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017704> a skos:Concept ;
+    skos:altLabel "Droit héréditaire"@fr,
+        "Law of inheritance"@en,
+        "Prawo dziedziczenia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017701> ;
+    skos:hiddenLabel "yRGKArch11 - GeselGeselRechtErbre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Erbrecht"@de .
+

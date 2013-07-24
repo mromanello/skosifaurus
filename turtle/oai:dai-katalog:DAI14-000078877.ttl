@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000078877> a skos:Concept ;
+    skos:altLabel "Angerville"@en,
+        "Angerville"@fr,
+        "Angerville"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038737> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dEssonAngervill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Angerville"@de .
+

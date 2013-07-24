@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000075676> a skos:Concept ;
+    skos:altLabel "Kraków-Góra Św. Bronisławy"@en,
+        "Kraków-Góra Św. Bronisławy"@fr,
+        "Kraków-Góra Św. Bronisławy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039029> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopMałopKraków-Gó" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kraków-Góra Św. Bronisławy"@de .
+

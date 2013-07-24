@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007483> a skos:Concept ;
+    skos:altLabel "Andronic, Alexandru"@en,
+        "Andronic, Alexandru"@fr,
+        "Andronic, Alexandru"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAndronic, Alexandru" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Andronic, Alexandru"@de .
+

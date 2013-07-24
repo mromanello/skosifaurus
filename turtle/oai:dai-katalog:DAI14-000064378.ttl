@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064378> a skos:Concept ;
+    skos:altLabel "Hrušky, okr. Břeclav"@en,
+        "Hrušky, okr. Břeclav"@fr,
+        "Hrušky, okr. Břeclav"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravHrušky, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrušky, okr. Břeclav"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072092> a skos:Concept ;
+    skos:altLabel "Castel del Monte"@en,
+        "Castel del Monte"@fr,
+        "Castel del Monte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039247> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisPugliBariCastel de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castel del Monte"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029961> a skos:Concept ;
+    skos:altLabel "Bruxelles, Cabinet des Médailles"@en,
+        "Bruxelles, Cabinet des Médailles"@fr,
+        "Bruxelles, Cabinet des Médailles"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaBruxelles, Cabinet des Médailles" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruxelles, Cabinet des Médailles"@de .
+

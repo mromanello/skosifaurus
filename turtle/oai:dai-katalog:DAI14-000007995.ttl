@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007995> a skos:Concept ;
+    skos:altLabel "Dalla Barba Brusin, Dina"@en,
+        "Dalla Barba Brusin, Dina"@fr,
+        "Dalla Barba Brusin, Dina"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoDalla Barba Brusin, Dina" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dalla Barba Brusin, Dina"@de .
+

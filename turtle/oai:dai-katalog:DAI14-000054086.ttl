@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054086> a skos:Concept ;
+    skos:altLabel "Stickhausen, Gde. Detern"@en,
+        "Stickhausen, Gde. Detern"@fr,
+        "Stickhausen, Gde. Detern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075593> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeLeerStickhaus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stickhausen, Gde. Detern"@de .
+

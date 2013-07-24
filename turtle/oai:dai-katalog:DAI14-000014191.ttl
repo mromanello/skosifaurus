@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014191> a skos:Concept ;
+    skos:altLabel "Groby megalityczne"@pl,
+        "Megalithic graves"@en,
+        "Tombes mégalithiques"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014185> ;
+    skos:hiddenLabel "yRGKArch07 - GräbeGrabbGrabbMegal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Megalithgräber"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021862> a skos:Concept ;
+    skos:altLabel "Konrad <Römisch-Deutsches Reich, Kaiser, II.>"@en,
+        "Konrad <Römisch-Deutsches Reich, Kaiser, II.>"@fr,
+        "Konrad <Römisch-Deutsches Reich, Kaiser, II.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoKonrad <Römisch-Deutsches Reich, Kaiser, II.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Konrad <Römisch-Deutsches Reich, Kaiser, II.>"@de .
+

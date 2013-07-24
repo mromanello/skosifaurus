@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026922> a skos:Concept ;
+    skos:altLabel "Nijmegen 1992"@en,
+        "Nijmegen 1992"@fr,
+        "Nijmegen 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstNijmegen 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nijmegen 1992"@de .
+

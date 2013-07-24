@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030550> a skos:Concept ;
+    skos:altLabel "Budapest, Magyar Nemezeti Muzeum"@en,
+        "Budapest, Magyar Nemezeti Muzeum"@fr,
+        "Budapest, Magyar Nemezeti Muzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiBudapest, Magyar Nemezeti Muzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Budapest, Magyar Nemezeti Muzeum"@de .
+

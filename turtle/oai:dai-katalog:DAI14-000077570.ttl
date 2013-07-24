@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077570> a skos:Concept ;
+    skos:altLabel "Boyne Valley"@en,
+        "Boyne Valley"@fr,
+        "Boyne Valley"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077518> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubMeathBoyne Val" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boyne Valley"@de .
+

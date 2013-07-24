@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014149> a skos:Concept ;
+    skos:altLabel "Marchés"@fr,
+        "Targi"@pl,
+        "Trading-stations"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014143> ;
+    skos:hiddenLabel "yRGKArch07 - SiedlSiedlHande" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Handelsplätze"@de .
+

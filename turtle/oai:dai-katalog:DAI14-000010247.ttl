@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010247> a skos:Concept ;
+    skos:altLabel "Waele, Jozef Arthur Karel Emmanuel de"@en,
+        "Waele, Jozef Arthur Karel Emmanuel de"@fr,
+        "Waele, Jozef Arthur Karel Emmanuel de"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWaele, Jozef Arthur Karel Emmanuel de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Waele, Jozef Arthur Karel Emmanuel de"@de .
+

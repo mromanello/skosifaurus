@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016657> a skos:Concept ;
+    skos:altLabel "Boat-houses"@en,
+        "Budynki do przechowywania lodzi"@pl,
+        "Garages de bateaux"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016656> ;
+    skos:hiddenLabel "yRGKArch10 - BefunBauweÖffenHafenBoots" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bootshäuser"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084801> a skos:Concept ;
+    skos:altLabel "Holsterburg"@en,
+        "Holsterburg"@fr,
+        "Holsterburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075646> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrHöxteHolsterburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Holsterburg"@de .
+

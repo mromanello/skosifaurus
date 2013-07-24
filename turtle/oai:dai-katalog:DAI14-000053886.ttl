@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000053886> a skos:Concept ;
+    skos:altLabel "Gieboldehausen"@en,
+        "Gieboldehausen"@fr,
+        "Gieboldehausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075577> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeGöttiGieboldeh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gieboldehausen"@de .
+

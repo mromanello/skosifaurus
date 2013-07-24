@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024524> a skos:Concept ;
+    skos:altLabel "Classis Moesica"@en,
+        "Classis Moesica"@fr,
+        "Classis Moesica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016062> ;
+    skos:hiddenLabel "yRGKArch09 - GeselKriegMilitFlottClassis Moesica" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Classis Moesica"@de .
+

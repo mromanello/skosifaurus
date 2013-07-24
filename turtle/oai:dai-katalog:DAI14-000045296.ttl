@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045296> a skos:Concept ;
+    skos:altLabel "La Valette-du-Var"@en,
+        "La Valette-du-Var"@fr,
+        "La Valette-du-Var"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038808> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVarLa Valett" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Valette-du-Var"@de .
+

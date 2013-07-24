@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007709> a skos:Concept ;
+    skos:altLabel "Boriskovskij, Pavel Iosifovič"@en,
+        "Boriskovskij, Pavel Iosifovič"@fr,
+        "Boriskovskij, Pavel Iosifovič"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBoriskovskij, Pavel Iosifovič" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boriskovskij, Pavel Iosifovič"@de .
+

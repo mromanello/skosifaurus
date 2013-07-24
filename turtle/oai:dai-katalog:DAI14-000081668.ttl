@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081668> a skos:Concept ;
+    skos:altLabel "Hrad Blansko, okr. Blansko"@en,
+        "Hrad Blansko, okr. Blansko"@fr,
+        "Hrad Blansko, okr. Blansko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyHrad Blan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hrad Blansko, okr. Blansko"@de .
+

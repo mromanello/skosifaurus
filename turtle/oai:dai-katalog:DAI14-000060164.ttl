@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060164> a skos:Concept ;
+    skos:altLabel "Lewaszówka"@en,
+        "Lewaszówka"@fr,
+        "Lewaszówka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039020> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowMazowLewaszówk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lewaszówka"@de .
+

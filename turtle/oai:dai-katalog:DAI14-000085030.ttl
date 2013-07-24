@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085030> a skos:Concept ;
+    skos:altLabel "Hunsgi-Baichbal Valley"@en,
+        "Hunsgi-Baichbal Valley"@fr,
+        "Hunsgi-Baichbal Valley"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075954> ;
+    skos:hiddenLabel "zTopogAsienSüd- IndieHunsgi-Baichbal Valley" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hunsgi-Baichbal Valley"@de .
+

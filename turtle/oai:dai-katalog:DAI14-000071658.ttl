@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071658> a skos:Concept ;
+    skos:altLabel "Roma-Via Ostiense"@en,
+        "Roma-Via Ostiense"@fr,
+        "Roma-Via Ostiense"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039230> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaLazioRomaRoma-Via" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma-Via Ostiense"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022071> a skos:Concept ;
+    skos:altLabel "Myron <Künstler>"@en,
+        "Myron <Künstler>"@fr,
+        "Myron <Künstler>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoMyron <Künstler>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Myron <Künstler>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010345> a skos:Concept ;
+    skos:altLabel "Winter, Adam"@en,
+        "Winter, Adam"@fr,
+        "Winter, Adam"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWinter, Adam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Winter, Adam"@de .
+

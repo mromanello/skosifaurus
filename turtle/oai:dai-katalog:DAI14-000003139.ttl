@@ -1,0 +1,104 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003139_Agatharchos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Agatharchos" .
+
+<http://data.dainst.de/zenon/000003139_Alexandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Alexandros" .
+
+<http://data.dainst.de/zenon/000003139_Antiphilos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Antiphilos" .
+
+<http://data.dainst.de/zenon/000003139_Apelles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Apelles" .
+
+<http://data.dainst.de/zenon/000003139_Athenion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Athenion" .
+
+<http://data.dainst.de/zenon/000003139_Euphranor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Euphranor" .
+
+<http://data.dainst.de/zenon/000003139_Eutychides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Eutychides" .
+
+<http://data.dainst.de/zenon/000003139_Fabullus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Fabullus" .
+
+<http://data.dainst.de/zenon/000003139_FlaviosChrysanthios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Flavios Chrysanthios" .
+
+<http://data.dainst.de/zenon/000003139_Koinos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Koinos" .
+
+<http://data.dainst.de/zenon/000003139_MestriusMartinus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Mestrius Martinus" .
+
+<http://data.dainst.de/zenon/000003139_Mikon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Mikon" .
+
+<http://data.dainst.de/zenon/000003139_Nikias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Nikias" .
+
+<http://data.dainst.de/zenon/000003139_Nikomachos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Nikomachos" .
+
+<http://data.dainst.de/zenon/000003139_Parrhasios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Parrhasios" .
+
+<http://data.dainst.de/zenon/000003139_Pausias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Pausias" .
+
+<http://data.dainst.de/zenon/000003139_Philoxenos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Philoxenos" .
+
+<http://data.dainst.de/zenon/000003139_Philoxenosv.Eretria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Philoxenos v. Eretria" .
+
+<http://data.dainst.de/zenon/000003139_Polygnotos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Polygnotos" .
+
+<http://data.dainst.de/zenon/000003139_Protogenes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Protogenes" .
+
+<http://data.dainst.de/zenon/000003139_Studius> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Studius" .
+
+<http://data.dainst.de/zenon/000003139_Theophilosv.Alexandria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Theophilos v. Alexandria" .
+
+<http://data.dainst.de/zenon/000003139_Zeuxis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003139> ;
+    skos:prefLabel "Zeuxis" .
+
+<http://data.dainst.de/zenon/000003139> a skos:Concept ;
+    skos:altLabel "painters"@en,
+        "peintres"@fr,
+        "pittori"@it ;
+    skos:broader <http://data.dainst.de/zenon/000003138> ;
+    skos:hiddenLabel "xMalKgMaler" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Maler"@de .
+

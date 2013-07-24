@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072819> a skos:Concept ;
+    skos:altLabel "Herdade da Sapatoa"@en,
+        "Herdade da Sapatoa"@fr,
+        "Herdade da Sapatoa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039292> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuÉvoraHerdade d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herdade da Sapatoa"@de .
+

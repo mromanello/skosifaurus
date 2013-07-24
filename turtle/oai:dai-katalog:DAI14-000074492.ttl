@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074492> a skos:Concept ;
+    skos:altLabel "Syria"@en,
+        "Syrien"@fr,
+        "Syrien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039376> ;
+    skos:hiddenLabel "zTopogAsienVordeSyrie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Syrien"@de .
+

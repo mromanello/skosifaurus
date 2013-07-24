@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010444> a skos:Concept ;
+    skos:altLabel "Association Française d'Archéologie Mérovingienne"@en,
+        "Association Française d'Archéologie Mérovingienne"@fr,
+        "Association Française d'Archéologie Mérovingienne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiAssociation Française d'Archéologie Mérovingienne" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Association Française d'Archéologie Mérovingienne"@de .
+

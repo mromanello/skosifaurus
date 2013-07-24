@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028270> a skos:Concept ;
+    skos:altLabel "Kellmünz a. d. Iller, Archäologischer Park Caelius Mons"@en,
+        "Kellmünz a. d. Iller, Archäologischer Park Caelius Mons"@fr,
+        "Kellmünz a. d. Iller, Archäologischer Park Caelius Mons"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKellmünz a. d. Iller, Archäologischer Park Caelius Mons" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kellmünz a. d. Iller, Archäologischer Park Caelius Mons"@de .
+

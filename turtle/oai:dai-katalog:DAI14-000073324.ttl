@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073324> a skos:Concept ;
+    skos:altLabel "Baños de Valdearados"@en,
+        "Baños de Valdearados"@fr,
+        "Baños de Valdearados"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039328> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiBurgoBaños de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Baños de Valdearados"@de .
+

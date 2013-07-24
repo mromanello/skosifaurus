@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058977> a skos:Concept ;
+    skos:altLabel "Mściszewice"@en,
+        "Mściszewice"@fr,
+        "Mściszewice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039008> ;
+    skos:hiddenLabel "zTopogEuropMittePolenPomorPomorMściszewi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mściszewice"@de .
+

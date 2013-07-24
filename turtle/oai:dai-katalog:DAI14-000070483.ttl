@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070483> a skos:Concept ;
+    skos:altLabel "San Giorgio di Nogaro"@en,
+        "San Giorgio di Nogaro"@fr,
+        "San Giorgio di Nogaro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039185> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetFriulUdineSan Giorg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Giorgio di Nogaro"@de .
+

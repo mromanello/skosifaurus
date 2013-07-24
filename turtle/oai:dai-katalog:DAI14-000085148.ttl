@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085148> a skos:Concept ;
+    skos:altLabel "Klengel-Brandt, Evelyn"@en,
+        "Klengel-Brandt, Evelyn"@fr,
+        "Klengel-Brandt, Evelyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoKlengel-Brandt, Evelyn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klengel-Brandt, Evelyn"@de .
+

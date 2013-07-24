@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041337> a skos:Concept ;
+    skos:altLabel "Vanån, Dalarna"@en,
+        "Vanån, Dalarna"@fr,
+        "Vanån, Dalarna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077438> ;
+    skos:hiddenLabel "zTopogEuropNordeSchweNordsVanån, Da" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vanån, Dalarna"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030481> a skos:Concept ;
+    skos:altLabel "White, Tom and Danielle"@en,
+        "White, Tom and Danielle"@fr,
+        "White, Tom and Danielle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaWhite, Tom and Danielle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "White, Tom and Danielle"@de .
+

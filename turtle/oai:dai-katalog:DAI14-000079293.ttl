@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079293> a skos:Concept ;
+    skos:altLabel "Casacalenda"@en,
+        "Casacalenda"@fr,
+        "Casacalenda"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039235> ;
+    skos:hiddenLabel "zEuropSüdeuItaliMolisMolisCampoCasacalen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Casacalenda"@de .
+

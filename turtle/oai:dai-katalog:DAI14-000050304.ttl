@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050304> a skos:Concept ;
+    skos:altLabel "Remseck-Aldingen"@en,
+        "Remseck-Aldingen"@fr,
+        "Remseck-Aldingen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075346> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenLudwiRemseck-A" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Remseck-Aldingen"@de .
+

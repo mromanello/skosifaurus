@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044951> a skos:Concept ;
+    skos:altLabel "Orgnac"@en,
+        "Orgnac"@fr,
+        "Orgnac"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038800> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveArdècOrgnac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orgnac"@de .
+

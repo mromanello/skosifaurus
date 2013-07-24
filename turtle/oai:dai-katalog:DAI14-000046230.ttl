@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046230> a skos:Concept ;
+    skos:altLabel "Gaze-Menet"@en,
+        "Gaze-Menet"@fr,
+        "Gaze-Menet"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038828> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguGardGaze-Mene" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gaze-Menet"@de .
+

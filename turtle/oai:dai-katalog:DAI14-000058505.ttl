@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058505> a skos:Concept ;
+    skos:altLabel "Utsch, VB Bruck a. d. Mur"@en,
+        "Utsch, VB Bruck a. d. Mur"@fr,
+        "Utsch, VB Bruck a. d. Mur"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieUtsch, VB" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Utsch, VB Bruck a. d. Mur"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043864> a skos:Concept ;
+    skos:altLabel "L'Aiguillon-sur-Vie"@en,
+        "L'Aiguillon-sur-Vie"@fr,
+        "L'Aiguillon-sur-Vie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038770> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaVendéL'Aiguill" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "L'Aiguillon-sur-Vie"@de .
+

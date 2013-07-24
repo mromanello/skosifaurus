@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055590> a skos:Concept ;
+    skos:altLabel "Welling"@en,
+        "Welling"@fr,
+        "Welling"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038923> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinKobleWelling" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Welling"@de .
+

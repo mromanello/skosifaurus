@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065894> a skos:Concept ;
+    skos:altLabel "Juper"@en,
+        "Juper"@fr,
+        "Juper"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039109> ;
+    skos:hiddenLabel "zTopogEuropOsteuBulgaVelikRuseJuper" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Juper"@de .
+

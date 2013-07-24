@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044575> a skos:Concept ;
+    skos:altLabel "Chantemerle-sur-la-Soie"@en,
+        "Chantemerle-sur-la-Soie"@fr,
+        "Chantemerle-sur-la-Soie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038787> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverChareChantemer" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chantemerle-sur-la-Soie"@de .
+

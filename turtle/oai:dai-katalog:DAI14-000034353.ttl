@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034353> a skos:Concept ;
+    skos:altLabel "Postuma Sergia, Salvia"@en,
+        "Postuma Sergia, Salvia"@fr,
+        "Postuma Sergia, Salvia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPostuma Sergia, Salvia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Postuma Sergia, Salvia"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013138> a skos:Concept ;
+    skos:altLabel "Settlement structure"@en,
+        "Structure d'habitat/aménagement du territoire"@fr,
+        "Uklad przestrzenny/struktura osiedla"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013136> ;
+    skos:hiddenLabel "yRGKArch05 - SiedlSiedl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Siedlungsstruktur/Raumordnung"@de .
+

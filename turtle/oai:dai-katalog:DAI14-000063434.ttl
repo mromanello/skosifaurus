@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063434> a skos:Concept ;
+    skos:altLabel "Chabařovice, Ustí nad Labem"@en,
+        "Chabařovice, Ustí nad Labem"@fr,
+        "Chabařovice, Ustí nad Labem"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyChabařovi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chabařovice, Ustí nad Labem"@de .
+

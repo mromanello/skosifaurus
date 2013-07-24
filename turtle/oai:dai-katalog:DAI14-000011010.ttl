@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011010> a skos:Concept ;
+    skos:altLabel "Peter I."@en,
+        "Peter I."@fr,
+        "Peter I."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPeter I." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Peter I."@de .
+

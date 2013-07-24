@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017092> a skos:Concept ;
+    skos:altLabel "Casting/moulds"@en,
+        "Coulée/moules"@fr,
+        "Odlewanie/formy odlewnicze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017088> ;
+    skos:hiddenLabel "yRGKArch10 - WirtsHandwProduHerstGuss/" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Guss/Gussformen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071107> a skos:Concept ;
+    skos:altLabel "Poggio Carbone"@en,
+        "Poggio Carbone"@fr,
+        "Poggio Carbone"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039204> ;
+    skos:hiddenLabel "zEuropSüdeuItaliToscaToscaFirenPoggio Ca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poggio Carbone"@de .
+

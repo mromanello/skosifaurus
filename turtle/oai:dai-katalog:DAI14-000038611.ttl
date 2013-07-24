@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038611> a skos:Concept ;
+    skos:altLabel "Ouranoupolis 1978"@en,
+        "Ouranoupolis 1978"@fr,
+        "Ouranoupolis 1978"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrOuranoupolis 1978" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ouranoupolis 1978"@de .
+

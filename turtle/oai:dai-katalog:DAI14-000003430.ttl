@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003430> a skos:Concept ;
+    skos:altLabel "divinità della settimana"@it,
+        "divinités de la semaine"@fr,
+        "gods of the week"@en ;
+    skos:broader <http://data.dainst.de/zenon/000003404> ;
+    skos:hiddenLabel "xBthGMythWocheng" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wochengötter"@de .
+

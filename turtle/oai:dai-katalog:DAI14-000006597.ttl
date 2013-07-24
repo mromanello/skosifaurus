@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006597> a skos:Concept ;
+    skos:altLabel "Langlotz, Ernst"@en,
+        "Langlotz, Ernst"@fr,
+        "Langlotz, Ernst"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsLanglotz, Ernst" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Langlotz, Ernst"@de .
+

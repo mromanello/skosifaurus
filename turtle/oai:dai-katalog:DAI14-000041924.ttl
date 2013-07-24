@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041924> a skos:Concept ;
+    skos:altLabel "Bras"@en,
+        "Bras"@fr,
+        "Bras"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038720> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLuxemBras" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bras"@de .
+

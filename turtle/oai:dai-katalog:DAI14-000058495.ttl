@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058495> a skos:Concept ;
+    skos:altLabel "Strettweg, VB Judenburg"@en,
+        "Strettweg, VB Judenburg"@fr,
+        "Strettweg, VB Judenburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieStrettweg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Strettweg, VB Judenburg"@de .
+

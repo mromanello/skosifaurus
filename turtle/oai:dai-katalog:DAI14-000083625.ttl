@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083625> a skos:Concept ;
+    skos:altLabel "Papferding"@en,
+        "Papferding"@fr,
+        "Papferding"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075406> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerErdinPapferdin" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Papferding"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077252> a skos:Concept ;
+    skos:altLabel "Castellas"@en,
+        "Castellas"@fr,
+        "Castellas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038829> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguHérauCastellas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Castellas"@de .
+

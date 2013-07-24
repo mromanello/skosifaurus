@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003379> a skos:Concept ;
+    skos:altLabel "sostegni"@it,
+        "stands and pedestals"@en,
+        "supports"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003335> ;
+    skos:hiddenLabel "xGerStand" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ständer, Halter"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018351> a skos:Concept ;
+    skos:altLabel "Four de préparation de chaux"@fr,
+        "Lime kilns"@en,
+        "Piece do wypalu wapna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018347> ;
+    skos:hiddenLabel "yRGKArch12 - BefunBauweGewerKalkb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kalkbrennöfen"@de .
+

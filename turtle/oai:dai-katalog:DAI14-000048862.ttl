@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048862> a skos:Concept ;
+    skos:altLabel "Findhorn, Moray"@en,
+        "Findhorn, Moray"@fr,
+        "Findhorn, Moray"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078509> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotGrampFindhorn," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Findhorn, Moray"@de .
+

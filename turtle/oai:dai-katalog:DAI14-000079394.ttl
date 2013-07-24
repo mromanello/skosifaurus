@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079394> a skos:Concept ;
+    skos:altLabel "Villaines-la-Carelle"@en,
+        "Villaines-la-Carelle"@fr,
+        "Villaines-la-Carelle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038769> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaSarthVillaines" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Villaines-la-Carelle"@de .
+

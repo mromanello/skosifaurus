@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058599> a skos:Concept ;
+    skos:altLabel "Serfaus, VB Landeck"@en,
+        "Serfaus, VB Landeck"@fr,
+        "Serfaus, VB Landeck"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolSerfaus," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Serfaus, VB Landeck"@de .
+

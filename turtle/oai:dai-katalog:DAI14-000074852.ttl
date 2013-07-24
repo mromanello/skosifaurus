@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074852> a skos:Concept ;
+    skos:altLabel "Dalyan-Delta"@en,
+        "Dalyan-Delta"@fr,
+        "Dalyan-Delta"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039392> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeZZ--RDalyan-De" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dalyan-Delta"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045337> a skos:Concept ;
+    skos:altLabel "Beaumes-de-Venise"@en,
+        "Beaumes-de-Venise"@fr,
+        "Beaumes-de-Venise"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038809> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVauclBeaumes-d" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Beaumes-de-Venise"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019069> a skos:Concept ;
+    skos:altLabel "Miejsca produkcji/warsztaty produkcyjne"@pl,
+        "Places de production/ateliers"@fr,
+        "Production places/workshops"@en ;
+    skos:broader <http://data.dainst.de/zenon/000019068> ;
+    skos:hiddenLabel "yRGKArch13 - WirtsHandwProduProdu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Produktionsplätze/Werkstätten"@de .
+

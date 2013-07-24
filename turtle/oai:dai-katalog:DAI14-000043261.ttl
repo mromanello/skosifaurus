@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043261> a skos:Concept ;
+    skos:altLabel "Ribeauvillé"@en,
+        "Ribeauvillé"@fr,
+        "Ribeauvillé"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038752> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacHaut-Ribeauvil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ribeauvillé"@de .
+

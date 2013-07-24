@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011898> a skos:Concept ;
+    skos:altLabel "Alten, Friedrich Kurt von"@en,
+        "Alten, Friedrich Kurt von"@fr,
+        "Alten, Friedrich Kurt von"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoAlten, Friedrich Kurt von" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alten, Friedrich Kurt von"@de .
+

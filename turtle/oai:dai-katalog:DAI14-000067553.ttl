@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067553> a skos:Concept ;
+    skos:altLabel "Mitoc-Malu Galben, jud. Botoşani"@en,
+        "Mitoc-Malu Galben, jud. Botoşani"@fr,
+        "Mitoc-Malu Galben, jud. Botoşani"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoMitoc-Mal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mitoc-Malu Galben, jud. Botoşani"@de .
+

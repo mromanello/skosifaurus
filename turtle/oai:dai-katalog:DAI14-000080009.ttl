@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080009> a skos:Concept ;
+    skos:altLabel "Modrovka, okr. Nové Mesto nad Váhom"@en,
+        "Modrovka, okr. Nové Mesto nad Váhom"@fr,
+        "Modrovka, okr. Nové Mesto nad Váhom"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaModrovka," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Modrovka, okr. Nové Mesto nad Váhom"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072687> a skos:Concept ;
+    skos:altLabel "Serra da Aboboreira"@en,
+        "Serra da Aboboreira"@fr,
+        "Serra da Aboboreira"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039281> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuPortoSerra da" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Serra da Aboboreira"@de .
+

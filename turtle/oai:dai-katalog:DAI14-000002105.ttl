@@ -1,0 +1,40 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002105_Associationinternationaledepapyrologues> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Association internationale de papyrologues" .
+
+<http://data.dainst.de/zenon/000002105_Associationinternationalepourl'étudedudroitégyptienpharaonique> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Association internationale pour l'étude du droit égyptien pharaonique" .
+
+<http://data.dainst.de/zenon/000002105_Cercled'étudesnumismatiques> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Cercle d'études numismatiques" .
+
+<http://data.dainst.de/zenon/000002105_FondationégyptologiqueReineElisabeth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Fondation égyptologique Reine Elisabeth" .
+
+<http://data.dainst.de/zenon/000002105_InternationalPhotographicArchiveofPapyri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "International Photographic Archive of Papyri" .
+
+<http://data.dainst.de/zenon/000002105_Sociétépourleprogrèsdesétudesphilologiquesethistoriques> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Société pour le progrès des études philologiques et historiques" .
+
+<http://data.dainst.de/zenon/000002105_SociétéroyaledenumismatiquedeBelgique> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002105> ;
+    skos:prefLabel "Société royale de numismatique de Belgique" .
+
+<http://data.dainst.de/zenon/000002105> a skos:Concept ;
+    skos:altLabel "Belgio"@it,
+        "Belgique"@fr,
+        "Belgium"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstBelg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Belgien"@de .
+

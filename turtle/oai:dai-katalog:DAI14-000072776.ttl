@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072776> a skos:Concept ;
+    skos:altLabel "Casais Velhos"@en,
+        "Casais Velhos"@fr,
+        "Casais Velhos"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039291> ;
+    skos:hiddenLabel "zTopogEuropSüdeuPortuLisboCasais Ve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Casais Velhos"@de .
+

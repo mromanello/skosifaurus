@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014762> a skos:Concept ;
+    skos:altLabel "Cegla"@pl,
+        "Tiles"@en,
+        "Tuiles"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014756> ;
+    skos:hiddenLabel "yRGKArch08 - BefunBaumaZiege" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ziegel"@de .
+

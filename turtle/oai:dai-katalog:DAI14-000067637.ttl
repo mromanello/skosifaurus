@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067637> a skos:Concept ;
+    skos:altLabel "Trifeşti, jud. Iaşi"@en,
+        "Trifeşti, jud. Iaşi"@fr,
+        "Trifeşti, jud. Iaşi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoTrifeşti," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Trifeşti, jud. Iaşi"@de .
+

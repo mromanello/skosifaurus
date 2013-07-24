@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027030> a skos:Concept ;
+    skos:altLabel "Parma 1991/1992"@en,
+        "Parma 1991/1992"@fr,
+        "Parma 1991/1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstParma 1991/1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Parma 1991/1992"@de .
+

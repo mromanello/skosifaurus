@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079974> a skos:Concept ;
+    skos:altLabel "Wehrheim"@en,
+        "Wehrheim"@fr,
+        "Wehrheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075492> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseHochtWehrheim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wehrheim"@de .
+

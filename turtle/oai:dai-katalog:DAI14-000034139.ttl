@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034139> a skos:Concept ;
+    skos:altLabel "Fredegunde <Merowinger, Königin>"@en,
+        "Fredegunde <Merowinger, Königin>"@fr,
+        "Fredegunde <Merowinger, Königin>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoFredegunde <Merowinger, Königin>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fredegunde <Merowinger, Königin>"@de .
+

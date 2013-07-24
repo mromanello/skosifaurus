@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082526> a skos:Concept ;
+    skos:altLabel "Gannat"@en,
+        "Gannat"@fr,
+        "Gannat"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038784> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverAllieGannat" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gannat"@de .
+

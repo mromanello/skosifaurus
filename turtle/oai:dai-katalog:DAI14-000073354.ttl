@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073354> a skos:Concept ;
+    skos:altLabel "La Corona de Luyego"@en,
+        "La Corona de Luyego"@fr,
+        "La Corona de Luyego"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039329> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiLeónLa Corona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La Corona de Luyego"@de .
+

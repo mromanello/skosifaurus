@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042557> a skos:Concept ;
+    skos:altLabel "Saint-Nicolas-de-la-Taille"@en,
+        "Saint-Nicolas-de-la-Taille"@fr,
+        "Saint-Nicolas-de-la-Taille"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038734> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dSeineSaint-Nic" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Nicolas-de-la-Taille"@de .
+

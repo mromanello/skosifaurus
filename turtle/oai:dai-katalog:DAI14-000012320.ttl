@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012320> a skos:Concept ;
+    skos:altLabel "Colpe, Carsten"@en,
+        "Colpe, Carsten"@fr,
+        "Colpe, Carsten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoColpe, Carsten" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Colpe, Carsten"@de .
+

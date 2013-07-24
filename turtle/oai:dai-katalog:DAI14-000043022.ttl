@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043022> a skos:Concept ;
+    skos:altLabel "Essey-les-Nancy"@en,
+        "Essey-les-Nancy"@fr,
+        "Essey-les-Nancy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038748> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacMeurtEssey-les" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Essey-les-Nancy"@de .
+

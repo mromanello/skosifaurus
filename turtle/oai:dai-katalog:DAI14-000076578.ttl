@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076578> a skos:Concept ;
+    skos:altLabel "El-Hemmeh, Jordanien"@en,
+        "El-Hemmeh, Jordanien"@fr,
+        "El-Hemmeh, Jordanien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeEl-Hemmeh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "El-Hemmeh, Jordanien"@de .
+

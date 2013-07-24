@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070222> a skos:Concept ;
+    skos:altLabel "Marghera, com. Venezia"@en,
+        "Marghera, com. Venezia"@fr,
+        "Marghera, com. Venezia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039178> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVenezMarghera," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marghera, com. Venezia"@de .
+

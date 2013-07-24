@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063422> a skos:Concept ;
+    skos:altLabel "Březno, okr. Chomutov"@en,
+        "Březno, okr. Chomutov"@fr,
+        "Březno, okr. Chomutov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyBřezno, o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Březno, okr. Chomutov"@de .
+

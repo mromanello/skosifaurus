@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058120> a skos:Concept ;
+    skos:altLabel "Steinakirchen am Forst"@en,
+        "Steinakirchen am Forst"@fr,
+        "Steinakirchen am Forst"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeSteinakir" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Steinakirchen am Forst"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021599> a skos:Concept ;
+    skos:altLabel "Gorm <Dänemark, König>"@en,
+        "Gorm <Dänemark, König>"@fr,
+        "Gorm <Dänemark, König>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGorm <Dänemark, König>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gorm <Dänemark, König>"@de .
+

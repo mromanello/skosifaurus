@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064348> a skos:Concept ;
+    skos:altLabel "Hlína, okr. Brno-venkov"@en,
+        "Hlína, okr. Brno-venkov"@fr,
+        "Hlína, okr. Brno-venkov"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravHlína, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hlína, okr. Brno-venkov"@de .
+

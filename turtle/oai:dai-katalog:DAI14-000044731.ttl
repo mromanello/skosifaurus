@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044731> a skos:Concept ;
+    skos:altLabel "Melle"@en,
+        "Melle"@fr,
+        "Melle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038792> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverDeux-Melle" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Melle"@de .
+

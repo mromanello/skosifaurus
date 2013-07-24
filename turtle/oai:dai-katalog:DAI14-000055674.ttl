@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055674> a skos:Concept ;
+    skos:altLabel "Wadern, Burg Dagstuhl"@en,
+        "Wadern, Burg Dagstuhl"@fr,
+        "Wadern, Burg Dagstuhl"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038928> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinMerziWadern, B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wadern, Burg Dagstuhl"@de .
+

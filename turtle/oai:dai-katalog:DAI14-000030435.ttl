@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030435> a skos:Concept ;
+    skos:altLabel "Taranto, Collezione Ragusa"@en,
+        "Taranto, Collezione Ragusa"@fr,
+        "Taranto, Collezione Ragusa"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaTaranto, Collezione Ragusa" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Taranto, Collezione Ragusa"@de .
+

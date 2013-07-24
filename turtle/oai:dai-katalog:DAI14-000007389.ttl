@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007389> a skos:Concept ;
+    skos:altLabel "Landesamt für Vermessung und Geoinformation Bayern"@en,
+        "Landesamt für Vermessung und Geoinformation Bayern"@fr,
+        "Landesamt für Vermessung und Geoinformation Bayern"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsLandesamt für Vermessung und Geoinformation Bayern" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Landesamt für Vermessung und Geoinformation Bayern"@de .
+

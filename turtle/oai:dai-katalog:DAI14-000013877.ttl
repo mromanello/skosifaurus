@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013877> a skos:Concept ;
+    skos:altLabel "Antique restaurations/reworkings"@en,
+        "Przeróbki/naprawy"@pl,
+        "Réparations antiques/productions secondaires"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000013818> ;
+    skos:hiddenLabel "yRGKArch06 - WirtsHandwRepar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Reparatur/Umarbeitung"@de .
+

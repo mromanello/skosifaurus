@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038036> a skos:Concept ;
+    skos:altLabel "Xanten 1998"@en,
+        "Xanten 1998"@fr,
+        "Xanten 1998"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrXanten 1998" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Xanten 1998"@de .
+

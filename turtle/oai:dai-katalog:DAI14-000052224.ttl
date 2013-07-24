@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000052224> a skos:Concept ;
+    skos:altLabel "Grötsch"@en,
+        "Grötsch"@fr,
+        "Grötsch"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075473> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBrandForstGrötsch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grötsch"@de .
+

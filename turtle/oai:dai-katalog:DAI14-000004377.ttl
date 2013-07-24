@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004377> a skos:Concept ;
+    skos:altLabel "découvertes et recueils"@fr,
+        "finds and collected material"@en,
+        "rinvenimenti e raccolte"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004375> ;
+    skos:hiddenLabel "xKretFund" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Funde und Sammelpublikationen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038648> a skos:Concept ;
+    skos:altLabel "Marburg 2006"@en,
+        "Marburg 2006"@fr,
+        "Marburg 2006"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMarburg 2006" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Marburg 2006"@de .
+

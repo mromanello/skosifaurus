@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037212> a skos:Concept ;
+    skos:altLabel "Ravello 1994"@en,
+        "Ravello 1994"@fr,
+        "Ravello 1994"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrRavello 1994" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ravello 1994"@de .
+

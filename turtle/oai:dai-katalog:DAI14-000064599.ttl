@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064599> a skos:Concept ;
+    skos:altLabel "Těšetice-Kyjovice, okr. Znojmo"@en,
+        "Těšetice-Kyjovice, okr. Znojmo"@fr,
+        "Těšetice-Kyjovice, okr. Znojmo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravTěšetice-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Těšetice-Kyjovice, okr. Znojmo"@de .
+

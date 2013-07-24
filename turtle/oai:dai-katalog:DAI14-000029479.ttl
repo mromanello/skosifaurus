@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029479> a skos:Concept ;
+    skos:altLabel "Frankfurt/M., Historisches Museum"@en,
+        "Frankfurt/M., Historisches Museum"@fr,
+        "Frankfurt/M., Historisches Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuFrankfurt/M., Historisches Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Frankfurt/M., Historisches Museum"@de .
+

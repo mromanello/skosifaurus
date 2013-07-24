@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009865> a skos:Concept ;
+    skos:altLabel "Schwarz, Dietrich W. H."@en,
+        "Schwarz, Dietrich W. H."@fr,
+        "Schwarz, Dietrich W. H."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSchwarz, Dietrich W. H." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schwarz, Dietrich W. H."@de .
+

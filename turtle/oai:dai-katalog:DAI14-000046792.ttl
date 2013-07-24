@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046792> a skos:Concept ;
+    skos:altLabel "Brougham Castle"@en,
+        "Brougham Castle"@fr,
+        "Brougham Castle"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077683> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCumbrBrougham" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brougham Castle"@de .
+

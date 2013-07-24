@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066942> a skos:Concept ;
+    skos:altLabel "Teregova, jud. Caraş-Severin"@en,
+        "Teregova, jud. Caraş-Severin"@fr,
+        "Teregova, jud. Caraş-Severin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatTeregova," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Teregova, jud. Caraş-Severin"@de .
+

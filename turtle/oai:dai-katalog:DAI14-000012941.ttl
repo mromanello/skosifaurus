@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012941> a skos:Concept ;
+    skos:altLabel "Birds"@en,
+        "Oiseaux"@fr,
+        "Ptaki"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012932> ;
+    skos:hiddenLabel "yRGKArch04 - NaturPaläoVögel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vögel"@de .
+

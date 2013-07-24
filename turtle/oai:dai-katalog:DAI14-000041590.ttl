@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041590> a skos:Concept ;
+    skos:altLabel "Petit-Spiennes"@en,
+        "Petit-Spiennes"@fr,
+        "Petit-Spiennes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038716> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiHainaPetit-Spi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petit-Spiennes"@de .
+

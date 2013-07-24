@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000133> a skos:Concept ;
+    skos:altLabel "Islas Baleares (Culturas pre- y talayóticas)"@es ;
+    skos:broader <http://data.dainst.de/zenon/000000132> ;
+    skos:hiddenLabel "3.03.01" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Balearische Inseln (Vor- und Frühgeschichte)"@de .
+

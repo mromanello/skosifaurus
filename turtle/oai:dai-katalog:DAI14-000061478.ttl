@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061478> a skos:Concept ;
+    skos:altLabel "Lubartów-Kolonia Zagrody Lubartowskie"@en,
+        "Lubartów-Kolonia Zagrody Lubartowskie"@fr,
+        "Lubartów-Kolonia Zagrody Lubartowskie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelLubartów-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lubartów-Kolonia Zagrody Lubartowskie"@de .
+

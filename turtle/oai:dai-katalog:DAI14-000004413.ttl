@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004413> a skos:Concept ;
+    skos:altLabel "furniture and furnishings"@en,
+        "meubles et décoration intérieure"@fr,
+        "mobili e arredamenti"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004396> ;
+    skos:hiddenLabel "xKretAntMöbel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Möbel und Innenausstattung"@de .
+

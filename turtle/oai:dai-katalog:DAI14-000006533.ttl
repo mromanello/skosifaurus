@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006533> a skos:Concept ;
+    skos:altLabel "Jülicher Geschichtsverein"@en,
+        "Jülicher Geschichtsverein"@fr,
+        "Jülicher Geschichtsverein"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsJülicher Geschichtsverein" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jülicher Geschichtsverein"@de .
+

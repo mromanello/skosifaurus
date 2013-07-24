@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032264> a skos:Concept ;
+    skos:altLabel "Libellus de Regionibus urbis Romae"@en,
+        "Libellus de Regionibus urbis Romae"@fr,
+        "Libellus de Regionibus urbis Romae"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012500> ;
+    skos:hiddenLabel "yRGKArch02 - SchriJurisLegesLibellus de Regionibus urbis Romae" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Libellus de Regionibus urbis Romae"@de .
+

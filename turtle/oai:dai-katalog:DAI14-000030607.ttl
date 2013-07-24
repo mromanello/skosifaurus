@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030607> a skos:Concept ;
+    skos:altLabel "Hampshire and Wight Trust for Maritime Archaeology"@en,
+        "Hampshire and Wight Trust for Maritime Archaeology"@fr,
+        "Hampshire and Wight Trust for Maritime Archaeology"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiHampshire and Wight Trust for Maritime Archaeology" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hampshire and Wight Trust for Maritime Archaeology"@de .
+

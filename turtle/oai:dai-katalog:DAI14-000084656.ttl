@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084656> a skos:Concept ;
+    skos:altLabel "Žatec, Regionalmuseum"@en,
+        "Žatec, Regionalmuseum"@fr,
+        "Žatec, Regionalmuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuŽatec, Regionalmuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Žatec, Regionalmuseum"@de .
+

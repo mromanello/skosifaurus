@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030963> a skos:Concept ;
+    skos:altLabel "Poznań, Muzeum Archeologiczne w Poznaniu"@en,
+        "Poznań, Muzeum Archeologiczne w Poznaniu"@fr,
+        "Poznań, Muzeum Archeologiczne w Poznaniu"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiPoznań, Muzeum Archeologiczne w Poznaniu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poznań, Muzeum Archeologiczne w Poznaniu"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009554> a skos:Concept ;
+    skos:altLabel "Plettke, Friedrich"@en,
+        "Plettke, Friedrich"@fr,
+        "Plettke, Friedrich"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoPlettke, Friedrich" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plettke, Friedrich"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080792> a skos:Concept ;
+    skos:altLabel "Brent Knoll"@en,
+        "Brent Knoll"@fr,
+        "Brent Knoll"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077706> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaSomerBrent Kno" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brent Knoll"@de .
+

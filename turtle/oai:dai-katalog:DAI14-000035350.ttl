@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035350> a skos:Concept ;
+    skos:altLabel "Bourg-en-Bresse 2000"@en,
+        "Bourg-en-Bresse 2000"@fr,
+        "Bourg-en-Bresse 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBourg-en-Bresse 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bourg-en-Bresse 2000"@de .
+

@@ -1,0 +1,1060 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002470_Ada-Kaleh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ada-Kaleh" .
+
+<http://data.dainst.de/zenon/000002470_Adamclisivedi:TropaeumTraiani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Adamclisi vedi: Tropaeum Traiani" .
+
+<http://data.dainst.de/zenon/000002470_Adamklissivedi:TropaeumTraiani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Adamklissi vedi: Tropaeum Traiani" .
+
+<http://data.dainst.de/zenon/000002470_Aiton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Aiton" .
+
+<http://data.dainst.de/zenon/000002470_Aiud> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Aiud" .
+
+<http://data.dainst.de/zenon/000002470_AlbaIuliavedi:Apulum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Alba Iulia vedi: Apulum" .
+
+<http://data.dainst.de/zenon/000002470_AlburnusMaiorvedi:RoşiaMontană> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Alburnus Maior vedi: Roşia Montană" .
+
+<http://data.dainst.de/zenon/000002470_Alexandria(Rumänien)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Alexandria (Rumänien)" .
+
+<http://data.dainst.de/zenon/000002470_Ampelum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ampelum" .
+
+<http://data.dainst.de/zenon/000002470_Apulum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Apulum" .
+
+<http://data.dainst.de/zenon/000002470_Aquae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Aquae" .
+
+<http://data.dainst.de/zenon/000002470_AquaeDacicae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Aquae Dacicae" .
+
+<http://data.dainst.de/zenon/000002470_Arad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Arad" .
+
+<http://data.dainst.de/zenon/000002470_Argamum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Argamum" .
+
+<http://data.dainst.de/zenon/000002470_Argedava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Argedava" .
+
+<http://data.dainst.de/zenon/000002470_Arutela> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Arutela" .
+
+<http://data.dainst.de/zenon/000002470_Axiopolis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Axiopolis" .
+
+<http://data.dainst.de/zenon/000002470_Aţintiş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Aţintiş" .
+
+<http://data.dainst.de/zenon/000002470_Babadag> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Babadag" .
+
+<http://data.dainst.de/zenon/000002470_Baciu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Baciu" .
+
+<http://data.dainst.de/zenon/000002470_Bacău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bacău" .
+
+<http://data.dainst.de/zenon/000002470_Bahnea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bahnea" .
+
+<http://data.dainst.de/zenon/000002470_Barboşi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Barboşi" .
+
+<http://data.dainst.de/zenon/000002470_Basarabi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Basarabi" .
+
+<http://data.dainst.de/zenon/000002470_Benic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Benic" .
+
+<http://data.dainst.de/zenon/000002470_Berghin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Berghin" .
+
+<http://data.dainst.de/zenon/000002470_Beriu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Beriu" .
+
+<http://data.dainst.de/zenon/000002470_Berzovia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Berzovia" .
+
+<http://data.dainst.de/zenon/000002470_Bisericuţavedi:Dinogetia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bisericuţa vedi: Dinogetia" .
+
+<http://data.dainst.de/zenon/000002470_Bistriţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bistriţa" .
+
+<http://data.dainst.de/zenon/000002470_Boiţavedi:CaputStenarum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Boiţa vedi: Caput Stenarum" .
+
+<http://data.dainst.de/zenon/000002470_Bologa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bologa" .
+
+<http://data.dainst.de/zenon/000002470_BoroşneuMare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Boroşneu Mare" .
+
+<http://data.dainst.de/zenon/000002470_Botorca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Botorca" .
+
+<http://data.dainst.de/zenon/000002470_Brad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Brad" .
+
+<http://data.dainst.de/zenon/000002470_Breţcu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Breţcu" .
+
+<http://data.dainst.de/zenon/000002470_Brâncoveneşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Brâncoveneşti" .
+
+<http://data.dainst.de/zenon/000002470_Brîncoveneşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Brîncoveneşti" .
+
+<http://data.dainst.de/zenon/000002470_Buciumi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Buciumi" .
+
+<http://data.dainst.de/zenon/000002470_Bugeac> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bugeac" .
+
+<http://data.dainst.de/zenon/000002470_Bumbeşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bumbeşti" .
+
+<http://data.dainst.de/zenon/000002470_Buridava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Buridava" .
+
+<http://data.dainst.de/zenon/000002470_Buzău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Buzău" .
+
+<http://data.dainst.de/zenon/000002470_Bîrlad-ValeaSeacă> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Bîrlad-Valea Seacă" .
+
+<http://data.dainst.de/zenon/000002470_Callatisvedi:Mangalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Callatis vedi: Mangalia" .
+
+<http://data.dainst.de/zenon/000002470_CanabaeAeliae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Canabae Aeliae" .
+
+<http://data.dainst.de/zenon/000002470_Capidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Capidava" .
+
+<http://data.dainst.de/zenon/000002470_CaputStenarum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Caput Stenarum" .
+
+<http://data.dainst.de/zenon/000002470_Caransebeş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Caransebeş" .
+
+<http://data.dainst.de/zenon/000002470_Casian> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Casian" .
+
+<http://data.dainst.de/zenon/000002470_CastellumCilicum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Castellum Cilicum" .
+
+<http://data.dainst.de/zenon/000002470_CastraNova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Castra Nova" .
+
+<http://data.dainst.de/zenon/000002470_Caşolţ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Caşolţ" .
+
+<http://data.dainst.de/zenon/000002470_Cehal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cehal" .
+
+<http://data.dainst.de/zenon/000002470_Celeiuvedi:Sucidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Celeiu vedi: Sucidava" .
+
+<http://data.dainst.de/zenon/000002470_Cerna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cerna" .
+
+<http://data.dainst.de/zenon/000002470_Cernavodă> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cernavodă" .
+
+<http://data.dainst.de/zenon/000002470_CetateadeBaltă> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cetatea de Baltă" .
+
+<http://data.dainst.de/zenon/000002470_Cetăţeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cetăţeni" .
+
+<http://data.dainst.de/zenon/000002470_Cicău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cicău" .
+
+<http://data.dainst.de/zenon/000002470_Cinciş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cinciş" .
+
+<http://data.dainst.de/zenon/000002470_CiorouilNouvedi:Aquae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ciorouil Nou vedi: Aquae" .
+
+<http://data.dainst.de/zenon/000002470_Cluj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cluj" .
+
+<http://data.dainst.de/zenon/000002470_Comidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Comidava" .
+
+<http://data.dainst.de/zenon/000002470_Comălăn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Comălăn" .
+
+<http://data.dainst.de/zenon/000002470_Constantiana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Constantiana" .
+
+<http://data.dainst.de/zenon/000002470_Constanţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Constanţa" .
+
+<http://data.dainst.de/zenon/000002470_Copăceni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Copăceni" .
+
+<http://data.dainst.de/zenon/000002470_Cotnari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cotnari" .
+
+<http://data.dainst.de/zenon/000002470_Covasna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Covasna" .
+
+<http://data.dainst.de/zenon/000002470_Cricău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cricău" .
+
+<http://data.dainst.de/zenon/000002470_Cristeşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cristeşti" .
+
+<http://data.dainst.de/zenon/000002470_Crâmpoia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Crâmpoia" .
+
+<http://data.dainst.de/zenon/000002470_Cumidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cumidava" .
+
+<http://data.dainst.de/zenon/000002470_Cîmpulung-Muscel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cîmpulung-Muscel" .
+
+<http://data.dainst.de/zenon/000002470_Călugăreni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Călugăreni" .
+
+<http://data.dainst.de/zenon/000002470_Căpîlna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Căpîlna" .
+
+<http://data.dainst.de/zenon/000002470_Cătunele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Cătunele" .
+
+<http://data.dainst.de/zenon/000002470_Căşei> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Căşei" .
+
+<http://data.dainst.de/zenon/000002470_Dafne(Rumänien)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dafne (Rumänien)" .
+
+<http://data.dainst.de/zenon/000002470_Dalboşeţ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dalboşeţ" .
+
+<http://data.dainst.de/zenon/000002470_Dedrad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dedrad" .
+
+<http://data.dainst.de/zenon/000002470_Deva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Deva" .
+
+<http://data.dainst.de/zenon/000002470_Diernavedi:Orşova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dierna vedi: Orşova" .
+
+<http://data.dainst.de/zenon/000002470_Dinogetia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dinogetia" .
+
+<http://data.dainst.de/zenon/000002470_DolheştiiMari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dolheştii Mari" .
+
+<http://data.dainst.de/zenon/000002470_Dolojmanvedi:Argamum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Dolojman vedi: Argamum" .
+
+<http://data.dainst.de/zenon/000002470_DrajnadeSus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Drajna de Sus" .
+
+<http://data.dainst.de/zenon/000002470_Drobetavedi:TurnuSeverin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Drobeta vedi: Turnu Severin" .
+
+<http://data.dainst.de/zenon/000002470_Enisala> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Enisala" .
+
+<http://data.dainst.de/zenon/000002470_Erbiceni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Erbiceni" .
+
+<http://data.dainst.de/zenon/000002470_FeţeleAlbe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Feţele Albe" .
+
+<http://data.dainst.de/zenon/000002470_Frânceşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Frânceşti" .
+
+<http://data.dainst.de/zenon/000002470_Fântânele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Fântânele" .
+
+<http://data.dainst.de/zenon/000002470_Fîntînele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Fîntînele" .
+
+<http://data.dainst.de/zenon/000002470_FăgăraşuNou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Făgăraşu Nou" .
+
+<http://data.dainst.de/zenon/000002470_Gabăra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gabăra" .
+
+<http://data.dainst.de/zenon/000002470_Galaţi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Galaţi" .
+
+<http://data.dainst.de/zenon/000002470_GaliceaMare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Galicea Mare" .
+
+<http://data.dainst.de/zenon/000002470_Germisara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Germisara" .
+
+<http://data.dainst.de/zenon/000002470_Gherla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gherla" .
+
+<http://data.dainst.de/zenon/000002470_Gherăseni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gherăseni" .
+
+<http://data.dainst.de/zenon/000002470_Ghiocavedi:Crâmpoia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ghioca vedi: Crâmpoia" .
+
+<http://data.dainst.de/zenon/000002470_Gilău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gilău" .
+
+<http://data.dainst.de/zenon/000002470_Gornea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gornea" .
+
+<http://data.dainst.de/zenon/000002470_Gorneşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gorneşti" .
+
+<http://data.dainst.de/zenon/000002470_Govora-Sat> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Govora-Sat" .
+
+<http://data.dainst.de/zenon/000002470_GrădişteaMunceluluivedi:SarmizegetusaRegia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Grădiştea Muncelului vedi: Sarmizegetusa Regia" .
+
+<http://data.dainst.de/zenon/000002470_GuraCanliei> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gura Canliei" .
+
+<http://data.dainst.de/zenon/000002470_GârlaMare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Gârla Mare" .
+
+<http://data.dainst.de/zenon/000002470_Halmyris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Halmyris" .
+
+<http://data.dainst.de/zenon/000002470_Hapria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Hapria" .
+
+<http://data.dainst.de/zenon/000002470_Hateg> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Hateg" .
+
+<http://data.dainst.de/zenon/000002470_Histria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Histria" .
+
+<http://data.dainst.de/zenon/000002470_Hoghiz> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Hoghiz" .
+
+<http://data.dainst.de/zenon/000002470_Horia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Horia" .
+
+<http://data.dainst.de/zenon/000002470_Hîrşova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Hîrşova" .
+
+<http://data.dainst.de/zenon/000002470_Hăneşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Hăneşti" .
+
+<http://data.dainst.de/zenon/000002470_Ibida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ibida" .
+
+<http://data.dainst.de/zenon/000002470_Ibăneşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ibăneşti" .
+
+<http://data.dainst.de/zenon/000002470_IdeciudeJos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ideciu de Jos" .
+
+<http://data.dainst.de/zenon/000002470_Ighiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ighiu" .
+
+<http://data.dainst.de/zenon/000002470_Ilişua> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ilişua" .
+
+<http://data.dainst.de/zenon/000002470_Independenţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Independenţa" .
+
+<http://data.dainst.de/zenon/000002470_Inlăceni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Inlăceni" .
+
+<http://data.dainst.de/zenon/000002470_Isaccea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Isaccea" .
+
+<http://data.dainst.de/zenon/000002470_Istrosvedi:Histria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Istros vedi: Histria" .
+
+<http://data.dainst.de/zenon/000002470_Iveşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Iveşti" .
+
+<http://data.dainst.de/zenon/000002470_Izvoare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Izvoare" .
+
+<http://data.dainst.de/zenon/000002470_Izvoarelevedi:Sucidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Izvoarele vedi: Sucidava" .
+
+<http://data.dainst.de/zenon/000002470_Jupavedi:Tibiscum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Jupa vedi: Tibiscum" .
+
+<http://data.dainst.de/zenon/000002470_Kallatisvedi:Mangalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Kallatis vedi: Mangalia" .
+
+<http://data.dainst.de/zenon/000002470_Lazu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Lazu" .
+
+<http://data.dainst.de/zenon/000002470_Libida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Libida" .
+
+<http://data.dainst.de/zenon/000002470_Livezile> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Livezile" .
+
+<http://data.dainst.de/zenon/000002470_Lăpuşnicel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Lăpuşnicel" .
+
+<http://data.dainst.de/zenon/000002470_Malva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Malva" .
+
+<http://data.dainst.de/zenon/000002470_Mangalia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mangalia" .
+
+<http://data.dainst.de/zenon/000002470_Mediaş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mediaş" .
+
+<http://data.dainst.de/zenon/000002470_MedieşulAurit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Medieşul Aurit" .
+
+<http://data.dainst.de/zenon/000002470_Mehadia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mehadia" .
+
+<http://data.dainst.de/zenon/000002470_Miciavedi:Veţel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Micia vedi: Veţel" .
+
+<http://data.dainst.de/zenon/000002470_Micăsasa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Micăsasa" .
+
+<http://data.dainst.de/zenon/000002470_MiercureaSibiului> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Miercurea Sibiului" .
+
+<http://data.dainst.de/zenon/000002470_MihailKogălniceanu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mihail Kogălniceanu" .
+
+<http://data.dainst.de/zenon/000002470_MirceaVoda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mircea Voda" .
+
+<http://data.dainst.de/zenon/000002470_Mirăslău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mirăslău" .
+
+<http://data.dainst.de/zenon/000002470_Moineşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Moineşti" .
+
+<http://data.dainst.de/zenon/000002470_MontesSerrorum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Montes Serrorum" .
+
+<http://data.dainst.de/zenon/000002470_Moreşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Moreşti" .
+
+<http://data.dainst.de/zenon/000002470_Mugeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Mugeni" .
+
+<http://data.dainst.de/zenon/000002470_Murighioivedi:Independenţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Murighioi vedi: Independenţa" .
+
+<http://data.dainst.de/zenon/000002470_Nalbant> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Nalbant" .
+
+<http://data.dainst.de/zenon/000002470_Napocavedi:Cluj> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Napoca vedi: Cluj" .
+
+<http://data.dainst.de/zenon/000002470_Neptun> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Neptun" .
+
+<http://data.dainst.de/zenon/000002470_Niculiţel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Niculiţel" .
+
+<http://data.dainst.de/zenon/000002470_Noviodunum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Noviodunum" .
+
+<http://data.dainst.de/zenon/000002470_Nufăru> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Nufăru" .
+
+<http://data.dainst.de/zenon/000002470_Nuntaşi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Nuntaşi" .
+
+<http://data.dainst.de/zenon/000002470_OardadeSus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Oarda de Sus" .
+
+<http://data.dainst.de/zenon/000002470_Obreja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Obreja" .
+
+<http://data.dainst.de/zenon/000002470_Ocniţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ocniţa" .
+
+<http://data.dainst.de/zenon/000002470_Ohaba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ohaba" .
+
+<http://data.dainst.de/zenon/000002470_Oltina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Oltina" .
+
+<http://data.dainst.de/zenon/000002470_Orgamevedi:Argamum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Orgame vedi: Argamum" .
+
+<http://data.dainst.de/zenon/000002470_OrheiulBistriţei> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Orheiul Bistriţei" .
+
+<http://data.dainst.de/zenon/000002470_OrăştioaradeSus> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Orăştioara de Sus" .
+
+<http://data.dainst.de/zenon/000002470_Orşova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Orşova" .
+
+<http://data.dainst.de/zenon/000002470_Ostrov> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ostrov" .
+
+<http://data.dainst.de/zenon/000002470_OstrovulCorbului> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ostrovul Corbului" .
+
+<http://data.dainst.de/zenon/000002470_Ovidiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ovidiu" .
+
+<http://data.dainst.de/zenon/000002470_Panic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Panic" .
+
+<http://data.dainst.de/zenon/000002470_Parţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Parţa" .
+
+<http://data.dainst.de/zenon/000002470_Pecica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Pecica" .
+
+<http://data.dainst.de/zenon/000002470_Pietroasele> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Pietroasele" .
+
+<http://data.dainst.de/zenon/000002470_PiătraFrecăţei> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Piătra Frecăţei" .
+
+<http://data.dainst.de/zenon/000002470_PiătraNeamţ> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Piătra Neamţ" .
+
+<http://data.dainst.de/zenon/000002470_Platypegiae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Platypegiae" .
+
+<http://data.dainst.de/zenon/000002470_Poiana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Poiana" .
+
+<http://data.dainst.de/zenon/000002470_Pojejena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Pojejena" .
+
+<http://data.dainst.de/zenon/000002470_Popeşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Popeşti" .
+
+<http://data.dainst.de/zenon/000002470_Porolissum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Porolissum" .
+
+<http://data.dainst.de/zenon/000002470_PorumbeniiMici> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Porumbenii Mici" .
+
+<http://data.dainst.de/zenon/000002470_Potaissavedi:Turda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Potaissa vedi: Turda" .
+
+<http://data.dainst.de/zenon/000002470_Praetoriumvedi:Racoviţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Praetorium vedi: Racoviţa" .
+
+<http://data.dainst.de/zenon/000002470_Racoviţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Racoviţa" .
+
+<http://data.dainst.de/zenon/000002470_Ranisstorum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ranisstorum" .
+
+<http://data.dainst.de/zenon/000002470_Rareş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rareş" .
+
+<http://data.dainst.de/zenon/000002470_Rasova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rasova" .
+
+<http://data.dainst.de/zenon/000002470_Rişnovvedi:Cumidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rişnov vedi: Cumidava" .
+
+<http://data.dainst.de/zenon/000002470_Roman> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Roman" .
+
+<http://data.dainst.de/zenon/000002470_Romula> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Romula" .
+
+<http://data.dainst.de/zenon/000002470_RosiorideVede> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rosiori de Vede" .
+
+<http://data.dainst.de/zenon/000002470_RoşiaMontană> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Roşia Montană" .
+
+<http://data.dainst.de/zenon/000002470_Rucăr> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rucăr" .
+
+<http://data.dainst.de/zenon/000002470_Râşnov> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Râşnov" .
+
+<http://data.dainst.de/zenon/000002470_Răcari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Răcari" .
+
+<http://data.dainst.de/zenon/000002470_Răcăciuni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Răcăciuni" .
+
+<http://data.dainst.de/zenon/000002470_Răcătău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Răcătău" .
+
+<http://data.dainst.de/zenon/000002470_Rădăcineşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Rădăcineşti" .
+
+<http://data.dainst.de/zenon/000002470_Războieni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Războieni" .
+
+<http://data.dainst.de/zenon/000002470_Sacidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sacidava" .
+
+<http://data.dainst.de/zenon/000002470_Sangidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sangidava" .
+
+<http://data.dainst.de/zenon/000002470_Sarmizegetusa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sarmizegetusa" .
+
+<http://data.dainst.de/zenon/000002470_SarmizegetusaRegia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sarmizegetusa Regia" .
+
+<http://data.dainst.de/zenon/000002470_SatuNou> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Satu Nou" .
+
+<http://data.dainst.de/zenon/000002470_Schitul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Schitul" .
+
+<http://data.dainst.de/zenon/000002470_SeicaMica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Seica Mica" .
+
+<http://data.dainst.de/zenon/000002470_Sighişoara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sighişoara" .
+
+<http://data.dainst.de/zenon/000002470_Silistra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Silistra" .
+
+<http://data.dainst.de/zenon/000002470_Sipote> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sipote" .
+
+<http://data.dainst.de/zenon/000002470_SlavaRušavedi:Ibida> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Slava Ruša vedi: Ibida" .
+
+<http://data.dainst.de/zenon/000002470_Slimnic> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Slimnic" .
+
+<http://data.dainst.de/zenon/000002470_Slăveni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Slăveni" .
+
+<http://data.dainst.de/zenon/000002470_SoporuldeCîmpie> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Soporul de Cîmpie" .
+
+<http://data.dainst.de/zenon/000002470_Stolmícenivedi:Buridava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Stolmíceni vedi: Buridava" .
+
+<http://data.dainst.de/zenon/000002470_Straja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Straja" .
+
+<http://data.dainst.de/zenon/000002470_Streisîngeorgiu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Streisîngeorgiu" .
+
+<http://data.dainst.de/zenon/000002470_Suatu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Suatu" .
+
+<http://data.dainst.de/zenon/000002470_Suceava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Suceava" .
+
+<http://data.dainst.de/zenon/000002470_Sucidava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sucidava" .
+
+<http://data.dainst.de/zenon/000002470_SurduculMare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Surducul Mare" .
+
+<http://data.dainst.de/zenon/000002470_Sânpaul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sânpaul" .
+
+<http://data.dainst.de/zenon/000002470_Sîmbotin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sîmbotin" .
+
+<http://data.dainst.de/zenon/000002470_Sînmiclăuş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sînmiclăuş" .
+
+<http://data.dainst.de/zenon/000002470_Sînpaul> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sînpaul" .
+
+<http://data.dainst.de/zenon/000002470_SîntanaArad> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sîntana Arad" .
+
+<http://data.dainst.de/zenon/000002470_Sărăţeni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Sărăţeni" .
+
+<http://data.dainst.de/zenon/000002470_Tabăra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tabăra" .
+
+<http://data.dainst.de/zenon/000002470_Tariverde> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tariverde" .
+
+<http://data.dainst.de/zenon/000002470_Techirghiol> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Techirghiol" .
+
+<http://data.dainst.de/zenon/000002470_Teliţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Teliţa" .
+
+<http://data.dainst.de/zenon/000002470_Teregova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Teregova" .
+
+<http://data.dainst.de/zenon/000002470_Tibiscum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tibiscum" .
+
+<http://data.dainst.de/zenon/000002470_Tihău> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tihău" .
+
+<http://data.dainst.de/zenon/000002470_Tilişca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tilişca" .
+
+<http://data.dainst.de/zenon/000002470_Timişoara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Timişoara" .
+
+<http://data.dainst.de/zenon/000002470_Titeşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Titeşti" .
+
+<http://data.dainst.de/zenon/000002470_Todireşti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Todireşti" .
+
+<http://data.dainst.de/zenon/000002470_Toldal> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Toldal" .
+
+<http://data.dainst.de/zenon/000002470_Tomivedi:Constanţa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tomi vedi: Constanţa" .
+
+<http://data.dainst.de/zenon/000002470_Topraichioi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Topraichioi" .
+
+<http://data.dainst.de/zenon/000002470_Topraisar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Topraisar" .
+
+<http://data.dainst.de/zenon/000002470_Troesmis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Troesmis" .
+
+<http://data.dainst.de/zenon/000002470_TropaeumTraiani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tropaeum Traiani" .
+
+<http://data.dainst.de/zenon/000002470_Tulcea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tulcea" .
+
+<http://data.dainst.de/zenon/000002470_Turda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Turda" .
+
+<http://data.dainst.de/zenon/000002470_Turdaş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Turdaş" .
+
+<http://data.dainst.de/zenon/000002470_TurnuSeverin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Turnu Severin" .
+
+<http://data.dainst.de/zenon/000002470_Tuzla> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tuzla" .
+
+<http://data.dainst.de/zenon/000002470_TârguMureş> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Târgu Mureş" .
+
+<http://data.dainst.de/zenon/000002470_Tîrgşor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Tîrgşor" .
+
+<http://data.dainst.de/zenon/000002470_Ulmetum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ulmetum" .
+
+<http://data.dainst.de/zenon/000002470_UlpiaTraianavedi:Sarmizegetusa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ulpia Traiana vedi: Sarmizegetusa" .
+
+<http://data.dainst.de/zenon/000002470_Urluieni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Urluieni" .
+
+<http://data.dainst.de/zenon/000002470_Veţel> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Veţel" .
+
+<http://data.dainst.de/zenon/000002470_Voila> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Voila" .
+
+<http://data.dainst.de/zenon/000002470_Văleni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Văleni" .
+
+<http://data.dainst.de/zenon/000002470_Zimnicea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Zimnicea" .
+
+<http://data.dainst.de/zenon/000002470_Ziridava> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Ziridava" .
+
+<http://data.dainst.de/zenon/000002470_Zlatnavedi:Ampelum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Zlatna vedi: Ampelum" .
+
+<http://data.dainst.de/zenon/000002470_Şugag> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002470> ;
+    skos:prefLabel "Şugag" .
+
+<http://data.dainst.de/zenon/000002470> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002468> ;
+    skos:hiddenLabel "xTopLandRumOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

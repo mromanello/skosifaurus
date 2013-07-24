@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074694> a skos:Concept ;
+    skos:altLabel "Kültepe-Kaniş"@en,
+        "Kültepe-Kaniş"@fr,
+        "Kültepe-Kaniş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039391> ;
+    skos:hiddenLabel "zTopogAsienVordeTürkeKültepe-K" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kültepe-Kaniş"@de .
+

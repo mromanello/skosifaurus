@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070241> a skos:Concept ;
+    skos:altLabel "Bernadine di Coriano"@en,
+        "Bernadine di Coriano"@fr,
+        "Bernadine di Coriano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronBernadine" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bernadine di Coriano"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027830> a skos:Concept ;
+    skos:altLabel "Cagliari, Museo Archeologico Nazionale"@en,
+        "Cagliari, Museo Archeologico Nazionale"@fr,
+        "Cagliari, Museo Archeologico Nazionale"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuCagliari, Museo Archeologico Nazionale" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cagliari, Museo Archeologico Nazionale"@de .
+

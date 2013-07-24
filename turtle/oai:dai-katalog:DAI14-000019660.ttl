@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000019660> a skos:Concept ;
+    skos:altLabel "Cadavres de tourbière"@fr,
+        "Moor corpse"@en,
+        "Zwloki z bagien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019644> ;
+    skos:hiddenLabel "yRGKNaturAnthrMoorl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moorleichen"@de .
+

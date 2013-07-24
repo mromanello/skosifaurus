@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068469> a skos:Concept ;
+    skos:altLabel "Zemun"@en,
+        "Zemun"@fr,
+        "Zemun"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiZemun" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zemun"@de .
+

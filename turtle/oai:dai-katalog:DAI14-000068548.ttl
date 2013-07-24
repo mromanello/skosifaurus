@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068548> a skos:Concept ;
+    skos:altLabel "Belbek"@en,
+        "Belbek"@fr,
+        "Belbek"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiBelbek" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Belbek"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025854> a skos:Concept ;
+    skos:altLabel "Despenser/ Warwick"@en,
+        "Despenser/ Warwick"@fr,
+        "Despenser/ Warwick"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018914> ;
+    skos:hiddenLabel "yRGKArch12 - HistoProsoMehreDespenser/ Warwick" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Despenser/ Warwick"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000025437> a skos:Concept ;
+    skos:altLabel "Chrodoara von Amay"@en,
+        "Chrodoara von Amay"@fr,
+        "Chrodoara von Amay"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018030> ;
+    skos:hiddenLabel "yRGKArch11 - HistoProsoEinzeChrodoara von Amay" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Chrodoara von Amay"@de .
+

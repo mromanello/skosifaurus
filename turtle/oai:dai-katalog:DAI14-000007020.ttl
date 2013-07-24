@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007020> a skos:Concept ;
+    skos:altLabel "Tadmor, Hayim"@en,
+        "Tadmor, Hayim"@fr,
+        "Tadmor, Hayim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsTadmor, Hayim" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tadmor, Hayim"@de .
+

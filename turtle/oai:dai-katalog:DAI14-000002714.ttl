@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002714> a skos:Concept ;
+    skos:altLabel "classicisme (1956 - 1997)"@en,
+        "classicisme (1956 - 1997)"@fr,
+        "classicismo (1956 - 1997)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002709> ;
+    skos:hiddenLabel "xKgNachlEurKlass" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Klassizismus und Historismus (1956 - 1997)"@de .
+

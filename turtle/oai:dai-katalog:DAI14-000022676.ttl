@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022676> a skos:Concept ;
+    skos:altLabel "Arnsburg"@en,
+        "Arnsburg"@fr,
+        "Arnsburg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012488> ;
+    skos:hiddenLabel "yRGKArch02 - GeschArnsburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arnsburg"@de .
+

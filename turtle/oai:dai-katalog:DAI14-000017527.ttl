@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017527> a skos:Concept ;
+    skos:altLabel "Adductions d'eau"@fr,
+        "Watercarriers"@en,
+        "Wodociagi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017521> ;
+    skos:hiddenLabel "yRGKArch11 - BefunBauweWasseWasse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wasserleitungen"@de .
+

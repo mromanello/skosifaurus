@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046960> a skos:Concept ;
+    skos:altLabel "Commondale Mill"@en,
+        "Commondale Mill"@fr,
+        "Commondale Mill"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077714> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaYorksCommondal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Commondale Mill"@de .
+

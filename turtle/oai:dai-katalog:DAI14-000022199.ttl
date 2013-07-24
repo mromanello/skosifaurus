@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022199> a skos:Concept ;
+    skos:altLabel "Philippe <France, Roi, IV.>"@en,
+        "Philippe <France, Roi, IV.>"@fr,
+        "Philippe <France, Roi, IV.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoPhilippe <France, Roi, IV.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Philippe <France, Roi, IV.>"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057207> a skos:Concept ;
+    skos:altLabel "Ðakovo-Štrbinci"@en,
+        "Ðakovo-Štrbinci"@fr,
+        "Ðakovo-Štrbinci"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038992> ;
+    skos:hiddenLabel "zTopogEuropMitteKroatÐakovo-Št" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ðakovo-Štrbinci"@de .
+

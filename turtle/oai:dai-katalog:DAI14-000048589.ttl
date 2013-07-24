@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048589> a skos:Concept ;
+    skos:altLabel "Romney Marsh"@en,
+        "Romney Marsh"@fr,
+        "Romney Marsh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077467> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaZZ - Romney Ma" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Romney Marsh"@de .
+

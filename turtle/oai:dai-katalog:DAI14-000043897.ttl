@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043897> a skos:Concept ;
+    skos:altLabel "Angles-sur-l'Anglin"@en,
+        "Angles-sur-l'Anglin"@fr,
+        "Angles-sur-l'Anglin"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038771> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaViennAngles-su" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Angles-sur-l'Anglin"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014935> a skos:Concept ;
+    skos:altLabel "Celtisation"@fr,
+        "Celtization"@en,
+        "Latenizacja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014933> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKultuAkkulKelti" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Keltisierung"@de .
+

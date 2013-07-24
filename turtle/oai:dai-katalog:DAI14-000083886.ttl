@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000083886> a skos:Concept ;
+    skos:altLabel "Grub"@en,
+        "Grub"@fr,
+        "Grub"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075438> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerMiesbGrub" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grub"@de .
+

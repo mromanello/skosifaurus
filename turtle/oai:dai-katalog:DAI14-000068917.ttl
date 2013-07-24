@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068917> a skos:Concept ;
+    skos:altLabel "Panskoe (Krim)"@en,
+        "Panskoe (Krim)"@fr,
+        "Panskoe (Krim)"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiPanskoe (" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Panskoe (Krim)"@de .
+

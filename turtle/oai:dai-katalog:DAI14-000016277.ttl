@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016277> a skos:Concept ;
+    skos:altLabel "Cachets/sceaux"@fr,
+        "Plomby/stemple/pieczecie"@pl,
+        "Stamps/seals"@en ;
+    skos:broader <http://data.dainst.de/zenon/000016273> ;
+    skos:hiddenLabel "yRGKArch09 - HistoEpigrInschStemp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stempel/Plomben/Siegel"@de .
+

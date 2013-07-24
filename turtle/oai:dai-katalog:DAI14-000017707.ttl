@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017707> a skos:Concept ;
+    skos:altLabel "Juridiction"@fr,
+        "Jurisdiction"@en,
+        "Sadownictwo/jurysdykcja"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017701> ;
+    skos:hiddenLabel "yRGKArch11 - GeselGeselRechtRecht" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rechtsprechung"@de .
+

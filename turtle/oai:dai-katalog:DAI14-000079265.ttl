@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079265> a skos:Concept ;
+    skos:altLabel "Buis-les-Baronnies"@en,
+        "Buis-les-Baronnies"@fr,
+        "Buis-les-Baronnies"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038802> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveDrômeBuis-les-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Buis-les-Baronnies"@de .
+

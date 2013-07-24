@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000024781> a skos:Concept ;
+    skos:altLabel "Mopsuhestia"@en,
+        "Mopsuhestia"@fr,
+        "Mopsuhestia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016301> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPrägeMopsuhestia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mopsuhestia"@de .
+

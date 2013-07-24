@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044863> a skos:Concept ;
+    skos:altLabel "Queyras"@en,
+        "Queyras"@fr,
+        "Queyras"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038798> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveHauteQueyras" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Queyras"@de .
+

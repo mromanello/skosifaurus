@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031396> a skos:Concept ;
+    skos:altLabel "Delporte, Henri Julien"@en,
+        "Delporte, Henri Julien"@fr,
+        "Delporte, Henri Julien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliDelporte, Henri Julien" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Delporte, Henri Julien"@de .
+

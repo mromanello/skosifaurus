@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008551> a skos:Concept ;
+    skos:altLabel "Hartley, Brian Rodgerson"@en,
+        "Hartley, Brian Rodgerson"@fr,
+        "Hartley, Brian Rodgerson"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHartley, Brian Rodgerson" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hartley, Brian Rodgerson"@de .
+

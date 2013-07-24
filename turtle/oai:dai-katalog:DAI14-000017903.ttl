@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017903> a skos:Concept ;
+    skos:altLabel "Exploitation methods"@en,
+        "Metody/techniki wydobywania"@pl,
+        "Méthodes d'exploitation"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000017899> ;
+    skos:hiddenLabel "yRGKArch11 - WirtsHandwAbbauAbbau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Abbaumethoden/Gewinnungstechniken"@de .
+

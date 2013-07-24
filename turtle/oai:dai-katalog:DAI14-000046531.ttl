@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046531> a skos:Concept ;
+    skos:altLabel "Vallée de la Cèze"@en,
+        "Vallée de la Cèze"@fr,
+        "Vallée de la Cèze"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038832> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguZZ--RVallée de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vallée de la Cèze"@de .
+

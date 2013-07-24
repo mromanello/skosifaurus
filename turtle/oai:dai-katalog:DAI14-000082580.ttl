@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082580> a skos:Concept ;
+    skos:altLabel "Lichenau-Dalheim"@en,
+        "Lichenau-Dalheim"@fr,
+        "Lichenau-Dalheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038892> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrPaderLichenau-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lichenau-Dalheim"@de .
+

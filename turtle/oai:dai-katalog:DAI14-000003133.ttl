@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003133> a skos:Concept ;
+    skos:altLabel "di piombo"@it,
+        "lead coffins"@en,
+        "sarcophages de plomb"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003092> ;
+    skos:hiddenLabel "xSarkBlei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bleisarkophage"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069593> a skos:Concept ;
+    skos:altLabel "Santa Maria di Rezzonico"@en,
+        "Santa Maria di Rezzonico"@fr,
+        "Santa Maria di Rezzonico"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039147> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLombaComoSanta Mar" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Santa Maria di Rezzonico"@de .
+

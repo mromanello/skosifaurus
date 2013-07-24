@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048192> a skos:Concept ;
+    skos:altLabel "Storeton"@en,
+        "Storeton"@fr,
+        "Storeton"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077681> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossEnglaCheshStoreton" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Storeton"@de .
+

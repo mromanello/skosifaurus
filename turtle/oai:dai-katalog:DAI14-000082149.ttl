@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082149> a skos:Concept ;
+    skos:altLabel "Iernut-Sfântu Gheorghe, jud. Mureş"@en,
+        "Iernut-Sfântu Gheorghe, jud. Mureş"@fr,
+        "Iernut-Sfântu Gheorghe, jud. Mureş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatIernut-Sf" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iernut-Sfântu Gheorghe, jud. Mureş"@de .
+

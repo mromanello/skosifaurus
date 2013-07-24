@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012241> a skos:Concept ;
+    skos:altLabel "Hildebrand, D. G. H."@en,
+        "Hildebrand, D. G. H."@fr,
+        "Hildebrand, D. G. H."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHildebrand, D. G. H." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hildebrand, D. G. H."@de .
+

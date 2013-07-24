@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042263> a skos:Concept ;
+    skos:altLabel "Bury, Saint-Claude"@en,
+        "Bury, Saint-Claude"@fr,
+        "Bury, Saint-Claude"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038729> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dOiseBury, Sai" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bury, Saint-Claude"@de .
+

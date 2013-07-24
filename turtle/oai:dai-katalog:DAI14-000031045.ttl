@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031045> a skos:Concept ;
+    skos:altLabel "Atelier Amphora, Lugano 1992"@en,
+        "Atelier Amphora, Lugano 1992"@fr,
+        "Atelier Amphora, Lugano 1992"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019629> ;
+    skos:hiddenLabel "yRGKMusKunstAuktiAtelier Amphora, Lugano 1992" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Atelier Amphora, Lugano 1992"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032015> a skos:Concept ;
+    skos:altLabel "Weisgerber, Gerd"@en,
+        "Weisgerber, Gerd"@fr,
+        "Weisgerber, Gerd"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliWeisgerber, Gerd" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Weisgerber, Gerd"@de .
+

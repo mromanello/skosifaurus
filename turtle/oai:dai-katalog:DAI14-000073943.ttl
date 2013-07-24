@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073943> a skos:Concept ;
+    skos:altLabel "Alcudia"@en,
+        "Alcudia"@fr,
+        "Alcudia"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039364> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniIslasMalloAlcudia" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alcudia"@de .
+

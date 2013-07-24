@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006140> a skos:Concept ;
+    skos:altLabel "Böhme, Horst Wolfgang"@en,
+        "Böhme, Horst Wolfgang"@fr,
+        "Böhme, Horst Wolfgang"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBöhme, Horst Wolfgang" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Böhme, Horst Wolfgang"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020830> a skos:Concept ;
+    skos:altLabel "Środkowopolska grupa kultury łużyckiej"@en,
+        "Środkowopolska grupa kultury łużyckiej"@fr,
+        "Środkowopolska grupa kultury łużyckiej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Środkowopolska grupa kultury łużyckiej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Środkowopolska grupa kultury łużyckiej"@de .
+

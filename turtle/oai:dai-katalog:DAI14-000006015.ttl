@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006015> a skos:Concept ;
+    skos:altLabel "Alt, Albrecht"@en,
+        "Alt, Albrecht"@fr,
+        "Alt, Albrecht"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsAlt, Albrecht" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alt, Albrecht"@de .
+

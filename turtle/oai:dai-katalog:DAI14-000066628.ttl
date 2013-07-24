@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066628> a skos:Concept ;
+    skos:altLabel "Dezmir, jud. Cluj"@en,
+        "Dezmir, jud. Cluj"@fr,
+        "Dezmir, jud. Cluj"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatDezmir, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dezmir, jud. Cluj"@de .
+

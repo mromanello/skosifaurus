@@ -1,0 +1,16 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002364_Sistan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002364> ;
+    skos:prefLabel "Sistan" .
+
+<http://data.dainst.de/zenon/000002364> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002363> ;
+    skos:hiddenLabel "xTopLandAfgGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

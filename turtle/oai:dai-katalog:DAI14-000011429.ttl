@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000011429> a skos:Concept ;
+    skos:altLabel "Millingen, Julius Michael"@en,
+        "Millingen, Julius Michael"@fr,
+        "Millingen, Julius Michael"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoMillingen, Julius Michael" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Millingen, Julius Michael"@de .
+

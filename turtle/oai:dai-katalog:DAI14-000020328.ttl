@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020328> a skos:Concept ;
+    skos:altLabel "Kostenki-Avdeevo"@en,
+        "Kostenki-Avdeevo"@fr,
+        "Kostenki-Avdeevo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Kostenki-Avdeevo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kostenki-Avdeevo"@de .
+

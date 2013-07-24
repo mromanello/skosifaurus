@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028881> a skos:Concept ;
+    skos:altLabel "Roma, Museo Gregoriano Profano ex Laterano"@en,
+        "Roma, Museo Gregoriano Profano ex Laterano"@fr,
+        "Roma, Museo Gregoriano Profano ex Laterano"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuRoma, Museo Gregoriano Profano ex Laterano" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roma, Museo Gregoriano Profano ex Laterano"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050639> a skos:Concept ;
+    skos:altLabel "Stuttgart-Möhringen"@en,
+        "Stuttgart-Möhringen"@fr,
+        "Stuttgart-Möhringen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075363> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenStuttStuttgart" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Stuttgart-Möhringen"@de .
+

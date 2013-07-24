@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059789> a skos:Concept ;
+    skos:altLabel "Pyzdry"@en,
+        "Pyzdry"@fr,
+        "Pyzdry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039016> ;
+    skos:hiddenLabel "zTopogEuropMittePolenWielkWielkPyzdry" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pyzdry"@de .
+

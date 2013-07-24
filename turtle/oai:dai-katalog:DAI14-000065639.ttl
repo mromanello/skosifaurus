@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065639> a skos:Concept ;
+    skos:altLabel "Radość Kamieniecka"@en,
+        "Radość Kamieniecka"@fr,
+        "Radość Kamieniecka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarRadość Ka" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Radość Kamieniecka"@de .
+

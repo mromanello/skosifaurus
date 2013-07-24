@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045869> a skos:Concept ;
+    skos:altLabel "Brassempouy"@en,
+        "Brassempouy"@fr,
+        "Brassempouy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038818> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitLandeBrassempo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brassempouy"@de .
+

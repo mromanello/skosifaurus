@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000017160> a skos:Concept ;
+    skos:altLabel "Tituli"@en,
+        "Tituli"@fr,
+        "Tytuly/podpisy przedstawien"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000017149> ;
+    skos:hiddenLabel "yRGKArch10 - HistoEpigrInschTitul" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tituli/Bildbeischriften"@de .
+

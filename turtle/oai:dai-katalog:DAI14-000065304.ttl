@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065304> a skos:Concept ;
+    skos:altLabel "Bánhalom"@en,
+        "Bánhalom"@fr,
+        "Bánhalom"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039087> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunJász-Bánhalom" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bánhalom"@de .
+

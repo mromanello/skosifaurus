@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082533> a skos:Concept ;
+    skos:altLabel "Borken-Südwest"@en,
+        "Borken-Südwest"@fr,
+        "Borken-Südwest"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075628> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNordrBorkeBorken-Sü" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borken-Südwest"@de .
+

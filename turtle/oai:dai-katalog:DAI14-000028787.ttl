@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028787> a skos:Concept ;
+    skos:altLabel "Princeton, University Art Museum"@en,
+        "Princeton, University Art Museum"@fr,
+        "Princeton, University Art Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuPrinceton, University Art Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Princeton, University Art Museum"@de .
+

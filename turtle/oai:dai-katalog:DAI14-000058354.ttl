@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058354> a skos:Concept ;
+    skos:altLabel "Bad Waltersdorf, VB Hartberg"@en,
+        "Bad Waltersdorf, VB Hartberg"@fr,
+        "Bad Waltersdorf, VB Hartberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieBad Walte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Waltersdorf, VB Hartberg"@de .
+

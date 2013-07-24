@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029330> a skos:Concept ;
+    skos:altLabel "Zug, Kantonales Museum für Urgeschichte"@en,
+        "Zug, Kantonales Museum für Urgeschichte"@fr,
+        "Zug, Kantonales Museum für Urgeschichte"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuZug, Kantonales Museum für Urgeschichte" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zug, Kantonales Museum für Urgeschichte"@de .
+

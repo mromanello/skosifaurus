@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069060> a skos:Concept ;
+    skos:altLabel "Veliko Znamenka"@en,
+        "Veliko Znamenka"@fr,
+        "Veliko Znamenka"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039138> ;
+    skos:hiddenLabel "zTopogEuropOsteuUkraiVeliko Zn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Veliko Znamenka"@de .
+

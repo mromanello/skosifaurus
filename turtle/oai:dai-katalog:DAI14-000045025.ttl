@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045025> a skos:Concept ;
+    skos:altLabel "Montmajour"@en,
+        "Montmajour"@fr,
+        "Montmajour"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038801> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveBouchMontmajou" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Montmajour"@de .
+

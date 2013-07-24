@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057009> a skos:Concept ;
+    skos:altLabel "Bad Langensalza"@en,
+        "Bad Langensalza"@fr,
+        "Bad Langensalza"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075617> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriUnstrBad Lange" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bad Langensalza"@de .
+

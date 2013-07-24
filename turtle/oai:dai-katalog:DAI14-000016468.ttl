@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016468> a skos:Concept ;
+    skos:altLabel "Brooches type Almgren VI"@en,
+        "Fibule z podwinieta nózka (Almgren VI)"@pl,
+        "Fibules Almgren VI"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000016463> ;
+    skos:hiddenLabel "yRGKArch10 - FundeKleidFibelFibel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fibeln mit umgeschlagenem Fuss"@de .
+

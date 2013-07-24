@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004435> a skos:Concept ;
+    skos:altLabel "en général (jusqu'à 1997)"@fr,
+        "in general (untill 1997)"@en,
+        "in genere (fino a 1997)"@it ;
+    skos:broader <http://data.dainst.de/zenon/000004434> ;
+    skos:hiddenLabel "xKretPhilAllg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "allgemein (bis 1997)"@de .
+

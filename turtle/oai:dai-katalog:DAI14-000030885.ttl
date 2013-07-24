@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030885> a skos:Concept ;
+    skos:altLabel "Hessen, Archäologische Gesellschaft in Hessen e.V."@en,
+        "Hessen, Archäologische Gesellschaft in Hessen e.V."@fr,
+        "Hessen, Archäologische Gesellschaft in Hessen e.V."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiHessen, Archäologische Gesellschaft in Hessen e.V." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hessen, Archäologische Gesellschaft in Hessen e.V."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029544> a skos:Concept ;
+    skos:altLabel "Kaliningrad, Prussia-Muzeum"@en,
+        "Kaliningrad, Prussia-Muzeum"@fr,
+        "Kaliningrad, Prussia-Muzeum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuKaliningrad, Prussia-Muzeum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaliningrad, Prussia-Muzeum"@de .
+

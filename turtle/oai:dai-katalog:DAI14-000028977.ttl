@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028977> a skos:Concept ;
+    skos:altLabel "Sebeş, Muzeul Municipal \"Ion Raica\""@en,
+        "Sebeş, Muzeul Municipal \"Ion Raica\""@fr,
+        "Sebeş, Muzeul Municipal \"Ion Raica\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSebeş, Muzeul Municipal \"Ion Raica\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sebeş, Muzeul Municipal \"Ion Raica\""@de .
+

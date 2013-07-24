@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073878> a skos:Concept ;
+    skos:altLabel "El Amarejo"@en,
+        "El Amarejo"@fr,
+        "El Amarejo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039360> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniMurciAlbacEl Amarej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "El Amarejo"@de .
+

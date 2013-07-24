@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050115> a skos:Concept ;
+    skos:altLabel "Freiburg im Breisgau"@en,
+        "Freiburg im Breisgau"@fr,
+        "Freiburg im Breisgau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075337> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenFreibFreiburg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Freiburg im Breisgau"@de .
+

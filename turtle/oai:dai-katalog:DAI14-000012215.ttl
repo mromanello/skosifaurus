@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012215> a skos:Concept ;
+    skos:altLabel "Historischer Verein für Mittelbaden"@en,
+        "Historischer Verein für Mittelbaden"@fr,
+        "Historischer Verein für Mittelbaden"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiHistorischer Verein für Mittelbaden" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Historischer Verein für Mittelbaden"@de .
+

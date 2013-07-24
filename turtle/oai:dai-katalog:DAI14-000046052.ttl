@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046052> a skos:Concept ;
+    skos:altLabel "Bruniquel-Abri Gandil"@en,
+        "Bruniquel-Abri Gandil"@fr,
+        "Bruniquel-Abri Gandil"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038824> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitTarn-Bruniquel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bruniquel-Abri Gandil"@de .
+

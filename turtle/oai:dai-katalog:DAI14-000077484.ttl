@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077484> a skos:Concept ;
+    skos:altLabel "Volkovysk, obl. Grodna"@en,
+        "Volkovysk, obl. Grodna"@fr,
+        "Volkovysk, obl. Grodna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039094> ;
+    skos:hiddenLabel "zTopogEuropOsteuBelarVolkovysk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Volkovysk, obl. Grodna"@de .
+

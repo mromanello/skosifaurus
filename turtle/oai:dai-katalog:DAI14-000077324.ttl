@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000077324> a skos:Concept ;
+    skos:altLabel "Arona"@en,
+        "Arona"@fr,
+        "Arona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039161> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoNovarArona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arona"@de .
+

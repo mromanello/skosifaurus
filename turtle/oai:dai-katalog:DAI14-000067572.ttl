@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000067572> a skos:Concept ;
+    skos:altLabel "Pleşa, jud. Galaţi"@en,
+        "Pleşa, jud. Galaţi"@fr,
+        "Pleşa, jud. Galaţi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039135> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänMoldoPleşa, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pleşa, jud. Galaţi"@de .
+

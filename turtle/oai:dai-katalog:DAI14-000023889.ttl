@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023889> a skos:Concept ;
+    skos:altLabel "Iupiter Teutanus"@en,
+        "Iupiter Teutanus"@fr,
+        "Iupiter Teutanus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000015937> ;
+    skos:hiddenLabel "yRGKArch09 - GeselReligGötteIupiter Teutanus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Iupiter Teutanus"@de .
+

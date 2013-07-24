@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029015> a skos:Concept ;
+    skos:altLabel "Soria, Museo Numantino"@en,
+        "Soria, Museo Numantino"@fr,
+        "Soria, Museo Numantino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuSoria, Museo Numantino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Soria, Museo Numantino"@de .
+

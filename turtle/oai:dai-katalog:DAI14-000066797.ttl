@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066797> a skos:Concept ;
+    skos:altLabel "Păuleni, jud. Harghita"@en,
+        "Păuleni, jud. Harghita"@fr,
+        "Păuleni, jud. Harghita"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatPăuleni," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Păuleni, jud. Harghita"@de .
+

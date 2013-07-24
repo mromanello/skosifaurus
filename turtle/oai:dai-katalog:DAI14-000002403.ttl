@@ -1,0 +1,1524 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002403_Abonae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Abonae" .
+
+<http://data.dainst.de/zenon/000002403_Alcester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Alcester" .
+
+<http://data.dainst.de/zenon/000002403_Alchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Alchester" .
+
+<http://data.dainst.de/zenon/000002403_Aldwincle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Aldwincle" .
+
+<http://data.dainst.de/zenon/000002403_Ancaster> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ancaster" .
+
+<http://data.dainst.de/zenon/000002403_Anderita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Anderita" .
+
+<http://data.dainst.de/zenon/000002403_Ardoch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ardoch" .
+
+<http://data.dainst.de/zenon/000002403_Ash> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ash" .
+
+<http://data.dainst.de/zenon/000002403_Ashford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ashford" .
+
+<http://data.dainst.de/zenon/000002403_Ashville> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ashville" .
+
+<http://data.dainst.de/zenon/000002403_Auchendavy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Auchendavy" .
+
+<http://data.dainst.de/zenon/000002403_Baginton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Baginton" .
+
+<http://data.dainst.de/zenon/000002403_Baldock> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Baldock" .
+
+<http://data.dainst.de/zenon/000002403_Bannaventa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bannaventa" .
+
+<http://data.dainst.de/zenon/000002403_BarHill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bar Hill" .
+
+<http://data.dainst.de/zenon/000002403_BarburghMill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Barburgh Mill" .
+
+<http://data.dainst.de/zenon/000002403_BarnsleyPark> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Barnsley Park" .
+
+<http://data.dainst.de/zenon/000002403_BarochanHill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Barochan Hill" .
+
+<http://data.dainst.de/zenon/000002403_Barry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Barry" .
+
+<http://data.dainst.de/zenon/000002403_Bath> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bath" .
+
+<http://data.dainst.de/zenon/000002403_Baylham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Baylham" .
+
+<http://data.dainst.de/zenon/000002403_Bearsden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bearsden" .
+
+<http://data.dainst.de/zenon/000002403_BeattockSummit> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Beattock Summit" .
+
+<http://data.dainst.de/zenon/000002403_BeauportPark> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Beauport Park" .
+
+<http://data.dainst.de/zenon/000002403_Beddingham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Beddingham" .
+
+<http://data.dainst.de/zenon/000002403_Bekesbourne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bekesbourne" .
+
+<http://data.dainst.de/zenon/000002403_Bewcastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bewcastle" .
+
+<http://data.dainst.de/zenon/000002403_Biddlesden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Biddlesden" .
+
+<http://data.dainst.de/zenon/000002403_Bigberry> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bigberry" .
+
+<http://data.dainst.de/zenon/000002403_Biglands> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Biglands" .
+
+<http://data.dainst.de/zenon/000002403_Bignor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bignor" .
+
+<http://data.dainst.de/zenon/000002403_Binchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Binchester" .
+
+<http://data.dainst.de/zenon/000002403_Birdoswald> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Birdoswald" .
+
+<http://data.dainst.de/zenon/000002403_Bishopstone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bishopstone" .
+
+<http://data.dainst.de/zenon/000002403_Bitterne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bitterne" .
+
+<http://data.dainst.de/zenon/000002403_Blaxton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Blaxton" .
+
+<http://data.dainst.de/zenon/000002403_Bletsoe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bletsoe" .
+
+<http://data.dainst.de/zenon/000002403_Bothwellhaugh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bothwellhaugh" .
+
+<http://data.dainst.de/zenon/000002403_Bovium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bovium" .
+
+<http://data.dainst.de/zenon/000002403_BownessonSolway> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bowness on Solway" .
+
+<http://data.dainst.de/zenon/000002403_Boxmoor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Boxmoor" .
+
+<http://data.dainst.de/zenon/000002403_Bradwell> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bradwell" .
+
+<http://data.dainst.de/zenon/000002403_Brampton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brampton" .
+
+<http://data.dainst.de/zenon/000002403_BrandonCamp> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brandon Camp" .
+
+<http://data.dainst.de/zenon/000002403_Brantingham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brantingham" .
+
+<http://data.dainst.de/zenon/000002403_Braughing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Braughing" .
+
+<http://data.dainst.de/zenon/000002403_BreanDown> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brean Down" .
+
+<http://data.dainst.de/zenon/000002403_Brigstock> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brigstock" .
+
+<http://data.dainst.de/zenon/000002403_Brithdir> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brithdir" .
+
+<http://data.dainst.de/zenon/000002403_Brixworth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brixworth" .
+
+<http://data.dainst.de/zenon/000002403_Brockworth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brockworth" .
+
+<http://data.dainst.de/zenon/000002403_Brough-on-Humbervedi:Petuaria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brough-on-Humber vedi: Petuaria" .
+
+<http://data.dainst.de/zenon/000002403_Brough-on-Noe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brough-on-Noe" .
+
+<http://data.dainst.de/zenon/000002403_Brougham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Brougham" .
+
+<http://data.dainst.de/zenon/000002403_Bruton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bruton" .
+
+<http://data.dainst.de/zenon/000002403_BullockDown> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bullock Down" .
+
+<http://data.dainst.de/zenon/000002403_BurghCastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Burgh Castle" .
+
+<http://data.dainst.de/zenon/000002403_Burham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Burham" .
+
+<http://data.dainst.de/zenon/000002403_Burnswark> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Burnswark" .
+
+<http://data.dainst.de/zenon/000002403_BuryBarton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Bury Barton" .
+
+<http://data.dainst.de/zenon/000002403_Buttercrambe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Buttercrambe" .
+
+<http://data.dainst.de/zenon/000002403_Caerleon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Caerleon" .
+
+<http://data.dainst.de/zenon/000002403_Caernarfon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Caernarfon" .
+
+<http://data.dainst.de/zenon/000002403_Caerwentvedi:VentaSilurum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Caerwent vedi: Venta Silurum" .
+
+<http://data.dainst.de/zenon/000002403_Caistor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Caistor" .
+
+<http://data.dainst.de/zenon/000002403_Caistor-by-Norwichvedi:VentaIcenorum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Caistor-by-Norwich vedi: Venta Icenorum" .
+
+<http://data.dainst.de/zenon/000002403_Calleva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Calleva" .
+
+<http://data.dainst.de/zenon/000002403_Camelon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Camelon" .
+
+<http://data.dainst.de/zenon/000002403_Camerton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Camerton" .
+
+<http://data.dainst.de/zenon/000002403_Cannington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cannington" .
+
+<http://data.dainst.de/zenon/000002403_Canterbury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Canterbury" .
+
+<http://data.dainst.de/zenon/000002403_Cardean> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cardean" .
+
+<http://data.dainst.de/zenon/000002403_Cardiff> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cardiff" .
+
+<http://data.dainst.de/zenon/000002403_Carlisle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Carlisle" .
+
+<http://data.dainst.de/zenon/000002403_Carmarthen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Carmarthen" .
+
+<http://data.dainst.de/zenon/000002403_Carpow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Carpow" .
+
+<http://data.dainst.de/zenon/000002403_Carrawburgh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Carrawburgh" .
+
+<http://data.dainst.de/zenon/000002403_Carsington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Carsington" .
+
+<http://data.dainst.de/zenon/000002403_CastleNick> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Castle Nick" .
+
+<http://data.dainst.de/zenon/000002403_Castledykes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Castledykes" .
+
+<http://data.dainst.de/zenon/000002403_Castleford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Castleford" .
+
+<http://data.dainst.de/zenon/000002403_Catsgore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Catsgore" .
+
+<http://data.dainst.de/zenon/000002403_Catterick> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Catterick" .
+
+<http://data.dainst.de/zenon/000002403_Cawthorn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cawthorn" .
+
+<http://data.dainst.de/zenon/000002403_CerneAbbas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cerne Abbas" .
+
+<http://data.dainst.de/zenon/000002403_Chalk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chalk" .
+
+<http://data.dainst.de/zenon/000002403_Chalton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chalton" .
+
+<http://data.dainst.de/zenon/000002403_Chanctonbury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chanctonbury" .
+
+<http://data.dainst.de/zenon/000002403_Charing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Charing" .
+
+<http://data.dainst.de/zenon/000002403_Charterhouse> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Charterhouse" .
+
+<http://data.dainst.de/zenon/000002403_Chatham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chatham" .
+
+<http://data.dainst.de/zenon/000002403_Chedworth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chedworth" .
+
+<http://data.dainst.de/zenon/000002403_Chelmsford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chelmsford" .
+
+<http://data.dainst.de/zenon/000002403_Chepstow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chepstow" .
+
+<http://data.dainst.de/zenon/000002403_CherryHinton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cherry Hinton" .
+
+<http://data.dainst.de/zenon/000002403_Chester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chester" .
+
+<http://data.dainst.de/zenon/000002403_Chesters> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chesters" .
+
+<http://data.dainst.de/zenon/000002403_Chesterton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chesterton" .
+
+<http://data.dainst.de/zenon/000002403_ChewValleyLake> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chew Valley Lake" .
+
+<http://data.dainst.de/zenon/000002403_Chichester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chichester" .
+
+<http://data.dainst.de/zenon/000002403_Chilgrove> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Chilgrove" .
+
+<http://data.dainst.de/zenon/000002403_Cirencester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cirencester" .
+
+<http://data.dainst.de/zenon/000002403_Clausentumvedi:Bitterne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Clausentum vedi: Bitterne" .
+
+<http://data.dainst.de/zenon/000002403_Cobham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cobham" .
+
+<http://data.dainst.de/zenon/000002403_Coccium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Coccium" .
+
+<http://data.dainst.de/zenon/000002403_Colchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Colchester" .
+
+<http://data.dainst.de/zenon/000002403_ColwynCastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Colwyn Castle" .
+
+<http://data.dainst.de/zenon/000002403_ComptonBassett> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Compton Bassett" .
+
+<http://data.dainst.de/zenon/000002403_Corbridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Corbridge" .
+
+<http://data.dainst.de/zenon/000002403_Cotterstock> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cotterstock" .
+
+<http://data.dainst.de/zenon/000002403_Cowbridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cowbridge" .
+
+<http://data.dainst.de/zenon/000002403_Crambeck> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Crambeck" .
+
+<http://data.dainst.de/zenon/000002403_Cramond> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cramond" .
+
+<http://data.dainst.de/zenon/000002403_Cranbrook> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cranbrook" .
+
+<http://data.dainst.de/zenon/000002403_CrandonBridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Crandon Bridge" .
+
+<http://data.dainst.de/zenon/000002403_CroyHill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Croy Hill" .
+
+<http://data.dainst.de/zenon/000002403_Cumbernauld> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cumbernauld" .
+
+<http://data.dainst.de/zenon/000002403_Cunetio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Cunetio" .
+
+<http://data.dainst.de/zenon/000002403_DaltonParlours> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dalton Parlours" .
+
+<http://data.dainst.de/zenon/000002403_Danebury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Danebury" .
+
+<http://data.dainst.de/zenon/000002403_Darenth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Darenth" .
+
+<http://data.dainst.de/zenon/000002403_Dartford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dartford" .
+
+<http://data.dainst.de/zenon/000002403_Ditches> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ditches" .
+
+<http://data.dainst.de/zenon/000002403_Dolaucothi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dolaucothi" .
+
+<http://data.dainst.de/zenon/000002403_Doncaster> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Doncaster" .
+
+<http://data.dainst.de/zenon/000002403_Dorchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dorchester" .
+
+<http://data.dainst.de/zenon/000002403_Doune> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Doune" .
+
+<http://data.dainst.de/zenon/000002403_Dover> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dover" .
+
+<http://data.dainst.de/zenon/000002403_Droitwich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Droitwich" .
+
+<http://data.dainst.de/zenon/000002403_Drumquhassle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Drumquhassle" .
+
+<http://data.dainst.de/zenon/000002403_Dunning> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Dunning" .
+
+<http://data.dainst.de/zenon/000002403_Duntocher> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Duntocher" .
+
+<http://data.dainst.de/zenon/000002403_Durno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Durno" .
+
+<http://data.dainst.de/zenon/000002403_Durobrivaevedi:Chesterton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Durobrivae vedi: Chesterton" .
+
+<http://data.dainst.de/zenon/000002403_Durocornovium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Durocornovium" .
+
+<http://data.dainst.de/zenon/000002403_DurovernumCantiacorumvedi:Canterbury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Durovernum Cantiacorum vedi: Canterbury" .
+
+<http://data.dainst.de/zenon/000002403_Eccles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Eccles" .
+
+<http://data.dainst.de/zenon/000002403_Elginhaugh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Elginhaugh" .
+
+<http://data.dainst.de/zenon/000002403_Exeter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Exeter" .
+
+<http://data.dainst.de/zenon/000002403_Fairford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Fairford" .
+
+<http://data.dainst.de/zenon/000002403_Farningham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Farningham" .
+
+<http://data.dainst.de/zenon/000002403_Farnsfield> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Farnsfield" .
+
+<http://data.dainst.de/zenon/000002403_Faversham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Faversham" .
+
+<http://data.dainst.de/zenon/000002403_FawleyMount> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Fawley Mount" .
+
+<http://data.dainst.de/zenon/000002403_Filey> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Filey" .
+
+<http://data.dainst.de/zenon/000002403_Fishbourne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Fishbourne" .
+
+<http://data.dainst.de/zenon/000002403_Flint> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Flint" .
+
+<http://data.dainst.de/zenon/000002403_Folkestone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Folkestone" .
+
+<http://data.dainst.de/zenon/000002403_Frampton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Frampton" .
+
+<http://data.dainst.de/zenon/000002403_Frilford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Frilford" .
+
+<http://data.dainst.de/zenon/000002403_Frocester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Frocester" .
+
+<http://data.dainst.de/zenon/000002403_Funtington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Funtington" .
+
+<http://data.dainst.de/zenon/000002403_FuntonMarsh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Funton Marsh" .
+
+<http://data.dainst.de/zenon/000002403_Gadebridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gadebridge" .
+
+<http://data.dainst.de/zenon/000002403_GardenHill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Garden Hill" .
+
+<http://data.dainst.de/zenon/000002403_Gatcombe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gatcombe" .
+
+<http://data.dainst.de/zenon/000002403_GatehouseofFleet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gatehouse of Fleet" .
+
+<http://data.dainst.de/zenon/000002403_Geeston> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Geeston" .
+
+<http://data.dainst.de/zenon/000002403_Gelligaer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gelligaer" .
+
+<http://data.dainst.de/zenon/000002403_Girvan> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Girvan" .
+
+<http://data.dainst.de/zenon/000002403_Gloucester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gloucester" .
+
+<http://data.dainst.de/zenon/000002403_Godmanchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Godmanchester" .
+
+<http://data.dainst.de/zenon/000002403_Goldcliff> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Goldcliff" .
+
+<http://data.dainst.de/zenon/000002403_Gorhambury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gorhambury" .
+
+<http://data.dainst.de/zenon/000002403_Gosbecks> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Gosbecks" .
+
+<http://data.dainst.de/zenon/000002403_Grandford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Grandford" .
+
+<http://data.dainst.de/zenon/000002403_GreatBedwyn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Great Bedwyn" .
+
+<http://data.dainst.de/zenon/000002403_GreatCasterton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Great Casterton" .
+
+<http://data.dainst.de/zenon/000002403_GreatChesterford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Great Chesterford" .
+
+<http://data.dainst.de/zenon/000002403_GreatMongeham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Great Mongeham" .
+
+<http://data.dainst.de/zenon/000002403_GreatWitcombe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Great Witcombe" .
+
+<http://data.dainst.de/zenon/000002403_Greensforge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Greensforge" .
+
+<http://data.dainst.de/zenon/000002403_Greenwich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Greenwich" .
+
+<http://data.dainst.de/zenon/000002403_GretaBridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Greta Bridge" .
+
+<http://data.dainst.de/zenon/000002403_Grimthorpe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Grimthorpe" .
+
+<http://data.dainst.de/zenon/000002403_Haltonchesters> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Haltonchesters" .
+
+<http://data.dainst.de/zenon/000002403_HaltwhistleBurn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Haltwhistle Burn" .
+
+<http://data.dainst.de/zenon/000002403_Hambleden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hambleden" .
+
+<http://data.dainst.de/zenon/000002403_Hammill> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hammill" .
+
+<http://data.dainst.de/zenon/000002403_HardknotCastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hardknot Castle" .
+
+<http://data.dainst.de/zenon/000002403_Harlow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Harlow" .
+
+<http://data.dainst.de/zenon/000002403_Hartfield> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hartfield" .
+
+<http://data.dainst.de/zenon/000002403_HaylingIsland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hayling Island" .
+
+<http://data.dainst.de/zenon/000002403_Hayton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hayton" .
+
+<http://data.dainst.de/zenon/000002403_Hembury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hembury" .
+
+<http://data.dainst.de/zenon/000002403_HemelHempstead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hemel Hempstead" .
+
+<http://data.dainst.de/zenon/000002403_HengistburyHead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hengistbury Head" .
+
+<http://data.dainst.de/zenon/000002403_Heybridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Heybridge" .
+
+<http://data.dainst.de/zenon/000002403_Heysham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Heysham" .
+
+<http://data.dainst.de/zenon/000002403_Higham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Higham" .
+
+<http://data.dainst.de/zenon/000002403_HintonSt.Mary> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Hinton St. Mary" .
+
+<http://data.dainst.de/zenon/000002403_Holcombe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Holcombe" .
+
+<http://data.dainst.de/zenon/000002403_IdenGreen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Iden Green" .
+
+<http://data.dainst.de/zenon/000002403_Iktis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Iktis" .
+
+<http://data.dainst.de/zenon/000002403_Ilchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ilchester" .
+
+<http://data.dainst.de/zenon/000002403_Inchtuthil> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Inchtuthil" .
+
+<http://data.dainst.de/zenon/000002403_Inveresk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Inveresk" .
+
+<http://data.dainst.de/zenon/000002403_IscaSilurumvedi:Caerleon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Isca Silurum vedi: Caerleon" .
+
+<http://data.dainst.de/zenon/000002403_IsleofWight> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Isle of Wight" .
+
+<http://data.dainst.de/zenon/000002403_IsuriumBrigantum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Isurium Brigantum" .
+
+<http://data.dainst.de/zenon/000002403_Itchingfield> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Itchingfield" .
+
+<http://data.dainst.de/zenon/000002403_Keston> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Keston" .
+
+<http://data.dainst.de/zenon/000002403_Kingscote> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Kingscote" .
+
+<http://data.dainst.de/zenon/000002403_Kirmington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Kirmington" .
+
+<http://data.dainst.de/zenon/000002403_Knob'sCrook> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Knob's Crook" .
+
+<http://data.dainst.de/zenon/000002403_Lanchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lanchester" .
+
+<http://data.dainst.de/zenon/000002403_Latimer> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Latimer" .
+
+<http://data.dainst.de/zenon/000002403_Laxton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Laxton" .
+
+<http://data.dainst.de/zenon/000002403_Leicester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Leicester" .
+
+<http://data.dainst.de/zenon/000002403_Lemanis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lemanis" .
+
+<http://data.dainst.de/zenon/000002403_Letocetum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Letocetum" .
+
+<http://data.dainst.de/zenon/000002403_Lincoln> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lincoln" .
+
+<http://data.dainst.de/zenon/000002403_LittleChart> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Little Chart" .
+
+<http://data.dainst.de/zenon/000002403_LittleChester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Little Chester" .
+
+<http://data.dainst.de/zenon/000002403_Littleborough-on-Trent> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Littleborough-on-Trent" .
+
+<http://data.dainst.de/zenon/000002403_LittlecotePark> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Littlecote Park" .
+
+<http://data.dainst.de/zenon/000002403_Llandovery> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Llandovery" .
+
+<http://data.dainst.de/zenon/000002403_Llanedeyrn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Llanedeyrn" .
+
+<http://data.dainst.de/zenon/000002403_LlantwitMajor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Llantwit Major" .
+
+<http://data.dainst.de/zenon/000002403_Lockleys> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lockleys" .
+
+<http://data.dainst.de/zenon/000002403_London> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "London" .
+
+<http://data.dainst.de/zenon/000002403_LongBennington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Long Bennington" .
+
+<http://data.dainst.de/zenon/000002403_Longthorpe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Longthorpe" .
+
+<http://data.dainst.de/zenon/000002403_Loughor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Loughor" .
+
+<http://data.dainst.de/zenon/000002403_Lufton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lufton" .
+
+<http://data.dainst.de/zenon/000002403_Lullingstone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lullingstone" .
+
+<http://data.dainst.de/zenon/000002403_Lydney> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lydney" .
+
+<http://data.dainst.de/zenon/000002403_Lympnevedi:Lemanis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Lympne vedi: Lemanis" .
+
+<http://data.dainst.de/zenon/000002403_MaidenCastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Maiden Castle" .
+
+<http://data.dainst.de/zenon/000002403_Maidstone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Maidstone" .
+
+<http://data.dainst.de/zenon/000002403_Malton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Malton" .
+
+<http://data.dainst.de/zenon/000002403_Manchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Manchester" .
+
+<http://data.dainst.de/zenon/000002403_Margidunum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Margidunum" .
+
+<http://data.dainst.de/zenon/000002403_Marshfield> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Marshfield" .
+
+<http://data.dainst.de/zenon/000002403_Martinhoe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Martinhoe" .
+
+<http://data.dainst.de/zenon/000002403_Maryport> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Maryport" .
+
+<http://data.dainst.de/zenon/000002403_Meonstoke> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Meonstoke" .
+
+<http://data.dainst.de/zenon/000002403_Mildenhall> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Mildenhall" .
+
+<http://data.dainst.de/zenon/000002403_MiltonKeynes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Milton Keynes" .
+
+<http://data.dainst.de/zenon/000002403_Mollins> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Mollins" .
+
+<http://data.dainst.de/zenon/000002403_MountBatten> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Mount Batten" .
+
+<http://data.dainst.de/zenon/000002403_Mucking> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Mucking" .
+
+<http://data.dainst.de/zenon/000002403_MunthamCourt> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Muntham Court" .
+
+<http://data.dainst.de/zenon/000002403_Nanstallon> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Nanstallon" .
+
+<http://data.dainst.de/zenon/000002403_Neatham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Neatham" .
+
+<http://data.dainst.de/zenon/000002403_Netherhall> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Netherhall" .
+
+<http://data.dainst.de/zenon/000002403_Nettleton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Nettleton" .
+
+<http://data.dainst.de/zenon/000002403_NewForest> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "New Forest" .
+
+<http://data.dainst.de/zenon/000002403_NewcastleuponTyne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Newcastle upon Tyne" .
+
+<http://data.dainst.de/zenon/000002403_Newstead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Newstead" .
+
+<http://data.dainst.de/zenon/000002403_NewtonKyme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Newton Kyme" .
+
+<http://data.dainst.de/zenon/000002403_Noah'sArkInn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Noah's Ark Inn" .
+
+<http://data.dainst.de/zenon/000002403_Nornour> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Nornour" .
+
+<http://data.dainst.de/zenon/000002403_NorthHykeham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "North Hykeham" .
+
+<http://data.dainst.de/zenon/000002403_NorthLeigh> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "North Leigh" .
+
+<http://data.dainst.de/zenon/000002403_Northampton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Northampton" .
+
+<http://data.dainst.de/zenon/000002403_Northants> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Northants" .
+
+<http://data.dainst.de/zenon/000002403_Northchurch> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Northchurch" .
+
+<http://data.dainst.de/zenon/000002403_Okehampton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Okehampton" .
+
+<http://data.dainst.de/zenon/000002403_OldBurrow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Old Burrow" .
+
+<http://data.dainst.de/zenon/000002403_OldWinteringham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Old Winteringham" .
+
+<http://data.dainst.de/zenon/000002403_Orpington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Orpington" .
+
+<http://data.dainst.de/zenon/000002403_Orsett> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Orsett" .
+
+<http://data.dainst.de/zenon/000002403_Osmanthorpe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Osmanthorpe" .
+
+<http://data.dainst.de/zenon/000002403_Outerwards> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Outerwards" .
+
+<http://data.dainst.de/zenon/000002403_Ower> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ower" .
+
+<http://data.dainst.de/zenon/000002403_Owslebury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Owslebury" .
+
+<http://data.dainst.de/zenon/000002403_Oxford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Oxford" .
+
+<http://data.dainst.de/zenon/000002403_Papcastle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Papcastle" .
+
+<http://data.dainst.de/zenon/000002403_ParkStreet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Park Street" .
+
+<http://data.dainst.de/zenon/000002403_Penrith> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Penrith" .
+
+<http://data.dainst.de/zenon/000002403_Peterborough> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Peterborough" .
+
+<http://data.dainst.de/zenon/000002403_Petrianavedi:Carlisle> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Petriana vedi: Carlisle" .
+
+<http://data.dainst.de/zenon/000002403_Petuaria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Petuaria" .
+
+<http://data.dainst.de/zenon/000002403_Piercebridge> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Piercebridge" .
+
+<http://data.dainst.de/zenon/000002403_Portchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Portchester" .
+
+<http://data.dainst.de/zenon/000002403_Poundbury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Poundbury" .
+
+<http://data.dainst.de/zenon/000002403_Prestatyn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Prestatyn" .
+
+<http://data.dainst.de/zenon/000002403_Puckeridgevedi:Braughing> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Puckeridge vedi: Braughing" .
+
+<http://data.dainst.de/zenon/000002403_Pumsaint> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Pumsaint" .
+
+<http://data.dainst.de/zenon/000002403_QuarryWood> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Quarry Wood" .
+
+<http://data.dainst.de/zenon/000002403_Radfield> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Radfield" .
+
+<http://data.dainst.de/zenon/000002403_Ratcliffe-on-Soar> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ratcliffe-on-Soar" .
+
+<http://data.dainst.de/zenon/000002403_Ravenglass> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ravenglass" .
+
+<http://data.dainst.de/zenon/000002403_Reculver> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Reculver" .
+
+<http://data.dainst.de/zenon/000002403_Regulbiumvedi:Reculver> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Regulbium vedi: Reculver" .
+
+<http://data.dainst.de/zenon/000002403_Restenneth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Restenneth" .
+
+<http://data.dainst.de/zenon/000002403_Rhyn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rhyn" .
+
+<http://data.dainst.de/zenon/000002403_Ribchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ribchester" .
+
+<http://data.dainst.de/zenon/000002403_Richborough> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Richborough" .
+
+<http://data.dainst.de/zenon/000002403_Rivenhall> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rivenhall" .
+
+<http://data.dainst.de/zenon/000002403_RoallManorFarm> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Roall Manor Farm" .
+
+<http://data.dainst.de/zenon/000002403_Rochester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rochester" .
+
+<http://data.dainst.de/zenon/000002403_Roecliffe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Roecliffe" .
+
+<http://data.dainst.de/zenon/000002403_Rudchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rudchester" .
+
+<http://data.dainst.de/zenon/000002403_Rudston> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rudston" .
+
+<http://data.dainst.de/zenon/000002403_Rumney> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rumney" .
+
+<http://data.dainst.de/zenon/000002403_Rushden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Rushden" .
+
+<http://data.dainst.de/zenon/000002403_Ruthin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Ruthin" .
+
+<http://data.dainst.de/zenon/000002403_SahamToney> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Saham Toney" .
+
+<http://data.dainst.de/zenon/000002403_SaintAlbansvedi:Verulamium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Saint Albans vedi: Verulamium" .
+
+<http://data.dainst.de/zenon/000002403_SaintAsaph> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Saint Asaph" .
+
+<http://data.dainst.de/zenon/000002403_Sandwich> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Sandwich" .
+
+<http://data.dainst.de/zenon/000002403_Sandy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Sandy" .
+
+<http://data.dainst.de/zenon/000002403_ScargillMoor> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Scargill Moor" .
+
+<http://data.dainst.de/zenon/000002403_Scunthorpe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Scunthorpe" .
+
+<http://data.dainst.de/zenon/000002403_Seaton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Seaton" .
+
+<http://data.dainst.de/zenon/000002403_Sevenoaks> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Sevenoaks" .
+
+<http://data.dainst.de/zenon/000002403_Sevington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Sevington" .
+
+<http://data.dainst.de/zenon/000002403_Shakenoak> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Shakenoak" .
+
+<http://data.dainst.de/zenon/000002403_Shapwick> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Shapwick" .
+
+<http://data.dainst.de/zenon/000002403_SheptonMallet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Shepton Mallet" .
+
+<http://data.dainst.de/zenon/000002403_Silchestervedi:Calleva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Silchester vedi: Calleva" .
+
+<http://data.dainst.de/zenon/000002403_Silloth> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Silloth" .
+
+<http://data.dainst.de/zenon/000002403_Snodland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Snodland" .
+
+<http://data.dainst.de/zenon/000002403_Somerton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Somerton" .
+
+<http://data.dainst.de/zenon/000002403_SouthCadbury> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "South Cadbury" .
+
+<http://data.dainst.de/zenon/000002403_SouthShields> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "South Shields" .
+
+<http://data.dainst.de/zenon/000002403_Springhead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Springhead" .
+
+<http://data.dainst.de/zenon/000002403_Stanwick> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Stanwick" .
+
+<http://data.dainst.de/zenon/000002403_Stone-by-Faversham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Stone-by-Faversham" .
+
+<http://data.dainst.de/zenon/000002403_Stonea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Stonea" .
+
+<http://data.dainst.de/zenon/000002403_Stracathro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Stracathro" .
+
+<http://data.dainst.de/zenon/000002403_Strageath> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Strageath" .
+
+<http://data.dainst.de/zenon/000002403_Sulloniacis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Sulloniacis" .
+
+<http://data.dainst.de/zenon/000002403_Tackley> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tackley" .
+
+<http://data.dainst.de/zenon/000002403_TarrantHinton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tarrant Hinton" .
+
+<http://data.dainst.de/zenon/000002403_Templebrough> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Templebrough" .
+
+<http://data.dainst.de/zenon/000002403_Thamesmead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Thamesmead" .
+
+<http://data.dainst.de/zenon/000002403_Thanet> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Thanet" .
+
+<http://data.dainst.de/zenon/000002403_Thetford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Thetford" .
+
+<http://data.dainst.de/zenon/000002403_Thurnham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Thurnham" .
+
+<http://data.dainst.de/zenon/000002403_Tidenham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tidenham" .
+
+<http://data.dainst.de/zenon/000002403_Tilstonvedi:Bovium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tilston vedi: Bovium" .
+
+<http://data.dainst.de/zenon/000002403_TintagelIsland> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tintagel Island" .
+
+<http://data.dainst.de/zenon/000002403_Tomen-y-Mur> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Tomen-y-Mur" .
+
+<http://data.dainst.de/zenon/000002403_Trawscoed> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Trawscoed" .
+
+<http://data.dainst.de/zenon/000002403_Uley> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Uley" .
+
+<http://data.dainst.de/zenon/000002403_Upmarden> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Upmarden" .
+
+<http://data.dainst.de/zenon/000002403_Usk> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Usk" .
+
+<http://data.dainst.de/zenon/000002403_VentaBelgarumvedi:Winchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Venta Belgarum vedi: Winchester" .
+
+<http://data.dainst.de/zenon/000002403_VentaIcenorum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Venta Icenorum" .
+
+<http://data.dainst.de/zenon/000002403_VentaSilurum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Venta Silurum" .
+
+<http://data.dainst.de/zenon/000002403_Vercovicium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Vercovicium" .
+
+<http://data.dainst.de/zenon/000002403_Verulamium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Verulamium" .
+
+<http://data.dainst.de/zenon/000002403_Vindolanda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Vindolanda" .
+
+<http://data.dainst.de/zenon/000002403_ViroconiumCornoviorumvedi:Wroxeter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Viroconium Cornoviorum vedi: Wroxeter" .
+
+<http://data.dainst.de/zenon/000002403_Wakerley> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wakerley" .
+
+<http://data.dainst.de/zenon/000002403_WaleslandRath> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Walesland Rath" .
+
+<http://data.dainst.de/zenon/000002403_Wallsend> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wallsend" .
+
+<http://data.dainst.de/zenon/000002403_Wanboroughvedi:Durocornovium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wanborough vedi: Durocornovium" .
+
+<http://data.dainst.de/zenon/000002403_Warbank> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Warbank" .
+
+<http://data.dainst.de/zenon/000002403_WarrenVillas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Warren Villas" .
+
+<http://data.dainst.de/zenon/000002403_Warsop> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Warsop" .
+
+<http://data.dainst.de/zenon/000002403_Watercrook> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Watercrook" .
+
+<http://data.dainst.de/zenon/000002403_Watergate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Watergate" .
+
+<http://data.dainst.de/zenon/000002403_Weekley> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Weekley" .
+
+<http://data.dainst.de/zenon/000002403_Wellow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wellow" .
+
+<http://data.dainst.de/zenon/000002403_Welshpool> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Welshpool" .
+
+<http://data.dainst.de/zenon/000002403_Welwyn> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Welwyn" .
+
+<http://data.dainst.de/zenon/000002403_Werrington> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Werrington" .
+
+<http://data.dainst.de/zenon/000002403_Wharram> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wharram" .
+
+<http://data.dainst.de/zenon/000002403_Whitton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Whitton" .
+
+<http://data.dainst.de/zenon/000002403_Wilcote> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wilcote" .
+
+<http://data.dainst.de/zenon/000002403_Wilderness> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wilderness" .
+
+<http://data.dainst.de/zenon/000002403_Willowford> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Willowford" .
+
+<http://data.dainst.de/zenon/000002403_Wimborne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wimborne" .
+
+<http://data.dainst.de/zenon/000002403_Winchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Winchester" .
+
+<http://data.dainst.de/zenon/000002403_Wingham> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wingham" .
+
+<http://data.dainst.de/zenon/000002403_Winterslow> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Winterslow" .
+
+<http://data.dainst.de/zenon/000002403_Winterton> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Winterton" .
+
+<http://data.dainst.de/zenon/000002403_Witney> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Witney" .
+
+<http://data.dainst.de/zenon/000002403_Woodchester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Woodchester" .
+
+<http://data.dainst.de/zenon/000002403_Woodhead> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Woodhead" .
+
+<http://data.dainst.de/zenon/000002403_Woolaston> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Woolaston" .
+
+<http://data.dainst.de/zenon/000002403_Worcester> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Worcester" .
+
+<http://data.dainst.de/zenon/000002403_Wroxeter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "Wroxeter" .
+
+<http://data.dainst.de/zenon/000002403_York> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002403> ;
+    skos:prefLabel "York" .
+
+<http://data.dainst.de/zenon/000002403> a skos:Concept ;
+    skos:altLabel "lieux"@fr,
+        "luoghi"@it,
+        "sites"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002401> ;
+    skos:hiddenLabel "xTopLandGBOrt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte"@de .
+

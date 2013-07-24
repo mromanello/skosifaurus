@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081030> a skos:Concept ;
+    skos:altLabel "Lohrhaupten"@en,
+        "Lohrhaupten"@fr,
+        "Lohrhaupten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075500> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseMain-Lohrhaupt" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lohrhaupten"@de .
+

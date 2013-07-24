@@ -1,0 +1,10 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000000421> a skos:Concept ;
+    skos:altLabel "Valoraciones con programas S.I.G."@es ;
+    skos:broader <http://data.dainst.de/zenon/000000420> ;
+    skos:hiddenLabel "3.15.03.03.01" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Auswertung mit GIS-Programme"@de .
+

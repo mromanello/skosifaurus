@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032930> a skos:Concept ;
+    skos:altLabel "Hořice v Podkrkonoší, Museum"@en,
+        "Hořice v Podkrkonoší, Museum"@fr,
+        "Hořice v Podkrkonoší, Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuHořice v Podkrkonoší, Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hořice v Podkrkonoší, Museum"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063673> a skos:Concept ;
+    skos:altLabel "Kosoř, okr. Praha-Západ"@en,
+        "Kosoř, okr. Praha-Západ"@fr,
+        "Kosoř, okr. Praha-Západ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyKosoř, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kosoř, okr. Praha-Západ"@de .
+

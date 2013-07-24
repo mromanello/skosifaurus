@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049281> a skos:Concept ;
+    skos:altLabel "Melkagh"@en,
+        "Melkagh"@fr,
+        "Melkagh"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000077554> ;
+    skos:hiddenLabel "zTopogEuropWesteRepubLongfMelkagh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Melkagh"@de .
+

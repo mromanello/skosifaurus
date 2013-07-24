@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000060473> a skos:Concept ;
+    skos:altLabel "Kaszowo"@en,
+        "Kaszowo"@fr,
+        "Kaszowo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039024> ;
+    skos:hiddenLabel "zTopogEuropMittePolenŚląskDolnoKaszowo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kaszowo"@de .
+

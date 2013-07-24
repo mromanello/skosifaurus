@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057920> a skos:Concept ;
+    skos:altLabel "Breiteneich, VB Horn"@en,
+        "Breiteneich, VB Horn"@fr,
+        "Breiteneich, VB Horn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeBreitenei" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Breiteneich, VB Horn"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003619> a skos:Concept ;
+    skos:altLabel "alimentari"@it,
+        "articles of food"@en,
+        "denrées"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003600> ;
+    skos:hiddenLabel "xAntWirtschObjLebensm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lebensmittel"@de .
+

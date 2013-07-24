@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038427> a skos:Concept ;
+    skos:altLabel "Big Island, Hawaii 2009"@en,
+        "Big Island, Hawaii 2009"@fr,
+        "Big Island, Hawaii 2009"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBig Island, Hawaii 2009" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Big Island, Hawaii 2009"@de .
+

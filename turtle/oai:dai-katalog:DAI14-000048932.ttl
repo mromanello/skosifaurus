@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000048932> a skos:Concept ;
+    skos:altLabel "Midtown of Pitglassie, Auchterless, Aberdeenshire"@en,
+        "Midtown of Pitglassie, Auchterless, Aberdeenshire"@fr,
+        "Midtown of Pitglassie, Auchterless, Aberdeenshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078509> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotGrampMidtown o" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Midtown of Pitglassie, Auchterless, Aberdeenshire"@de .
+

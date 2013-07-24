@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002808> a skos:Concept ;
+    skos:altLabel "buildings"@en,
+        "bâtiments"@fr,
+        "costruzioni"@it ;
+    skos:broader <http://data.dainst.de/zenon/000002727> ;
+    skos:hiddenLabel "xArchitBau" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bauten"@de .
+

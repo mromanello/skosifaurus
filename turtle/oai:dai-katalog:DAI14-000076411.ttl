@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000076411> a skos:Concept ;
+    skos:altLabel "Măgina, jud. Alba"@en,
+        "Măgina, jud. Alba"@fr,
+        "Măgina, jud. Alba"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatMăgina, j" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Măgina, jud. Alba"@de .
+

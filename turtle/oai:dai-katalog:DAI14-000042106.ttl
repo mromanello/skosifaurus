@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000042106> a skos:Concept ;
+    skos:altLabel "Fleury-sur-Orne"@en,
+        "Fleury-sur-Orne"@fr,
+        "Fleury-sur-Orne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038725> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankÎle-dCalvaFleury-su" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fleury-sur-Orne"@de .
+

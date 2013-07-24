@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061169> a skos:Concept ;
+    skos:altLabel "Tursko Wielkie"@en,
+        "Tursko Wielkie"@fr,
+        "Tursko Wielkie"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039030> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopŚwiętTursko Wi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tursko Wielkie"@de .
+

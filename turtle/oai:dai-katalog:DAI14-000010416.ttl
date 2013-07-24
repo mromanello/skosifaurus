@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010416> a skos:Concept ;
+    skos:altLabel "Zuccolo, Leopoldo"@en,
+        "Zuccolo, Leopoldo"@fr,
+        "Zuccolo, Leopoldo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoZuccolo, Leopoldo" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zuccolo, Leopoldo"@de .
+

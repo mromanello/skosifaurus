@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015274> a skos:Concept ;
+    skos:altLabel "Minting techniques/implements"@en,
+        "Techniki produkcji/wybijania/warsztaty mennicze"@pl,
+        "Techniques de frappe/outils de frappe"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015238> ;
+    skos:hiddenLabel "yRGKArch08 - HistoNumisPräge" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prägetechniken/-werkzeuge"@de .
+

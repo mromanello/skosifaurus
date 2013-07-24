@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038562> a skos:Concept ;
+    skos:altLabel "Oberfell a. d. Mosel 2008"@en,
+        "Oberfell a. d. Mosel 2008"@fr,
+        "Oberfell a. d. Mosel 2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrOberfell a. d. Mosel 2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oberfell a. d. Mosel 2008"@de .
+

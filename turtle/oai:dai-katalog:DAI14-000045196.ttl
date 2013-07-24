@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045196> a skos:Concept ;
+    skos:altLabel "Jons"@en,
+        "Jons"@fr,
+        "Jons"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038805> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveRhôneJons" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jons"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046485> a skos:Concept ;
+    skos:altLabel "Ruscino"@en,
+        "Ruscino"@fr,
+        "Ruscino"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038831> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankLanguPyrénRuscino" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ruscino"@de .
+

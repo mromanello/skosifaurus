@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043005> a skos:Concept ;
+    skos:altLabel "Prez-sur-Marne"@en,
+        "Prez-sur-Marne"@fr,
+        "Prez-sur-Marne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038747> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAlsacHautePrez-sur-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Prez-sur-Marne"@de .
+

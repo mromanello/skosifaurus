@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064022> a skos:Concept ;
+    skos:altLabel "Toušen-Hradištko, okr. Praha-Východ"@en,
+        "Toušen-Hradištko, okr. Praha-Východ"@fr,
+        "Toušen-Hradištko, okr. Praha-Východ"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyToušen-Hr" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Toušen-Hradištko, okr. Praha-Východ"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021356> a skos:Concept ;
+    skos:altLabel "Gallus, Gaius Cornelius"@en,
+        "Gallus, Gaius Cornelius"@fr,
+        "Gallus, Gaius Cornelius"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoGallus, Gaius Cornelius" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gallus, Gaius Cornelius"@de .
+

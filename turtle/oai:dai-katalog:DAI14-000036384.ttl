@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036384> a skos:Concept ;
+    skos:altLabel "Linz 1949"@en,
+        "Linz 1949"@fr,
+        "Linz 1949"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrLinz 1949" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Linz 1949"@de .
+

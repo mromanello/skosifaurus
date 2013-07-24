@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000036997> a skos:Concept ;
+    skos:altLabel "Palermo 1997"@en,
+        "Palermo 1997"@fr,
+        "Palermo 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrPalermo 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Palermo 1997"@de .
+

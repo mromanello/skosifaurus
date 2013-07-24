@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000064317> a skos:Concept ;
+    skos:altLabel "Býkovice, okr. Blansko"@en,
+        "Býkovice, okr. Blansko"@fr,
+        "Býkovice, okr. Blansko"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039067> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheMoravBýkovice," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Býkovice, okr. Blansko"@de .
+

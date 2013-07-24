@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055386> a skos:Concept ;
+    skos:altLabel "Heimersheim, Stadt Alzey"@en,
+        "Heimersheim, Stadt Alzey"@fr,
+        "Heimersheim, Stadt Alzey"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038911> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAlzeyHeimershe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Heimersheim, Stadt Alzey"@de .
+

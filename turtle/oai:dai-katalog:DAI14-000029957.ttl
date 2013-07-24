@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029957> a skos:Concept ;
+    skos:altLabel "Broadlands, Collection Palmerston"@en,
+        "Broadlands, Collection Palmerston"@fr,
+        "Broadlands, Collection Palmerston"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaBroadlands, Collection Palmerston" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Broadlands, Collection Palmerston"@de .
+

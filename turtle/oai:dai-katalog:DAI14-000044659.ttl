@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044659> a skos:Concept ;
+    skos:altLabel "Brioude"@en,
+        "Brioude"@fr,
+        "Brioude"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038790> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverHauteBrioude" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brioude"@de .
+

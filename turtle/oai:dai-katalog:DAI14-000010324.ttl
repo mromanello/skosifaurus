@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010324> a skos:Concept ;
+    skos:altLabel "Wilgocki, Eugeniusz \"Gwidon\""@en,
+        "Wilgocki, Eugeniusz \"Gwidon\""@fr,
+        "Wilgocki, Eugeniusz \"Gwidon\""@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoWilgocki, Eugeniusz \"Gwidon\"" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wilgocki, Eugeniusz \"Gwidon\""@de .
+

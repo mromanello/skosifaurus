@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084535> a skos:Concept ;
+    skos:altLabel "Greding-Untermässing"@en,
+        "Greding-Untermässing"@fr,
+        "Greding-Untermässing"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075454> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerRothGreding-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Greding-Untermässing"@de .
+

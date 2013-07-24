@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000015064> a skos:Concept ;
+    skos:altLabel "Donkeys/Mules"@en,
+        "Osly/muly"@pl,
+        "Â¥nes/mulets"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000015058> ;
+    skos:hiddenLabel "yRGKArch08 - WirtsLandwTierhHaustEsel/" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Esel/Maultiere"@de .
+

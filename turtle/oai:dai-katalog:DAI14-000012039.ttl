@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012039> a skos:Concept ;
+    skos:altLabel "Herman, József"@en,
+        "Herman, József"@fr,
+        "Herman, József"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoHerman, József" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Herman, József"@de .
+

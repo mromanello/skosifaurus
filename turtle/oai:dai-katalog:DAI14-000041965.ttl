@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041965> a skos:Concept ;
+    skos:altLabel "Saint-Pierre-Sberchamps"@en,
+        "Saint-Pierre-Sberchamps"@fr,
+        "Saint-Pierre-Sberchamps"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038720> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiLuxemSaint-Pie" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Pierre-Sberchamps"@de .
+

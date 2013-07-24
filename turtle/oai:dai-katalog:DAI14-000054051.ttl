@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000054051> a skos:Concept ;
+    skos:altLabel "Arholzen, Wüstung Lohe"@en,
+        "Arholzen, Wüstung Lohe"@fr,
+        "Arholzen, Wüstung Lohe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075582> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsNiedeHolzmArholzen," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arholzen, Wüstung Lohe"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000022131> a skos:Concept ;
+    skos:altLabel "Otho <Römisches Reich, Kaiser>"@en,
+        "Otho <Römisches Reich, Kaiser>"@fr,
+        "Otho <Römisches Reich, Kaiser>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoOtho <Römisches Reich, Kaiser>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Otho <Römisches Reich, Kaiser>"@de .
+

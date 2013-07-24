@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037072> a skos:Concept ;
+    skos:altLabel "Petrer/Novelda 2003"@en,
+        "Petrer/Novelda 2003"@fr,
+        "Petrer/Novelda 2003"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrPetrer/Novelda 2003" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Petrer/Novelda 2003"@de .
+

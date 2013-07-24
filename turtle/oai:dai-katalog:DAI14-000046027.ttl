@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000046027> a skos:Concept ;
+    skos:altLabel "Tarbes"@en,
+        "Tarbes"@fr,
+        "Tarbes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038822> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAquitHauteTarbes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tarbes"@de .
+

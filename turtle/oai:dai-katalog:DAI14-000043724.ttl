@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000043724> a skos:Concept ;
+    skos:altLabel "Saint-Hilaire-sur-Puiseaux"@en,
+        "Saint-Hilaire-sur-Puiseaux"@fr,
+        "Saint-Hilaire-sur-Puiseaux"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038765> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBretaLoireSaint-Hil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Saint-Hilaire-sur-Puiseaux"@de .
+

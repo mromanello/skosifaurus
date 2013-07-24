@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000074276> a skos:Concept ;
+    skos:altLabel "Boker Tachtit, Israel"@en,
+        "Boker Tachtit, Israel"@fr,
+        "Boker Tachtit, Israel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039387> ;
+    skos:hiddenLabel "zTopogAsienVordeIsraeBoker Tac" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Boker Tachtit, Israel"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033018> a skos:Concept ;
+    skos:altLabel "Carinus"@en,
+        "Carinus"@fr,
+        "Carinus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016297> ;
+    skos:hiddenLabel "yRGKArch09 - HistoNumisPräguRömisPrägeCarinus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Carinus"@de .
+

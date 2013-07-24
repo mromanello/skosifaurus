@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033010> a skos:Concept ;
+    skos:altLabel "Epfach, Museum Abodiacum"@en,
+        "Epfach, Museum Abodiacum"@fr,
+        "Epfach, Museum Abodiacum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuEpfach, Museum Abodiacum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Epfach, Museum Abodiacum"@de .
+

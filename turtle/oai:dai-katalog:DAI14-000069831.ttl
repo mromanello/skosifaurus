@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069831> a skos:Concept ;
+    skos:altLabel "Caraglio"@en,
+        "Caraglio"@fr,
+        "Caraglio"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039160> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoCuneoCaraglio" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Caraglio"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056626> a skos:Concept ;
+    skos:altLabel "Hamburg-Bramfeld"@en,
+        "Hamburg-Bramfeld"@fr,
+        "Hamburg-Bramfeld"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038974> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSchleHambuHamburg-B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hamburg-Bramfeld"@de .
+

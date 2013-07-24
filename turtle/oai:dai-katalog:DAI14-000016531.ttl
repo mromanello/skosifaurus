@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000016531> a skos:Concept ;
+    skos:altLabel "Chain mail"@en,
+        "Cotte de maille"@fr,
+        "Kolczugi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000016529> ;
+    skos:hiddenLabel "yRGKArch10 - FundeBewafSchutPanzeKette" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kettenpanzer"@de .
+

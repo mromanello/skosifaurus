@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009058> a skos:Concept ;
+    skos:altLabel "Lindenschmit, Ludwig d.Ä."@en,
+        "Lindenschmit, Ludwig d.Ä."@fr,
+        "Lindenschmit, Ludwig d.Ä."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoLindenschmit, Ludwig d.Ä." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lindenschmit, Ludwig d.Ä."@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000023147> a skos:Concept ;
+    skos:altLabel "Alexander der Grosse"@en,
+        "Alexander der Grosse"@fr,
+        "Alexander der Grosse"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014940> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligGötteAlexander der Grosse" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alexander der Grosse"@de .
+

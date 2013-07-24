@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006060> a skos:Concept ;
+    skos:altLabel "Bakalakis, Georgios"@en,
+        "Bakalakis, Georgios"@fr,
+        "Bakalakis, Georgios"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsBakalakis, Georgios" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bakalakis, Georgios"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055356> a skos:Concept ;
+    skos:altLabel "Niederbreisig, Stadt Bad Breisig"@en,
+        "Niederbreisig, Stadt Bad Breisig"@fr,
+        "Niederbreisig, Stadt Bad Breisig"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038909> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsRheinAhrweNiederbre" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niederbreisig, Stadt Bad Breisig"@de .
+

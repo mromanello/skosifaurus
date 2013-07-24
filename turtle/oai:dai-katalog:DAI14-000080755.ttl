@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080755> a skos:Concept ;
+    skos:altLabel "Asov, Obl. Permskaya"@en,
+        "Asov, Obl. Permskaya"@fr,
+        "Asov, Obl. Permskaya"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039136> ;
+    skos:hiddenLabel "zTopogEuropOsteuRussiAsov, Obl" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Asov, Obl. Permskaya"@de .
+

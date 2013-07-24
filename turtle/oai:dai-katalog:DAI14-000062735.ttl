@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062735> a skos:Concept ;
+    skos:altLabel "Kopčany, okr. Skalica"@en,
+        "Kopčany, okr. Skalica"@fr,
+        "Kopčany, okr. Skalica"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaKopčany," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kopčany, okr. Skalica"@de .
+

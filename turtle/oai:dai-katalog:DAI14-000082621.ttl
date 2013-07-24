@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082621> a skos:Concept ;
+    skos:altLabel "Niestetal-Heiligenrode"@en,
+        "Niestetal-Heiligenrode"@fr,
+        "Niestetal-Heiligenrode"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075497> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsHesseKasseNiestetal" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niestetal-Heiligenrode"@de .
+

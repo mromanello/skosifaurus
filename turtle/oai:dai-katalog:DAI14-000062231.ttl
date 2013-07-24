@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062231> a skos:Concept ;
+    skos:altLabel "Arbedo-Castione"@en,
+        "Arbedo-Castione"@fr,
+        "Arbedo-Castione"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039052> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweTessiArbedo-Ca" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arbedo-Castione"@de .
+

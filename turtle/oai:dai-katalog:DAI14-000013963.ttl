@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000013963> a skos:Concept ;
+    skos:altLabel "House urns"@en,
+        "Urnes en forme de hutte"@fr,
+        "Urny domkowe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000013957> ;
+    skos:hiddenLabel "yRGKArch07 - FundeGefäsKeramGefäsHausu" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hausurnen"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032503> a skos:Concept ;
+    skos:altLabel "Oldenburg 2008"@en,
+        "Oldenburg 2008"@fr,
+        "Oldenburg 2008"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstOldenburg 2008" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oldenburg 2008"@de .
+

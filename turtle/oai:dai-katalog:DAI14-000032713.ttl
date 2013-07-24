@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032713> a skos:Concept ;
+    skos:altLabel "Kulty orientalne"@pl,
+        "Oriental religions"@en,
+        "Religions orientaux"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000014945> ;
+    skos:hiddenLabel "yRGKArch08 - GeselReligReligOrientalische Religionen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orientalische Religionen"@de .
+

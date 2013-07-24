@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000055996> a skos:Concept ;
+    skos:altLabel "Niesky"@en,
+        "Niesky"@fr,
+        "Niesky"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038950> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsSachsGörliNiesky" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Niesky"@de .
+

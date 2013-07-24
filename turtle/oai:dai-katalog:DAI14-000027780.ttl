@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027780> a skos:Concept ;
+    skos:altLabel "Brežic, Posavski muzej"@en,
+        "Brežic, Posavski muzej"@fr,
+        "Brežic, Posavski muzej"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBrežic, Posavski muzej" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Brežic, Posavski muzej"@de .
+

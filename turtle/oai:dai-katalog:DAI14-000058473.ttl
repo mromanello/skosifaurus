@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058473> a skos:Concept ;
+    skos:altLabel "Schönberg, VB Leibnitz"@en,
+        "Schönberg, VB Leibnitz"@fr,
+        "Schönberg, VB Leibnitz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039000> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterSteieSchönberg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schönberg, VB Leibnitz"@de .
+

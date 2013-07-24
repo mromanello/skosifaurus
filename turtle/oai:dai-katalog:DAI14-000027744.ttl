@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000027744> a skos:Concept ;
+    skos:altLabel "Bolzano, Südtiroler Archäologiemuseum"@en,
+        "Bolzano, Südtiroler Archäologiemuseum"@fr,
+        "Bolzano, Südtiroler Archäologiemuseum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBolzano, Südtiroler Archäologiemuseum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bolzano, Südtiroler Archäologiemuseum"@de .
+

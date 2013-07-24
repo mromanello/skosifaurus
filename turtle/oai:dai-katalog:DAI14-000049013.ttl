@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000049013> a skos:Concept ;
+    skos:altLabel "Tirefour, Isle of Lismore, Argyllshire"@en,
+        "Tirefour, Isle of Lismore, Argyllshire"@fr,
+        "Tirefour, Isle of Lismore, Argyllshire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000078502> ;
+    skos:hiddenLabel "zTopogEuropWesteGrossSchotStratTirefour," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tirefour, Isle of Lismore, Argyllshire"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082228> a skos:Concept ;
+    skos:altLabel "Alt Homberg, Gde. Wittnau"@en,
+        "Alt Homberg, Gde. Wittnau"@fr,
+        "Alt Homberg, Gde. Wittnau"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039036> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweAargaAlt Hombe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Alt Homberg, Gde. Wittnau"@de .
+

@@ -1,0 +1,36 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002367_Chaonia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Chaonia" .
+
+<http://data.dainst.de/zenon/000002367_Dardania> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Dardania" .
+
+<http://data.dainst.de/zenon/000002367_Drin> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Drin" .
+
+<http://data.dainst.de/zenon/000002367_Durrës> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Durrës" .
+
+<http://data.dainst.de/zenon/000002367_Mallakastër> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Mallakastër" .
+
+<http://data.dainst.de/zenon/000002367_Vrina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002367> ;
+    skos:prefLabel "Vrina" .
+
+<http://data.dainst.de/zenon/000002367> a skos:Concept ;
+    skos:altLabel "regioni"@it,
+        "regions"@en,
+        "régions"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002366> ;
+    skos:hiddenLabel "xTopLandAlbGeb" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gebiete"@de .
+

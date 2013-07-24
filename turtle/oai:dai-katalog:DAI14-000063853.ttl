@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063853> a skos:Concept ;
+    skos:altLabel "Plotište nad Labem, okr. Hradec Králové"@en,
+        "Plotište nad Labem, okr. Hradec Králové"@fr,
+        "Plotište nad Labem, okr. Hradec Králové"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyPlotište" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Plotište nad Labem, okr. Hradec Králové"@de .
+

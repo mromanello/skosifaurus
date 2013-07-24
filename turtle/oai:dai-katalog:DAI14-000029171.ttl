@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029171> a skos:Concept ;
+    skos:altLabel "Usti-nad-Labem"@en,
+        "Usti-nad-Labem"@fr,
+        "Usti-nad-Labem"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuUsti-nad-Labem" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Usti-nad-Labem"@de .
+

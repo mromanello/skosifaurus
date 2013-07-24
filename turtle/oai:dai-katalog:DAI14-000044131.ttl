@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044131> a skos:Concept ;
+    skos:altLabel "Grotte de Rigney"@en,
+        "Grotte de Rigney"@fr,
+        "Grotte de Rigney"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038775> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgDoubsGrotte de" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Grotte de Rigney"@de .
+

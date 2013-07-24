@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000059998> a skos:Concept ;
+    skos:altLabel "Łódź-Brus"@en,
+        "Łódź-Brus"@fr,
+        "Łódź-Brus"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039019> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMazowŁódzkŁódź-Brus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Łódź-Brus"@de .
+

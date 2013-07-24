@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000058580> a skos:Concept ;
+    skos:altLabel "Lavant, VB Lienz"@en,
+        "Lavant, VB Lienz"@fr,
+        "Lavant, VB Lienz"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039001> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterTirolLavant, V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lavant, VB Lienz"@de .
+

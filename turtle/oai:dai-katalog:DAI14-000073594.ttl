@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073594> a skos:Concept ;
+    skos:altLabel "Dos Aguas"@en,
+        "Dos Aguas"@fr,
+        "Dos Aguas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039346> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniValenValenDos Aguas" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dos Aguas"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000029114> a skos:Concept ;
+    skos:altLabel "Tongeren, Vlaams Instituut voor het Onroerend Erfgoed"@en,
+        "Tongeren, Vlaams Instituut voor het Onroerend Erfgoed"@fr,
+        "Tongeren, Vlaams Instituut voor het Onroerend Erfgoed"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuTongeren, Vlaams Instituut voor het Onroerend Erfgoed" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tongeren, Vlaams Instituut voor het Onroerend Erfgoed"@de .
+

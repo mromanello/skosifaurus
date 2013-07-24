@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073837> a skos:Concept ;
+    skos:altLabel "San Augustín"@en,
+        "San Augustín"@fr,
+        "San Augustín"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039357> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAndalMálagSan Augus" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Augustín"@de .
+

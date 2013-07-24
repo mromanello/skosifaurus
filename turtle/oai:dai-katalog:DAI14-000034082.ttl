@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034082> a skos:Concept ;
+    skos:altLabel "Salento, Università"@en,
+        "Salento, Università"@fr,
+        "Salento, Università"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019617> ;
+    skos:hiddenLabel "yRGKMusForscInstiSalento, Università" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salento, Università"@de .
+

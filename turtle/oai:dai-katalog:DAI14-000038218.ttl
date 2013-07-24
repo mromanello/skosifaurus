@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000038218> a skos:Concept ;
+    skos:altLabel "Moesgård 1969"@en,
+        "Moesgård 1969"@fr,
+        "Moesgård 1969"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrMoesgård 1969" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moesgård 1969"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045218> a skos:Concept ;
+    skos:altLabel "Balme-de-Thuy"@en,
+        "Balme-de-Thuy"@fr,
+        "Balme-de-Thuy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038806> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveSavoiBalme-de-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Balme-de-Thuy"@de .
+

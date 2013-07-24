@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014695> a skos:Concept ;
+    skos:altLabel "Camp militaire"@fr,
+        "Military camp"@en,
+        "Obozy militarne"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014694> ;
+    skos:hiddenLabel "yRGKArch08 - BefunBauweBefesMilit" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Militärlager"@de .
+

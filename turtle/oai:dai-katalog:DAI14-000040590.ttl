@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000040590> a skos:Concept ;
+    skos:altLabel "Lindesnes-Spangereid, Vest-Adger"@en,
+        "Lindesnes-Spangereid, Vest-Adger"@fr,
+        "Lindesnes-Spangereid, Vest-Adger"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038706> ;
+    skos:hiddenLabel "zTopogEuropNordeNorweLindesnes" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Lindesnes-Spangereid, Vest-Adger"@de .
+

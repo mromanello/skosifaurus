@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000063469> a skos:Concept ;
+    skos:altLabel "Černíkov, okr. Domażlice"@en,
+        "Černíkov, okr. Domażlice"@fr,
+        "Černíkov, okr. Domażlice"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyČerníkov," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Černíkov, okr. Domażlice"@de .
+

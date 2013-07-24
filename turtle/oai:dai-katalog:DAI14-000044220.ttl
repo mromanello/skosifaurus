@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000044220> a skos:Concept ;
+    skos:altLabel "La-Celle-sur-Loire"@en,
+        "La-Celle-sur-Loire"@fr,
+        "La-Celle-sur-Loire"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038777> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankBourgNièvrLa-Celle-" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "La-Celle-sur-Loire"@de .
+

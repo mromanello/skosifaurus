@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000028482> a skos:Concept ;
+    skos:altLabel "Mannheim, Reiss-Engelhorn-Museum"@en,
+        "Mannheim, Reiss-Engelhorn-Museum"@fr,
+        "Mannheim, Reiss-Engelhorn-Museum"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuMannheim, Reiss-Engelhorn-Museum" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mannheim, Reiss-Engelhorn-Museum"@de .
+

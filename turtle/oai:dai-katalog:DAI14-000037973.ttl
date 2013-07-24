@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037973> a skos:Concept ;
+    skos:altLabel "Warszawa 1997"@en,
+        "Warszawa 1997"@fr,
+        "Warszawa 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrWarszawa 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Warszawa 1997"@de .
+

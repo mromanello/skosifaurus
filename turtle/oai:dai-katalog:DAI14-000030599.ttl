@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030599> a skos:Concept ;
+    skos:altLabel "Göttingen, Kreisdenkmalpflege"@en,
+        "Göttingen, Kreisdenkmalpflege"@fr,
+        "Göttingen, Kreisdenkmalpflege"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiGöttingen, Kreisdenkmalpflege" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Göttingen, Kreisdenkmalpflege"@de .
+

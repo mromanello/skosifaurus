@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000031560> a skos:Concept ;
+    skos:altLabel "Hood, Martin Sinclair Frankland"@en,
+        "Hood, Martin Sinclair Frankland"@fr,
+        "Hood, Martin Sinclair Frankland"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019785> ;
+    skos:hiddenLabel "yRGKNachsBibliHood, Martin Sinclair Frankland" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hood, Martin Sinclair Frankland"@de .
+

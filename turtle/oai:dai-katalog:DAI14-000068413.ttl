@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000068413> a skos:Concept ;
+    skos:altLabel "Šljunkara"@en,
+        "Šljunkara"@fr,
+        "Šljunkara"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039137> ;
+    skos:hiddenLabel "zTopogEuropOsteuSerbiŠljunkara" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Šljunkara"@de .
+

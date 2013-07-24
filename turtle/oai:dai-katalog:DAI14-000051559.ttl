@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051559> a skos:Concept ;
+    skos:altLabel "Burgbernheim-Schwebheim"@en,
+        "Burgbernheim-Schwebheim"@fr,
+        "Burgbernheim-Schwebheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075444> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerNeustBurgbernh" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Burgbernheim-Schwebheim"@de .
+

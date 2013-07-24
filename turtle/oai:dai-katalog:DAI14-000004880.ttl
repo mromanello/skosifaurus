@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000004880> a skos:Concept ;
+    skos:altLabel "naming"@en,
+        "nomi"@it,
+        "noms propres"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000004834> ;
+    skos:hiddenLabel "xIndexNamen" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Namensgebung"@de .
+

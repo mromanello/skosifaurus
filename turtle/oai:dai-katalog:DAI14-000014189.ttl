@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014189> a skos:Concept ;
+    skos:altLabel "Circular ditches/enclosures"@en,
+        "Fossés circulaires/enclos funéraires"@fr,
+        "Kregi grobowe/ogrodzenia grobów"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000014185> ;
+    skos:hiddenLabel "yRGKArch07 - GräbeGrabbGrabbKreis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Kreisgräben/Grabumfriedungen"@de .
+

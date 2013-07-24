@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000039365> a skos:Concept ;
+    skos:altLabel "Menorca"@en,
+        "Menorca"@fr,
+        "Menorca"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039362> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniIslasMenor" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Menorca"@de .
+

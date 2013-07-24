@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070313> a skos:Concept ;
+    skos:altLabel "San Giustina a Baldaria"@en,
+        "San Giustina a Baldaria"@fr,
+        "San Giustina a Baldaria"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039179> ;
+    skos:hiddenLabel "zEuropSüdeuItaliVenetVenetVeronSan Giust" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "San Giustina a Baldaria"@de .
+

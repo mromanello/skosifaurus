@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000065405> a skos:Concept ;
+    skos:altLabel "Hévizgyörk"@en,
+        "Hévizgyörk"@fr,
+        "Hévizgyörk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039089> ;
+    skos:hiddenLabel "zTopogEuropMitteUngarOstunPestHévizgyör" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Hévizgyörk"@de .
+

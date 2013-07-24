@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000069808> a skos:Concept ;
+    skos:altLabel "Roccetta Tànaro"@en,
+        "Roccetta Tànaro"@fr,
+        "Roccetta Tànaro"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039158> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaPiemoAstiRoccetta" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Roccetta Tànaro"@de .
+

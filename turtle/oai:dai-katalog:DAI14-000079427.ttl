@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000079427> a skos:Concept ;
+    skos:altLabel "Tilleoru"@en,
+        "Tilleoru"@fr,
+        "Tilleoru"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038700> ;
+    skos:hiddenLabel "zTopogEuropNordeBaltiEstlaTilleoru" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tilleoru"@de .
+

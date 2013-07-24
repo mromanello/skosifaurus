@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082741> a skos:Concept ;
+    skos:altLabel "Eriskirch-Mariabrunn"@en,
+        "Eriskirch-Mariabrunn"@fr,
+        "Eriskirch-Mariabrunn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075330> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenBodenEriskirch" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Eriskirch-Mariabrunn"@de .
+

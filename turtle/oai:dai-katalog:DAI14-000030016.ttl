@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030016> a skos:Concept ;
+    skos:altLabel "De Criscio, Giuseppe"@en,
+        "De Criscio, Giuseppe"@fr,
+        "De Criscio, Giuseppe"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaDe Criscio, Giuseppe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "De Criscio, Giuseppe"@de .
+

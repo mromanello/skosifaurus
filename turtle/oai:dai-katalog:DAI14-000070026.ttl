@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000070026> a skos:Concept ;
+    skos:altLabel "Borgio Verezzi"@en,
+        "Borgio Verezzi"@fr,
+        "Borgio Verezzi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039170> ;
+    skos:hiddenLabel "zEuropSüdeuItaliLombaLigurSavonBorgio Ve" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Borgio Verezzi"@de .
+

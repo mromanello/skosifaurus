@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012301> a skos:Concept ;
+    skos:altLabel "Oxford, Architectural Society"@en,
+        "Oxford, Architectural Society"@fr,
+        "Oxford, Architectural Society"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiOxford, Architectural Society" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Oxford, Architectural Society"@de .
+

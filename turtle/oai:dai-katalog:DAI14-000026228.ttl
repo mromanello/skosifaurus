@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000026228> a skos:Concept ;
+    skos:altLabel "Colmar 1989/1990"@en,
+        "Colmar 1989/1990"@fr,
+        "Colmar 1989/1990"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019601> ;
+    skos:hiddenLabel "yRGKMusMuseeAusstColmar 1989/1990" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Colmar 1989/1990"@de .
+

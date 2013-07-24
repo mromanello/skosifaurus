@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066513> a skos:Concept ;
+    skos:altLabel "Bicaz, jud. Maramureş"@en,
+        "Bicaz, jud. Maramureş"@fr,
+        "Bicaz, jud. Maramureş"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatBicaz, ju" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bicaz, jud. Maramureş"@de .
+

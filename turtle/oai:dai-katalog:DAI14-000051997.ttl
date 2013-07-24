@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051997> a skos:Concept ;
+    skos:altLabel "Aub-Burgerroth"@en,
+        "Aub-Burgerroth"@fr,
+        "Aub-Burgerroth"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075464> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerWürzbAub-Burgerroth" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Aub-Burgerroth"@de .
+

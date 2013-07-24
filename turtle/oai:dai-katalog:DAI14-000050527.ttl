@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000050527> a skos:Concept ;
+    skos:altLabel "Altlussheim"@en,
+        "Altlussheim"@fr,
+        "Altlussheim"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075358> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBadenRheinAltlusshe" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Altlussheim"@de .
+

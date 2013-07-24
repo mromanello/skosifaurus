@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045326> a skos:Concept ;
+    skos:altLabel "Six-Fours-les-plages"@en,
+        "Six-Fours-les-plages"@fr,
+        "Six-Fours-les-plages"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038808> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVarSix-Fours" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Six-Fours-les-plages"@de .
+

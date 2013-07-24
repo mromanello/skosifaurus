@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073337> a skos:Concept ;
+    skos:altLabel "Quintanilla de las Viñas"@en,
+        "Quintanilla de las Viñas"@fr,
+        "Quintanilla de las Viñas"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039328> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiBurgoQuintanil" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Quintanilla de las Viñas"@de .
+

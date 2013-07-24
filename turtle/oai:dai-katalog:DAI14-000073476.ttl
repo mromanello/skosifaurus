@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000073476> a skos:Concept ;
+    skos:altLabel "Recópolis"@en,
+        "Recópolis"@fr,
+        "Recópolis"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039341> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniCastiGuadaRecópolis" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Recópolis"@de .
+

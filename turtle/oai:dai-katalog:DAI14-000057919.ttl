@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057919> a skos:Concept ;
+    skos:altLabel "Braunsberg, VB Bruck an der Leitha"@en,
+        "Braunsberg, VB Bruck an der Leitha"@fr,
+        "Braunsberg, VB Bruck an der Leitha"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeBraunsber" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Braunsberg, VB Bruck an der Leitha"@de .
+

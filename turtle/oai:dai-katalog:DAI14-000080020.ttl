@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000080020> a skos:Concept ;
+    skos:altLabel "Imbach, VB Krems-Land"@en,
+        "Imbach, VB Krems-Land"@fr,
+        "Imbach, VB Krems-Land"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeImbach, V" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Imbach, VB Krems-Land"@de .
+

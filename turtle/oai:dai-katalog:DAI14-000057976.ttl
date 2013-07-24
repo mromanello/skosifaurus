@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000057976> a skos:Concept ;
+    skos:altLabel "Haslach, VB Amstetten"@en,
+        "Haslach, VB Amstetten"@fr,
+        "Haslach, VB Amstetten"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038997> ;
+    skos:hiddenLabel "zTopogEuropMitteÖsterNiedeHaslach," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Haslach, VB Amstetten"@de .
+

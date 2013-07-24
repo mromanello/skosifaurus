@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000072977> a skos:Concept ;
+    skos:altLabel "Peña de Candamo"@en,
+        "Peña de Candamo"@fr,
+        "Peña de Candamo"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039306> ;
+    skos:hiddenLabel "zTopogEuropSüdeuSpaniAsturPeña de C" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Peña de Candamo"@de .
+

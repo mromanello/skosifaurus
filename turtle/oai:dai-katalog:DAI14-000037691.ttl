@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000037691> a skos:Concept ;
+    skos:altLabel "Talence 1977"@en,
+        "Talence 1977"@fr,
+        "Talence 1977"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrTalence 1977" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Talence 1977"@de .
+

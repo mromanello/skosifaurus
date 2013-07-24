@@ -1,0 +1,9 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000001365> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000001359> ;
+    skos:hiddenLabel "4.03.07.09.06" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Tamga"@de .
+

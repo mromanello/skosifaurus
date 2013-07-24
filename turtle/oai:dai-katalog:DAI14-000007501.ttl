@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000007501> a skos:Concept ;
+    skos:altLabel "Arne, Ture J."@en,
+        "Arne, Ture J."@fr,
+        "Arne, Ture J."@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoArne, Ture J." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Arne, Ture J."@de .
+

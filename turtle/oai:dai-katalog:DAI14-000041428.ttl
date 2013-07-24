@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041428> a skos:Concept ;
+    skos:altLabel "Gistel"@en,
+        "Gistel"@fr,
+        "Gistel"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038714> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiWest-Gistel" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gistel"@de .
+

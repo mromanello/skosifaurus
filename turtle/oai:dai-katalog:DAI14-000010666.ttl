@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000010666> a skos:Concept ;
+    skos:altLabel "Rom, American Academy"@en,
+        "Rom, American Academy"@fr,
+        "Rom, American Academy"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007393> ;
+    skos:hiddenLabel "yForschInstiRom, American Academy" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Rom, American Academy"@de .
+

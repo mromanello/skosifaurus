@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000009784> a skos:Concept ;
+    skos:altLabel "Sarmento, Francisco Martins"@en,
+        "Sarmento, Francisco Martins"@fr,
+        "Sarmento, Francisco Martins"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoSarmento, Francisco Martins" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Sarmento, Francisco Martins"@de .
+

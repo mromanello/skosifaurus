@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000018418> a skos:Concept ;
+    skos:altLabel "Campements de chasse"@fr,
+        "Hunting sites"@en,
+        "Miejsca polowan/sezonowe obozowiska"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000018417> ;
+    skos:hiddenLabel "yRGKArch12 - SiedlSiedlJagdp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jagdplätze/saisonale Lagerplätze"@de .
+

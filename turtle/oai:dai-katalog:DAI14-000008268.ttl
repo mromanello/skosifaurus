@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000008268> a skos:Concept ;
+    skos:altLabel "Fokkens, Harry"@en,
+        "Fokkens, Harry"@fr,
+        "Fokkens, Harry"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoFokkens, Harry" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fokkens, Harry"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020474> a skos:Concept ;
+    skos:altLabel "Mimbres"@en,
+        "Mimbres"@fr,
+        "Mimbres"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Mimbres" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mimbres"@de .
+

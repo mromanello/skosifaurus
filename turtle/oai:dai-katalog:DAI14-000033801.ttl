@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000033801> a skos:Concept ;
+    skos:altLabel "Nikolaus <von Oresme>"@en,
+        "Nikolaus <von Oresme>"@fr,
+        "Nikolaus <von Oresme>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoNikolaus <von Oresme>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Nikolaus <von Oresme>"@de .
+

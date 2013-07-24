@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000021310> a skos:Concept ;
+    skos:altLabel "Childebert <Fränkisches Reich, König, III.>"@en,
+        "Childebert <Fränkisches Reich, König, III.>"@fr,
+        "Childebert <Fränkisches Reich, König, III.>"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012487> ;
+    skos:hiddenLabel "yRGKArch02 - PersoChildebert <Fränkisches Reich, König, III.>" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Childebert <Fränkisches Reich, König, III.>"@de .
+

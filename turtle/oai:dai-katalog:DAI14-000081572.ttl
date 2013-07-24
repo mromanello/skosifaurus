@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000081572> a skos:Concept ;
+    skos:altLabel "Moszna"@en,
+        "Moszna"@fr,
+        "Moszna"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039032> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopLubelMoszna" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Moszna"@de .
+

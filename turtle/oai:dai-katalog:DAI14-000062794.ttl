@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000062794> a skos:Concept ;
+    skos:altLabel "Modra, okr. Pezinok"@en,
+        "Modra, okr. Pezinok"@fr,
+        "Modra, okr. Pezinok"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039061> ;
+    skos:hiddenLabel "zTopogEuropMitteSlowaModra, ok" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Modra, okr. Pezinok"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084659> a skos:Concept ;
+    skos:altLabel "Česká Skalice, okr. Náchod"@en,
+        "Česká Skalice, okr. Náchod"@fr,
+        "Česká Skalice, okr. Náchod"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039066> ;
+    skos:hiddenLabel "zTopogEuropMitteTscheCechyČeská Skalice, okr. Náchod" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Česká Skalice, okr. Náchod"@de .
+

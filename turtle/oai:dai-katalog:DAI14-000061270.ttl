@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000061270> a skos:Concept ;
+    skos:altLabel "Melsztyn"@en,
+        "Melsztyn"@fr,
+        "Melsztyn"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039031> ;
+    skos:hiddenLabel "zTopogEuropMittePolenMałopPodkaMelsztyn" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Melsztyn"@de .
+

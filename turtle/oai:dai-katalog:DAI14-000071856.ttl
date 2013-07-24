@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000071856> a skos:Concept ;
+    skos:altLabel "Salto"@en,
+        "Salto"@fr,
+        "Salto"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039232> ;
+    skos:hiddenLabel "zTopogEuropSüdeuItaliToscaZZ--RSalto" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Salto"@de .
+

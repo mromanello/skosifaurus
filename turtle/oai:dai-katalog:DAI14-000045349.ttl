@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000045349> a skos:Concept ;
+    skos:altLabel "Fraischamp, La Roque-sur-Pernes"@en,
+        "Fraischamp, La Roque-sur-Pernes"@fr,
+        "Fraischamp, La Roque-sur-Pernes"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038809> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankProveVauclFraischam" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Fraischamp, La Roque-sur-Pernes"@de .
+

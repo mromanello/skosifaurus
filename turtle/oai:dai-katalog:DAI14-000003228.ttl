@@ -1,0 +1,1188 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003228_AcheloosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Acheloos Painter" .
+
+<http://data.dainst.de/zenon/000003228_AchillesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Achilles Painter" .
+
+<http://data.dainst.de/zenon/000003228_AegisthusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Aegisthus Painter" .
+
+<http://data.dainst.de/zenon/000003228_Affecter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Affecter" .
+
+<http://data.dainst.de/zenon/000003228_AgrigentoPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Agrigento Painter" .
+
+<http://data.dainst.de/zenon/000003228_AinipylosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Ainipylos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Aison> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Aison" .
+
+<http://data.dainst.de/zenon/000003228_Akropolis606> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Akropolis 606" .
+
+<http://data.dainst.de/zenon/000003228_AlkimachosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Alkimachos Painter" .
+
+<http://data.dainst.de/zenon/000003228_AlkmenePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Alkmene Painter" .
+
+<http://data.dainst.de/zenon/000003228_AlkyoneusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Alkyoneus Painter" .
+
+<http://data.dainst.de/zenon/000003228_AltamuraPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Altamura Painter" .
+
+<http://data.dainst.de/zenon/000003228_Amasis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Amasis" .
+
+<http://data.dainst.de/zenon/000003228_AmasisPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Amasis Painter" .
+
+<http://data.dainst.de/zenon/000003228_AmazonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Amazon Painter" .
+
+<http://data.dainst.de/zenon/000003228_AmbrosiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Ambrosios Painter" .
+
+<http://data.dainst.de/zenon/000003228_AmphitritePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Amphitrite Painter" .
+
+<http://data.dainst.de/zenon/000003228_AnagyrusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Anagyrus Painter" .
+
+<http://data.dainst.de/zenon/000003228_AnalatosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Analatos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Andokides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Andokides" .
+
+<http://data.dainst.de/zenon/000003228_AndokidesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Andokides Painter" .
+
+<http://data.dainst.de/zenon/000003228_AngularPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Angular Painter" .
+
+<http://data.dainst.de/zenon/000003228_AntimenesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Antimenes Painter" .
+
+<http://data.dainst.de/zenon/000003228_AntiphonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Antiphon Painter" .
+
+<http://data.dainst.de/zenon/000003228_Apollodoros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Apollodoros" .
+
+<http://data.dainst.de/zenon/000003228_Archikles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Archikles" .
+
+<http://data.dainst.de/zenon/000003228_ArchippeGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Archippe Group" .
+
+<http://data.dainst.de/zenon/000003228_ArgosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Argos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Athen1472> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Athen 1472" .
+
+<http://data.dainst.de/zenon/000003228_Athen533> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Athen 533" .
+
+<http://data.dainst.de/zenon/000003228_AthenaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Athena Painter" .
+
+<http://data.dainst.de/zenon/000003228_BareissPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bareiss Painter" .
+
+<http://data.dainst.de/zenon/000003228_BeldamClass> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Beldam Class" .
+
+<http://data.dainst.de/zenon/000003228_BeldamPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Beldam Painter" .
+
+<http://data.dainst.de/zenon/000003228_Berlin1686> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Berlin 1686" .
+
+<http://data.dainst.de/zenon/000003228_Berlin1899> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Berlin 1899" .
+
+<http://data.dainst.de/zenon/000003228_BerlinF1659> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Berlin F 1659" .
+
+<http://data.dainst.de/zenon/000003228_BerlinPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Berlin Painter" .
+
+<http://data.dainst.de/zenon/000003228_BernePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Berne Painter" .
+
+<http://data.dainst.de/zenon/000003228_Black-ThyrsusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Black-Thyrsus Painter" .
+
+<http://data.dainst.de/zenon/000003228_BloomingtonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bloomington Painter" .
+
+<http://data.dainst.de/zenon/000003228_Bologna228> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bologna 228" .
+
+<http://data.dainst.de/zenon/000003228_Bologna417> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bologna 417" .
+
+<http://data.dainst.de/zenon/000003228_BoreasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Boreas Painter" .
+
+<http://data.dainst.de/zenon/000003228_BosanquetPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bosanquet Painter" .
+
+<http://data.dainst.de/zenon/000003228_BowdoinPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bowdoin Painter" .
+
+<http://data.dainst.de/zenon/000003228_BriseisPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Briseis Painter" .
+
+<http://data.dainst.de/zenon/000003228_BrygosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Brygos Painter" .
+
+<http://data.dainst.de/zenon/000003228_BucciPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Bucci Painter" .
+
+<http://data.dainst.de/zenon/000003228_CPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "C Painter" .
+
+<http://data.dainst.de/zenon/000003228_CalliopePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Calliope Painter" .
+
+<http://data.dainst.de/zenon/000003228_CamtarPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Camtar Painter" .
+
+<http://data.dainst.de/zenon/000003228_CarlsruhePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Carlsruhe Painter" .
+
+<http://data.dainst.de/zenon/000003228_CarpenterPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Carpenter Painter" .
+
+<http://data.dainst.de/zenon/000003228_CentaurPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Centaur Painter" .
+
+<http://data.dainst.de/zenon/000003228_CeramicusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Ceramicus Painter" .
+
+<http://data.dainst.de/zenon/000003228_CerberusPaintervedi:Paseas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Cerberus Painter vedi: Paseas" .
+
+<http://data.dainst.de/zenon/000003228_ChicagoPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Chicago Painter" .
+
+<http://data.dainst.de/zenon/000003228_ChimaeraPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Chimaera Painter" .
+
+<http://data.dainst.de/zenon/000003228_ChristiePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Christie Painter" .
+
+<http://data.dainst.de/zenon/000003228_ClevelandPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Cleveland Painter" .
+
+<http://data.dainst.de/zenon/000003228_CopenhagenPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Copenhagen Painter" .
+
+<http://data.dainst.de/zenon/000003228_CurtiPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Curti Painter" .
+
+<http://data.dainst.de/zenon/000003228_CurtiusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Curtius Painter" .
+
+<http://data.dainst.de/zenon/000003228_DanaePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Danae Painter" .
+
+<http://data.dainst.de/zenon/000003228_DeianeiraPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Deianeira Painter" .
+
+<http://data.dainst.de/zenon/000003228_DikaiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dikaios Painter" .
+
+<http://data.dainst.de/zenon/000003228_DinosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dinos Painter" .
+
+<http://data.dainst.de/zenon/000003228_DiogenesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Diogenes Painter" .
+
+<http://data.dainst.de/zenon/000003228_DiosphosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Diosphos Painter" .
+
+<http://data.dainst.de/zenon/000003228_DipylonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dipylon Painter" .
+
+<http://data.dainst.de/zenon/000003228_DisneyPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Disney Painter" .
+
+<http://data.dainst.de/zenon/000003228_DokimasiaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dokimasia Painter" .
+
+<http://data.dainst.de/zenon/000003228_DresdenPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dresden Painter" .
+
+<http://data.dainst.de/zenon/000003228_Duris> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Duris" .
+
+<http://data.dainst.de/zenon/000003228_DwarfPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Dwarf Painter" .
+
+<http://data.dainst.de/zenon/000003228_Echekleides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Echekleides" .
+
+<http://data.dainst.de/zenon/000003228_EdinburghPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Edinburgh Painter" .
+
+<http://data.dainst.de/zenon/000003228_ElbowsOut> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Elbows Out" .
+
+<http://data.dainst.de/zenon/000003228_Elpinikos-Painter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Elpinikos-Painter" .
+
+<http://data.dainst.de/zenon/000003228_EmporionPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Emporion Painter" .
+
+<http://data.dainst.de/zenon/000003228_EpeleiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Epeleios Painter" .
+
+<http://data.dainst.de/zenon/000003228_EpidromosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Epidromos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Epiktetos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Epiktetos" .
+
+<http://data.dainst.de/zenon/000003228_Epitimos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Epitimos" .
+
+<http://data.dainst.de/zenon/000003228_EretriaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Eretria Painter" .
+
+<http://data.dainst.de/zenon/000003228_Ergotimos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Ergotimos" .
+
+<http://data.dainst.de/zenon/000003228_ErlangenJ230> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Erlangen J 230" .
+
+<http://data.dainst.de/zenon/000003228_Erxekleides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Erxekleides" .
+
+<http://data.dainst.de/zenon/000003228_EuaionPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euaion Painter" .
+
+<http://data.dainst.de/zenon/000003228_Euarchos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euarchos" .
+
+<http://data.dainst.de/zenon/000003228_EucharidesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Eucharides Painter" .
+
+<http://data.dainst.de/zenon/000003228_EuergidesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euergides Painter" .
+
+<http://data.dainst.de/zenon/000003228_EuphiletosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euphiletos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Euphronios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euphronios" .
+
+<http://data.dainst.de/zenon/000003228_Euthymides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Euthymides" .
+
+<http://data.dainst.de/zenon/000003228_Exekias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Exekias" .
+
+<http://data.dainst.de/zenon/000003228_Eye-sirenGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Eye-siren Group" .
+
+<http://data.dainst.de/zenon/000003228_FalmouthPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Falmouth Painter" .
+
+<http://data.dainst.de/zenon/000003228_FatBoyGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Fat Boy Group" .
+
+<http://data.dainst.de/zenon/000003228_FauvelPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Fauvel Painter" .
+
+<http://data.dainst.de/zenon/000003228_FilottranoPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Filottrano Painter" .
+
+<http://data.dainst.de/zenon/000003228_FlorencePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Florence Painter" .
+
+<http://data.dainst.de/zenon/000003228_FoundryPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Foundry Painter" .
+
+<http://data.dainst.de/zenon/000003228_GelaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Gela Painter" .
+
+<http://data.dainst.de/zenon/000003228_GenevaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Geneva Painter" .
+
+<http://data.dainst.de/zenon/000003228_GerasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Geras Painter" .
+
+<http://data.dainst.de/zenon/000003228_Glaukytes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Glaukytes" .
+
+<http://data.dainst.de/zenon/000003228_GoluchowPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Goluchow Painter" .
+
+<http://data.dainst.de/zenon/000003228_GorgonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Gorgon Painter" .
+
+<http://data.dainst.de/zenon/000003228_Gorgos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Gorgos" .
+
+<http://data.dainst.de/zenon/000003228_HarrowPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Harrow Painter" .
+
+<http://data.dainst.de/zenon/000003228_HattattPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hattatt Painter" .
+
+<http://data.dainst.de/zenon/000003228_HectorPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hector Painter" .
+
+<http://data.dainst.de/zenon/000003228_HeidelbergPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Heidelberg Painter" .
+
+<http://data.dainst.de/zenon/000003228_HephaistosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hephaistos Painter" .
+
+<http://data.dainst.de/zenon/000003228_HermaiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hermaios Painter" .
+
+<http://data.dainst.de/zenon/000003228_Hermokrates> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hermokrates" .
+
+<http://data.dainst.de/zenon/000003228_Hermonax> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hermonax" .
+
+<http://data.dainst.de/zenon/000003228_Hieron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Hieron" .
+
+<http://data.dainst.de/zenon/000003228_IkarosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Ikaros Painter" .
+
+<http://data.dainst.de/zenon/000003228_Istanbul7314> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Istanbul 7314" .
+
+<http://data.dainst.de/zenon/000003228_JenaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Jena Painter" .
+
+<http://data.dainst.de/zenon/000003228_KXPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "KX Painter" .
+
+<http://data.dainst.de/zenon/000003228_KYPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "KY Painter" .
+
+<http://data.dainst.de/zenon/000003228_Kachrylion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kachrylion" .
+
+<http://data.dainst.de/zenon/000003228_KadmosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kadmos Painter" .
+
+<http://data.dainst.de/zenon/000003228_KallisPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kallis Painter" .
+
+<http://data.dainst.de/zenon/000003228_KarithaiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Karithaios Painter" .
+
+<http://data.dainst.de/zenon/000003228_KerkopsPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kerkops Painter" .
+
+<http://data.dainst.de/zenon/000003228_KievPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kiev Painter" .
+
+<http://data.dainst.de/zenon/000003228_Kleitias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kleitias" .
+
+<http://data.dainst.de/zenon/000003228_KleophonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kleophon Painter" .
+
+<http://data.dainst.de/zenon/000003228_KleophradesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kleophrades Painter" .
+
+<http://data.dainst.de/zenon/000003228_KlügmannPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Klügmann Painter" .
+
+<http://data.dainst.de/zenon/000003228_KodrosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kodros Painter" .
+
+<http://data.dainst.de/zenon/000003228_Kopenhagen103> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kopenhagen 103" .
+
+<http://data.dainst.de/zenon/000003228_KubanGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Kuban Group" .
+
+<http://data.dainst.de/zenon/000003228_LeagrosGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Leagros Group" .
+
+<http://data.dainst.de/zenon/000003228_LeningradB1488> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Leningrad B 1488" .
+
+<http://data.dainst.de/zenon/000003228_LeningradPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Leningrad Painter" .
+
+<http://data.dainst.de/zenon/000003228_LidPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lid Painter" .
+
+<http://data.dainst.de/zenon/000003228_LionPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lion Painter" .
+
+<http://data.dainst.de/zenon/000003228_LondonB145> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London B 145" .
+
+<http://data.dainst.de/zenon/000003228_LondonB240> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London B 240" .
+
+<http://data.dainst.de/zenon/000003228_LondonB76> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London B 76" .
+
+<http://data.dainst.de/zenon/000003228_LondonD12> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London D 12" .
+
+<http://data.dainst.de/zenon/000003228_LondonD15> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London D 15" .
+
+<http://data.dainst.de/zenon/000003228_LondonE489> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "London E 489" .
+
+<http://data.dainst.de/zenon/000003228_Long-nosePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Long-nose Painter" .
+
+<http://data.dainst.de/zenon/000003228_LouvreF51> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Louvre F 51" .
+
+<http://data.dainst.de/zenon/000003228_LouvreF6> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Louvre F6" .
+
+<http://data.dainst.de/zenon/000003228_LouvreG521> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Louvre G 521" .
+
+<http://data.dainst.de/zenon/000003228_LouvreM85> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Louvre M85" .
+
+<http://data.dainst.de/zenon/000003228_Lydos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lydos" .
+
+<http://data.dainst.de/zenon/000003228_LydosII> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lydos II" .
+
+<http://data.dainst.de/zenon/000003228_LykaonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lykaon Painter" .
+
+<http://data.dainst.de/zenon/000003228_Lysippides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Lysippides" .
+
+<http://data.dainst.de/zenon/000003228_Makron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Makron" .
+
+<http://data.dainst.de/zenon/000003228_MalibuPaintervedi:CPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Malibu Painter vedi: C Painter" .
+
+<http://data.dainst.de/zenon/000003228_MannheimPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Mannheim Painter" .
+
+<http://data.dainst.de/zenon/000003228_MarlayPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Marlay Painter" .
+
+<http://data.dainst.de/zenon/000003228_MarsyasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Marsyas Painter" .
+
+<http://data.dainst.de/zenon/000003228_MeidiasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Meidias Painter" .
+
+<http://data.dainst.de/zenon/000003228_MeleagerPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Meleager Painter" .
+
+<http://data.dainst.de/zenon/000003228_MesogeiaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Mesogeia Painter" .
+
+<http://data.dainst.de/zenon/000003228_MethysePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Methyse Painter" .
+
+<http://data.dainst.de/zenon/000003228_MontesarchioT.121> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Montesarchio T.121" .
+
+<http://data.dainst.de/zenon/000003228_Myson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Myson" .
+
+<http://data.dainst.de/zenon/000003228_München1379> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "München 1379" .
+
+<http://data.dainst.de/zenon/000003228_München1529> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "München 1529" .
+
+<http://data.dainst.de/zenon/000003228_München1540> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "München 1540" .
+
+<http://data.dainst.de/zenon/000003228_München2050> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "München 2050" .
+
+<http://data.dainst.de/zenon/000003228_München2335> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "München 2335" .
+
+<http://data.dainst.de/zenon/000003228_NPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "N Painter" .
+
+<http://data.dainst.de/zenon/000003228_NausicaaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nausicaa Painter" .
+
+<http://data.dainst.de/zenon/000003228_Neandros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Neandros" .
+
+<http://data.dainst.de/zenon/000003228_Nearchos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nearchos" .
+
+<http://data.dainst.de/zenon/000003228_NettosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nettos Painter" .
+
+<http://data.dainst.de/zenon/000003228_NikiasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nikias Painter" .
+
+<http://data.dainst.de/zenon/000003228_Nikomachos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nikomachos" .
+
+<http://data.dainst.de/zenon/000003228_Nikosthenes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nikosthenes" .
+
+<http://data.dainst.de/zenon/000003228_NikosthenesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nikosthenes Painter" .
+
+<http://data.dainst.de/zenon/000003228_NikoxenosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Nikoxenos Painter" .
+
+<http://data.dainst.de/zenon/000003228_NiobidPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Niobid Painter" .
+
+<http://data.dainst.de/zenon/000003228_OdessosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Odessos Painter" .
+
+<http://data.dainst.de/zenon/000003228_OinoklesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Oinokles Painter" .
+
+<http://data.dainst.de/zenon/000003228_OionoklesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Oionokles Painter" .
+
+<http://data.dainst.de/zenon/000003228_OlomoucPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Olomouc Painter" .
+
+<http://data.dainst.de/zenon/000003228_Oltos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Oltos" .
+
+<http://data.dainst.de/zenon/000003228_Onesimos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Onesimos" .
+
+<http://data.dainst.de/zenon/000003228_PainterofAgoraChairias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of Agora Chairias" .
+
+<http://data.dainst.de/zenon/000003228_PainterofAthens> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of Athens" .
+
+<http://data.dainst.de/zenon/000003228_PainterofNaplesHydriskai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of Naples Hydriskai" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheBerlinHorsemen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Berlin Horsemen" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheBostonPhiale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Boston Phiale" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheHalf-palmettes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Half-palmettes" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheLouvreCentauromachy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Louvre Centauromachy" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheLouvreMaid> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Louvre Maid" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheMadridMenads> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Madrid Menads" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheNicosiaOlpe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Nicosia Olpe" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheOxfordBrygos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Oxford Brygos" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheParisGigantomachy> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Paris Gigantomachy" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheWoollySatyrs> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Woolly Satyrs" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheYaleCup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Yale Cup" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheYaleLekythos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Yale Lekythos" .
+
+<http://data.dainst.de/zenon/000003228_PainteroftheYaleOinochoe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Painter of the Yale Oinochoe" .
+
+<http://data.dainst.de/zenon/000003228_Pamphaios> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pamphaios" .
+
+<http://data.dainst.de/zenon/000003228_PanPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pan Painter" .
+
+<http://data.dainst.de/zenon/000003228_PanaitiosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Panaitios Painter" .
+
+<http://data.dainst.de/zenon/000003228_Paseas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Paseas" .
+
+<http://data.dainst.de/zenon/000003228_Pasiades> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pasiades" .
+
+<http://data.dainst.de/zenon/000003228_PassasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Passas Painter" .
+
+<http://data.dainst.de/zenon/000003228_PeleusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Peleus Painter" .
+
+<http://data.dainst.de/zenon/000003228_PenelopePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Penelope Painter" .
+
+<http://data.dainst.de/zenon/000003228_PenthesileiaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Penthesileia Painter" .
+
+<http://data.dainst.de/zenon/000003228_PersephonePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Persephone Painter" .
+
+<http://data.dainst.de/zenon/000003228_PezzinoGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pezzino Group" .
+
+<http://data.dainst.de/zenon/000003228_PhanyllisGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Phanyllis Group" .
+
+<http://data.dainst.de/zenon/000003228_PhialePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Phiale Painter" .
+
+<http://data.dainst.de/zenon/000003228_PhiladelphiaMS3440> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Philadelphia MS 3440" .
+
+<http://data.dainst.de/zenon/000003228_PhilonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Philon Painter" .
+
+<http://data.dainst.de/zenon/000003228_Phintias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Phintias" .
+
+<http://data.dainst.de/zenon/000003228_Phrynos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Phrynos" .
+
+<http://data.dainst.de/zenon/000003228_PhrynosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Phrynos Painter" .
+
+<http://data.dainst.de/zenon/000003228_PigPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pig Painter" .
+
+<http://data.dainst.de/zenon/000003228_PithosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pithos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Polion> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polion" .
+
+<http://data.dainst.de/zenon/000003228_PolosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Polygnotos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polygnotos" .
+
+<http://data.dainst.de/zenon/000003228_PolygnotosI> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polygnotos I" .
+
+<http://data.dainst.de/zenon/000003228_PolygnotosII> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polygnotos II" .
+
+<http://data.dainst.de/zenon/000003228_PolyphemosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Polyphemos Painter" .
+
+<http://data.dainst.de/zenon/000003228_PothosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pothos Painter" .
+
+<http://data.dainst.de/zenon/000003228_PourtalesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pourtales Painter" .
+
+<http://data.dainst.de/zenon/000003228_PriamPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Priam Painter" .
+
+<http://data.dainst.de/zenon/000003228_PrincetonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Princeton Painter" .
+
+<http://data.dainst.de/zenon/000003228_PronomosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Pronomos Painter" .
+
+<http://data.dainst.de/zenon/000003228_ProvidencePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Providence Painter" .
+
+<http://data.dainst.de/zenon/000003228_Psiax> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Psiax" .
+
+<http://data.dainst.de/zenon/000003228_QPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Q Painter" .
+
+<http://data.dainst.de/zenon/000003228_Red-LinePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Red-Line Painter" .
+
+<http://data.dainst.de/zenon/000003228_ReedPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Reed Painter" .
+
+<http://data.dainst.de/zenon/000003228_RunnersPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Runners Painter" .
+
+<http://data.dainst.de/zenon/000003228_RycroftPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Rycroft Painter" .
+
+<http://data.dainst.de/zenon/000003228_SabouroffPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sabouroff Painter" .
+
+<http://data.dainst.de/zenon/000003228_SandalPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sandal Painter" .
+
+<http://data.dainst.de/zenon/000003228_SapphoPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sappho Painter" .
+
+<http://data.dainst.de/zenon/000003228_SeireniskèPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Seireniskè Painter" .
+
+<http://data.dainst.de/zenon/000003228_ShuvalovPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Shuvalov Painter" .
+
+<http://data.dainst.de/zenon/000003228_SimonPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Simon Painter" .
+
+<http://data.dainst.de/zenon/000003228_SirenPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Siren Painter" .
+
+<http://data.dainst.de/zenon/000003228_Skythes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Skythes" .
+
+<http://data.dainst.de/zenon/000003228_Smikros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Smikros" .
+
+<http://data.dainst.de/zenon/000003228_Sokles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sokles" .
+
+<http://data.dainst.de/zenon/000003228_Sophilos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sophilos" .
+
+<http://data.dainst.de/zenon/000003228_Sosias> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sosias" .
+
+<http://data.dainst.de/zenon/000003228_Sotades> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sotades" .
+
+<http://data.dainst.de/zenon/000003228_SotadesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Sotades Painter" .
+
+<http://data.dainst.de/zenon/000003228_SplanchnoptPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Splanchnopt Painter" .
+
+<http://data.dainst.de/zenon/000003228_StieglitzPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Stieglitz Painter" .
+
+<http://data.dainst.de/zenon/000003228_SuessulaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Suessula Painter" .
+
+<http://data.dainst.de/zenon/000003228_Swingpainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Swing painter" .
+
+<http://data.dainst.de/zenon/000003228_SyleusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Syleus Painter" .
+
+<http://data.dainst.de/zenon/000003228_SyracusePainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Syracuse Painter" .
+
+<http://data.dainst.de/zenon/000003228_Syriskos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Syriskos" .
+
+<http://data.dainst.de/zenon/000003228_SyriskosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Syriskos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Taleides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Taleides" .
+
+<http://data.dainst.de/zenon/000003228_TaleidesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Taleides Painter" .
+
+<http://data.dainst.de/zenon/000003228_TalosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Talos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TarasPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Taras Painter" .
+
+<http://data.dainst.de/zenon/000003228_TelephosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Telephos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TelosGroup> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Telos Group" .
+
+<http://data.dainst.de/zenon/000003228_ThanatosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Thanatos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TheseusPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Theseus Painter" .
+
+<http://data.dainst.de/zenon/000003228_TimenorPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Timenor Painter" .
+
+<http://data.dainst.de/zenon/000003228_TimokratesPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Timokrates Painter" .
+
+<http://data.dainst.de/zenon/000003228_TithonosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Tithonos Painter" .
+
+<http://data.dainst.de/zenon/000003228_Tleson> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Tleson" .
+
+<http://data.dainst.de/zenon/000003228_ToyaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Toya Painter" .
+
+<http://data.dainst.de/zenon/000003228_TriptolemosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Triptolemos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TroilosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Troilos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TymbosPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Tymbos Painter" .
+
+<http://data.dainst.de/zenon/000003228_TyszkiewiczPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Tyszkiewicz Painter" .
+
+<http://data.dainst.de/zenon/000003228_Vatikan342> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Vatikan 342" .
+
+<http://data.dainst.de/zenon/000003228_VillaGiuliaPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Villa Giulia Painter" .
+
+<http://data.dainst.de/zenon/000003228_VouniPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Vouni Painter" .
+
+<http://data.dainst.de/zenon/000003228_WashingPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Washing Painter" .
+
+<http://data.dainst.de/zenon/000003228_Wechekleides> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Wechekleides" .
+
+<http://data.dainst.de/zenon/000003228_WorstPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Worst Painter" .
+
+<http://data.dainst.de/zenon/000003228_Xenokles> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Xenokles" .
+
+<http://data.dainst.de/zenon/000003228_Xenophantos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Xenophantos" .
+
+<http://data.dainst.de/zenon/000003228_Xenotimos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Xenotimos" .
+
+<http://data.dainst.de/zenon/000003228_ZannoniPainter> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000003228> ;
+    skos:prefLabel "Zannoni Painter" .
+
+<http://data.dainst.de/zenon/000003228> a skos:Concept ;
+    skos:altLabel "individual"@en,
+        "singoli"@it,
+        "singuliers"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003226> ;
+    skos:hiddenLabel "xGefTonMTEinz" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "einzelne"@de .
+

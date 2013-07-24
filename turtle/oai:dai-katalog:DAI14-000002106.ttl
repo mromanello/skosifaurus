@@ -1,0 +1,24 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002106_Bălgarskataakademijananaukite> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002106> ;
+    skos:prefLabel "Bălgarskata akademija na naukite" .
+
+<http://data.dainst.de/zenon/000002106_Bălgarskataakademijananaukite.Institutpotrakologija> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002106> ;
+    skos:prefLabel "Bălgarskata akademija na naukite. Institut po trakologija" .
+
+<http://data.dainst.de/zenon/000002106_Bălgarskotoarcheologičeskodružestvo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002106> ;
+    skos:prefLabel "Bălgarskoto archeologičesko družestvo" .
+
+<http://data.dainst.de/zenon/000002106> a skos:Concept ;
+    skos:altLabel "Bulgaria"@en,
+        "Bulgaria"@it,
+        "Bulgarie"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000002100> ;
+    skos:hiddenLabel "xPraxInstBulg" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bulgarien"@de .
+

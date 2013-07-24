@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000030682> a skos:Concept ;
+    skos:altLabel "Pompeji, Ufficio Scavi"@en,
+        "Pompeji, Ufficio Scavi"@fr,
+        "Pompeji, Ufficio Scavi"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019614> ;
+    skos:hiddenLabel "yRGKMusDenkmInstiPompeji, Ufficio Scavi" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Pompeji, Ufficio Scavi"@de .
+

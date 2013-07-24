@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035679> a skos:Concept ;
+    skos:altLabel "Dresden 1989"@en,
+        "Dresden 1989"@fr,
+        "Dresden 1989"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrDresden 1989" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Dresden 1989"@de .
+

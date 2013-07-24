@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000020908> a skos:Concept ;
+    skos:altLabel "Vasi a bocca quadrata"@en,
+        "Vasi a bocca quadrata"@fr,
+        "Vasi a bocca quadrata"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000012485> ;
+    skos:hiddenLabel "yRGKArch01 - Vasi a bocca quadrata" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Vasi a bocca quadrata"@de .
+

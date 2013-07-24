@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000012182> a skos:Concept ;
+    skos:altLabel "Böhm, Walter"@en,
+        "Böhm, Walter"@fr,
+        "Böhm, Walter"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000007392> ;
+    skos:hiddenLabel "yForschPersoBöhm, Walter" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Böhm, Walter"@de .
+

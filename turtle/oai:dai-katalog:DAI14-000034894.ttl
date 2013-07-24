@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034894> a skos:Concept ;
+    skos:altLabel "Bavay, Musée archéologique du département du Nord"@en,
+        "Bavay, Musée archéologique du département du Nord"@fr,
+        "Bavay, Musée archéologique du département du Nord"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019603> ;
+    skos:hiddenLabel "yRGKMusMuseeMuseuBavay, Musée archéologique du département du Nord" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bavay, Musée archéologique du département du Nord"@de .
+

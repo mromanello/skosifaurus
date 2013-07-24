@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000003884> a skos:Concept ;
+    skos:altLabel "lettering styles (until 1997 subdivided)"@en,
+        "scrittura (fino a 1997 con sotto-rubriche)"@it,
+        "écritures (jusqu'à 1997 subdivisé)"@fr ;
+    skos:broader <http://data.dainst.de/zenon/000003720> ;
+    skos:hiddenLabel "xEpigrForm" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Schreibformen (bis 1997 mit Unterteilung)"@de .
+

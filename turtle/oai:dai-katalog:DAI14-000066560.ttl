@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000066560> a skos:Concept ;
+    skos:altLabel "Cehăluţ, jud. Satu Mare"@en,
+        "Cehăluţ, jud. Satu Mare"@fr,
+        "Cehăluţ, jud. Satu Mare"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039133> ;
+    skos:hiddenLabel "zTopogEuropOsteuRumänBanatCehăluţ," ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Cehăluţ, jud. Satu Mare"@de .
+

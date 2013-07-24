@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000051180> a skos:Concept ;
+    skos:altLabel "Au i. d. Hallertau-Osseltshausen"@en,
+        "Au i. d. Hallertau-Osseltshausen"@fr,
+        "Au i. d. Hallertau-Osseltshausen"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075412> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsBayerFreisAu i. d." ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Au i. d. Hallertau-Osseltshausen"@de .
+

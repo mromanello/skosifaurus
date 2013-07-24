@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000084133> a skos:Concept ;
+    skos:altLabel "Ascona"@en,
+        "Ascona"@fr,
+        "Ascona"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039052> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweTessiAscona" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Ascona"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035286> a skos:Concept ;
+    skos:altLabel "Birmingham 1997"@en,
+        "Birmingham 1997"@fr,
+        "Birmingham 1997"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBirmingham 1997" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Birmingham 1997"@de .
+

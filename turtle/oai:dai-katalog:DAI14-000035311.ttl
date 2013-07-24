@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035311> a skos:Concept ;
+    skos:altLabel "Bologna 1871"@en,
+        "Bologna 1871"@fr,
+        "Bologna 1871"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrBologna 1871" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Bologna 1871"@de .
+

@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000085021> a skos:Concept ;
+    skos:altLabel "Martres-d'Artière"@en,
+        "Martres-d'Artière"@fr,
+        "Martres-d'Artière"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038791> ;
+    skos:hiddenLabel "zTopogEuropWesteFrankAuverPuy-dMartres-d'Artière" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Martres-d'Artière"@de .
+

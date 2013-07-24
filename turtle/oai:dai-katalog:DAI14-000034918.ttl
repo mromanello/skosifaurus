@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000034918> a skos:Concept ;
+    skos:altLabel "Poel, Halsted Billing van der"@en,
+        "Poel, Halsted Billing van der"@fr,
+        "Poel, Halsted Billing van der"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019607> ;
+    skos:hiddenLabel "yRGKMusMuseePrivaPoel, Halsted Billing van der" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Poel, Halsted Billing van der"@de .
+

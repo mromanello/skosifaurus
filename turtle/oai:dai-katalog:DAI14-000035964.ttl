@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000035964> a skos:Concept ;
+    skos:altLabel "Gwatt 2000"@en,
+        "Gwatt 2000"@fr,
+        "Gwatt 2000"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000034944> ;
+    skos:hiddenLabel "zKongrGwatt 2000" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Gwatt 2000"@de .
+

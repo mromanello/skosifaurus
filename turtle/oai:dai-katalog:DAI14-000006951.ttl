@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000006951> a skos:Concept ;
+    skos:altLabel "Serra y Vilaró, Juan"@en,
+        "Serra y Vilaró, Juan"@fr,
+        "Serra y Vilaró, Juan"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000006000> ;
+    skos:hiddenLabel "zFestsSerra y Vilaró, Juan" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Serra y Vilaró, Juan"@de .
+

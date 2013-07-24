@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000056891> a skos:Concept ;
+    skos:altLabel "Jena-Cospeda"@en,
+        "Jena-Cospeda"@fr,
+        "Jena-Cospeda"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000075607> ;
+    skos:hiddenLabel "zTopogEuropMitteDeutsThüriJena Jena-Cosp" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Jena-Cospeda"@de .
+

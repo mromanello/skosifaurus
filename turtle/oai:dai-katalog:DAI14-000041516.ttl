@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000041516> a skos:Concept ;
+    skos:altLabel "Wachtebeke"@en,
+        "Wachtebeke"@fr,
+        "Wachtebeke"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000038715> ;
+    skos:hiddenLabel "zTopogEuropWesteBelgiOost-Wachtebek" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Wachtebeke"@de .
+

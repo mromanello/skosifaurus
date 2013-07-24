@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000032057> a skos:Concept ;
+    skos:altLabel "Antikes Handwerk"@en,
+        "Antikes Handwerk"@fr,
+        "Antikes Handwerk"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000019786> ;
+    skos:hiddenLabel "yRGKNachsBibliAntikes Handwerk" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Antikes Handwerk"@de .
+

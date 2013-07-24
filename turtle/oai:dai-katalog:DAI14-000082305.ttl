@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000082305> a skos:Concept ;
+    skos:altLabel "Zweisimmen, Mannenberg"@en,
+        "Zweisimmen, Mannenberg"@fr,
+        "Zweisimmen, Mannenberg"@pl ;
+    skos:broader <http://data.dainst.de/zenon/000039039> ;
+    skos:hiddenLabel "zTopogEuropMitteSchweSchweBernZweisimme" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Zweisimmen, Mannenberg"@de .
+

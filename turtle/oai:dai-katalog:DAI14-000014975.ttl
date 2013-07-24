@@ -1,0 +1,12 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000014975> a skos:Concept ;
+    skos:altLabel "Mitologia"@pl,
+        "Mythologie"@fr,
+        "Mythology"@en ;
+    skos:broader <http://data.dainst.de/zenon/000014973> ;
+    skos:hiddenLabel "yRGKArch08 - GeselKunstIkonoSakraMytho" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Mythologie"@de .
+

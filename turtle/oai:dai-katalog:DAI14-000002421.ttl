@@ -1,0 +1,1276 @@
+@prefix base: <http://data.dainst.de/zenon/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.dainst.de/zenon/000002421_Abano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Abano" .
+
+<http://data.dainst.de/zenon/000002421_AbbadiaS.Salvatore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Abbadia S. Salvatore" .
+
+<http://data.dainst.de/zenon/000002421_Abbasanta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Abbasanta" .
+
+<http://data.dainst.de/zenon/000002421_Abellavedi:Avella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Abella vedi: Avella" .
+
+<http://data.dainst.de/zenon/000002421_Acate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acate" .
+
+<http://data.dainst.de/zenon/000002421_Acerenza> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acerenza" .
+
+<http://data.dainst.de/zenon/000002421_Acerra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acerra" .
+
+<http://data.dainst.de/zenon/000002421_Acilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acilia" .
+
+<http://data.dainst.de/zenon/000002421_Acireale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acireale" .
+
+<http://data.dainst.de/zenon/000002421_Acium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acium" .
+
+<http://data.dainst.de/zenon/000002421_AcquaSolfa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acqua Solfa" .
+
+<http://data.dainst.de/zenon/000002421_Acqualagna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acqualagna" .
+
+<http://data.dainst.de/zenon/000002421_Acquappesa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acquappesa" .
+
+<http://data.dainst.de/zenon/000002421_Acquarossa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acquarossa" .
+
+<http://data.dainst.de/zenon/000002421_Acquasparta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acquasparta" .
+
+<http://data.dainst.de/zenon/000002421_AcquavivaPicena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acquaviva Picena" .
+
+<http://data.dainst.de/zenon/000002421_AcquavivadiMontepulciano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acquaviva di Montepulciano" .
+
+<http://data.dainst.de/zenon/000002421_AcquiTerme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Acqui Terme" .
+
+<http://data.dainst.de/zenon/000002421_AdAquilam> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Aquilam" .
+
+<http://data.dainst.de/zenon/000002421_AdAquileia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Aquileia" .
+
+<http://data.dainst.de/zenon/000002421_AdNonum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Nonum" .
+
+<http://data.dainst.de/zenon/000002421_AdPictas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Pictas" .
+
+<http://data.dainst.de/zenon/000002421_AdPiscinasvedi:Calignaia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Piscinas vedi: Calignaia" .
+
+<http://data.dainst.de/zenon/000002421_AdSeptimum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Septimum" .
+
+<http://data.dainst.de/zenon/000002421_AdSponsas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Sponsas" .
+
+<http://data.dainst.de/zenon/000002421_AdTurres> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ad Turres" .
+
+<http://data.dainst.de/zenon/000002421_Adrano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Adrano" .
+
+<http://data.dainst.de/zenon/000002421_Adria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Adria" .
+
+<http://data.dainst.de/zenon/000002421_Aefulae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aefulae" .
+
+<http://data.dainst.de/zenon/000002421_Affile> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Affile" .
+
+<http://data.dainst.de/zenon/000002421_Agathyrnos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agathyrnos" .
+
+<http://data.dainst.de/zenon/000002421_Agira> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agira" .
+
+<http://data.dainst.de/zenon/000002421_Agna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agna" .
+
+<http://data.dainst.de/zenon/000002421_Agnano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agnano" .
+
+<http://data.dainst.de/zenon/000002421_Agnone> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agnone" .
+
+<http://data.dainst.de/zenon/000002421_Agosta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agosta" .
+
+<http://data.dainst.de/zenon/000002421_Agrigento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agrigento" .
+
+<http://data.dainst.de/zenon/000002421_Agropoli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Agropoli" .
+
+<http://data.dainst.de/zenon/000002421_Aica> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aica" .
+
+<http://data.dainst.de/zenon/000002421_Aidonevedi:Morgantina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aidone vedi: Morgantina" .
+
+<http://data.dainst.de/zenon/000002421_Aielli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aielli" .
+
+<http://data.dainst.de/zenon/000002421_Aisaros> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aisaros" .
+
+<http://data.dainst.de/zenon/000002421_Aitne> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aitne" .
+
+<http://data.dainst.de/zenon/000002421_Akrai> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Akrai" .
+
+<http://data.dainst.de/zenon/000002421_Alagna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alagna" .
+
+<http://data.dainst.de/zenon/000002421_Alanno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alanno" .
+
+<http://data.dainst.de/zenon/000002421_Alatri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alatri" .
+
+<http://data.dainst.de/zenon/000002421_Alba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alba" .
+
+<http://data.dainst.de/zenon/000002421_AlbaFucens> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alba Fucens" .
+
+<http://data.dainst.de/zenon/000002421_AlbaLonga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alba Longa" .
+
+<http://data.dainst.de/zenon/000002421_Albanella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albanella" .
+
+<http://data.dainst.de/zenon/000002421_Albano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albano" .
+
+<http://data.dainst.de/zenon/000002421_Albarese> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albarese" .
+
+<http://data.dainst.de/zenon/000002421_Albate> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albate" .
+
+<http://data.dainst.de/zenon/000002421_Albenga> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albenga" .
+
+<http://data.dainst.de/zenon/000002421_Alberona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alberona" .
+
+<http://data.dainst.de/zenon/000002421_Albinea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albinea" .
+
+<http://data.dainst.de/zenon/000002421_Albinia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albinia" .
+
+<http://data.dainst.de/zenon/000002421_Albintimiliumvedi:Ventimiglia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albintimilium vedi: Ventimiglia" .
+
+<http://data.dainst.de/zenon/000002421_AlbisolaSuperiore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Albisola Superiore" .
+
+<http://data.dainst.de/zenon/000002421_Alcamo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alcamo" .
+
+<http://data.dainst.de/zenon/000002421_Alessandria> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alessandria" .
+
+<http://data.dainst.de/zenon/000002421_Alessano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alessano" .
+
+<http://data.dainst.de/zenon/000002421_Alezio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alezio" .
+
+<http://data.dainst.de/zenon/000002421_Alfedena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alfedena" .
+
+<http://data.dainst.de/zenon/000002421_Alghero> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alghero" .
+
+<http://data.dainst.de/zenon/000002421_Alife> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alife" .
+
+<http://data.dainst.de/zenon/000002421_Allumiere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Allumiere" .
+
+<http://data.dainst.de/zenon/000002421_Almese> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Almese" .
+
+<http://data.dainst.de/zenon/000002421_Alsium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alsium" .
+
+<http://data.dainst.de/zenon/000002421_Altamura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Altamura" .
+
+<http://data.dainst.de/zenon/000002421_Altino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Altino" .
+
+<http://data.dainst.de/zenon/000002421_AltipianidiArcinazzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Altipiani di Arcinazzo" .
+
+<http://data.dainst.de/zenon/000002421_Alvignano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alvignano" .
+
+<http://data.dainst.de/zenon/000002421_Alzano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Alzano" .
+
+<http://data.dainst.de/zenon/000002421_Amandola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amandola" .
+
+<http://data.dainst.de/zenon/000002421_Amantea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amantea" .
+
+<http://data.dainst.de/zenon/000002421_Ameglia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ameglia" .
+
+<http://data.dainst.de/zenon/000002421_Amelia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amelia" .
+
+<http://data.dainst.de/zenon/000002421_Amendolara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amendolara" .
+
+<http://data.dainst.de/zenon/000002421_Amestratos> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amestratos" .
+
+<http://data.dainst.de/zenon/000002421_Aminaea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aminaea" .
+
+<http://data.dainst.de/zenon/000002421_Amiternum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amiternum" .
+
+<http://data.dainst.de/zenon/000002421_Amplerovedi:Collelongo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Amplero vedi: Collelongo" .
+
+<http://data.dainst.de/zenon/000002421_Anagni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Anagni" .
+
+<http://data.dainst.de/zenon/000002421_Ancarano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ancarano" .
+
+<http://data.dainst.de/zenon/000002421_Ancona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ancona" .
+
+<http://data.dainst.de/zenon/000002421_Andes> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Andes" .
+
+<http://data.dainst.de/zenon/000002421_Angera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Angera" .
+
+<http://data.dainst.de/zenon/000002421_Angitia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Angitia" .
+
+<http://data.dainst.de/zenon/000002421_Angri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Angri" .
+
+<http://data.dainst.de/zenon/000002421_AnguillaraSabazia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Anguillara Sabazia" .
+
+<http://data.dainst.de/zenon/000002421_AnnonediBrianza> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Annone di Brianza" .
+
+<http://data.dainst.de/zenon/000002421_Ansedoniavedi:Cosa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ansedonia vedi: Cosa" .
+
+<http://data.dainst.de/zenon/000002421_Antas> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Antas" .
+
+<http://data.dainst.de/zenon/000002421_Antemnae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Antemnae" .
+
+<http://data.dainst.de/zenon/000002421_Antignano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Antignano" .
+
+<http://data.dainst.de/zenon/000002421_Anzio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Anzio" .
+
+<http://data.dainst.de/zenon/000002421_Aosta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aosta" .
+
+<http://data.dainst.de/zenon/000002421_Apani> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Apani" .
+
+<http://data.dainst.de/zenon/000002421_AppianoGentile> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Appiano Gentile" .
+
+<http://data.dainst.de/zenon/000002421_Aprilia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aprilia" .
+
+<http://data.dainst.de/zenon/000002421_AquaFerentina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aqua Ferentina" .
+
+<http://data.dainst.de/zenon/000002421_AquaeApollinaresvedi:Stigliano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquae Apollinares vedi: Stigliano" .
+
+<http://data.dainst.de/zenon/000002421_AquaeCaeretanae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquae Caeretanae" .
+
+<http://data.dainst.de/zenon/000002421_AquaeCutiliae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquae Cutiliae" .
+
+<http://data.dainst.de/zenon/000002421_AquaeLesitanae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquae Lesitanae" .
+
+<http://data.dainst.de/zenon/000002421_AquaeSegestanaevedi:PonteBagni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquae Segestanae vedi: Ponte Bagni" .
+
+<http://data.dainst.de/zenon/000002421_Aquaviva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquaviva" .
+
+<http://data.dainst.de/zenon/000002421_Aquileia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquileia" .
+
+<http://data.dainst.de/zenon/000002421_Aquilonia(Samnium)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquilonia (Samnium)" .
+
+<http://data.dainst.de/zenon/000002421_Aquiloniavedi:SanVittoredelLazio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquilonia vedi: San Vittore del Lazio" .
+
+<http://data.dainst.de/zenon/000002421_Aquino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aquino" .
+
+<http://data.dainst.de/zenon/000002421_Arborea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arborea" .
+
+<http://data.dainst.de/zenon/000002421_Arce> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arce" .
+
+<http://data.dainst.de/zenon/000002421_Arcinazzovedi:AltipianidiArcinazzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arcinazzo vedi: Altipiani di Arcinazzo" .
+
+<http://data.dainst.de/zenon/000002421_Arciprete> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arciprete" .
+
+<http://data.dainst.de/zenon/000002421_Arco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arco" .
+
+<http://data.dainst.de/zenon/000002421_Ardara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ardara" .
+
+<http://data.dainst.de/zenon/000002421_Ardea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ardea" .
+
+<http://data.dainst.de/zenon/000002421_Ardonghe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ardonghe" .
+
+<http://data.dainst.de/zenon/000002421_Arezzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arezzo" .
+
+<http://data.dainst.de/zenon/000002421_Argenta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Argenta" .
+
+<http://data.dainst.de/zenon/000002421_ArianoPolesine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ariano Polesine" .
+
+<http://data.dainst.de/zenon/000002421_Ariccia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ariccia" .
+
+<http://data.dainst.de/zenon/000002421_Arinthe> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arinthe" .
+
+<http://data.dainst.de/zenon/000002421_ArlenadiCastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arlena di Castro" .
+
+<http://data.dainst.de/zenon/000002421_Armento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Armento" .
+
+<http://data.dainst.de/zenon/000002421_Arpi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arpi" .
+
+<http://data.dainst.de/zenon/000002421_Arpino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arpino" .
+
+<http://data.dainst.de/zenon/000002421_ArquàPetrarca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arquà Petrarca" .
+
+<http://data.dainst.de/zenon/000002421_ArsagoSeprio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arsago Seprio" .
+
+<http://data.dainst.de/zenon/000002421_Artegna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Artegna" .
+
+<http://data.dainst.de/zenon/000002421_Artena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Artena" .
+
+<http://data.dainst.de/zenon/000002421_Artimino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Artimino" .
+
+<http://data.dainst.de/zenon/000002421_Arzachena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arzachena" .
+
+<http://data.dainst.de/zenon/000002421_Arzignano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Arzignano" .
+
+<http://data.dainst.de/zenon/000002421_Asciano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asciano" .
+
+<http://data.dainst.de/zenon/000002421_Asciano(Pisa)> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asciano (Pisa)" .
+
+<http://data.dainst.de/zenon/000002421_AscoliPiceno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ascoli Piceno" .
+
+<http://data.dainst.de/zenon/000002421_AscoliSatriano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ascoli Satriano" .
+
+<http://data.dainst.de/zenon/000002421_Asola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asola" .
+
+<http://data.dainst.de/zenon/000002421_Asolo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asolo" .
+
+<http://data.dainst.de/zenon/000002421_Assisi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Assisi" .
+
+<http://data.dainst.de/zenon/000002421_Assoro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Assoro" .
+
+<http://data.dainst.de/zenon/000002421_Asti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asti" .
+
+<http://data.dainst.de/zenon/000002421_Astura> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Astura" .
+
+<http://data.dainst.de/zenon/000002421_Asuni> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Asuni" .
+
+<http://data.dainst.de/zenon/000002421_Atella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atella" .
+
+<http://data.dainst.de/zenon/000002421_AtenaLucana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atena Lucana" .
+
+<http://data.dainst.de/zenon/000002421_Aternum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aternum" .
+
+<http://data.dainst.de/zenon/000002421_Atessa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atessa" .
+
+<http://data.dainst.de/zenon/000002421_Atina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atina" .
+
+<http://data.dainst.de/zenon/000002421_Atri> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atri" .
+
+<http://data.dainst.de/zenon/000002421_Atripalda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Atripalda" .
+
+<http://data.dainst.de/zenon/000002421_Attiggio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Attiggio" .
+
+<http://data.dainst.de/zenon/000002421_Attimis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Attimis" .
+
+<http://data.dainst.de/zenon/000002421_Aufinum> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aufinum" .
+
+<http://data.dainst.de/zenon/000002421_Aups> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aups" .
+
+<http://data.dainst.de/zenon/000002421_Aurisina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aurisina" .
+
+<http://data.dainst.de/zenon/000002421_AuronzodiCadore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Auronzo di Cadore" .
+
+<http://data.dainst.de/zenon/000002421_Avella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Avella" .
+
+<http://data.dainst.de/zenon/000002421_Avellino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Avellino" .
+
+<http://data.dainst.de/zenon/000002421_Aversa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aversa" .
+
+<http://data.dainst.de/zenon/000002421_Avigliana> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Avigliana" .
+
+<http://data.dainst.de/zenon/000002421_Avola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Avola" .
+
+<http://data.dainst.de/zenon/000002421_Aymaville> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aymaville" .
+
+<http://data.dainst.de/zenon/000002421_AzzanoDecimo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Azzano Decimo" .
+
+<http://data.dainst.de/zenon/000002421_Aùstis> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Aùstis" .
+
+<http://data.dainst.de/zenon/000002421_Baccano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baccano" .
+
+<http://data.dainst.de/zenon/000002421_Bacoli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bacoli" .
+
+<http://data.dainst.de/zenon/000002421_Bacucco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bacucco" .
+
+<http://data.dainst.de/zenon/000002421_BadiaPolesine> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Badia Polesine" .
+
+<http://data.dainst.de/zenon/000002421_Bagnacavallo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnacavallo" .
+
+<http://data.dainst.de/zenon/000002421_Bagnaccio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnaccio" .
+
+<http://data.dainst.de/zenon/000002421_BagnariaArsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnaria Arsa" .
+
+<http://data.dainst.de/zenon/000002421_BagnidiStigliano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagni di Stigliano" .
+
+<http://data.dainst.de/zenon/000002421_BagnidiTivoli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagni di Tivoli" .
+
+<http://data.dainst.de/zenon/000002421_BagnidiViterbo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagni di Viterbo" .
+
+<http://data.dainst.de/zenon/000002421_BagnoaRipoli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagno a Ripoli" .
+
+<http://data.dainst.de/zenon/000002421_Bagnocavallo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnocavallo" .
+
+<http://data.dainst.de/zenon/000002421_BagnodiRomagna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagno di Romagna" .
+
+<http://data.dainst.de/zenon/000002421_BagnolidellaRosandra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnoli della Rosandra" .
+
+<http://data.dainst.de/zenon/000002421_BagnoloSanVito> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnolo San Vito" .
+
+<http://data.dainst.de/zenon/000002421_BagnolodiPo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnolo di Po" .
+
+<http://data.dainst.de/zenon/000002421_Bagnoregio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bagnoregio" .
+
+<http://data.dainst.de/zenon/000002421_Baiae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baiae" .
+
+<http://data.dainst.de/zenon/000002421_Balena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Balena" .
+
+<http://data.dainst.de/zenon/000002421_Ballao> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Ballao" .
+
+<http://data.dainst.de/zenon/000002421_Banzi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Banzi" .
+
+<http://data.dainst.de/zenon/000002421_Baragiano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baragiano" .
+
+<http://data.dainst.de/zenon/000002421_Barano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barano" .
+
+<http://data.dainst.de/zenon/000002421_Barbara> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barbara" .
+
+<http://data.dainst.de/zenon/000002421_Barbarano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barbarano" .
+
+<http://data.dainst.de/zenon/000002421_BarberinoVald'Elsa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barberino Val d'Elsa" .
+
+<http://data.dainst.de/zenon/000002421_Barcellona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barcellona" .
+
+<http://data.dainst.de/zenon/000002421_Barchi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barchi" .
+
+<http://data.dainst.de/zenon/000002421_Bardano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bardano" .
+
+<http://data.dainst.de/zenon/000002421_Bari> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bari" .
+
+<http://data.dainst.de/zenon/000002421_Barletta> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barletta" .
+
+<http://data.dainst.de/zenon/000002421_Barrafranca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barrafranca" .
+
+<http://data.dainst.de/zenon/000002421_Barùmini> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Barùmini" .
+
+<http://data.dainst.de/zenon/000002421_Baschi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baschi" .
+
+<http://data.dainst.de/zenon/000002421_Basciano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Basciano" .
+
+<http://data.dainst.de/zenon/000002421_Basiliano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Basiliano" .
+
+<http://data.dainst.de/zenon/000002421_Basiluzzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Basiluzzo" .
+
+<http://data.dainst.de/zenon/000002421_BassanodelGrappa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bassano del Grappa" .
+
+<http://data.dainst.de/zenon/000002421_BassanoinTeverina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bassano in Teverina" .
+
+<http://data.dainst.de/zenon/000002421_BastiaUmbra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bastia Umbra" .
+
+<http://data.dainst.de/zenon/000002421_Baucina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baucina" .
+
+<http://data.dainst.de/zenon/000002421_Bauladu> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bauladu" .
+
+<http://data.dainst.de/zenon/000002421_Bauli> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bauli" .
+
+<http://data.dainst.de/zenon/000002421_Baunei> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baunei" .
+
+<http://data.dainst.de/zenon/000002421_Baveno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Baveno" .
+
+<http://data.dainst.de/zenon/000002421_Bazzano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bazzano" .
+
+<http://data.dainst.de/zenon/000002421_Bellegra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bellegra" .
+
+<http://data.dainst.de/zenon/000002421_Bellinzona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bellinzona" .
+
+<http://data.dainst.de/zenon/000002421_Bellona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bellona" .
+
+<http://data.dainst.de/zenon/000002421_Belluno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Belluno" .
+
+<http://data.dainst.de/zenon/000002421_Belmonte> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Belmonte" .
+
+<http://data.dainst.de/zenon/000002421_Belvedere> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Belvedere" .
+
+<http://data.dainst.de/zenon/000002421_BeneVagienna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bene Vagienna" .
+
+<http://data.dainst.de/zenon/000002421_Benevento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Benevento" .
+
+<http://data.dainst.de/zenon/000002421_Berchidda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Berchidda" .
+
+<http://data.dainst.de/zenon/000002421_Bergamo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bergamo" .
+
+<http://data.dainst.de/zenon/000002421_Bergantino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bergantino" .
+
+<http://data.dainst.de/zenon/000002421_Bergeggi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bergeggi" .
+
+<http://data.dainst.de/zenon/000002421_Bertinoro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bertinoro" .
+
+<http://data.dainst.de/zenon/000002421_Bertonavedi:Tortona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bertona vedi: Tortona" .
+
+<http://data.dainst.de/zenon/000002421_Berua> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Berua" .
+
+<http://data.dainst.de/zenon/000002421_Bettona> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bettona" .
+
+<http://data.dainst.de/zenon/000002421_Bevagna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bevagna" .
+
+<http://data.dainst.de/zenon/000002421_Biassono> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Biassono" .
+
+<http://data.dainst.de/zenon/000002421_Bibbiano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bibbiano" .
+
+<http://data.dainst.de/zenon/000002421_Bibbiena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bibbiena" .
+
+<http://data.dainst.de/zenon/000002421_BibionePineda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bibione Pineda" .
+
+<http://data.dainst.de/zenon/000002421_Bidonì> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bidonì" .
+
+<http://data.dainst.de/zenon/000002421_Biella> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Biella" .
+
+<http://data.dainst.de/zenon/000002421_Bientina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bientina" .
+
+<http://data.dainst.de/zenon/000002421_Bilachiniumvedi:Camporosso> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bilachinium vedi: Camporosso" .
+
+<http://data.dainst.de/zenon/000002421_Bisenziovedi:Visentium> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bisenzio vedi: Visentium" .
+
+<http://data.dainst.de/zenon/000002421_Bitetto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bitetto" .
+
+<http://data.dainst.de/zenon/000002421_Bithia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bithia" .
+
+<http://data.dainst.de/zenon/000002421_Bitonto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bitonto" .
+
+<http://data.dainst.de/zenon/000002421_Bitti> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bitti" .
+
+<http://data.dainst.de/zenon/000002421_Biturrita> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Biturrita" .
+
+<http://data.dainst.de/zenon/000002421_Blandavedi:Tortora> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Blanda vedi: Tortora" .
+
+<http://data.dainst.de/zenon/000002421_Blera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Blera" .
+
+<http://data.dainst.de/zenon/000002421_BoccadiMagra> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bocca di Magra" .
+
+<http://data.dainst.de/zenon/000002421_Boccadifalco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boccadifalco" .
+
+<http://data.dainst.de/zenon/000002421_Boccea> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boccea" .
+
+<http://data.dainst.de/zenon/000002421_Boiano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boiano" .
+
+<http://data.dainst.de/zenon/000002421_Bolgare> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bolgare" .
+
+<http://data.dainst.de/zenon/000002421_Bologna> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bologna" .
+
+<http://data.dainst.de/zenon/000002421_Bolsena> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bolsena" .
+
+<http://data.dainst.de/zenon/000002421_Bomarzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bomarzo" .
+
+<http://data.dainst.de/zenon/000002421_Bomba> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bomba" .
+
+<http://data.dainst.de/zenon/000002421_Bonarcado> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bonarcado" .
+
+<http://data.dainst.de/zenon/000002421_Bondeno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bondeno" .
+
+<http://data.dainst.de/zenon/000002421_Bonifati> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bonifati" .
+
+<http://data.dainst.de/zenon/000002421_Bonorva> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bonorva" .
+
+<http://data.dainst.de/zenon/000002421_Bordighera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bordighera" .
+
+<http://data.dainst.de/zenon/000002421_Borello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borello" .
+
+<http://data.dainst.de/zenon/000002421_Boretto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boretto" .
+
+<http://data.dainst.de/zenon/000002421_BorgoPriolo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgo Priolo" .
+
+<http://data.dainst.de/zenon/000002421_BorgoSanDalmazzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgo San Dalmazzo" .
+
+<http://data.dainst.de/zenon/000002421_BorgoSanGiacomo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgo San Giacomo" .
+
+<http://data.dainst.de/zenon/000002421_Borgofranco> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgofranco" .
+
+<http://data.dainst.de/zenon/000002421_BorgonediSusa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgone di Susa" .
+
+<http://data.dainst.de/zenon/000002421_Borgopace> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgopace" .
+
+<http://data.dainst.de/zenon/000002421_Borgosesia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borgosesia" .
+
+<http://data.dainst.de/zenon/000002421_Bormio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bormio" .
+
+<http://data.dainst.de/zenon/000002421_Borno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Borno" .
+
+<http://data.dainst.de/zenon/000002421_Boron> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boron" .
+
+<http://data.dainst.de/zenon/000002421_Bortigali> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bortigali" .
+
+<http://data.dainst.de/zenon/000002421_Bosa> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bosa" .
+
+<http://data.dainst.de/zenon/000002421_Boscoreale> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boscoreale" .
+
+<http://data.dainst.de/zenon/000002421_Boscotrecase> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Boscotrecase" .
+
+<http://data.dainst.de/zenon/000002421_Botricello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Botricello" .
+
+<http://data.dainst.de/zenon/000002421_Botromagnovedi:Gravina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Botromagno vedi: Gravina" .
+
+<http://data.dainst.de/zenon/000002421_Bova> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bova" .
+
+<http://data.dainst.de/zenon/000002421_BovaMarina> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bova Marina" .
+
+<http://data.dainst.de/zenon/000002421_Bovianum(Undecimanorum)vedi:Boiano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bovianum (Undecimanorum) vedi: Boiano" .
+
+<http://data.dainst.de/zenon/000002421_BovianumVetusvedi:Pietrabbondante> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bovianum Vetus vedi: Pietrabbondante" .
+
+<http://data.dainst.de/zenon/000002421_Bovillae> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bovillae" .
+
+<http://data.dainst.de/zenon/000002421_Bovino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bovino" .
+
+<http://data.dainst.de/zenon/000002421_Bozen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bozen" .
+
+<http://data.dainst.de/zenon/000002421_Brandizzo> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brandizzo" .
+
+<http://data.dainst.de/zenon/000002421_Bregnano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bregnano" .
+
+<http://data.dainst.de/zenon/000002421_Breme> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Breme" .
+
+<http://data.dainst.de/zenon/000002421_Brendola> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brendola" .
+
+<http://data.dainst.de/zenon/000002421_Breno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Breno" .
+
+<http://data.dainst.de/zenon/000002421_BrentinoBelluno> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brentino Belluno" .
+
+<http://data.dainst.de/zenon/000002421_Brescello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brescello" .
+
+<http://data.dainst.de/zenon/000002421_Brescia> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brescia" .
+
+<http://data.dainst.de/zenon/000002421_Briatico> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Briatico" .
+
+<http://data.dainst.de/zenon/000002421_Brienza> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brienza" .
+
+<http://data.dainst.de/zenon/000002421_BrignanoFrascata> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brignano Frascata" .
+
+<http://data.dainst.de/zenon/000002421_BrignanoGerad'Adda> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brignano Gera d'Adda" .
+
+<http://data.dainst.de/zenon/000002421_Brindisi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brindisi" .
+
+<http://data.dainst.de/zenon/000002421_Brisino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brisino" .
+
+<http://data.dainst.de/zenon/000002421_Brixen> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brixen" .
+
+<http://data.dainst.de/zenon/000002421_Brixillumvedi:Brescello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Brixillum vedi: Brescello" .
+
+<http://data.dainst.de/zenon/000002421_Buca> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buca" .
+
+<http://data.dainst.de/zenon/000002421_Buccino> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buccino" .
+
+<http://data.dainst.de/zenon/000002421_Budrio> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Budrio" .
+
+<http://data.dainst.de/zenon/000002421_Buja> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buja" .
+
+<http://data.dainst.de/zenon/000002421_Bulgorello> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bulgorello" .
+
+<http://data.dainst.de/zenon/000002421_Buonconvento> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buonconvento" .
+
+<http://data.dainst.de/zenon/000002421_Burano> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Burano" .
+
+<http://data.dainst.de/zenon/000002421_Burchioleto> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Burchioleto" .
+
+<http://data.dainst.de/zenon/000002421_Busachi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Busachi" .
+
+<http://data.dainst.de/zenon/000002421_Buscemi> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buscemi" .
+
+<http://data.dainst.de/zenon/000002421_Butera> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Butera" .
+
+<http://data.dainst.de/zenon/000002421_Buxentumvedi:Policastro> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Buxentum vedi: Policastro" .
+
+<http://data.dainst.de/zenon/000002421_Bòrore> a skos:Concept ;
+    skos:broader <http://data.dainst.de/zenon/000002421> ;
+    skos:prefLabel "Bòrore" .
+
+<http://data.dainst.de/zenon/000002421> a skos:Concept ;
+    skos:altLabel "lieux A-B"@fr,
+        "luoghi A-B"@it,
+        "sites A-B"@en ;
+    skos:broader <http://data.dainst.de/zenon/000002418> ;
+    skos:hiddenLabel "xTopLandItOrtA-B" ;
+    skos:inScheme base:thesaurus ;
+    skos:prefLabel "Orte A-B"@de .
+
