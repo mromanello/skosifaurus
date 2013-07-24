@@ -153,7 +153,7 @@ def create_metadata():
 	"""docstring for create_metadata"""
 	pass
 
-def to_RDF(record,base_namespace="http://http://zenon.dainst.org/thesaurus/",lang_codes=None):
+def to_RDF(records,base_namespace="http://http://zenon.dainst.org/thesaurus/",lang_codes=None):
 	"""
 	docstring for as_RDF
 	"""
@@ -169,28 +169,30 @@ def to_RDF(record,base_namespace="http://http://zenon.dainst.org/thesaurus/",lan
 	g.bind('base',base)
 	thesaurus = URIRef(base["thesaurus"])
 	#g.add((thesaurus,RDF.type, skos["ConceptScheme"]))
-	if(record is not None):
-		uri = URIRef(base[record['id']])
-		g.add((uri, RDF.type, skos['Concept']))
-		g.add((uri,skos["inScheme"],thesaurus))
-		if(record['broader_id'] is not None):
-			g.add((uri,skos['broader'],URIRef(base[record['broader_id']])))
-		else:
-			g.add((uri,skos["topConceptOf"],thesaurus))
-		if(record['hidden_label'] is not None):
-			g.add((uri,skos["hiddenLabel"],Literal(record['hidden_label'])))
-		if(record['labels'] is not None):
-			for lang in record['labels'].keys():
-				if(lang=="ger"):
-					g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
-				else:
-					g.add((uri,skos["altLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
-		if(record['anon_nodes'] is not None):
-			for node_id,node in record['anon_nodes']:
-				temp = URIRef(base[node_id])
-				g.add((temp,RDF.type,skos['Concept']))
-				g.add((temp,skos["prefLabel"],Literal(node)))
-				g.add((temp,skos['broader'],uri))
+	for n,record in enumerate(records):
+		if(record is not None):
+			uri = URIRef(base[record['id']])
+			g.add((uri, RDF.type, skos['Concept']))
+			g.add((uri,skos["inScheme"],thesaurus))
+			if(record['broader_id'] is not None):
+				g.add((uri,skos['broader'],URIRef(base[record['broader_id']])))
+			else:
+				g.add((uri,skos["topConceptOf"],thesaurus))
+			if(record['hidden_label'] is not None):
+				g.add((uri,skos["hiddenLabel"],Literal(record['hidden_label'])))
+			if(record['labels'] is not None):
+				for lang in record['labels'].keys():
+					if(lang=="ger"):
+						g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
+					else:
+						g.add((uri,skos["altLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
+			if(record['anon_nodes'] is not None):
+				for node_id,node in record['anon_nodes']:
+					temp = URIRef(base[node_id])
+					g.add((temp,RDF.type,skos['Concept']))
+					g.add((temp,skos["prefLabel"],Literal(node)))
+					g.add((temp,skos['broader'],uri))
+			print >> sys.stderr, "Record %s converted into RDF (%i/%i)"%(record['id'],n,len(records))
 	return g
 
 def from_RDF(inp_dir=None,format=("turtle",".ttl")):
