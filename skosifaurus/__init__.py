@@ -219,13 +219,38 @@ def from_RDF(inp_dir=None,format=("turtle",".ttl")):
 
 def main():
 	"""docstring for main"""
-	import sys
+	import argparse
 	dai_oaipmh = "http://opac.dainst.org/OAI"
-	client = init_client(dai_oaipmh)
-	#records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,limit=1000)
-	records = load_records(dest_dir="/Users/rromanello/Documents/zenon-raw/")
-	global lang_codes
-	lang_codes = get_language_codes(filename="/Users/rromanello/Documents/skosifaurus/extra/lang_codes.data")
+	parser = argparse.ArgumentParser(prog="skosifaurus",description='SKOSify DAI\'s Zenon thesaurus.')
+	parser.add_argument('-d','--download', action="store", dest="download_dir", default=None, help="when a path is specified, data is harvested directly from the oai-pmh interface and saved there")
+	parser.add_argument('-l','--load', action="store", dest="load_dir", type=str,default=None, help="the directory containing the marc21xml records of the thesaurus")
+	parser.add_argument('-m','--max', action="store", dest="limit", type=int, default=None,help="limit the process to the first n records")
+	parser.add_argument('-o','--output', action="store", dest="outp_file", type=str, default=None,help="path of the output file")
+	parser.add_argument('-f','--format', action="store", dest="outp_format", type=str, default=None,help="output format. accepted values are: turtle, xml")
+	parser.add_argument('-b','--base-uri', action="store", dest="base_uri", type=str, default=None,help="the base URI of the resulting SKOS/RDF thesaurus. Default is %s"%"http://http://zenon.dainst.org/thesaurus/")
+	args = parser.parse_args()
+	
+	if ((args.download_dir is not None or args.load_dir is not None) and args.outp_file is not None and args.outp_format is not None):
+		client = init_client(dai_oaipmh)
+		if args.download_dir is not None:
+			lang_codes = get_language_codes(filename="./extra/lang_codes.data")
+			if args.limit is None:
+				records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,dest_dir=args.download_dir)
+			else:
+				records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',limit=args.limit,save=True,dest_dir=args.download_dir)
+			proc_recs = [process_pymarc_record(records[id]) for id in records.keys()]
+			graph = to_RDF(proc_recs,lang_codes=lang_codes)
+			try:
+				graph.serialize(args.outp_file, format=args.outp_format)
+				print >> sys.stderr, "Serialized %i triples to file %s"%(len(graph),args.outp_file)
+			except Exception, e:
+				raise e
+		else:
+			records = load_records(dest_dir=args.load_dir)
+	else:
+		parser.print_help()
+	return
+	"""
 	for n,id in enumerate(records.keys()):
 		out_f = codecs.open('%s%s.ttl'%('/Users/rromanello/Documents/skosifaurus/turtle/',id),'w','utf-8')
 		try:
@@ -237,7 +262,7 @@ def main():
 		except Exception, e:
 			#raise e
 			print >> sys.stderr, "Error while serializing to Turtle and saving record %i. Error: \"%s\""%(n,e)
-	return
+	"""
 
 if __name__ == '__main__':
 	main()

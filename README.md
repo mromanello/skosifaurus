@@ -12,18 +12,14 @@ The following dependencies need to be pre-installed:
 
 ## Use as Command
 
-To be finished...
+	python __init__.py -d ~/Downloads/zenon-raw/ -m 100 -o ~/Downloads/thesaurus.rdf -f xml
 
 ## Use as Library
-
-TBD
-
-<!--
 
 SKOSifaurus can either run as script or be used as library.
 
 	import __init__
-	form __init__ import *
+	from __init__ import *
 	client = init_client()
 	zenon_raw = "./turtle/"
 	zenon_ttl = "./raw/"
@@ -32,5 +28,3 @@ SKOSifaurus can either run as script or be used as library.
 	proc_recs = [process_pymarc_record(records[id]) for id in records.keys()]
 	graph = to_RDF(proc_recs,lang_codes=lang_codes)
 	print graph.serialize(format="turtle")
-	hist
--->
