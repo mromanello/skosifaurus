@@ -3,19 +3,16 @@ Harvest MARC records via OAI-PMH.
 """
 
 #Handle utf-8 strings
-import codecs, sys
+import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-from oaipmh.client import Client
-from oaipmh.metadata import MetadataRegistry
 from lxml import etree
 import hashlib
 
 from cStringIO import StringIO
 from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
-import sys
 
 __version__ = (0,2)
 
@@ -71,6 +68,9 @@ def load_records(dest_dir="./raw/",limit=None):
 def init_client(oai_baseurl="http://opac.dainst.org/OAI"):
 	"""docstring for init_client"""
 	from oaipmh import metadata
+	from oaipmh.client import Client
+	from oaipmh.metadata import MetadataRegistry
+	
 	marcxml_reader = MARCXMLReader()
 	registry = metadata.MetadataRegistry()
 	registry.registerReader('marc21', marcxml_reader)
@@ -219,6 +219,7 @@ def from_RDF(inp_dir=None,format=("turtle",".ttl")):
 
 def main():
 	"""docstring for main"""
+	import sys
 	dai_oaipmh = "http://opac.dainst.org/OAI"
 	client = init_client(dai_oaipmh)
 	#records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,limit=1000)
