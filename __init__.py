@@ -149,7 +149,7 @@ def process_pymarc_record(MARC_record):
 	else:
 		return None
 
-def create_metadata():
+def add_metadata(graph, n_marc_recs, n_proc_recs, n_triples, oai_endpoint,version=__version__):
 	"""docstring for create_metadata"""
 	pass
 
@@ -219,7 +219,8 @@ def from_RDF(inp_dir=None,format=("turtle",".ttl")):
 
 def main():
 	"""docstring for main"""
-	client = init_client()
+	dai_oaipmh = "http://opac.dainst.org/OAI"
+	client = init_client(dai_oaipmh)
 	#records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,limit=1000)
 	records = load_records(dest_dir="/Users/rromanello/Documents/zenon-raw/")
 	global lang_codes

@@ -10,9 +10,13 @@ The following dependencies need to be pre-installed:
 * pymarc
 * rdflib
 
-## Get Started
+## Use as Command
 
 To be finished...
+
+## Use as Library
+
+TBD
 
 <!--
 
