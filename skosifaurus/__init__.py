@@ -149,11 +149,27 @@ def process_pymarc_record(MARC_record):
 	else:
 		return None
 
-def add_metadata(graph, n_marc_recs, n_proc_recs, n_triples, oai_endpoint,version=__version__):
+def add_metadata(graph, n_marc_recs, n_proc_recs, n_triples, oai_endpoint,version=__version__,base_namespace="http://zenon.dainst.org/"):
 	"""docstring for create_metadata"""
-	pass
+	from rdflib import Namespace, BNode, Literal, URIRef,RDF,RDFS
+	from rdflib.graph import Graph, ConjunctiveGraph
+	from rdflib.plugins.memory import IOMemory
+	import datetime
+	base = Namespace(base_namespace)
+	dc = Namespace('http://purl.org/dc/elements/1.1/')
+	graph.bind('dc',dc)
+	thesaurus = URIRef(base["thesaurus"])
+	license = URIRef("http://www.gnu.org/licenses/gpl.html")
+	graph.add((thesaurus,dc["title"], Literal("The Thesaurus of the German Archaeological Institute in SKOS/RDF format.",lang="en")))
+	graph.add((thesaurus,dc["creator"], Literal("SKOSifaurus <https://github.com/mromanello/skosifaurus> v. %s"%(".".join([str(n) for n in version])),lang="en")))
+	graph.add((thesaurus,dc["date"],Literal(str(datetime.datetime.now()))))
+	graph.add((thesaurus,dc["license"],license))
+	graph.add((license,RDFS.label,Literal("GNU General Public License",lang="en")))
+	graph.add((thesaurus,dc["source"],URIRef("http://zenon.dainst.org/")))
+	graph.add((thesaurus,dc["description"],Literal("This serialization of the Zenon thesaurus was created by harvesting the OAI-PMH end-point (\"%s\"). Out of the %i Marc21 XML records available, %i were parsed without errors and transformed into %i triples."%(oai_endpoint,n_marc_recs,n_proc_recs,n_triples),lang="en")))
+	return graph
 
-def to_RDF(records,base_namespace="http://http://zenon.dainst.org/thesaurus/",lang_codes=None):
+def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None):
 	"""
 	docstring for as_RDF
 	"""
@@ -168,7 +184,7 @@ def to_RDF(records,base_namespace="http://http://zenon.dainst.org/thesaurus/",la
 	g.bind('skos',skos)
 	g.bind('base',base)
 	thesaurus = URIRef(base["thesaurus"])
-	#g.add((thesaurus,RDF.type, skos["ConceptScheme"]))
+	g.add((thesaurus,RDF.type, skos["ConceptScheme"]))
 	for n,record in enumerate(records):
 		try:
 			if(record is not None):
@@ -177,21 +193,20 @@ def to_RDF(records,base_namespace="http://http://zenon.dainst.org/thesaurus/",la
 				g.add((uri,skos["inScheme"],thesaurus))
 				if(record['broader_id'] is not None):
 					g.add((uri,skos['broader'],URIRef(base[record['broader_id']])))
+					g.add((URIRef(base[record['broader_id']]),skos['narrower'],uri))
 				else:
 					g.add((uri,skos["topConceptOf"],thesaurus))
 				if(record['hidden_label'] is not None):
 					g.add((uri,skos["hiddenLabel"],Literal(record['hidden_label'])))
 				if(record['labels'] is not None):
 					for lang in record['labels'].keys():
-						if(lang=="ger"):
 							g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
-						else:
-							g.add((uri,skos["altLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
 				if(record['anon_nodes'] is not None):
 					for node_id,node in record['anon_nodes']:
 						temp = URIRef(base[node_id])
 						g.add((temp,RDF.type,skos['Concept']))
-						g.add((temp,skos["prefLabel"],Literal(node)))
+						g.add((temp,skos["inScheme"],thesaurus))
+						g.add((temp,skos["prefLabel"],Literal(node,lang="de")))
 						g.add((temp,skos['broader'],uri))
 				print >> sys.stderr, "Record %s converted into RDF (%i/%i)"%(record['id'],n,len(records))
 		except Exception, e:
@@ -241,6 +256,7 @@ def main():
 			proc_recs = [process_pymarc_record(records[id]) for id in records.keys()]
 			graph = to_RDF(proc_recs,lang_codes=lang_codes)
 			try:
+				graph = add_metadata(graph,len(records),len(proc_recs),len(graph),dai_oaipmh)
 				graph.serialize(args.outp_file, format=args.outp_format)
 				print >> sys.stderr, "Serialized %i triples to file %s"%(len(graph),args.outp_file)
 			except Exception, e:
