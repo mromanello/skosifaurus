@@ -250,9 +250,9 @@ def main():
 		if args.download_dir is not None:
 			lang_codes = get_language_codes(filename="./extra/lang_codes.data")
 			if args.limit is None:
-				records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',complete_harvest=True,save=True,dest_dir=args.download_dir)
+				records = download_records(client=client,oai_set='dai-ths',oai_metadataprefix='marc21',complete_harvest=True,save=True,dest_dir=args.download_dir)
 			else:
-				records = download_records(client=client,oai_set='DAI_THS',oai_metadataprefix='marc21',limit=args.limit,save=True,dest_dir=args.download_dir)
+				records = download_records(client=client,oai_set='dai-ths',oai_metadataprefix='marc21',limit=args.limit,save=True,dest_dir=args.download_dir)
 			proc_recs = [process_pymarc_record(records[id]) for id in records.keys()]
 			graph = to_RDF(proc_recs,lang_codes=lang_codes)
 			try:
