@@ -14,6 +14,8 @@ The following dependencies need to be pre-installed:
 
 	python __init__.py -d ~/Downloads/zenon-raw/ -m 100 -o ~/Downloads/thesaurus.rdf -f xml
 
+	python __init__.py --load="../thesaurus_data/" --skos-xl --base-uri="http://thesarus.dainst.org/" --output="../thesaurus_skosxl.ttl" --format="turtle" --max=65000
+
 ## Use as Library
 
 SKOSifaurus can either run as script or be used as library.
