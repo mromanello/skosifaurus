@@ -211,6 +211,16 @@ def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,sko
 					else:
 						g.add((uri,skos["hiddenLabel"],Literal(record['hidden_label'])))
 				if(record['labels'] is not None):
+					# when transforming into SKOS-XL append the hiddenLabel to the preferredLabel@de
+					# of a given term. This way it becomes possible to use the hiddenLabel to distinguish
+					# between concepts with the same label but different provenance (i.e. they are found 
+					# within different branches of the same thesaurus tree. 
+					if(skosxl):
+						label_uri = URIRef("%s#l%i"%(base[record['id']],label_counter))
+						g.add((label_uri,RDF.type,skosxl["Label"]))
+						g.add((label_uri,skosxl["literalForm"],Literal("%s (%s)"%(record['labels']["ger"],record['hidden_label']),lang=lang_codes["ger"])))
+						g.add((uri,skosxl["prefLabel"],label_uri))
+						label_counter += 1
 					for lang in record['labels'].keys():
 						if(skosxl):
 							label_uri = URIRef("%s#l%i"%(base[record['id']],label_counter))
@@ -230,6 +240,12 @@ def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,sko
 							label_uri = URIRef("%s#l%i"%(base[node_id],label_counter))
 							g.add((label_uri,RDF.type,skosxl["Label"]))
 							g.add((label_uri,skosxl["literalForm"],Literal(node,lang="de")))
+							g.add((temp,skosxl["prefLabel"],label_uri))
+							label_counter += 1
+							# added extra preferredLabel@de with hiddenLabel betwen brackets 
+							label_uri = URIRef("%s#l%i"%(base[node_id],label_counter))
+							g.add((label_uri,RDF.type,skosxl["Label"]))
+							g.add((label_uri,skosxl["literalForm"],Literal("%s (%s)"%(node,record['hidden_label']),lang="de")))
 							g.add((temp,skosxl["prefLabel"],label_uri))
 							label_counter += 1
 						else:
