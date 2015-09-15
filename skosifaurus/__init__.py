@@ -151,16 +151,15 @@ def process_pymarc_record(MARC_record):
 	else:
 		return None
 
-def add_metadata(graph, n_marc_recs, n_processed_records, n_triples, oai_endpoint,version=__version__,base_namespace="http://zenon.dainst.org/"):
+def add_metadata(graph, n_marc_recs, n_processed_records, n_triples, oai_endpoint,scheme_uri,version=__version__):
 	"""docstring for create_metadata"""
 	from rdflib import Namespace, BNode, Literal, URIRef,RDF,RDFS
 	from rdflib.graph import Graph, ConjunctiveGraph
 	from rdflib.plugins.memory import IOMemory
 	import datetime
-	base = Namespace(base_namespace)
 	dc = Namespace('http://purl.org/dc/elements/1.1/')
 	graph.bind('dc',dc)
-	thesaurus = URIRef(base["thesaurus"])
+	thesaurus = URIRef(scheme_uri)
 	license = URIRef("http://www.gnu.org/licenses/gpl.html")
 	graph.add((thesaurus,dc["title"], Literal("The Thesaurus of the German Archaeological Institute in SKOS/RDF format.",lang="en")))
 	graph.add((thesaurus,dc["creator"], Literal("SKOSifaurus <https://github.com/mromanello/skosifaurus> v. %s"%(".".join([str(n) for n in version])),lang="en")))
@@ -259,7 +258,7 @@ def to_RDF(records, base_namespace, lang_codes=None,skosxl=False):
 				print >> sys.stderr, "Record %s converted into RDF (%i/%i)"%(record['id'],n,len(records))
 		except Exception, e:
 			print >> sys.stderr, "Failed converting record %s with error %s (%i/%i)"%(record['id'],str(e),n,len(records))
-	return g
+	return g, thesaurus
 
 def from_RDF(inp_dir=None,format=("turtle",".ttl")):
 	"""docstring for from_RDF"""
@@ -310,8 +309,8 @@ def main():
 				records = load_records(dest_dir=args.load_dir)
 		processed_records = [process_pymarc_record(records[id]) for id in records.keys()]
 		try:
-			graph = to_RDF(processed_records, base_namespace=args.base_uri, lang_codes=lang_codes,skosxl=args.skosxl)
-			graph = add_metadata(graph,len(records),len(processed_records),len(graph),dai_oaipmh)
+			graph, scheme_uri = to_RDF(processed_records, base_namespace=args.base_uri, lang_codes=lang_codes,skosxl=args.skosxl)
+			graph = add_metadata(graph,len(records),len(processed_records),len(graph),dai_oaipmh,scheme_uri)
 			graph.serialize(args.outp_file, format=args.outp_format)
 			print >> sys.stderr, "Serialized %i triples to file %s"%(len(graph),args.outp_file)
 		except Exception, e:
