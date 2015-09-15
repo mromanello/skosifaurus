@@ -14,7 +14,7 @@ from cStringIO import StringIO
 from lxml.etree import tostring
 from pymarc import marcxml, MARCWriter, field
 
-__version__ = (0,3)
+__version__ = (0,4)
 
 class MARCXMLReader(object):
     """Returns the PyMARC record from the OAI structure for MARC XML"""
@@ -168,17 +168,21 @@ def add_metadata(graph, n_marc_recs, n_processed_records, n_triples, oai_endpoin
 	graph.add((thesaurus,dc["license"],license))
 	graph.add((license,RDFS.label,Literal("GNU General Public License",lang="en")))
 	graph.add((thesaurus,dc["source"],URIRef("http://zenon.dainst.org/")))
-	graph.add((thesaurus,dc["description"],Literal("This serialization of the Zenon thesaurus was created by harvesting the OAI-PMH end-point (\"%s\"). Out of the %i Marc21 XML records available, %i were parsed without errors and transformed into %i triples."%(oai_endpoint,n_marc_recs,n_processed_records,n_triples),lang="en")))
+	thesaurus_description = """This serialization of the Zenon thesaurus was created
+							 by harvesting the OAI-PMH end-point (\"%s\"). 
+							 Out of the %i Marc21 XML records available, %i were parsed
+							 without errors and transformed into %i triples."""%(oai_endpoint,n_marc_recs,n_processed_records,n_triples)
+	graph.add((thesaurus,dc["description"],Literal(thesaurus_description,lang="en")))
 	return graph
 
-def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,skosxl=False):
+def to_RDF(records, base_namespace, lang_codes=None,skosxl=False):
 	"""
 	docstring for as_RDF
 	"""
 	from rdflib import Namespace, BNode, Literal, URIRef,RDF,RDFS
 	from rdflib.graph import Graph, ConjunctiveGraph
 	from rdflib.plugins.memory import IOMemory
-	
+	print >> sys.stderr, base_namespace
 	store = IOMemory()
 	g = ConjunctiveGraph(store=store)
 	skos = Namespace('http://www.w3.org/2004/02/skos/core#')
@@ -187,23 +191,25 @@ def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,sko
 	g.bind('skos',skos)
 	g.bind('skosxl',skosxl)
 	g.bind('base',base)
-	thesaurus = URIRef(base["thesaurus"])
+	scheme_label = "schemes/1"
+	thesaurus = URIRef(base[scheme_label])
 	g.add((thesaurus,RDF.type, skos["ConceptScheme"]))
 	for n,record in enumerate(records):
 		label_counter = 1
 		try:
 			if(record is not None):
-				uri = URIRef(base[record['id']])
+				uri = URIRef(base["%s/concepts/%i"%(scheme_label,int(record['id']))])
 				g.add((uri, RDF.type, skos['Concept']))
 				g.add((uri,skos["inScheme"],thesaurus))
 				if(record['broader_id'] is not None):
-					g.add((uri,skos['broader'],URIRef(base[record['broader_id']])))
-					g.add((URIRef(base[record['broader_id']]),skos['narrower'],uri))
+					broader_uri = URIRef(base["%s/concepts/%i"%(scheme_label,int(record['broader_id']))])
+					g.add((uri,skos['broader'],broader_uri)) 
+					g.add((broader_uri,skos['narrower'],uri))
 				else:
 					g.add((uri,skos["topConceptOf"],thesaurus))
 				if(record['hidden_label'] is not None):
 					if(skosxl):
-						label_uri = URIRef("%s#l%i"%(base[record['id']],label_counter))
+						label_uri = URIRef("%s#l%i"%(uri,label_counter))
 						g.add((label_uri,RDF.type,skosxl["Label"]))
 						g.add((label_uri,skosxl["literalForm"],Literal(record['hidden_label'])))
 						g.add((uri,skosxl["hiddenLabel"],label_uri))
@@ -216,14 +222,14 @@ def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,sko
 					# between concepts with the same label but different provenance (i.e. they are found 
 					# within different branches of the same thesaurus tree. 
 					if(skosxl):
-						label_uri = URIRef("%s#l%i"%(base[record['id']],label_counter))
+						label_uri = URIRef("%s#l%i"%(uri,label_counter))
 						g.add((label_uri,RDF.type,skosxl["Label"]))
 						g.add((label_uri,skosxl["literalForm"],Literal("%s (%s)"%(record['labels']["ger"],record['hidden_label']),lang=lang_codes["ger"])))
 						g.add((uri,skosxl["prefLabel"],label_uri))
 						label_counter += 1
 					for lang in record['labels'].keys():
 						if(skosxl):
-							label_uri = URIRef("%s#l%i"%(base[record['id']],label_counter))
+							label_uri = URIRef("%s#l%i"%(uri,label_counter))
 							g.add((label_uri,RDF.type,skosxl["Label"]))
 							g.add((label_uri,skosxl["literalForm"],Literal(record['labels'][lang],lang=lang_codes[lang])))
 							g.add((uri,skosxl["prefLabel"],label_uri))
@@ -232,18 +238,18 @@ def to_RDF(records,base_namespace="http://zenon.dainst.org/",lang_codes=None,sko
 							g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
 				if(record['anon_nodes'] is not None):
 					for node_id,node in record['anon_nodes']:
-						temp = URIRef(base[node_id])
+						temp = URIRef(base["%s/concepts/%i"%(scheme_label,base[node_id])])
 						g.add((temp,RDF.type,skos['Concept']))
 						g.add((temp,skos["inScheme"],thesaurus))
 						g.add((temp,skos['broader'],uri))
 						if(skosxl):
-							label_uri = URIRef("%s#l%i"%(base[node_id],label_counter))
+							label_uri = URIRef("%s#l%i"%(temp,label_counter))
 							g.add((label_uri,RDF.type,skosxl["Label"]))
 							g.add((label_uri,skosxl["literalForm"],Literal(node,lang="de")))
 							g.add((temp,skosxl["prefLabel"],label_uri))
 							label_counter += 1
 							# added extra preferredLabel@de with hiddenLabel betwen brackets 
-							label_uri = URIRef("%s#l%i"%(base[node_id],label_counter))
+							label_uri = URIRef("%s#l%i"%(temp,label_counter))
 							g.add((label_uri,RDF.type,skosxl["Label"]))
 							g.add((label_uri,skosxl["literalForm"],Literal("%s (%s)"%(node,record['hidden_label']),lang="de")))
 							g.add((temp,skosxl["prefLabel"],label_uri))
@@ -284,7 +290,7 @@ def main():
 	parser.add_argument('-o','--output', action="store", dest="outp_file", type=str, default=None,help="path of the output file")
 	parser.add_argument('-f','--format', action="store", dest="outp_format", type=str, default=None,help="output format. accepted values are: turtle, xml")
 	parser.add_argument('-x','--skos-xl', action="store_true", dest="skosxl", help="if this flag is passed, the output will be SKOS-XL compliant")
-	parser.add_argument('-b','--base-uri', action="store", dest="base_uri", type=str, default=None,help="the base URI of the resulting SKOS/RDF thesaurus. Default is %s"%"http://http://zenon.dainst.org/thesaurus/")
+	parser.add_argument('-b','--base-uri', action="store", dest="base_uri", type=str, default="http://thesauri.dainst.org/",help="the base URI of the resulting SKOS/RDF thesaurus. Default is %s"%"http://http://zenon.dainst.org/thesaurus/")
 	args = parser.parse_args()
 	if ((args.download_dir is not None or args.load_dir is not None) and args.outp_file is not None and args.outp_format is not None):
 		client = init_client(dai_oaipmh)
@@ -304,7 +310,7 @@ def main():
 				records = load_records(dest_dir=args.load_dir)
 		processed_records = [process_pymarc_record(records[id]) for id in records.keys()]
 		try:
-			graph = to_RDF(processed_records,lang_codes=lang_codes,skosxl=args.skosxl)
+			graph = to_RDF(processed_records, base_namespace=args.base_uri, lang_codes=lang_codes,skosxl=args.skosxl)
 			graph = add_metadata(graph,len(records),len(processed_records),len(graph),dai_oaipmh)
 			graph.serialize(args.outp_file, format=args.outp_format)
 			print >> sys.stderr, "Serialized %i triples to file %s"%(len(graph),args.outp_file)
