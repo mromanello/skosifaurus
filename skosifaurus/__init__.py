@@ -137,13 +137,13 @@ def process_pymarc_record(MARC_record):
 			for item in items:
 				if(item['r'] is not None):
 					m.update(item['r'])
-					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],m.hexdigest()),item['r']))
+					dict_obj["anon_nodes"].append(("%i_%s"%(int(dict_obj["id"]),m.hexdigest()),item['r']))
 				elif(item['m'] is not None):
 					m.update(item['m'])
-					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],m.hexdigest()),item['m']))
+					dict_obj["anon_nodes"].append(("%i_%s"%(int(dict_obj["id"]),m.hexdigest()),item['m']))
 				elif(item['e'] is not None):
 					m.update(item['e'])
-					dict_obj["anon_nodes"].append(("%s_%s"%(dict_obj["id"],m.hexdigest()),item['e']))
+					dict_obj["anon_nodes"].append(("%i_%s"%(int(dict_obj["id"]),m.hexdigest()),item['e']))
 		except Exception, e:
 			raise e	
 			
@@ -237,7 +237,8 @@ def to_RDF(records, base_namespace, lang_codes=None,skosxl=False):
 							g.add((uri,skos["prefLabel"],Literal(record['labels'][lang],lang=lang_codes[lang])))
 				if(record['anon_nodes'] is not None):
 					for node_id,node in record['anon_nodes']:
-						temp = URIRef(base["%s/concepts/%i"%(scheme_label,base[node_id])])
+						temp = URIRef(base["%s/concepts/%s"%(scheme_label,node_id)])
+						print >> sys.stderr, temp
 						g.add((temp,RDF.type,skos['Concept']))
 						g.add((temp,skos["inScheme"],thesaurus))
 						g.add((temp,skos['broader'],uri))
